@@ -280,11 +280,23 @@ The currency value of the contents of the Louvre is estimate to be over \$100 bi
 
 Using the same fine-art appreciation rate of 13.6% we used for our museum example, over 40 years, the vig on the per-capita value of the art in the Louvre is € 280,000. Pretty good, where the average home price in France is €300,000. If you could hold out for another ten years, the compounding adds up to over a million euro -- enough for a nice house and a retirement.
 
-One way to do it would be to scoot the Louvre and give a proportional amount of scoot to each and every citizen *of* France. Within a few years, every working Jean-Luc will have sold his scoot for asimov, and the value and responsibility for the National Treasure of France will have redistributed to the people of the world. As for the already wealthy French, they'll hold onto their scoot and continue to thrive off the appreciation of Italian Renaissance masters. Diplomatically, a good play for the government, as it retains control the possession of the contents of the Louvre. Not so great for Wesley, Jean-Luc's kid. Jean-Luc spent all share of the national treasure on hookers, blow and Earl Grey tea.
+One way to do it would be to scoot the Louvre and give a proportional amount of scoot to each and every adult citizen *of* France. Within a few years, every working Jean-Luc will have sold his scoot for asimov, and the value and responsibility for the National Treasure of France will have redistributed to the people of the world. As for the already wealthy French, they'll hold onto their scoot and continue to thrive off the appreciation of Italian Renaissance masters. Diplomatically, a good play for the government, as it retains possession of the contents of the Louvre. Not so great for Wesley, Jean-Luc's kid. Jean-Luc spent all share of the national treasure on hookers, blow and Earl Grey tea.
 
-Is there a better way? What if you scooted the Louvre, and issued a single scoot to each baby born as a citizen of France.[^14] Once, the baby reaches majority age, he can sell the scoot or hold it -- totally voluntary. But once the citizen dies, the assigned scoot ceases to exists, no matter who holds it. Now, you've got an arbitrage marketplace not only of appreciating genius, promoting cultural tourism, and keeping citizens healthy for as long as possible.
+Is there a better way? What if you scooted the Louvre, and issued a single scoot to each baby born as a citizen of France.[^14] Once, the baby reaches majority age, he can sell the scoot or hold it -- totally voluntary. But once the citizen dies, the assigned scoot ceases to exists, no matter who holds it. Now, you've got an arbitrage marketplace not only of appreciating genius, promoting cultural tourism, and keeping citizens healthy for as long as possible. You could tie it to a national health care system or life insurance. There could be a popular movement to hold your national-treasure as long as possible for the pure genius appreciation factor. Maybe the national treasure pays funeral expenses for those who manage a life of pure appreciation.
 
 I suspect the more likely path, for those countries with a nostalgia for runaway inflation, would be for the government just to scoot National Treasures directly, holding on to as much as possible, but diluting the genius whenever the government spends more than it should. Fiat currency backed by "faith in the government" is replaced by "faith that Da Vinci really was a genius." Might work, after all, no modern democracy ever elected a complete idiot, right?
+
+### Royal Treasure
+
+In a modern world, it sort of ridiculous to have a royal family in a functioning democracy, but hey, the British can do what they want, and they gave us Led Zeppelin, so I'll give some advice as a return.
+
+First, you could divide up all the royal estates and castles and historical monuments, all the jewelry and art that you consider not the property of the Queen herself but belongs to the British people. While you're doing this inventory, you can return all the stolen artifacts from the colonial peoples. Make a National Treasure from this inventory.
+
+#### Scoot of Crown
+
+Take everything that is leftover, the personal residences of the Queen and her offspring, the Summer homes, her personal jewelry, and all that, and create a Scoot of Crown (SOC). The ISO will be sold to the British people who want to be responsible for the royal family. There are plenty of American's prefer the Windsor's over the Kardashians, so you could open up the scoot globally. When the SOC runs out of money, the Queen has to start signing autographs or collecting speaking fees, or the scoot could be diluted with another sale. Maybe Parliament is charged £100 each time the PM stops by for tea.
+
+In any case, the Crown can exist as long there are people willing to be responsible for it. It's a scoot of the *Crown* so maybe the current monarch serves as the **scootee** and has the duty to preserve the history of genius of the kings and queens of England. Many of them did some great things. If you've watched the historically accurate docu-series *The Tudors*, you would know King Henry VIII was the inventor of the modern day divorce industry.
 
 ## Amnesty
 
@@ -484,19 +496,25 @@ As I neared the end of my walk, a cynical thought hit me. In November on my birt
 
 The Rockets were down 17 points in the second quarter, even after the Buck's star player was forced out by injury in the first minute of the game. The Rockets got it down to 8 points by halftime, but I'd seen this film before. In the second half something miraculous happened. Kevin Porter, Jr, a player we'd acquired for wooden nickels as a bizarre ricochet effect of trading James Harden, caught fire. Kevin, just twenty years old, was a brilliant guard who had potential to be a star. He'd just been through a somewhat embarrassing and very public incident in Miami where he'd might have saved his teammates life. As if to confirm the maxim, "No good deed goes unpunished," The NBA had suspended him for a week for COVID protocol violations, and first game back, against the fellow bottom feeding Timberwolves, had scored only 2 points in a nauseating loss. That night agaist the eastern powerhouse Milwakee Bucks, Porter was unconscious, destroying the defensive heavyeights with ease. He ended up with the box score of 51 points and 11 assists, becoming the youngest player in NBA history to record 50/10, beating the previous title holder LeBron James, by 3 years.
 
-This story would be better if after my walk, I'd gone and held the signed basketball, trying to absorb some the *The Dream* magic, and somehow channeled that through my television back to the Toyota Center and into the soul of Keven Porter. But I didn't. Porter stepped up big because he did what stars do when they've had a bad game and been talked about in the media for non-basketball related reason. He played ball.
+This story would be better if after my walk, I'd gone and held that signed basketball, trying to absorb some *The Dream* magic, and somehow channeled that through my television back to the Toyota Center and into the soul of Keven Porter. But I didn't. Porter stepped up big because he did what stars do when they've had a bad game and been talked about in the media for non-basketball related reason. He played ball.
 
-You might wonder, where am I taking this? Am I casting some voodoo spell of writing reality? Perhaps. Don't believe stuff like that works? I refer you to the June 2014 Sport's Illustrated Cover Story Entitled, "Your 2017 World Series Champs," with a picture of Astros then rookie George Springer on the cover. At the time, the Astros were the worst team in baseball in 2014 having been through five losing seasons. I have to be honest -- I am a fair-weather Astros fan. Here's the thing about losing basketball -- games tend to finish up rather quickly. Not so much with bad baseball. Yeah, I grew up in Houston, but I benefited from Nikola Tesla's benevolence, specifically AC powered air-conditioning and ice cold refrigeration. No, it takes a real die hard Texan who can handle her heat, humidity and humiliation raw, somebody like my mother, who watched every one of those Astro's losing season. Yes, the cover of Sport Illustrated in 2014 was satirical, at best, to the poor and downtrodden Astros fans in the summer of 2014. Think how it must have felt to the players.
+![A person in a uniform holding a baseball bat Description automatically generated with low confidence](media/image4.jpg){width="2.4in" height="3.0in"}
 
-Well, Dodger fans, I'm sure you know what happened next. Guess who won the 2017 World Series? You got that right. The Houston Astros won and forever will be the 2017 World Series Champs.
+You might wonder, where am I taking this? Am I casting some voodoo spell of writing reality? Perhaps. Don't believe stuff like that works? I refer you to the June 2014 Sport's Illustrated Cover Story Entitled, "Your 2017 World Series Champs," with a picture of Astros then rookie George Springer on the cover. In 2014 the Astros were the worst team in baseball, having been through five losing seasons. I have to be honest -- I am a fair-weather Astros fan. Here's the thing about losing basketball -- games tend to finish up rather quickly. Not so much with bad baseball. Yeah, I grew up in Houston, but I benefited from Nikola Tesla's benevolence, specifically AC powered air-conditioning and ice cold refrigeration. No, it takes a real die-hard Texan who can handle her heat, humidity and humiliation raw, somebody like my mother, who watched every game in every one of those Astro's losing seasons. Yes, the cover of Sport Illustrated in 2014 was satirical, at best, to the poor and downtrodden Astros fans in the summer of 2014. Think how it must have felt to the players.
 
-Yes, there is more to the story. There was a sign-stealing scandal which and MLB suspended managers and took away some draft picks, yet the Astro's retained the title much to the consternation of sore losers everywhere.
+Well, Dodger fans, I'm sure you know what happened next. Guess who won the 2017 World Series? You got that right. The Houston Astros forever will be the 2017 World Series Champs.
 
-![](media/image4.jpg){width="4.572916666666667in" height="5.0in"}
+Yes, there is more to the story. There was a sign-stealing scandal which and MLB suspended managers and took away some draft picks, yet the Astro's retained the title much to the consternation of sore losers everywhere.[^24]
 
-Back before the pandemic, while passing through Los Angeles Internation Airport on the way to Canada, I had one of the happiest moments of my life, when I passed a guy wearing the shirt above. He was almost the stereotypical picture of a SoCal Surfs Up dude, long dirty blond hair, scruffy beard, a dark tan. I'm thinking, dude, you're wearing my colors. How many people in America outside of Houston actually know how to spell Astros anyway? And the asterisk on my keyboard is a five-pointed star, just like the actual astros logo. Dude, did you really think this through?
+![](media/image5.jpg){width="4.572916666666667in" height="5.0in"}
+
+Back before the pandemic, while passing through LAX on the way to Canada, I had one of the happiest moments of my life, when I passed a guy wearing the shirt above. He was almost the stereotypical picture of a SoCal surfs up dude, long dirty blond hair, scruffy beard, a dark tan, cool shares and beads. I'm thinking, dude, you're wearing my colors. How many people in America outside of Houston actually know how to spell Astros anyway? And the asterisk on my keyboard is a five-pointed star, just like the actual Astro's logo. Dude, did you really think this through?
 
 And the irony, I mean, from Hollywood of all places. "There's no cryin' in baseball," is the relevant line here. The cheating has always been there. In fact it's part of the Hollywood kindled mythology of baseball, "If you build it, he will come." and "Say it ain't so, Joe." Yeah, keep crying Dodger fans. You heard of the *Curse of the Bambino?* Just wait until you catch a touch of the *Curse of the Altuve*.
+
+I digress -- or do I?
+
+What our currencies represent is what we value. For most of us, what we value is material. We like houses, and cars, and electronics, the trappings of wealth. We don't value things that much of the world does, like clean water, or staple food, or access to basic health care, even though the majority of the human population has to worry and sweat daily just to provide these things for themselves and their children. We lose our ever-loving minds over things like stocks and crypto-currency and political movements, without ever thinking about how wealthy we really are. Wealth is property and it is valued because we have lost the very ability to value basic sustenance and security. This is why I call it the king's gold. The kings of old could not fathom the toils of the masses. Kings would send the poor men and their son's to die for their gold and land and even spices and tea. And to this day nations rich and poor will kill for the king's gold. Be it gold, or diamonds, or land.
 
 ...\... .....
 
@@ -556,13 +574,13 @@ The asimass are holders of asimov. Since asimov is an open digital currency, whe
 
 ## The Board of Trustees
 
-The Foundation shall be governed by the Board of Trustees[^24]. I suggest that the total number of trustees be eleven, as follows.
+The Foundation shall be governed by the Board of Trustees[^25]. I suggest that the total number of trustees be eleven, as follows.
 
 ### Engineer (1)
 
 Since the metric of genius is an engineered system, we need an engineer to run it. The trustee engineer is in charge of execution of asimov disbursement, as laid out in the disbursement plan, as well as stabilizing the metric. The Engineer also maintains the engineer's reserve, which is asimov leftover from the disbursement schedule. The engineer's reseve may be used in cases of emergency or crisis, and is passed on to the next elected engineer.
 
-The engineer is elected by the scootara for a term of ten years.[^25] An emergency election is held if the engineer cannot complete his term, for the remainder of the term (decade).
+The engineer is elected by the scootara for a term of ten years.[^26] An emergency election is held if the engineer cannot complete his term, for the remainder of the term (decade).
 
 The engineer's only direct tool is compliance with the disburstement schedule, which shall be part of the admeentments to the charter specificying the metric system. The engineer cannot exceed the disbursement schedule, but can disburse lower amounts than the schedule calls for and maintain an **engineer's reserve**, which can be carried over to the next engineer's term. The engineer can also disburse in uneven amounts throughout the terms.
 
@@ -634,7 +652,7 @@ The encyclopedist set standards for
 
 # Origins
 
-Apologies to Italy on this one, but the credit for the Italian-American spark that kindled my imagination is USA, all the way. I'm sure they're used to others taking credit, you know, with all the Italian Renasicss masterpieces in Paris.[^26]
+Apologies to Italy on this one, but the credit for the Italian-American spark that kindled my imagination is USA, all the way. I'm sure they're used to others taking credit, you know, with all the Italian Renasicss masterpieces in Paris.[^27]
 
 ....netflix...Rembrandt.
 
@@ -656,7 +674,7 @@ There is one common value that Americans share, and we willingly share this valu
 
 It is this value that gives me moral righteous to state, Genius belongs to Humanity.
 
-Let's say I'm at a dinner party with a bunch of fancy artsy people.[^27] And some rich dirtbag makes mention he's got a Picasso hidden away at his ski-chalet in Aspen, and only the few other rich dirtbags invited on his ski trip ever get to see it. My response would be "Should I bow or curtsey now, your royal fucking highness?"
+Let's say I'm at a dinner party with a bunch of fancy artsy people.[^28] And some rich dirtbag makes mention he's got a Picasso hidden away at his ski-chalet in Aspen, and only the few other rich dirtbags invited on his ski trip ever get to see it. My response would be "Should I bow or curtsey now, your royal fucking highness?"
 
 While I fully concede to the rich their wealth gives them access to private jets, yachts and Lamborghinis, I won't concede that they have the right to keep works of genius from me or my children. That's too much like royalty.
 
@@ -666,7 +684,7 @@ Through a lenses of history, we see that basic principle was hypocritical in pra
 
 The failure of the American Revolution, and all the democratic revolutions that followed, was that we said to the king, "We don't need you," but "We still need your gold." And that fact is why we, as a nation, could rectify slavery, and the genocide of the indigenous people, economic imperialism and decade after decade of bloody industrial savagery with the idealism of liberty and freedom. All men are created equal, but from the day he is born, we value a man's worth by the same king's gold. We might have hacked the actual gold out of the algorithm, but it is still the king's gold be it fiat or crypto.
 
-Hindsight is not perfect vision. I am not trying to fault the founders. I can't fathom how my parents survived childhood in Texas without air-conditioning, much less what a bunch of farmers and merchants in colonial American had to deal with. However, I do feel an opportunity was missed that was right there before their eyes. The very first amendment to our Bill of Rights says what we value is the freedom of speech[^28]. This has been interprestted from the beginning as freedom of expression, which is certainly what genius and vanity is all about. We as a people, demand this of our government meaning we value it, and King George did not. Yet the founders choose to continue to trade and collect taxes using the king's gold.
+Hindsight is not perfect vision. I am not trying to fault the founders. I can't fathom how my parents survived childhood in Texas without air-conditioning, much less what a bunch of farmers and merchants in colonial American had to deal with. However, I do feel an opportunity was missed that was right there before their eyes. The very first amendment to our Bill of Rights says what we value is the freedom of speech[^29]. This has been interprestted from the beginning as freedom of expression, which is certainly what genius and vanity is all about. We as a people, demand this of our government meaning we value it, and King George did not. Yet the founders choose to continue to trade and collect taxes using the king's gold.
 
 And almost diametrically opposed and as great a failure were the collective revolutions that followed. In those systems, the king's gold was no longer what was valuable. It was the collective good that was valuable. But individualism and speech wasn't valued either -- and core to individualism are both genius and vanity.
 
@@ -696,7 +714,7 @@ One day, perhaps, when I'm old, some kid that shares my facination with science 
 
 He'll nod, appreacating the immense technological change between his day and mine.
 
-"Yo, old man, why you care about rebounding so much? My curry[^29] never misses?"
+"Yo, old man, why you care about rebounding so much? My curry[^30] never misses?"
 
 "Kid, let me tell you about the Worm. Back when I was a kid, there were two Koreas, and there was this kid from Texas, like you and me\...."
 
@@ -708,7 +726,7 @@ He'll nod, appreacating the immense technological change between his day and min
 
 Genius is turning dreams into reality. You may say, I know some geniuses and they didn't do anything but destroy dreams. And yes, all geniuses have that power too. Usually, you just read it wrong, they just turned some other loser's dreams into reality, you've just got higher standards. And the dark side needs a currency as well, asimov is completely open source, Sith Lords are welcome in our chat (alt-bitcoin whatever the hardcore crytpt geeks use. Asimov\...AND FOR MARKETING PURPOSES HAVE TO SET IT UP BEFORE THIS IS PUBLISHED with an actual working signup link on github or google or whatever Hakeem will know) group.
 
-It is for this reason we refer to coins that collectively own the artifict as dream coins. There's one other reason, but that'll have to be an Awbrey family secret.[^30]
+It is for this reason we refer to coins that collectively own the artifict as dream coins. There's one other reason, but that'll have to be an Awbrey family secret.[^31]
 
 Genius has an absoulte value, but it's recongized value can change with fashion. But real genius, the kind we sometimes take awhile to recongize, can only increase in valude. Let's say there is a painting, a masterpiece, that sold in 1921 for \$150,000 in 2021 USD equivlents and sells in 2021 for \$150,000,000 Was the painting worth less in absolute terms of genius in 1921? NO. Genius is timeless. So only two things could have happened. Humanity took a long time to recognize the level of genius. Or humanity's capacity for vanity increased. What do you think it is? Is this level of vanity a side affect of the rich getting richer and their families staying richer? It's hard to say from 2021, but as we see the cycle of history, it should be clearer. But even if the 2021 outlandish priceis vanity -- it's still may be genius, after all fashion is cyclical.
 
@@ -788,18 +806,20 @@ References\....
 
 [^22]: And if you wrote about it before actually making it happen you'd be considered very vain. But if you wrote about it and somehow make writing about part of the solution, I think that's recursive genius. So taking credit for it in a footnote would be recursive vanity.
 
-[^23]: My best guess is I stuck inside a book I loved, I had a big collection, hoping to have a big library some day. Then forgetting all about in my early thirties when I got into the used-book business and sold all my books. It would be ironic, but not out of the question, if I'd hidden in an Asimov tome.
+[^23]: My best guess is I sstuck inside a book I loved, I had a big collection, hoping to have a big library some day. Then forgetting all about in my early thirties when I got into the used-book business and sold all my books. It would be ironic, but not out of the question, if I'd hidden in an Asimov tome.
 
-[^24]: From Asimov's *Foundation*
+[^24]: For those with me so far, but fear I risk alienating too big a population with my rhetoric, it is strategic. Asimov is an engineered system and based on statistical science. For every single Astro's hater out there, there are 13,401 and baseball lovers who absolutely despise the Dodgers. The fact that the "Asteriks" went through the Red Sox, the Yankees, and the Dodgers to **win** the World Series means that feat has the greatest statistical reach, as there are no teams universally hated by more fans. One of the highlights of my adult life was my 2019 Vacation to NYC, where I wore my "Houston Rockets 93-94 NBA Champions" T-shirt every day. I got it from Knicks and Yankees fans alike, got called every name in the book, most of which made me even prouder to be from Houston, but I didn't get my ass kicked, not once. I attribute that to my natural Texas swagger. My wife attributes it to repulsive shielding effect of wearing the same shirt for 120 hours straight.
 
-[^25]:
+[^25]: From Asimov's *Foundation*
 
-[^26]: My provocation is to prove the point, countries won't go to war over a bunch of paintings. If I'm wrong, well, it won't be the first time these two have gone to war over the ponderings of some idiot.
+[^26]:
 
-[^27]: In case the rest of the essay wasn't enough, this part here is to make sure I don't every get invited to dinner parties with fancy artsy people.
+[^27]: My provocation is to prove the point, countries won't go to war over a bunch of paintings. If I'm wrong, well, it won't be the first time these two have gone to war over the ponderings of some idiot.
 
-[^28]: The First Ammendment covers freedom of religion and speech.
+[^28]: In case the rest of the essay wasn't enough, this part here is to make sure I don't every get invited to dinner parties with fancy artsy people.
 
-[^29]: A mid-21^st^ century trend where basekball fans would get toghether and issue and ICO (Intial Clone Offering) where they would mix the DNA from various superstars to create NBA players. Stephan Currys DNA was present in all NBA players, so the kids had taken to calling them all curryiess.
+[^29]: The First Ammendment covers freedom of religion and speech.
 
-[^30]: That I like to name things after geniuses. Or Hakeem has turned several of my dreams into reality. Aw\...
+[^30]: A mid-21^st^ century trend where basekball fans would get toghether and issue and ICO (Intial Clone Offering) where they would mix the DNA from various superstars to create NBA players. Stephan Currys DNA was present in all NBA players, so the kids had taken to calling them all curryiess.
+
+[^31]: That I like to name things after geniuses. Or Hakeem has turned several of my dreams into reality. Aw\...
