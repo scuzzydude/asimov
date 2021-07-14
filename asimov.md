@@ -14,17 +14,17 @@ In the old days, if you had gold or land, it was most likely because you were bo
 
 In modern times, we feel that wealth is a result of humanity\'s creation. Certainly, through both the Industrial and Information Revolutions, it has been man's ability to innovate that has led directly to wealth and prosperity.
 
-It follows that humanity should use its own creation as the fundamental measure of value. Floating currencies like the dollar and cryptocurrencies like bitcoin fit that bill. It's ironic to me, that coders often rail against floating fiat currencies in comparison to the gold standard, as floating a currency is like the ultimate hack -- your algorithm doesn't change at all, you just comment out the line in the code that buys the gold. Bitcoin is a beautiful design, and pure in both intent and implementation. Neither dollar nor bitcoin represent any intrinsic value, and thus can't really hold value over generations and through calamity. Fiat and cryptocurrencies function as money -- a medium of exchange -- which is a technical function of a currency. Neither represent real value, which is the human concept of money. This disparity -- between the technical expression of value and the actual human appreciation of value leads to all kinds of crazy, like the price of bitcoin in the Spring of 2021.
+It follows that humanity should use its own creation as the fundamental measure of value. Floating currencies like the dollar and cryptocurrencies like bitcoin fit that bill. It's ironic to me, that coders often rail against floating fiat currencies in comparison to the gold standard, as floating a currency is like the ultimate hack -- your algorithm doesn't change at all, you just comment out the line in the code that buys the gold. Bitcoin is a beautiful design, and pure in both intent and implementation. Neither dollar nor bitcoin represent any intrinsic value, and thus can't really hold value over generations and through calamity without intervention. Fiat and cryptocurrencies function as money -- a medium of exchange -- which is a technical function of a currency. Neither represent real value, which is the human concept of money. This disparity -- between the technical expression of value and the actual human appreciation of value leads to all kinds of crazy, like the price of bitcoin in the Spring of 2021.
 
 The two true hedges against inflation are Genius and Vanity.
 
-It is very likely that within my lifetime, technology will have advanced to a stage where we can passively scan inanimate objects and digitize them down to the atomic level. 3-D printing will advance to a level where the can reproduce facsimiles of scanned items that and indistinguishable from the original to human senses.
+It is likely that within my lifetime, technology will have advanced to a stage where we can passively scan inanimate objects and digitize them down to the atomic level. 3-D printing will advance to a level where the can reproduce facsimiles of scanned items that and indistinguishable from the original to human senses.
 
 It's very possible that in 20 years, you want a reproduction of the *Mona Lisa*, you pull up an app on your phone, pay the Louvre for a digital file, and 5 minutes later, your 3-D printer spits one out. It's likely that technology will allow you to print out a copy that matches what the painting looked like exactly when the paint first dried. Or in the year 1756, 1825 or even 1911, just before it was stolen. Every molecule will be accounted for, both the pigment and the pollution.
 
 This might seem cool, but I'm an engineer, not an artsy type. I can already download a hi-resolution digital photo of old Mona and use it as a screensaver. Art lovers may tell you being in the presence of an original masterpiece is different. My cynical opinion, as an engineer, is unless you want to get all mystical about it, a molecule accurate facsimile should be able to give you that same feeling.
 
-Facsimiles are not the true potential. The true potential of this technology is that one day, we may be able to reproduce the painting brushstroke by brushstroke -- it is very likely we'll be able to deduce not only Da Vinci's strokes, but from that, his height, the size of his fingers, the strength of his forearms, the and the duration of the patience pauses between strokes down to the millisecond.
+Facsimiles are not the true potential. The true potential of this technology is that one day, we may be able to reproduce the painting brushstroke by brushstroke -- it is possible we'll be able to deduce not only Da Vinci's strokes, but from that, his height, the size of his fingers, the strength of his forearms, the and the duration of the patience pauses between strokes down to the millisecond.
 
 And then, just maybe, we might be able to understand Da Vinci's genius. Not everybody. Those who love his art, those who have the patience to watch a master paint for hours without checking the price of their dogecoin every five seconds. Perhaps Artificial Intelligence will be able to figure it out, and portraits will come back into fashion, a Leo robot for rent down at the Hobby Lobby.
 
@@ -314,7 +314,13 @@ The simple explanation is that the consensus majority that believe Michael Jorda
 
 Consensus does not make genius. There is no consensus is to what makes a genius.
 
-....Bonham here...Bonzo Prize....
+Sometimes genius is so obvious that there really is no argument. Einstein in science. It certainly seems like there is a consensous that Leonardo Da Vinci was one of the greatest artists who ever lived. And in music, there is John Bonham.
+
+John Bonham, the drummer for the Led Zeppelin, is almost universally recognized as the greatest drummer in history.[^18] Personally, I feel that is selling Bonham short. John Bonham, is almost certainly the greatest musician who ever lived. Since recorded music is barely a hundred years old, it's sort of hard to prove. But I've listend to a lot of music, and there's nothing I've ever heard that even approaches that level of mastery.
+
+Since I'm already playing hypothetical multi-billionaire, I think I'd have a prize called the BonzoX prize with an award of 1 billion USD. Since percussion is what I believe is the closest form of art to being pure digital, I believe if it were possible to determine an alogirthm for the define, it could most easily be done by analyzes of the groove of John Bonham. Wosrt case, you might uncover a crypto message from the planet Xenu.
+
+Sadly, percussion seems to be a dying art. For one thing, it's much easier to just buy your kid a Mac, and saves you from pissing off your neighbors. And even Rock 'n Roll seems to have hit its peak. I don't think we're going lose the appreactiaon of John Bonham in my lifetime, but it scares me that we might not long after. I would be willing to take responsibility to make sure we don't. It would be an absolute travesity and failure if humanity lost the value of John Bonham's genius.
 
 ### Agency
 
@@ -338,7 +344,7 @@ Most agents are concerned with an artist's legacy of genius. It's a simple equat
 
 Is there a way we can balance income in the present against legacy of genius and reward both the artists and the agent?
 
-A **scoot of agency** (**SOA**) would work like this. A scoot is created for a creative artists (with his participation) and the scootee hires an agent[^18]. This could be at the sole discretion of the scootee or an elective process by the scootage. The standard might be that the scoot of agency earns twice the standard agent's percentage of an artists work -- so for the example, 20%. This amount is highly variable, it just needs to be a greater percentage than agents in that particular field of talent charge.
+A **scoot of agency** (**SOA**) would work like this. A scoot is created for a creative artists (with his participation) and the scootee hires an agent[^19]. This could be at the sole discretion of the scootee or an elective process by the scootage. The standard might be that the scoot of agency earns twice the standard agent's percentage of an artists work -- so for the example, 20%. This amount is highly variable, it just needs to be a greater percentage than agents in that particular field of talent charge.
 
 Income to the SOA is paid out to an agent at his standard rate, for an example 10%. This leaves 10% of the income held by the scoot. With that 10% the scootee may buy the scoot on open market, decreasing dilution which should increase the value of the scoot in terms of asimov. This is purely a function of income in the present. Or, based on the elective direction of the scootage (which in many cases will be in the majority control of the artist) it may keep some or all of the 10% as a reserve. An actor may use the reserve to finance his own film projects, or a musician may use it to free himself from dependence on a record label.
 
@@ -362,7 +368,7 @@ First of all, optionality should be prime. Young people make mistakes. A young p
 
 A pre-agency scoot (PAS) is a scoot formed for a minor by his parents or guardians, usually with a parent as scootee. PAS scoot are not tradable, and therefore have no value in asimov. The Foundation may take an interest in the PAS at no-par value. As a child develops his talent, the child and the scootee may award scoot to coaches, trainers, teachers, family members. Scoot awarded in this manner are a responsibility to look out for the best interest of the minor, so they need to be accepted by awardee formally through a confirmation transaction on the scoot-chain. So while the scoot has no value, a resopnsiblity tree is generated, so some evaluation of talent can be extrapolated from who holds scoot in a PAS. The PAS scootage can be consulted formally through elective process on the scoot-chain as to who should be hired in regards to agents and professionals. The PAS itself does the hiring but it's a cash process, with either the parents of the child's income providing the payment. Agents may be hired on commission as in SOA, but hired professionals paid by the SOA should be forbidden from holding SOA scoot.
 
-After reaching majority, a young person (artist) has the option of converting their PAS into a SOA. At that point, the artist can choose the conversion and dilution algorithm. He or she might choose a proportional conversion and dilution of PAS-scoot to SOA-scoot. Or they might issue token amounts a scoot in arbitrary manner. Or they may decide, all of those adults were in it for their own interest, and lock them all out. After all, a mentor they thought was scoot worthy at seven years old might turn out to be a real creep. However, the responsibility tree is discernable from the scoot-chain, may be hidden but should be shareable.[^19] How an artist treats those who helped them without any financial incentive to do so, is a reflection on their character and their potential genius.
+After reaching majority, a young person (artist) has the option of converting their PAS into a SOA. At that point, the artist can choose the conversion and dilution algorithm. He or she might choose a proportional conversion and dilution of PAS-scoot to SOA-scoot. Or they might issue token amounts a scoot in arbitrary manner. Or they may decide, all of those adults were in it for their own interest, and lock them all out. After all, a mentor they thought was scoot worthy at seven years old might turn out to be a real creep. However, the responsibility tree is discernable from the scoot-chain, may be hidden but should be shareable.[^20] How an artist treats those who helped them without any financial incentive to do so, is a reflection on their character and their potential genius.
 
 When The Foundation is a holder of PAS, it gives the option to the PAS-scootage to request an formal opinion. Let's say a young actor has a PAS and his parent scootee has chosen to hire an agent that has an unscrupoerlous reputation of putting children in exploitive roles. Perhaps the scootage believes there maybe kickbacks to the parents directly, or some other kind of shady business. The Scootage can create a petition for review, and the Foudation, as a holder of the PAS-scoot must form an opinion, which would require a formal investigation. The results of that investigation -- the unbiased findings of facts, would be publiched on the scoot-chain. This puts the scootee (likely parents) in a position to strongly reconsider, or at least publish their own due-diligence supporting their decision on the scoot-chain. In the USA, there would be nothing legally binding about the results of the petition, but it does create an immutable evidence trail for the minor which he can use once he or she reaches majority. Formalization of the decision making process with the immuatbitle records itself should add a level of scruitiny to the development of young-talent that should reuce exploitation of those whose parents choose to participate in the responsiblility domain.
 
@@ -382,7 +388,7 @@ Post-Agency's sole purpose is promoting the appreciation of the artists genius.
 
 #### Elon Throwdown
 
-As an engineer, I've always been impressed with Tesla and SpaceX. They are amazing companies, and it seems like Elon Musk has an exceptionally good appreciation of application engineering, which sometimes requires a higher level of thinking than any fundamental technology. However, I've been anti-Tesla the car out of a different principle. Nikola Tesla was a very important engineer and inventor, and one of his invention was an AC motor as well as AC electrical grid, which is used throughout the world. Tesla, the car, uses DC motors, which were invented before Nikola Tesla was born. While more and more of us own Tesla cars, each and every individual American, and most people on the planet, have used AC power of some sort in his lifetime. If you own a refrigerator, a washing machine, or a hair dryer, you've benefited from Mr. Tesla's invention, and that goes for all of us, even those too young or too old to drive. I'm a realist thought, and Tesla was the first commercially viable electric car, and if you're going to name a company after a genius, you better live up to it. Tesla's legacy, the AC Power system, has probably done more to increase human lifespan, reduce poverty and disease, and increase prosperity than any innovation before or after.
+As an engineer, I've always been impressed with Tesla and SpaceX. They are amazing companies, and it seems like Elon Musk has an exceptionally good appreciation of application engineering, which sometimes requires a higher level of thinking than any fundamental technology. However, I've been anti-Tesla the car out of a different principle. Nikola Tesla was an important engineer and inventor, and one of his most important inventions were alternating current (AC) motors and distribution systems, which are used throughout the world. Tesla, the car, uses direct current (DC) motors, which were invented before Nikola Tesla was born. While more and more of us own Tesla vehicles, each and every individual American, and most people on the planet, have used AC power of some sort in his lifetime. If you own, a lamp, a refrigerator, a washing machine, a microwave, or a hair dryer, you've benefited from Mr. Tesla's invention, and that goes for all of us, even those too young or too old to drive. I'm a realist thought, and Tesla was the first commercially viable electric car, and if you're going to name a company after a genius, you better live up to it. Tesla's legacy, the AC Power system, has probably done more to increase human lifespan, reduce poverty and disease, and increase prosperity than any innovation before or after.
 
 For me his name is now remembered most often as a curse I spit every time one of those silent predators roll up on me while I'm talking a walk.
 
@@ -400,7 +406,7 @@ This is what Tesla lab in Colorado Springs looked like. Now, if you were a child
 
 Here's the thing. Electricity powers everything we do. Kids growing up today intuitively understand how software and digital devices function as applications of technology. How could they not? Yet very few understand how it works at the fundamental level. I've worked in electronics for my entire career, and for the last twenty years I've worked for chipmakers. Yet I can assure you that least 90% of the engineers I worked with could not explain the fundamental concept of how a transistor works to a child or even another engineer. That's because there really is no need -- our engineering forefathers did all the hard work for us, so that we can work at a higher level of abstraction. And those few engineers that work at the physical level of the silicon, the analog engineers -- man, believe me, you don't want any of those dudes around children -- what they do is professional witchcraft.
 
-So I'm thinking, man, if you really want children to be inspired, maybe growup and design self-driving, energy efficient, emission free bad-ass transportation, Tesla's Colorado Springs Lab would be a great place to start the inspiration.
+So I'm thinking, man, if you really want children to be inspired and grow up and design self-driving, energy efficient, emission free bad-ass transportation, Tesla's Colorado Springs Lab would be a great place to start the inspiration.
 
 ![](media/image2.jpg){width="6.5in" height="8.52083552055993in"}
 
@@ -408,7 +414,7 @@ So I'm thinking, man, if you really want children to be inspired, maybe growup a
 
 The picture above shows a plaque at near the site of Tesla's Colorado Springs laboratory. That's really all there is. Tesla was quite the inventor and a wild and crazy guy, he was not nearly the businessman that Mr. Musk is. Turns out while he made some of his most significant discoveries the year he ran his lab in Colorado Springs, ironically, he didn't pay his electricity bill. The citizens of the Springs were quite fed up with him, having already blown up a dynamo at the power station with his experiments. The lab was torn down and the contents sold at auction.
 
-The plaque above was erected by the Al Packer[^20] Chapter of E Clampus Vitus, and organization dedicated to the preservation of the heritage of the American West.[^21] While certainly Tesla had a minor role in the American West, he had a major role on the world stage. From what I can tell, the actual site of the laboratory is just north of the plaque in a residential block.
+The plaque above was erected by the Al Packer[^21] Chapter of E Clampus Vitus, and organization dedicated to the preservation of the heritage of the American West.[^22] While certainly Tesla had a minor role in the American West, he had a major role on the world stage. From what I can tell, the actual site of the laboratory is just north of the plaque in a residential block.
 
 ![](media/image3.jpg){width="5.230585083114611in" height="5.0in"}
 
@@ -416,9 +422,9 @@ Figure 3 - Nikola Tesla\'s Wardenclyffe wireless station, located in Shoreham, N
 
 There are museums dedicated to Nikola Tesla. There is one at the Tesla Science Center at Wardenclyffe, New York. This institution was crowdfunded to the tune of \$1.3 million with an additional donation of \$1 million by Elon Musk. The centerpiece of the lab was a 186 foot tower and cupola, Tesla used for experiments in wireless communication and power transmission. In a recurring theme, Tesla failed to meet his mortgage payments, the property was foreclosed upon and the tower demolished. The museum is renovating and rebuilding the tower.
 
-There's another Tesla museum ....
+After his death, Tesla's nephew had all his work product and belongings packed up and shipped to his native Serbia, and there is a museum in Belgrade. This is appropriate enough, his family had the right to dispose of his property and Serbia certainly has every right to be proud of their native son. However, Nikola Tesla was a naturalized citizen on the United States, and might be the very prototypical Immigrant American Engineer.
 
-Now, before I throwdown my challenge, I need to admit my own hypocrisy. I to have been known to name things after geniuses, without any expectation that my creations live up to that level. It's more about inspiration that name of genius confers. In in that matter, Tesla the car does inspire, and maybe the inspiration of genius is more important than the facts. However, in the case of Nikola Tesla, the facts are the inspiration, and I think it is important that the world remembers the true facts of Tesla's life.
+Now, before I throwdown my challenge, I need to admit my own hypocrisy. I have been known to name things after geniuses, without any expectation that my creations live up to that level. It's more about inspiration that name of a genius confers. In in that matter, Tesla the car does inspire, and maybe the inspiration of genius is more important than the facts. However, in the case of Nikola Tesla, the facts are the inspiration, and I think it is important that the world remembers the true facts of Tesla's life.
 
 I believe that the challenge of creating scoot for physical artwork is primary social -- getting people to accept that that the works of genius, especially past masterpieces, belongs to humanity and not individuals. Sure, there's a bunch of legal work, but it's well within the scope that can be funded through seeding. I think the biggest legal challenge will be for wealth supporters trying to avoid capital gains, but I do not think The Foundation should participate in that fight directly. However property contracts and contracts that specify proportional responsibility and liability exist already, scoot of artwork is just a modification of those to complement a digital token system.
 
@@ -428,11 +434,13 @@ Post-Agency Scoot (PAG) is a different matter. How to create an organization, wh
 
 Elon Musk has access to an army of attorneys who when he says jump, they say, "With how many watts of force and at what vector, Elon?"
 
-That is my challenge, for Elon Musk to create a Post-Agency Scoot for Nikola Tesla.[^22] Maybe this becomes a wrapper organization around the existing museums, and I hope that it would re-create Tesla's Colorado Springs Lab as a learning center for children.[^23]
+That is my challenge, for Elon Musk to create a Post-Agency Scoot for Nikola Tesla.[^23] Maybe this becomes a wrapper organization around the existing museums, and I hope that it would re-create Tesla's Colorado Springs Lab as a learning center for children.[^24]
 
 I think that the Scoot should award the Tesla Prize. The Tesla prize should go to the greatest engineering accomplishment of the year that benefits humanity in the spirt of Nikola Tesla. Scoot have no means to distribute income, but the scootee can create a fixed dilution and the reward will continue to increase in values as long as the appreciation of Nikola Tesla's continues to grow.
 
-There are rumors that both Edison and Tesla were up for the Nobel prize in physics, but because of their feud, the Nobel committee declined to award it to either. I think Nikola Tesla should have been awarded the Nobel Peace Prize, and I'll tell you why.
+There are rumors that both Edison and Tesla were up for the Nobel prize in physics, but because of their feud, the Nobel committee declined to award it to either. Besides his alternating current work, which was truly monumental, Tesla pioneered work in radio, X-Rays and even what would become atomic physics.
+
+I think Nikola Tesla should have been awarded the Nobel Peace Prize, and I'll tell you why.
 
 Between alternating current and the internal combustion engine -- which Elon Musk is trying to replace with cleaner more efficient alternatives \-- manual labor slavery is not economically viable.
 
@@ -440,15 +448,17 @@ We can kid ourselves and say that morality of a modern society did away with hum
 
 Nikola Tesla was not a very good businessman, and he died a poor man. Yet I believe he created more value for humanity than any other individual before or since. His work is what humanity should appreciate and value.
 
+I feel all engineers have a responsibility to grow the appreciation of Nikola Tesla's genius. Those that use his name to sell electric cars sure as hell do.
+
 ## Collective Genius and competitive scooting 
 
 I think we'd consider Martin Luther King, Jr a genius. He led a peaceful movement that directly changed policy and law in the United States. And Ghandi was a genius, he peacefully sent the British packing despite a very divided and stratificated society. ....bill gates smallpox....
 
-The world faces many challenging problems today, with scopes that are global, national, and local. If someone were to create a efficient and affordable desalination device, that would solve many problems faced by the poorest drought plagued countries. That solution would be genius. If somebody came up with a solution that removed money and corporate influence from our national elections, that would be genius. If somebody organized a group of locals to reduce gang-violence in a city without the divisiveness of the police force by actually addressing the root problems, that would be genius.
+The world faces many challenging problems today, with scopes that are global, national, and local. If someone were to create a efficient and affordable desalination device, that would solve many problems faced by the poorest drought plagued countries. That solution would be genius. If somebody came up with a solution that removed money and corporate influence from our national elections, that would be genius. If somebody organized a group of locals to reduce gang-violence in a city without the divisiveness of the police force by actually addressing the root problems, that would be genius. We do not need to know what a solution is to say that solving a problem would be a work of genius.
 
-So a scoot is formed as a collective responsibility for the appreaciation of genius. If a problem is well defined, you can assume the solution will be genius before it's formed. So I see know reason why you need to actually solve it before scooting the responsibility.
+A scoot is formed as a collective responsibility for the appreaciation of genius. If a problem is well defined, you can assume the solution will be genius before it's formed. So I see know reason why you need to actually solve it before scooting the responsibility.
 
-This is different from a polictial cause or movement. Those almost always deal with getting the goveremnt to do something. A scoot of unformed genius is a collective responsibility to solve a specific problem.
+This is different from a political cause or movement. Those almost always deal with getting the government to do something. A scoot of unformed genius is a collective responsibility to solve a specific problem.
 
 One of the fundamental problems we have with polictial leadership is most of these people are utterly useless at anything else but politics. We don't elect people because they are good a solving problems. We elect people because they are good at getting elected.
 
@@ -476,7 +486,7 @@ Once wealth as responsibility is mainstream, then I think this could happen natu
 
 An instrument of peace and diplomacy, in theory, if not actual practice in old times was the exchange of royal hostages between rivals. I'm pretty sure that the failure had something to do with the true lack of bilateralism, mostly due to valuing sons over daughters. And equally ineffective tool was the royal marriage, mostly due to it is tougher than you think to stay married to somebody who hates your guts. Kings, first born sons usually, luckily have a genetic preponderance for thick skin. Second sons, apparently, the disposition is usually skill with poison and falling for foreign seductresses.
 
-Since the dawn of the information age, we've had the longest cointinuous military peace between world powers in history. There is a reaon for that, and it's the nuclear take on the the hostage exchange. We don't need to bother with exchange part, we can just kill your entire family, including in-laws and mistreses from way over here. From a miltary diplopacy systems point of view, we have a fail-safe but it's a pretty hard trip, so the system dyanmically adjust to achieve a stable, though soetiems volative, equalirman. THat hasn't stopped regional conflict, nor ecomonic and cultural conflict, but it has prevented direct miltary conflict between world powers.
+Since the dawn of the information age, we've had the longest continuous military peace between world powers in history. There is a reason for that, and it's the nuclear take on the the hostage exchange. We don't need to bother with exchange part, we can just kill your entire family, including in-laws and mistreses from way over here. From a miltary diplopacy systems point of view, we have a fail-safe but it's a pretty hard trip, so the system dyanmically adjust to achieve a stable, though soetiems volative, equalirman. THat hasn't stopped regional conflict, nor ecomonic and cultural conflict, but it has prevented direct miltary conflict between world powers.
 
 Just because the implementation was bad, doesn't mean the idea was flawed. I'm not say Mutually Assured Destruction is the best implmenation either, but it has been more effective than what we had for the entire history of civilizided nations. Of course, tripping the switch has consequences way beyond the king's family. Everybody's family shares in the burden and the risk. Which is very democratic and equitable. Except everybody family doesn't share in the rewards of royalty, which is the problem we are trying to solve.
 
@@ -494,7 +504,7 @@ There have been other proposals for a peacekeeping system, in spirit, my favorit
 
 # Collecting Responsibility
 
-While I've never had that special thrill that supposedly comes with viewing a masterpiece in person, I've tried. This is not to imply I don't believe there is something special. I know there must be.
+While I've never had that special thrill that supposedly comes with viewing a masterpiece in person, I've tried. Maybe if I'd gone to an art museum before cell phones, it could have worked. People elbowing me out of the way to snap selfies apparently has a dissonant effect on my Zen. This is not to imply I don't believe there is something special. I know there must be.
 
 For my last birthday, my brother gave me a basketball signed by Hakeem Olajuwon. I've never been a collector, I'm a travel light kind of guy, but it was very thoughtful gift and I was quite surprised and thankful. I took that ball out of the glass case, and a feeling swept through me. I felt like I had just carried my team as a 6^th^ seed, on the road through the Western Conference battleground of the Mailman's Jazz, Sir Charles's Suns, and the pretender MVP's Spurs, making every MVP voter cringe at the ridiculousness of their selection. I'd just faced a young and arrogant Orlando Magic team in the finals, and sent the lovable young villain of Shaquille O'Neil and his pack of dwarves back home to Disney in four games straight, a sweep and championship repeat, leading to coach Tomjanovich's celebratory declaration for the ages, "Don't ever underestimate the heart of a champion." This changed Houston's tagline of "Choke City" to "Clutch City" forever.
 
@@ -520,7 +530,7 @@ Throughout history, the basis of money has been gold. But throughout history, go
 
 I'd originally gone down this path of thinking, because while I'd worked out the basics of a metric of value system based on "Fine Art" I'd struggled with some inconsistencies. For instance, what separates fine art from decoration? Why is one object a silly collectable, or an antique, and another a historical artifact? I was also struggling with the unfairness of valuing artists that produce physical art from those whose media is essentially digital, musicians and writers and photographers and even basketball geniuses. I was struggling with trying to create a value system from something, in all honesty, I didn't personally value that much.
 
-I thought of the basketball gift. I liked starting with a Sports analogy and contrasting that with my postcard. One big problem that both crypto and modern fiat currencies have is that they aren't relatable to most people, and of course, neither is the art world. Virtually all people use money, few understand it, and this also leads a disparity of value. People who value every last dollar bill, every dime and penny, live in the same society and supposedly the same rules as people who throw around millions on vanity and sometimes pure waste.
+I thought of the basketball gift. I liked starting with a Sports analogy and contrasting that with my postcard. One big problem that both crypto and modern fiat currencies have is that they aren't relatable to most people and neither is the art world. Virtually all people use money, few understand it, and this also leads a disparity of value. People who value every last dollar bill, every dime and penny, live in the same society and supposedly the same rules as people who throw around millions on vanity and sometimes pure waste.
 
 I'd already crossed the threshold of making **scoot** holders have the badge of responsibility, not ownership. This was more of a technical decision, because I need to keep the **responsibility domain** clean of monetary influence, so that the **responsibility domain** could act as equalizer between different cultural biases and provide a common metric in the **asimov**.
 
@@ -530,17 +540,19 @@ I had this eureka moment on April 29^th^, 2021, on my after-dinner walk. It was 
 
 As I neared the end of my walk, a cynical thought hit me. In November on my birthday when I'd gotten the basketball, James Harden was making a stink about wanting to leave the Rockets. It was such a gut-punch, because in the middle of the pandemic, the Rockets had kept me optimistic. What followed was the season from hell. They did trade The Beard, and in return got a gimpy star player they traded only two months later. There was still hope, the Rockets had gone on a 6-game winning streak, but then the Rocket's best young player got hurt, and they went on a losing streak of 20 games. At that point in April, I had watched the Rockets lose 37 of the last 43 games. For Rockets fans it was absolute hell. I'm thinking, hey little brother, thanks for the gift. He'd tricked me into objectifying *The Dream*, and perhaps that was the greatest sin against the basketball gods. I got home and watched the game, the Rockets versus the Bucks, heavyweight of the East. I watched, like I watched every game of the losing streak, doing my penance, now with the even heavier heart after realizing my sin.
 
-The Rockets were down 17 points in the second quarter, even after the Buck's star player was forced out by injury in the first minute of the game. The Rockets got it down to 8 points by halftime, but I'd seen this film before. In the second half something miraculous happened. Kevin Porter Junior, a player we'd acquired for wooden nickels as a bizarre ricochet effect of trading James Harden, caught fire. Kevin, just twenty years old, was a brilliant guard who had potential to be a star. He'd just been through a somewhat embarrassing and very public incident in Miami where he'd might have saved his teammate's life. As if to confirm the maxim, "No good deed goes unpunished," The NBA had suspended him for a week for COVID protocol violations, and first game back, against the fellow bottom feeding Timberwolves, had scored only 2 points in a nauseating loss. That night against the eastern powerhouse Milwaukee Bucks, Porter was unconscious, destroying the defensive heavyweight with ease. He ended up with the box score of 51 points and 11 assists, becoming the youngest player in NBA history to record 50/10, beating the previous title holder LeBron James, by 3 years.
+The Rockets were down 17 points in the second quarter, even after the Buck's star player was forced out by injury in the first minute of the game. The Rockets got it down to 8 points by halftime, but I'd seen this film before. In the second half something miraculous happened. Kevin Porter Junior, a player we'd acquired for wooden nickels as a bizarre ricochet effect of trading James Harden, caught fire. Kevin, just twenty years old, was a brilliant guard who had potential to be a star. He'd just been through a somewhat embarrassing and very public incident in Miami where he'd might have saved his teammate's life. As if to confirm the maxim, "No good deed goes unpunished," The NBA had suspended him for a week for COVID protocol violations, and first game back, against the fellow bottom feeding Timberwolves, had scored only 2 points in a nauseating loss. That night against the eastern powerhouse Milwaukee Bucks, Porter was unconscious, destroying the defensive juggernaut with ease. He ended up with the box score of 51 points and 11 assists, becoming the youngest player in NBA history to record 50/10, beating the previous title holder LeBron James, by 3 years.
 
 This story would be better if after my walk, I'd gone and held that signed basketball, trying to absorb some *The Dream* magic, and somehow channeled that through my television back to the Toyota Center and into the soul of Keven Porter. But I didn't. Porter stepped up big because he did what stars do when they've had a bad game and been talked about in the media for non-basketball related reason. He played ball.
 
 ![A person in a uniform holding a baseball bat Description automatically generated with low confidence](media/image4.jpg){width="2.4in" height="3.0in"}
 
+Figure 4 - June 2014 Sport\'s Illustrated Cover
+
 You might wonder, where am I taking this? Am I casting some voodoo spell of writing reality? Perhaps. Don't believe stuff like that works? I refer you to the June 2014 Sport's Illustrated Cover Story Entitled, "Your 2017 World Series Champs," with a picture of Astros then rookie George Springer on the cover. In 2014 the Astros were the worst team in baseball, having been through five losing seasons. I have to be honest -- I am a fair-weather Astros fan. Here's the thing about losing basketball -- games tend to finish up rather quickly. Not so much with bad baseball. Yeah, I grew up in Houston, but I benefited from Nikola Tesla's benevolence, specifically AC powered air-conditioning and ice-cold refrigeration. No, it takes a real die-hard Texan who can handle her heat, humidity, and humiliation raw, somebody like my mother, who watched every game in every one of those Astro's losing seasons. Yes, the cover of Sport Illustrated in 2014 was satirical, at best, to the poor and downtrodden Astros fans in the summer of 2014. Think how it must have felt to the players.
 
 Well, Dodger fans, I'm sure you know what happened next. Guess who won the 2017 World Series? You got that right. The Houston Astros forever will be the 2017 World Series Champs.
 
-Yes, there is more to the story. There was a sign-stealing scandal and MLB suspended some managers and took away some draft picks, yet the Astros retained the title much to the consternation of sore losers everywhere.[^24]
+Yes, there is more to the story. There was a sign-stealing scandal and MLB suspended some managers and took away some draft picks, yet the Astros retained the title much to the consternation of sore losers everywhere.[^25]
 
 ![](media/image5.jpg){width="4.572916666666667in" height="5.0in"}
 
@@ -550,7 +562,7 @@ And the irony, I mean, from Hollywood of all places. "There's no cryin' in baseb
 
 What our currencies represent is what we value. For most of us, what we value is material. We like houses, and cars, and electronics, the trappings of wealth. We don't value things that much of the world does, like clean water, or nutritious food, or access to basic health care, even though the majority of the human population has to worry and sweat daily just to provide these things for themselves and their children. We lose our ever-loving minds over things like stocks and crypto-currency and political movements, without ever thinking about how wealthy we really are. Wealth is property and it is valued because we have lost the very ability to value basic sustenance and security. This is why I call it the king's gold. The kings of old could not fathom the toils of the masses. Kings would send the poor men and their sons to die for their gold and land and even spices and tea. And to this day nations rich and poor will kill for the king's gold. Be it gold, or oil, or land.
 
-It there a difference between a masterpiece, a work of art, an artifact and a collectable? Not really. History is written by the victors, and artifacts of get.
+It there a difference between a masterpiece, a work of art, an artifact and a collectable? Not really. History is written by the victors, and artifacts of get......
 
 Ten thousand years in the future, what will be the more valuable treasrure? Da Vinci's engineering drawings, Drake's last letters, Scobee's autographed postcard, or The Dream's signed basketball?
 
@@ -575,6 +587,20 @@ This is a uniting value system.
 This is why Dennis Rodman as ambassador to North Korea isn't really as outrageous as some think. He has a much better chance of relating through shared values than any diplomatic fool we could send over there.
 
 Genius is what you are willing to be responsible for. It's a reflection of your values.
+
+I've been intentionally divisive for a reason. I could have easily written this section from the point of view of a native of Los Angeles or New York. It would have been way lamer, because how hard is it to be a Lakers or Yankees fan? Hometown has value, and it should, because how constructive is it to hate where you are from? And if you do, you should move. National pride has value. Asimov is a global currency, bound to no single nation, yet most of the genius I've written about are American, by birth or by choice. I don't think America is perfect, we have a lot of geniuses, but we have more than our fare share of idiots, and have taken vanity to historical levels.
+
+The divisiveness is simple but true. It is what I value. I might get called some nasty names when I wear my Astro's cap next time I pass through LAX. If I ever show my face and Rockets colors in Madison Square Garden, I will probably get my ass kicked, or more likely, spat upon. And next time I try to go to Canada, I'll probably get detained at the border and be forced to listen to *Tom Sawyer* on a loop. And while I'm a peace-loving person, imagine there's no war and all that, if I happen to cross path with John Stockton down at the Wal-Mart, I might have to stick my leg out for an old man trip, it would only be a bit of instant karmic justice.[^26]
+
+Here's what isn't going to happen.
+
+The Mayor of Los Angeles is not going send a mechanized brigade of troops to Houston and surround Minute Maid park and forcibly take a shirt-less Jose Altuve hostage. New York City is not going shell downtown Houston with nerve gas and send a squad of SEALs to replace *The Dream's* statue in front of the house he built with a statue of Patrick Ewing. And the British are not going nuke Austin in 2023 after Governor McConaughey signs his first executive order declairing all members of Led Zeppelin not honorary, but actual Texans.
+
+We're not going to war over genius. If we do, we have failed as a species.
+
+As my fictional Leo said, "No painting is worth a single life."
+
+Sure, we'll have idiots who set fire to public transportation when their teams win a championship. We'll have lunatics who'll murder a genius in cold blood and sit and wait to be caught while reading a book by another genius. We'll have vain criminal who rob banks and post their exploits on Instagram. But if we value what is good, the genius of our species, then maybe we won't have so many crimnials and the lunatics might be seen as people who need help and not discounted for the defiency but valued for their perspective. And the idiots, well that might be some kind of cosmic law. For every Nikola Tesla, maybe there needs to be 67 idiots to like balance out the universe.
 
 # Governance
 
@@ -608,13 +634,13 @@ The asimass are holders of asimov. Since asimov is an open digital currency, whe
 
 ## The Board of Trustees
 
-The Foundation shall be governed by the Board of Trustees[^25]. I suggest that the total number of trustees be eleven, as follows.
+The Foundation shall be governed by the Board of Trustees[^27]. I suggest that the total number of trustees be eleven, as follows.
 
 ### Engineer (1)
 
 Since the metric of genius is an engineered system, we need an engineer to run it. The trustee engineer is in charge of execution of asimov disbursement, as laid out in the disbursement plan, as well as stabilizing the metric. The Engineer also maintains the engineer's reserve, which is asimov leftover from the disbursement schedule. The engineer's reserve may be used in cases of emergency or crisis, and is passed on to the next elected engineer.
 
-The engineer is elected by the scootara for a term of ten years.[^26] An emergency election is held if the engineer cannot complete his term, for the remainder of the term (decade).
+The engineer is elected by the scootara for a term of ten years.[^28] An emergency election is held if the engineer cannot complete his term, for the remainder of the term (decade).
 
 The engineer's only direct tool is compliance with the disburstement schedule, which shall be part of the admeentments to the charter specificying the metric system. The engineer cannot exceed the disbursement schedule, but can disburse lower amounts than the schedule calls for and maintain an **engineer's reserve**, which can be carried over to the next engineer's term. The engineer can also disburse in uneven amounts throughout the terms.
 
@@ -686,7 +712,7 @@ The encyclopedist set standards for
 
 # Origins
 
-Apologies to Italy on this one, but the credit for the Italian-American spark that kindled my imagination is USA, all the way. I'm sure they're used to others taking credit, you know, with all the Italian Renasicss masterpieces in Paris.[^27]
+Apologies to Italy on this one, but the credit for the Italian-American spark that kindled my imagination is USA, all the way. I'm sure they're used to others taking credit, you know, with all the Italian Renasicss masterpieces in Paris.[^29]
 
 ....netflix...Rembrandt.
 
@@ -708,7 +734,7 @@ There is one common value that Americans share, and we willingly share this valu
 
 It is this value that gives me moral righteous to state, Genius belongs to Humanity.
 
-Let's say I'm at a dinner party with a bunch of fancy artsy people.[^28] And some rich dirtbag makes mention he's got a Picasso hidden away at his ski-chalet in Aspen, and only the few other rich dirtbags invited on his ski trip ever get to see it. My response would be "Should I bow or curtsey now, your royal fucking highness?"
+Let's say I'm at a dinner party with a bunch of fancy artsy people.[^30] And some rich dirtbag makes mention he's got a Picasso hidden away at his ski-chalet in Aspen, and only the few other rich dirtbags invited on his ski trip ever get to see it. My response would be "Should I bow or curtsey now, your royal fucking highness?"
 
 While I fully concede to the rich their wealth gives them access to private jets, yachts and Lamborghinis, I won't concede that they have the right to keep works of genius from me or my children. That's too much like royalty.
 
@@ -718,7 +744,7 @@ Through a lenses of history, we see that basic principle was hypocritical in pra
 
 The failure of the American Revolution, and all the democratic revolutions that followed, was that we said to the king, "We don't need you," but "We still need your gold." And that fact is why we, as a nation, could rectify slavery, and the genocide of the indigenous people, economic imperialism and decade after decade of bloody industrial savagery with the idealism of liberty and freedom. All men are created equal, but from the day he is born, we value a man's worth by the same king's gold. We might have hacked the actual gold out of the algorithm, but it is still the king's gold be it fiat or crypto.
 
-Hindsight is not perfect vision. I am not trying to fault the founders. I can't fathom how my parents survived childhood in Texas without air-conditioning, much less what a bunch of farmers and merchants in colonial American had to deal with. However, I do feel an opportunity was missed that was right there before their eyes. The very first amendment to our Bill of Rights says what we value is the freedom of speech[^29]. This has been interprestted from the beginning as freedom of expression, which is certainly what genius and vanity is all about. We as a people, demand this of our government meaning we value it, and King George did not. Yet the founders choose to continue to trade and collect taxes using the king's gold.
+Hindsight is not perfect vision. I am not trying to fault the founders. I can't fathom how my parents survived childhood in Texas without air-conditioning, much less what a bunch of farmers and merchants in colonial American had to deal with. However, I do feel an opportunity was missed that was right there before their eyes. The very first amendment to our Bill of Rights says what we value is the freedom of speech[^31]. This has been interprestted from the beginning as freedom of expression, which is certainly what genius and vanity is all about. We as a people, demand this of our government meaning we value it, and King George did not. Yet the founders choose to continue to trade and collect taxes using the king's gold.
 
 And almost diametrically opposed and as great a failure were the collective revolutions that followed. In those systems, the king's gold was no longer what was valuable. It was the collective good that was valuable. But individualism and speech wasn't valued either -- and core to individualism are both genius and vanity.
 
@@ -748,7 +774,7 @@ One day, perhaps, when I'm old, some kid that shares my facination with science 
 
 He'll nod, appreacating the immense technological change between his day and mine.
 
-"Yo, old man, why you care about rebounding so much? My curry[^30] never misses?"
+"Yo, old man, why you care about rebounding so much? My curry[^32] never misses?"
 
 "Kid, let me tell you about the Worm. Back when I was a kid, there were two Koreas, and there was this kid from Texas, like you and me\...."
 
@@ -760,7 +786,7 @@ He'll nod, appreacating the immense technological change between his day and min
 
 Genius is turning dreams into reality. You may say, I know some geniuses and they didn't do anything but destroy dreams. And yes, all geniuses have that power too. Usually, you just read it wrong, they just turned some other loser's dreams into reality, you've just got higher standards. And the dark side needs a currency as well, asimov is completely open source, Sith Lords are welcome in our chat (alt-bitcoin whatever the hardcore crytpt geeks use. Asimov\...AND FOR MARKETING PURPOSES HAVE TO SET IT UP BEFORE THIS IS PUBLISHED with an actual working signup link on github or google or whatever Hakeem will know) group.
 
-It is for this reason we refer to coins that collectively own the artifict as dream coins. There's one other reason, but that'll have to be an Awbrey family secret.[^31]
+It is for this reason we refer to coins that collectively own the artifict as dream coins. There's one other reason, but that'll have to be an Awbrey family secret.[^33]
 
 Genius has an absoulte value, but it's recongized value can change with fashion. But real genius, the kind we sometimes take awhile to recongize, can only increase in valude. Let's say there is a painting, a masterpiece, that sold in 1921 for \$150,000 in 2021 USD equivlents and sells in 2021 for \$150,000,000 Was the painting worth less in absolute terms of genius in 1921? NO. Genius is timeless. So only two things could have happened. Humanity took a long time to recognize the level of genius. Or humanity's capacity for vanity increased. What do you think it is? Is this level of vanity a side affect of the rich getting richer and their families staying richer? It's hard to say from 2021, but as we see the cycle of history, it should be clearer. But even if the 2021 outlandish priceis vanity -- it's still may be genius, after all fashion is cyclical.
 
@@ -796,7 +822,7 @@ References\....
 
 <https://www.masterworks.io/?utm_source=quora&utm_campaign=Promoted%20Answers&utm_content=WhatstheOneThinginEveryHedgeFundTitansPortfoliothatyoureProbablyNotInvestingIn&utm_medium=platform>
 
-[^1]: The Gold Standard died for good in 1976 when I was in kindergarten, but the gold standard is what I learned, I'm guessing sometime later. I guess is it won't be long before they're teaching Elliptic-curve Cryptology in the first grade, or else kids won't understand money.
+[^1]: The Gold Standard died for good in 1976 when I was in kindergarten, but the gold standard is what I was taught probably because fiat currency is too complex to explain to a kid. I guess is it won't be long before they're teaching Elliptic-curve Cryptology in the first grade, or else kids won't understand money. This disparity between the understanding of money and it's actual function is what we should be trying to solve.
 
 [^2]: Hari Seldon's overt plan for the Foundation was actually a Machiavellian level con-job. I certainly hope to pull off something similar by capitalizing on the lunacy of the crypto-gold rush into focusing our efforts into something like a new renaissance of valuing humanity creative genius over property.
 
@@ -826,34 +852,38 @@ References\....
 
 [^15]: Drafted the same year, I would argue that *The Dream*, who played in the much more competitive Western conference, was a more dominant player during the entire span of their careers. Further proof being that the Rockets were 12-10 against the Bulls during that time. Of course, the counter argument is Jordan's six gold rings against Olajuwon's two, but this here narrative is about value and genius, not gold. Alas, they never faced each other in the playoffs, so it is purely speculation. I blame the Utah Jazz. There shall forever be a special class of **scoot** called **stockton** to represent dirty geniuses.
 
-[^16]: Want to have this debate, let's bet a case of Gatorade. "Be Like Mike." Mike drop, debate over. "Dream, Like Hakeem." That's genius.
+[^16]: Want to have this debate, let's bet a case of Gatorade. "Be Like Mike." Brandon drops the microphone, debate over. "Dream, like Hakeem." That's genius.
 
 [^17]: My natural tendency would be to follow the Disney model and cash in, but I believe the only way I'd actually get *The Dream* to associate himself with this level of vanity is if we basically let kids come for free. In the 1990s when the trend was basketball sneakers that cost hundreds of dollars endorsed by superstars, Olajuwon had his own shoe line that sold for [\$35 at Wal-Mart](https://www.theguardian.com/sport/blog/2015/may/27/how-hakeem-olajuwon-tried-and-failed-to-stop-the-90s-sneaker-killings). I'm a hypothetical billionaire living the dream, so why not.
 
-[^18]: Or multiple agents.
+[^18]: Put your hand down, Canada. I know what you're going to say. If you're going to mix science fiction and rock 'n roll the only acceptable output medium is narrative prose, and you'd better add some basketball for good measure. Rock and Roll can only really be about one thing. Nerd rock, like the definition of oxymoron.
 
-[^19]: SOA and PAS ownership records should be private between the scootee, the artist and **The Foundation** during pre-agency and agency. However, there shall be a method to provide verifiable record of the responsibility tree when required, such as a college application or to potential employers. SOA record can optionally be made public, but that's a one time decision -- once it's out there, it's out there. Once an SOA is coverted to post-agency (the artistis death or perhaps unrevocable retirement, such as medical incapacitation) The Foundation makes the entire scoot-chain publicly accessiable by publishing the keys on the scoot-chain.
+[^19]: Or multiple agents.
 
-[^20]: Best I can tell, [Al Packer](https://en.wikipedia.org/wiki/Alferd_Packer) was an infamous wilderness guide and cannibal who ate a party he was escorting from Utah to Breckenridge in the winter of 1974. If this chapter of the Clampers was named after a school teacher or something, I hope somebody will correct me. I actually hope it is that Al Packer, I think it fits better.
+[^20]: SOA and PAS ownership records should be private between the scootee, the artist and **The Foundation** during pre-agency and agency. However, there shall be a method to provide verifiable record of the responsibility tree when required, such as a college application or to potential employers. SOA record can optionally be made public, but that's a one time decision -- once it's out there, it's out there. Once an SOA is coverted to post-agency (the artistis death or perhaps unrevocable retirement, such as medical incapacitation) The Foundation makes the entire scoot-chain publicly accessiable by publishing the keys on the scoot-chain.
 
-[^21]: <https://en.wikipedia.org/wiki/E_Clampus_Vitus>
+[^21]: Best I can tell, [Al Packer](https://en.wikipedia.org/wiki/Alferd_Packer) was an infamous wilderness guide and cannibal who ate a party he was escorting from Utah to Breckenridge in the winter of 1974. If this chapter of the Clampers was named after a school teacher or something, I hope somebody will correct me. I actually hope it is that Al Packer, I think it fits better.
 
-[^22]: If he wants to throw some attorneys at the artwork scoot, that would be cool as well.
+[^22]: <https://en.wikipedia.org/wiki/E_Clampus_Vitus>
 
-[^23]: Colorado Springs residents on the North side of Memorial Park, I'll take my kickback in cash or bitcoin.
+[^23]: If he wants to throw some attorneys at the artwork scoot, that would be cool as well.
 
-[^24]: For those with me so far, but fear I risk alienating too big a population with my rhetoric, it is strategic. Asimov is an engineered system and based on statistical science. For every single Astro's hater out there, there are 13,401 baseball lovers who absolutely despise the Dodgers. The fact that the "Asteriks" went through the Red Sox, the Yankees, and the Dodgers to **win** the World Series means that feat has the greatest statistical reach, as there are no teams universally hated by more fans. One of the highlights of my adult life was my 2019 Vacation to NYC, where I wore my "Houston Rockets 93-94 NBA Champions" T-shirt every day. I got it from Knicks and Yankees fans alike, got called every name in the book, most of which made me even prouder to be from Houston, but I didn't get my ass kicked, not once. I attribute that to my natural Texas swagger. My wife attributes it to repulsive shielding effect of wearing the same shirt for 120 hours straight.
+[^24]: Colorado Springs residents on the North side of Memorial Park, I'll take my kickback in cash or bitcoin.
 
-[^25]: From Asimov's *Foundation*
+[^25]: For those with me so far, but fear I risk alienating too big a population with my rhetoric, it is strategic. Asimov is an engineered system and based on statistical science. For every single Astro's hater out there, there are 13,401 baseball lovers who absolutely despise the Dodgers. The fact that the "Asteriks" went through the Red Sox, the Yankees, and the Dodgers to **win** the World Series means that feat has the greatest statistical reach, as there are no teams universally hated by more fans. One of the highlights of my adult life was my 2019 Vacation to NYC, where I wore my "Houston Rockets 93-94 NBA Champions" T-shirt every day. I got it from Knicks and Yankees fans alike, got called every name in the book, most of which made me even prouder to be from Houston, but I didn't get my ass kicked, not once. I attribute that to my natural Texas swagger. My wife attributes it to repulsive shielding effect of wearing the same shirt for 120 hours straight.
 
-[^26]:
+[^26]: Karl Malone gets a pass, he's from Louisiana. And old man or not, I'm almost certain he could still kick my ass.
 
-[^27]: My provocation is to prove the point, countries won't go to war over a bunch of paintings. If I'm wrong, well, it won't be the first time these two have gone to war over the ponderings of some idiot.
+[^27]: From Asimov's *Foundation*
 
-[^28]: In case the rest of the essay wasn't enough, this part here is to make sure I don't every get invited to dinner parties with fancy artsy people.
+[^28]:
 
-[^29]: The First Ammendment covers freedom of religion and speech.
+[^29]: My provocation is to prove the point, countries won't go to war over a bunch of paintings. If I'm wrong, well, it won't be the first time these two have gone to war over the ponderings of some idiot.
 
-[^30]: A mid-21^st^ century trend where basekball fans would get toghether and issue and ICO (Intial Clone Offering) where they would mix the DNA from various superstars to create NBA players. Stephan Currys DNA was present in all NBA players, so the kids had taken to calling them all curryiess.
+[^30]: In case the rest of the essay wasn't enough, this part here is to make sure I don't every get invited to dinner parties with fancy artsy people.
 
-[^31]: That I like to name things after geniuses. Or Hakeem has turned several of my dreams into reality. Aw\...
+[^31]: The First Ammendment covers freedom of religion and speech.
+
+[^32]: A mid-21^st^ century trend where basekball fans would get toghether and issue and ICO (Intial Clone Offering) where they would mix the DNA from various superstars to create NBA players. Stephan Currys DNA was present in all NBA players, so the kids had taken to calling them all curryiess.
+
+[^33]: That I like to name things after geniuses. Or Hakeem has turned several of my dreams into reality. Aw\...
