@@ -38,47 +38,9 @@ Genius is timeless. I don't mean to imply that if we put old Leo in a time machi
 
 Vanity is timeless as well. I am sure we all know of people who like to name things after themselves, sometimes when they didn't have anything to do with creating it in the first place, sometimes when the creations weren't even that fabulous to begin with. I am talking to you, Mister Toyota Center, we all know that is the house *The Dream* built.
 
-# Circulation
-
-Enough with the high mindedness and theory. Let us consider how **scoot** and **asimov** will be circulated.
-
-## Staked
-
-"Doctor Frankenstein, you've created a monster."
-
-"My bad. Stick a stake through its heart."
-
-"I think that's for vampires."
-
-"Crap, what do we do? Sorry dude, first monster."
-
-"Well, there's a bunch of stakes laying around, we might as well give it a try."
-
-### Reserve Stake
-
-The purpose of the reserve stake is to provide a backing reserve in fiat and cryptocurrencies[^2] for **asimov** as a currency. The stake should not be touched, and conditions where the stake would be used or burned should be outlined in amendments to the foundational charter. There should be a long probationary period, and if **The Foundation** does NOT meet certain goals, the reserve stake should be returned.
-
-By staking the **asimov** early, we establish real world value for asimov issued for seeding and development. Development of this system will require time, work, and sacrifice from a large number of people who believe in the idealism behind it. There should be a large stake behind them.
-
-1% of total **asimov** will be issued for staking.
-
-#### Private staking **period**
-
-The private staking period begins now and lasts until the stake reaches a threshold of \$100 million in USD equivalents. At that point the **distribution value** will be calculated. The average daily value of the stake currency in USD will be used between the time the stake is received until mint day. There will be a multiplier for each stake in the order it was received.[^3] Details of the private stake process are available here: <http://www.somethingfoundationrelated.org>
-
-Staking will occur before the protocol is active, so initial asimov will be allocated and the splits will be communicated to the **staker** before the public staking period. Private stakes will remain anonymous to the public unless the **staker** makes it public and authorizes The Foundation to confirm their stake publicly.
-
-The mint value of asimov will be established as the USD value of private state divided ½ of the total reserve stake (0.5% total asimov).
-
-#### Public staking period
-
-There will be a public staking period where the remaining 0.5% of asimov is sold in whole units at the **distribution value**. We want fair and geographically dispersed distribution, so asimov will only be sold in whole units and one at a time, one per individual. The Foundation shall determine a way to do this fairly, which will probably require some type of identification, perhaps this is opportunity for **pre-pledge registration**.
-
-The purpose of the public staking is to prevent any one person from the private stake exerting control over of asimov and the development of The Foundation.
-
 # The Foundation
 
-In Isaac Asimov's *Foundation* series, a scientist named Hari Seldon uses advanced mathematics to predict the future and foresees the collapse of the Galactic Empire. His calculation shows him the collapse will last 30,000 years. He convinces the emperor that if he forms a Foundation to create the *Encyclopedia Galactica*, a complete collection of all human knowledge, and protects by hiding it away on a planet in a remote part of the galaxy, the collapse will only last 1,000 years.[^4]
+In Isaac Asimov's *Foundation* series, a scientist named Hari Seldon uses advanced mathematics to predict the future and foresees the collapse of the Galactic Empire. His calculation shows him the collapse will last 30,000 years. He convinces the emperor that if he forms a Foundation to create the *Encyclopedia Galactica*, a complete collection of all human knowledge, and protects by hiding it away on a planet in a remote part of the galaxy, the collapse will only last 1,000 years.[^2]
 
 Basically, Asimov was prophesying a planet where they have Wikipedia, the Internet, Amazon Prime Music, Video and Kindle when he wrote his stories in the 1940s, disguised as wildly speculative fiction set thousands of years in the future. His genius turned dreams into reality -- the Internet just taking off at the end of his life.
 
@@ -88,7 +50,7 @@ What if we could turn history into money? Would we still forget?
 
 **The Foundation** is a Non-Governmental Organization (NGO). It may be decentralized, but it's not autonomous. It's an ideal, not an algorithm.
 
-Specifically, it is *The Foundation for the Appreciation of Human Genius*. The measure of that appreciation is in units of the digital currency **asimov**. This has a double meaning -- because for **asimov** to appreciate in value, humanity must appreciate the underlying works of genius. That means humanity -- especially our young -- needs exposure so they have the opportunity to appreciate the genius. The other sense is appreciation of the **asimov's** market value relative to other currencies over time.
+Specifically, it is *The Foundation for the Appreciation of Human Genius*. The measure of that appreciation is in units of the digital currency **asimov**. This has a double meaning -- because for **asimov** to appreciate in value, humanity must appreciate the underlying works of genius. That means humanity -- especially our young -- needs exposure so they have the opportunity to appreciate the genius. The other sense is appreciation of the market value of asimov relative to other currencies over time.
 
 **Asimov** is a digital currency minted by **The Foundation** and initially circulated in exchange for **scoot**. **Scoot** are a class of digital token representing **proportional responsibility** for artwork or a legacy of genius.
 
@@ -110,9 +72,9 @@ The charter should begin with a simple principle. Genius belongs to Humanity.
 
 I think this is a principle that will gain universal acceptance. There is already precedence for this. For Intellectual Property - immaterial expressions of genius covered by copyright -- we have the public domain. Some period of time after the creator of work dies, the rights fall to the public. This allows income from this IP to revert to heirs but does not perpetuate beyond the expiration of copyright or patent. This seems fair, as the creator and his family benefit, but the long term appreciation of the value of his genius over time benefits humanity as a whole.
 
-Think of physical art. A painter sells a picture for a large sum, maybe \$50,000 and it becomes property of some billionaire[^5] collector. Appreciation in value due to the painter's genius is conferred to the billionaire, not the painter or his family, and not to the greater benefit of all of humanity. However, the appreciation in value is due to humanity's appreciation of the genius, not the billionaire's vanity.
+Think of physical art. A painter sells a picture for a large sum, maybe \$50,000 and it becomes property of some billionaire[^3] collector. Appreciation in value due to the painter's genius is conferred to the billionaire, not the painter or his family, and not to the greater benefit of all of humanity. However, the appreciation in value is due to humanity's appreciation of the genius, not the billionaire's vanity.
 
-Creators of IP -- writers, musicians, filmmakers, digital designers and even coders, generally feel they get the short end of the stick compared to the creators of physical goods, because their work is difficult to protect from copying -- the classic double spend problem. In terms of extracting value from vanity -- this easily duplication allows them to have the ability to completely fulfill any level of short-term demand. Fashionable IP artists -- genius, the highly talented, the mediocre and the awful - can extract large amounts of value in the present, as well as the appreciation value of their potential genius for a couple of generations, depending on the medium.[^6]
+Creators of IP -- writers, musicians, filmmakers, digital designers and even coders, generally feel they get the short end of the stick compared to the creators of physical goods, because their work is difficult to protect from copying -- the classic double spend problem. In terms of extracting value from vanity -- this easily duplication allows them to have the ability to completely fulfill any level of short-term demand. Fashionable IP artists -- genius, the highly talented, the mediocre and the awful - can extract large amounts of value in the present, as well as the appreciation value of their potential genius for a couple of generations, depending on the medium.[^4]
 
 The painter? He hopes that his work becomes fashionable in his productive lifetime, and that his genius is recognized while his family still has paintings to sell.
 
@@ -130,13 +92,13 @@ The scooter shall designate whether the scoot are **dilutable** or **non-dilutab
 
 **Scoot trustees** and the **scootage** do not own the artwork. This is in adherence to the philosophy that Genius belongs to Humanity, therefore artwork of genius should not be owned by an individual or an organization. However, **scootees** shold hold legal title or lease of possession. The paradox of being the holder of the legal title to artwork but not ownership is one for the lawyers to work out, but it is the key. Tactically, if the **scootee** holds the title, no one else can. A formal legal declaration should be drawn releasing title to humanity at large as part of the **scooter**, while keeping right of possession.
 
-At **scoot** minting, the trustee assigns a curator for a term[^7]. The curator handles the possession, while both the **scootee** and **The Foundation** audit the curator to make sure proper care is taken of the artwork.
+At **scoot** minting, the trustee assigns a curator for a term[^5]. The curator handles the possession, while both the **scootee** and **The Foundation** audit the curator to make sure proper care is taken of the artwork.
 
 Holders of **scoot** bear a proportional responsibility for the preservation of artwork so present and future humanity can appreciate it. Alternately, since not every work of art is genius, **scoot** holders are responsible for preserving the fashion of today for the historical record of tomorrow. In either case, we can't say for sure which it is. An extremely high market value of **scoot** could reflect genius or reflect a present-day bubble of vanity. As a metric, the market value of **asimov** represents the cumulative historical value of genius and the present-day value of vanity.
 
 This proportional responsibility for the work of art is the only "right" that the **scootage** are entitled to. They elect **scootees** and curators. They may vote on specific measure of handling or location of the artwork. From a legal perspective, I believe this could be important -- **scoot** are not securities because the underlying asset is not owned by the **scootage.** Scoot is the exact opposite of limited liability -- it is full responsibility. Responsibility does have value. In societal terms, proportional responsibility has to have more value than limited liability. A system to measure that value has got to scare politicians everywhere. Good, it should.
 
-Artwork that generates income will have to follow very strict rules. The **scooter** should spell out how much reserve a trustee should keep on account for insurance, security, maintenance and administration. Salaries may be paid to **scootees** be approved by the **scootage** and should be reasonable to the effort required. Since the primary responsibility of both **The Foundation** and the **scootee** is the appreciation of works of genius, excess income should be used to buy scoot on the open market, which decrease supply and increase unit value. Another alternative is to use excess income to create a collection of work. There is no means for excess income to be distributed direct to **scootage --** holding **scoot** is a commitment, not an investment. You can sell your responsibility, but you can only profit if you did your job, meaning the appreciation of the artwork grew. This means you were responsible. If your **scoot** fails, the valuation falls to zero, there is no way to get the artwork back.[^8] It belongs to humanity. At that point, possession would fall to the **The Foundation**, which would maintain the artwork and **scoot-chain** in **statis**.[^9]
+Artwork that generates income will have to follow very strict rules. The **scooter** should spell out how much reserve a trustee should keep on account for insurance, security, maintenance and administration. Salaries may be paid to **scootees** be approved by the **scootage** and should be reasonable to the effort required. Since the primary responsibility of both **The Foundation** and the **scootee** is the appreciation of works of genius, excess income should be used to buy scoot on the open market, which decrease supply and increase unit value. Another alternative is to use excess income to create a collection of work. There is no means for excess income to be distributed direct to **scootage --** holding **scoot** is a commitment, not an investment. You can sell your responsibility, but you can only profit if you did your job, meaning the appreciation of the artwork grew. This means you were responsible. If your **scoot** fails, the valuation falls to zero, there is no way to get the artwork back.[^6] It belongs to humanity. At that point, possession would fall to the **The Foundation**, which would maintain the artwork and **scoot-chain** in **statis**.[^7]
 
 **Scoot** can be openly traded for other **scoot** and for **asimov**, but not for fiat or crypto. This virtual separation of **scoot** trade is called the **responsibility domain**, where **asimov** trading for goods or other currencies occur on the **value domain**. Holders of **scoot** wishing to convert to fiat or bitcoin must trade their **scoot** for **asimov**, which can then be traded for other currencies. The scoot domain is a pure market of responsibility for genius and vanity -- not property -- we want to keep that separate from commerce.
 
@@ -146,7 +108,7 @@ Since the process of minting **scoot** releases property rights to humanity at l
 
 The two domains have separate purposes. The **responsibility domain** is a market for the appreciation of human genius. **Scoot traders** are speculating in vanity and investing in genius. The difference in opinion is the arbitrage opportunity. The **value domain** establishes a metric, how much is the sum total of human genius is worth to humanity in terms of commerce.
 
-At establishment, the Foundation will mint an arbitrary one trillion **asimov**. The Foundation's purpose is the appreciation of human genius -- it does this by purchasing **scoot** in the **responsibility domain** and holding them. A division of the Foundation called the Encyclopedists[^10] are responsible for the appreciation -- in both senses. They act as researchers, providing **scootees** with advice and tools for establishing a digital data store, the scoot-chain, for each work of art, and interfacing with academia, and spreading public awareness of art. They are also buyers of genius and sellers of vanity.
+At establishment, the Foundation will mint an arbitrary one trillion **asimov**. The Foundation's purpose is the appreciation of human genius -- it does this by purchasing **scoot** in the **responsibility domain** and holding them. A division of the Foundation called the Encyclopedists[^8] are responsible for the appreciation -- in both senses. They act as researchers, providing **scootees** with advice and tools for establishing a digital data store, the scoot-chain, for each work of art, and interfacing with academia, and spreading public awareness of art. They are also buyers of genius and sellers of vanity.
 
 **The Foundation** maintains the open-source software stack and applications used both to trade scoot and asimov. Historical records of both trades in responsibility as well as research and in the case of IP, the actual works of creativity, are maintained on the **scoot-chain**. The Foundation will facilitate maintenance of at least one copy of each scoot-chain, but the actual responsibility for decentralized scoot-chain will be **staking agreements** between **scootees**.
 
@@ -154,11 +116,49 @@ The end goal of the Encyclopedist is that the Foundation hold all **scoot** of g
 
 **Scootees** are not obligated to sell scoot to The Foundation. The Foundation will establish barriers to entry to prevent a flood of novelty scooting. There will be at least two schedules of fees and the less expensive schedule will be if the scootee agrees to at initial minting to sell scoot to The Foundation. There will be a system of **sponsorship staking**, so that artistic attempts at genius have a path to participation without investment of significant capital.
 
-At a hypothetical point in the future, when the Foundation has reached its end goal, this means that 1T asimov = the sum value of human genius. Some art will remain **un-scooted** and some of **scootage** will never sell all their scoot to the Foundation. Some forms of art will be difficult to scoot. It's an impossible task, but a worthy goal. The Foundation's **scoot** reserve holdings will always be public knowledge.[^11] In the early days, the price of asimov should be like an index fund of its holdings of **scoot**. Over time, as more asimov are issued for art, the market will adjust to valuating the asimov closer to the end goal -- a trillionth of the total value of human genius. All the asimov has been minted, and the only purpose it will be used for is genius appreciation, so the market should rise to the level of the potential.
+At a hypothetical point in the future, when the Foundation has reached its end goal, this means that 1T asimov = the sum value of human genius. Some art will remain **un-scooted** and some of **scootage** will never sell all their scoot to the Foundation. Some forms of art will be difficult to scoot. It's an impossible task, but a worthy goal. The Foundation's **scoot** reserve holdings will always be public knowledge.[^9] In the early days, the price of asimov should be like an index fund of its holdings of **scoot**. Over time, as more asimov are issued for art, the market will adjust to valuating the asimov closer to the end goal -- a trillionth of the total value of human genius. All the asimov has been minted, and the only purpose it will be used for is genius appreciation, so the market should rise to the level of the potential.
 
 In the **responsibility domain**, we have a non-commercial marketplace in genius and vanity. Art professionals can stay out of the Wall Street gutter, helping their clients build portfolios of genius, not collections of investments. It should amount to a gold rush in the Art World, without the need to sully ones hands with the dirty money of the masses.
 
 In the **value domain**, we have **asimov**, a metric of value that is common across cultures, geo-political divisions and the span of history. We will always value genius, even if we overcome vanity. Sure, some time in the future, we might be so far advanced, we'll think Leonardo and Michelangelo were hacks, but I'm pretty sure if that day ever comes, we won't need money.
+
+# Circulation
+
+Enough with the high mindedness and theory. Let us consider how **scoot** and **asimov** will be circulated.
+
+## Staked
+
+"Doctor Frankenstein, you've created a monster."
+
+"My bad. Stick a stake through its heart."
+
+"I think that's for vampires."
+
+"Crap, what do we do? Sorry dude, first monster."
+
+"Well, there's a bunch of stakes laying around, we might as well give it a try."
+
+### Reserve Stake
+
+The purpose of the reserve stake is to provide a backing reserve in fiat and cryptocurrencies[^10] for **asimov** as a currency. The stake should not be touched, and conditions where the stake would be used or burned should be outlined in amendments to the foundational charter. There should be a long probationary period, and if **The Foundation** does NOT meet certain goals, the reserve stake should be returned.
+
+By staking the **asimov** early, we establish real world value for asimov issued for seeding and development. Development of this system will require time, work, and sacrifice from a large number of people who believe in the idealism behind it. There should be a large stake behind them.
+
+1% of total **asimov** will be issued for staking.
+
+#### Private staking **period**
+
+The private staking period begins now and lasts until the stake reaches a threshold of \$100 million in USD equivalents. At that point the **distribution value** will be calculated. The average daily value of the stake currency in USD will be used between the time the stake is received until mint day. There will be a multiplier for each stake in the order it was received.[^11] Details of the private stake process are available here: <http://www.somethingfoundationrelated.org>
+
+Staking will occur before the protocol is active, so initial asimov will be allocated and the splits will be communicated to the **staker** before the public staking period. Private stakes will remain anonymous to the public unless the **staker** makes it public and authorizes The Foundation to confirm their stake publicly.
+
+The mint value of asimov will be established as the USD value of private state divided ½ of the total reserve stake (0.5% total asimov).
+
+#### Public staking period
+
+There will be a public staking period where the remaining 0.5% of asimov is sold in whole units at the **distribution value**. We want fair and geographically dispersed distribution, so asimov will only be sold in whole units and one at a time, one per individual. The Foundation shall determine a way to do this fairly, which will probably require some type of identification, perhaps this is opportunity for **pre-pledge registration**.
+
+The purpose of the public staking is to prevent any one person from the private stake exerting control over of asimov and the development of The Foundation.
 
 ### 
 
@@ -206,15 +206,17 @@ We should also seed and sponsor scoot exchanges primarily owned by art professio
 
 ### Art Teachers
 
-Who better to judge potential genius than teachers? ...\.....
+Remember that part about explaining how money actually works to a kindergartener? Well, we can either get a math teacher to explain the art part, or we can let the art teacher explain how a system a shared valuation works. My guess is that it's going to be a lot more fun with finger paint.
+
+### Prizes
 
 ## Museums
 
 Perhaps we shall call this effort, *Bonfire of the Vanities y2.021k*. Before we open this section, it's worth a moment to reflect on the causes of revolution that occurred just over a hundred years ago, also in conjunction with a worldwide pandemic. It was a genesis revolution, leading to series of conflicts and societal shifts worldwide, and while these changes brought hundred of millions of souls into the modern age, it also led to deaths of hundreds of millions, directly and indirectly. History is cyclical, but I'd prefer to think of recursively cyclical, getting closer to a viable solution with each attempt. This time, we have computers and the internet to run our revolution. If we can't make civilization better in terms of efficiency, at least there will be less paperwork.
 
-I don't mean to pick on museums. This diatribe could just as easily gone in the billionaires sections. Many hardworking Americans give to art museums through donations and memberships because they want to preserve legacy of genius both for people of the future and those less fortunate in the present. That's exactly the goal of **The Foundation**. We have a compromised attitude about it politically, as most museums do receive some public funding, but not enough to keep the doors open. This is because many Americans believe our hard-earned tax dollars are better spent on primary education, or putting our kids through college, of green infrastructure, or affordable health care, or feeding and caring for children and elders who can't take care of themselves. Helping people directly, is the most efficient use of our public money. Preserving our legacy of genius is important, unless we find a way to value it with metrics, hard to improve in terms of efficiency. It's too important to leave in the hands of a government. If you can't measure the efficiency of a process, it's almost sure to degrade over time.
+I don't mean to pick on museums. This diatribe could just as easily gone in the billionaires sections. Many hardworking Americans give to art museums through donations and memberships because they want to preserve legacy of genius both for people of the future and those less fortunate in the present. That's exactly the goal of **The Foundation**. We have a compromised attitude about it politically, as most museums do receive some public funding, but not enough to keep the doors open. This is because many Americans believe our hard-earned tax dollars are better spent on primary education, or putting our kids through college, of green infrastructure, or affordable health care, or feeding and caring for children and elders who can't take care of themselves. Helping people directly is the most efficient use of our public money. Preserving our legacy of genius is important, unless we find a way to value it with metrics, hard to improve in terms of efficiency. It's too important to leave in the hands of a government. If you can't measure the efficiency of a process, it's almost sure to degrade over time.
 
-If public donations are inefficient, then private donations must be as well. In the United States, we give over \$20 billion a year privately to the arts and humanities.[^12] In 2019, there were 10.46 million kids in poverty in the United State, give that \$20B in some form directly to children, it works out to \$1,912 per child -- life changing money for a poor family. Or how about shelling it out for the 20 million new college students each year? [\< hard research here \>]{.mark}
+If public donations are inefficient, then private donations must be as well. In the United States, we give over \$20 billion a year privately to the arts and humanities.[^12] In 2019, there were 10.46 million kids in poverty in the United State, give that \$20B in some form directly to children, it works out to \$1,912 per child -- life changing money for a poor family.
 
 I'm not proposing defunding museums or scaling back their operations but reducing their reliance on private and public funding. Genius can pay for itself. Museums can scoot their collections, giving themselves perpetual rights as curators, and sell off some scoot as funding is required. I've read the Metropolitan Museum of Art's Collection is valued at least \$100 Billion, and that contemporary art has an annual appreciation rate of 13.6%. That's \$13.6 Billion dollars of appreciation a year for a single museum -- vs \$20 Billion of donations across all museums.
 
@@ -250,17 +252,17 @@ For many centuries, the social contract that kept the masses from devouring the 
 
 Why will the rich consent to this exchange? Someone, most likely their children, will inform them what happened the last go round where societies primed for social change intersected with a very high level of income inequality between the superrich and the masses. And, no, I'm not talking about Occupy Wall Street. The part of history I'm talking about was way less fun.
 
-Maybe I'm being hyperbolic, but here's what I know. People get real pissed off at inequality, and that last time it was about income, it led to a lot of bad times for many people. Back then, they reported about the privileged using newsletters printed with hand-presses out of secret basements and had people hand them off to each other in back alleyways. Today people, all people, have phones with cameras. A flame becomes a raging wildfire with sound of a digital shutter. I'm pretty sure this is in the billionaire handbook, 2021 edition, chapter one, "be careful around people with phones." Unfortunately, reading itself doesn't seem to have been a prerequisite for billionaire school, as chapter two is "don't share your thoughts on Twitter."
+Maybe I'm being hyperbolic, but here's what I know. People get real angry at inequality, and that last time it was about income, it led to a lot of bad times for many people. Back then, they reported about the privileged using newsletters printed with hand-presses out of secret basements and had people hand them off to each other in back alleyways. Today people, all people, have phones with cameras. A flame becomes a raging wildfire with sound of a digital shutter. I'm pretty sure this is in the billionaire handbook, 2021 edition, chapter one, "be careful around people with phones." Unfortunately, reading itself doesn't seem to have been a prerequisite for billionaire school, as chapter two is "don't share your thoughts on Twitter."
 
 Responsibility for genius is what we will value. Peacefully, in a manner that is equitable to all people. In a voluntary way. You can pass down responsibility through your family, or collectively, it's your choice, whatever you think is better for the appreciation of human genius. With responsibility comes accountability. If your motivationally challenged grandson inherits the scoot control of a Picasso and uses it for wall decoration for his semi-housetrained wild Peruvian llama's room, history is going to blame you, archetypical billionaire. Bad boy, failed at the social contract. Forgotten by the history of genius. But we're good, as long as you participated in the responsibility trade, even if only in vanity. We captured the digitized version on the scoot-chain, not lost forever, just not properly appreciated.
 
 Art lovers, the billionaires are going to fund a new renaissance in the arts in exchange for a social contract with the masses not to repeat the past 200 hundred years of revolving bloody revolutions throughout the civilized world. Art professional, you're going to be busy. And woke, too. Right on. You were right to study liberal arts. And lawyers be busy, too. Creating value for society, just like all lawyers do.
 
-Here\'s the thing. True genius may have a global reach, but unfound genius is local. Billionaires travel straight from the lobby of their penthouses to the air stairs of their Gulfstreams. Mere millionaires have to pass through the thriving masses in the terminal on their way to the first-class lounge. Most millionaires wouldn't notice the frumpy looking girl with flowers in her hair sketching out beautiful pictures of children and giving them away to the kids with their parent's permission. But if billionaires start competing over un-found genius, they might. Hell, some millionaires might invest in Ms. Frumpys scoot just so they can name drop the discovery with their millionaires friends and work into the conversation how green they are by flying commercial. Hell, we could save the planet, one millionaire at time. Just don't expect them to sit next to her on the plane in coach. There are limits.
+Here\'s the thing. True genius may have a global reach, but unfound genius is local. Billionaires travel straight from the lobby of their penthouses to the air stairs of their Gulfstreams. Mere millionaires pass through the thriving masses in the terminal on their way to the first-class lounge. Most millionaires wouldn't notice the frumpy looking girl with flowers in her hair sketching out beautiful pictures of children and giving them away to the kids with their parent's permission. But if billionaires start competing over un-found genius, they might. Hell, some millionaires might invest in Ms. Frumpy's scoot just so they can name drop the discovery with their millionaire friends and work into the conversation how green they are by flying commercial. Hell, we could save the planet, one millionaire at time. Just don't expect them to sit next to her on the plane in coach. There are limits.
 
-Millionaires playing the short game pass their discoveries along to the billionaires. Long game millionaires carry some genius or (more likely) vanity responsibly and might end up billionaires themselves. The rest of us, well, the rest of us don't need to even go to the airport to find genius, they're all around. The waitress with the radical self-designed tats, the graveyard shift gas station attendant working on the Great American Novel, the Pizza delivery boy in the Rush T-Shirt who blasts his homemade flavor for prog-rock while backing out your driveway. Well, not everybody.
+Millionaires playing the short game pass their discoveries along to the billionaires. Long game millionaires carry some genius or (more likely) vanity responsibly and might end up billionaires themselves. The rest of us, well, the rest of us don't need to even go to the airport to find genius, they're all around. The waitress with the radical self-designed tats, the graveyard shift gas station attendant working on the Great American Novel, the Pizza delivery boy in the Rush T-Shirt who blasts his homemade flavor for prog-rock while screeching out your driveway. Well, not everybody.
 
-There you have it, The Art of the Deal. I read a book about deal-making with billionaires back when I was a teenager, so trust me, I know what I'm talking about.
+There you have it, The Art of the Deal. I read a book about deal-making with billionaires back when I was young, so trust me, I know what I'm talking about.
 
 Everybody wins. No blood. And it's all done on a blockchain, so there's less paperwork.
 
@@ -312,23 +314,23 @@ The Foundation will need to employ experts in Security to ensure masterpiece lev
 
 For example, a **scoot in absentia** (SIA) could be created for a stolen work of art. Through both an anonymous messaging system in the protocol and anonymous transfers of asimov, a "reward" of asimov could be paid for recovery of the art. Crowdsource based investigation could also play a part.
 
-This might seem hypocritical, but The Foundation should never pay for recovery of stolen scooted works of art. The reason is simple -- scooted artwork belongs to humanity at large, so theft is a crime against humanity. Un-scooted art is private property -- and thus a common crime, no matter the appraised value. Therefore, the security requirements of scooted works should be appropriate for their valuation or potential. Theft of scooted works will occur, but The Foundation's team will be charged recovery and prosecution. As the market of scoot grows, this will reduce the valuation of artwork on both the legitimate and illegitimate private markets. People in possession or trafficking in stolen artwork will be barred from the responsibility domain forever, which may have the effect of locking dishonest professionals out of the Art profession as The Foundation grows.
+This might seem hypocritical, but The Foundation should never pay for recovery of stolen scooted works of art. The reason is simple -- scooted artwork belongs to humanity at large, so theft is a crime against humanity. Un-scooted art is private property -- and thus a common crime, no matter the appraised value. Therefore, the security requirements of scooted works should be appropriate for their valuation or potential. Theft of scooted works will occur, but The Foundation's team will be charged recovery and prosecution. As the market of scoot grows, this will reduce the valuation of artwork on both the legitimate and illegitimate private markets. People trafficking in stolen artwork will be barred from the responsibility domain forever, which may have the effect of locking dishonest professionals out of the Art profession as The Foundation grows.
 
 ## Immaterial Genius
 
 In Basketball, there is a consensus opinion that Michael Jordan is the greatest of all time (GOAT). I happen to have a dissenting opinion and think that the GOAT is the only other player to win MVP and Defensive Player of the Year in the same year who was also drafted ahead of Jordan in the 1984 NBA draft.[^17] Others will argue that Bill Russell, Kareem Abdul-Jabbar, Kobe Bryant or Lebron James is the GOAT. And even though Basketball, like most sports, has statistics for every facet of the game, it's not an argument that can be easily won with just statistics and logic. The rules have changed over the years, players begin playing professionally at younger ages, and there is more global competition now than in earlier eras. Yet, we continue to debate it, and probably always will.
 
-The simple explanation is that the consensus majority that believe Michael Jordan is the GOAT value vanity, while the enlightened few, like myself and all of Nigeria, value basketball genius.[^18] If I were a billionaire, I might spend it all building an amusement park called *Dreamland* with rides with names like *Bamboozled* and *The Dream Shake*, and a full 3-D first person immersion of all of Olajuwon's greatest blocks and dunks against the stars of the 80s and 90s. Yet, as certain as I am that *The Dream* is the GOAT, *Dreamland* would be an act of vanity. Even though I am certain I'm right, nobody elected me the arbiter of basketball genius, it would be vain for me build this monstrosity. But also, very American. Since it would be in Houston, it would be bigger than Disney World, since everything is bigger in Texas. Yeah, Mike and Mickey, imagine what twenty or so years of me subsidizing[^19] destination vacations for the families of the world will do for that GOAT consensus.
+The simple explanation is that the consensus majority that believe Michael Jordan is the GOAT value vanity, while the enlightened few, like myself and all of Nigeria, value basketball genius.[^18] If I were a billionaire, I might spend it all building an amusement park called *Dreamland* with rides with names like *Bamboozled* and *The Dream Shake*, and a full 3-D first person immersion of all of Olajuwon's greatest blocks and dunks against the stars of the 80s and 90s. Yet, as certain as I am that *The Dream* is the GOAT, *Dreamland* would be an act of vanity. Even though I am certain I'm right, nobody elected me the arbiter of basketball genius, it would be vain for me build this monstrosity. Also, very American. Since it would be in Houston, it would be bigger than Disney World, since everything is bigger in Texas. Yeah, Mike and Mickey, imagine what twenty or so years of me subsidizing[^19] destination vacations for the families of the world will do for that GOAT consensus.
 
 Consensus does not make genius. There is no consensus is to what makes a genius.
 
-Sometimes genius is so obvious that there really is no argument. Einstein in science. It certainly seems like there is a consensus that Leonardo Da Vinci was one of the greatest artists who ever lived. In music, there is John Bonham.
+Sometimes genius is so obvious that there really is no argument. Newton and Einstein in physics. It certainly seems like there is a consensus that Leonardo Da Vinci was one of the greatest artists who ever lived. In music, there is John Bonham.
 
 John Bonham, the drummer for the Led Zeppelin, is almost universally recognized as the greatest drummer in history.[^20] Personally, I feel that is selling Bonham short. John Bonham is almost certainly the greatest musician who ever lived. Since recorded music is barely a hundred years old it is hard to prove. Nothing I've ever heard that even approaches that level of mastery.
 
-Since I'm already playing hypothetical multi-billionaire, I think I'd have a prize called the BonzoX prize with an award of 1 billion USD. Since percussion is the closest form of music to being pure digital, I believe if it were possible to determine an algorithm for the divine, it could most easily be done by algorithmically quantifying the groove of John Bonham. Worst case, you might uncover a crypto message from the planet Terminus. Hopefully, Jimmy Page[^21] will give the BonzoX competitors access to the master recordings. In what seems like an intentional assault of their most appreacitive listeners, some of John Bonham's most insanely great drumming *occurs* during the fade-outs of some of their greatest songs. Blast the volume at the end of *Kashmir* for the ultimate example, and I'm sure that this virtuoso Bonham performance goes on for several minutes, because for that song, they hired an orchestra and those guys charge by the day. You'd think maybe Jimmy was intentionally trying to hide Bohnam's genius from the rest of us, except that on other songs on that same album, Jimmy fades out some of the most ridiculously bad-ass guitar playing you've ever heard. So what up with that, I mean, apparently nobody but me wants to listen to twelve minutes Zeppelin songs.
+Since I'm already playing hypothetical multi-billionaire, I think I'd have a prize called the BonzoX prize with an award of 1 billion USD. Since percussion is the closest form of music to being pure digital, I believe if it were possible to determine an algorithm for the divine, it could most easily be done by algorithmically quantifying the groove of John Bonham. Worst case, you might uncover a crypto message from the planet Terminus. Hopefully, Jimmy Page[^21] will give the BonzoX competitors access to the master recordings. In what seems like an intentional assault of their most appreacitive listeners, some of John Bonham's most insanely great drumming *occurs* during the fade-outs of some of their greatest songs. Blast the volume at the end of *Kashmir* for the ultimate example, and I'm sure that this virtuoso Bonham performance goes on for several minutes, because for that song, they hired an orchestra and those guys charge by the day. You'd think maybe Jimmy was intentionally trying to hide Bonham's genius from the rest of us, except that on other songs on that same album, Jimmy fades out some of the most ridiculously bad-ass guitar playing you've ever heard. So what up with that, I mean, apparently nobody but me wants to listen to twelve minutes Zeppelin songs.
 
-Sadly, percussion seems to be a dying art. For one thing, it's much easier to just buy your kid a Mac, this allows you to sleep in on the weekends, and saves you from pissing off your neighbors. And even Rock 'n Roll seems to have hit its peak. I don't think we're going lose the appreciation of John Bonham in my lifetime, but it scares me that we might not long after. I would be willing to take responsibility to make sure we don't. It would be an absolute travesty and failure if humanity lost the value of John Bonham's genius.
+Sadly, percussion seems to be a dying art. For one thing, it's much easier to just buy your kid a Mac, this allows you to sleep in on the weekends, and doesn't piss off your neighbors. And even Rock 'n Roll seems to have hit its peak. I don't think we're going lose the appreciation of John Bonham in my lifetime, but it scares me that we might not long after. I would be willing to take responsibility to make sure we don't. It would be an absolute travesty and failure if humanity lost the value of John Bonham's genius.
 
 ### Agency
 
@@ -342,9 +344,9 @@ But who is accountable? Real responsibility comes with accountability.
 
 I think we can agree while an artist is alive, he's accountable for his work. Copyrights generally extend 70 years after a creator's death -- typically several generations of heirs. This is usually an artist's decedents or relatives but ultimately, in most countries, the artist's choice of stewards. In most cases, these are people who knew the artist as a human being, as a mother or father or grandparent. In idealistic sense, this is true of the physical artists as well -- no one forces a painter or an architect to sell his creations.
 
-First of all, there may be better ways to do this, and I'm open to all ideas. Core to any solution is responsibility and accountability.
+There may be better ways to do this, and I'm open to all ideas. Core to any solution is responsibility and accountability.
 
-The idea of an agent, be it a sports agent, literary agent, sports agent is pretty simple. You're a creative professional, you hire somebody to find you paid work in exchange for a percentage of the income. Conceptually, this could apply to any type of professional -- a headhunter works the same way, though they usually are paid directly by and looking out for interest of the client company, not the professional job-seeker. What percentage agents are paid varies both by industry and talent level. For simplicity of my example, let's just say that agents typically get 10% of an artist's income.
+The idea of an agent, be it a sports agent, literary agent, or talent agent is pretty simple. You're a creative professional, you hire somebody to find you paid work in exchange for a percentage of the income. Conceptually, this could apply to any type of professional -- a headhunter works the same way, though they usually are paid directly by and looking out for interest of the client company, not the professional job-seeker. What percentage agents are paid varies both by industry and talent level. For simplicity of my example, let's just say that agents typically get 10% of an artist's income.
 
 Most agents are concerned with an artist's legacy of genius. It's a simple equation -- the more people that appreciated an artist's talent, the higher the demand for his product (expression of genius) and consequently the higher his income will be, and the higher the agent's income will be. But long term, what is better for an artist, good product or income?
 
@@ -362,9 +364,9 @@ There will be two types of players in the trade of SOA. Speculators in vanity --
 
 An artist with a liquid pool of scoot should be able to gauge what the public sentiment is by the direction from polling or formal elections by the scootage. Direction to decrease dilution would be an indicator that the world thinks his talent is transient. Direction to invest income in future projects would be a good indicator that the world thinks he might have some lasting genius.
 
-Another consideration is who is a member of the scootage. The scootage are never anonymous to the scootee and The Foundation. If it's just fans or speculators, it's a pretty good indicator that an artist should focus on the present. If the **scootage** consists of other artists -- especially people the artist admires and respects, that's a good indicator that the artist should make careful career moves and focus on quality over income. If the **scootage** is held by peers it might mean there are collaborative opportunities. Let's use another hypothetical - If James Harden had a SOA, and the valuation is at an all time high, he looks at the **scootage** and he sees that Keven Durant and Kyrie Irving have driven up the his value by buying up the majority of liquid scoot, he should by all means leave a team with legacy of a superstar changing a city's self-image from choke to clutch and **leading** and leading them to multple championships.
+Another consideration is who is a member of the scootage. The scootage are never anonymous to the scootee and The Foundation. If it's just fans or speculators, it's a pretty good indicator that an artist should focus on the present. If the **scootage** consists of other artists -- especially people the artist admires and respects, that's a good indicator that the artist should make careful career moves and focus on quality over income. If the **scootage** is held by peers it might mean there are collaborative opportunities. Let's use another hypothetical - If James Harden had a SOA, and the valuation is at an all-time high, he looks at the **scootage** and he sees that Keven Durant and Kyrie Irving have driven up the his value by buying up the majority of liquid scoot, he should by all means force his way out of town.
 
-While SOA give the artists tools to better judge his agent's performance in terms of income, career potential and legacy. Ultimately, an artist is independent of the SOA. Even if the artist loses majority control of the scootage, he or she can veto the choice of agents and always refuse work sourced from the agent. The scootee, who controls transactions of the SOA, can refuse to trades to pledges it thinks are counter to the best interests of the artists, it should be written into the scooter that the trustee can never refuse to trades back to the artist. If an artist loses control of the SOA, there is always a path to gain it back, and if he or she has true genius potential, likely a pool of resources that could help in that process. Even it's only vanity potential, an artist can crowdsource their way back to control through his or her fanbase.
+SOA give the artists tools to better judge his agent's performance in terms of income, career potential and legacy. Ultimately, an artist is independent of the SOA. Even if the artist loses majority control of the scootage, he or she can veto the choice of agents and always refuse work sourced from that agent. The scootee, who controls transactions of the SOA, can refuse to trades to pledges it thinks are counter to the best interests of the artists, it should be written into the scooter that the trustee can never refuse to trades back to the artist. If an artist loses control of the SOA, there is always a path to gain it back, and if he or she has true genius potential, likely a pool of resources that could help in that process. Even it's only vanity potential, an artist can crowdsource their way back to control through his or her fanbase.
 
 Some may find it noncongruent to add Agency to scoot and still call the responsibility domain non-commercial. I admit, it does seem that way. However, Agency is actually a balance of genius against the commercial side of creative talent. Every actor ever interviewed during a film promotion says he choose the role for the material, and never the money. Scoot of Agency will measure the accuracy of those kinds of statements.
 
@@ -386,7 +388,7 @@ I know that this will be contentious area and one that will require a lot of tho
 
 #### Post-Agency
 
-Where a Post-Agency Scoot (PAG) begins is the first question. Certainly, any scoot created for a writer whose rights have expired, would begin when a scoot is created. It would be simpler to say that Post-Agency begins with the artist's death, but that might not be right. For example, a great solo-musician dies, and her fandom believe that their scoot should turn from commercial income to endeavors that promote her genius. That might be true, but what if she leaves behind young children with no other means of support? Their best interest is income.
+Where a Post-Agency Scoot (PAG) begins is the first question. Certainly, any scoot created for a writer whose rights have expired, would begin when a scoot is created. It would be simpler to say that Post-Agency begins with the artist's death, but that might not be right. For example, a great solo-musician dies, and her fandom believe that their scoot should turn from commercial income to endeavors that promote her genius. That might be ideal, but what if she leaves behind young children with no other means of support? Their best interest is income.
 
 This might be something that could be decided by the artists themselves. They may specify dilution events upon their death, that would still give the SOA authority over the commercialization of their IP but and mandate to balance it to achieve income for their family after their death.
 
@@ -408,7 +410,7 @@ Einstein......
 
 #### Elon Throwdown
 
-As an engineer, I've always been impressed with Tesla and SpaceX. Both are amazing companies, and it seems like Elon Musk has an exceptionally good appreciation of application engineering, which sometimes requires a higher level of thinking than any fundamental technology. I've been anti-Tesla the car out of a different principle. Nikola Tesla was an important engineer and inventor, and one of his most important inventions were alternating current (AC) motors and distribution systems, which are used throughout the world. Tesla, the car, uses direct current (DC) motors, which were invented before Nikola Tesla was born. While many own Tesla vehicles, each and every individual American, and most people on the planet, have used AC power of some sort in his lifetime. If you own, a lamp, a refrigerator, a washing machine, a microwave, or a hair dryer, you've benefited from Mr. Tesla's invention, and that goes for all of us, even those too young or too old to drive. I'm a realist thought, and Tesla was the first commercially viable electric car, and if you're going to name a company after a genius, you better live up to it. Tesla's legacy of alternating current has probably done more to increase human lifespan, reduce poverty and disease, and increase prosperity than any innovation before or after.
+As an engineer, I've always been impressed with Tesla and SpaceX. Both are amazing companies, and it seems like Elon Musk has an exceptionally good appreciation of application engineering, which sometimes requires a higher level of thinking than any fundamental technology. I've been anti-Tesla the car out of a different principle. Nikola Tesla was an important engineer and inventor, and one of his most important inventions were alternating current (AC) motors and distribution systems, which are used throughout the world. Tesla, the car, uses direct current (DC) motors, which were invented before Nikola Tesla was born. While many own Tesla vehicles, each and every individual American, and most people on the planet, have used AC power of some sort in his lifetime. If you used a lamp, a refrigerator, a washing machine, a microwave, or a hair dryer, you've benefited from Mr. Tesla's invention, and that goes for all of us, even those too young or too old to drive. I'm a realist thought, and Tesla was the first commercially viable electric car, and if you're going to name a company after a genius, you better live up to it. Tesla's legacy of alternating current has probably done more to increase human lifespan, reduce poverty and disease, and increase prosperity than any innovation before or after.
 
 For me, Tesla's name is now remembered most often as a curse I spit every time one of those silent predators roll up on me while I'm talking a walk.
 
@@ -440,23 +442,23 @@ The plaque above was erected by the Al Packer[^25] Chapter of E Clampus Vitus, a
 
 Figure 3 - Nikola Tesla\'s Wardenclyffe wireless station, located in Shoreham, New York, seen in 1904
 
-There are museums dedicated to Nikola Tesla. There is one at the Tesla Science Center at Wardenclyffe, New York. This institution was crowdfunded to the tune of \$1.3 million with an additional donation of \$1 million by Elon Musk. The centerpiece of the lab was a 186 foot tower and cupola, Tesla used for experiments in wireless communication and power transmission. In a recurring theme, Tesla failed to meet his mortgage payments, the property was foreclosed upon and the tower demolished. The museum bought the property and is renovating the site and rebuilding the tower.
+There are museums dedicated to Nikola Tesla. There is one called the Tesla Science Center at Wardenclyffe, New York. This institution was crowdfunded to the tune of \$1.3 million with an additional donation of \$1 million by Elon Musk. The centerpiece of the lab was a 186-foot tower and cupola, Tesla used for experiments in wireless communication and power transmission. In a recurring theme, Tesla failed to meet his mortgage payments, the property was foreclosed, and the tower demolished. The museum bought the property and is renovating the site and rebuilding the tower.
 
-After his death, Tesla's nephew had all his work product and belongings packed up and shipped to his native Serbia, and there is a museum in Belgrade. This is appropriate, his family had the right to dispose of his property and Serbia certainly has every right to be proud of their native son. However, Nikola Tesla was a proud naturalized citizen on the United States, and might be the very prototypical Immigrant American Engineer. The H-1B visa should be called the Tesla visa -- there is no better model immigrant engineer than Nikola Tesla.
+After his death, Tesla's nephew had all his work product and belongings packed up and shipped to his native Serbia, and there is a museum in Belgrade. This is appropriate, his family had the right to dispose of his property and Serbia certainly has every right to be proud of their native son. However, Nikola Tesla was a proud naturalized citizen on the United State and might be the very prototypical Immigrant American Engineer. The H-1B visa should be called the Tesla visa -- there is no better model immigrant engineer than Nikola Tesla.
 
 Now, before I throwdown my challenge, I need to admit my own hypocrisy. I have been known to name things after geniuses, without any expectation that my creations live up to that level. It's more about inspiration that name of a genius confers. Tesla the car does inspire, and maybe the inspiration of genius is more important than the facts. However, in the case of Nikola Tesla, the facts are the inspiration, and I think it is important that the world remembers the true facts of Tesla's life.
 
-I believe that the challenge of creating scoot for physical artwork is primary social -- getting people to accept that that the works of genius, especially past masterpieces, and not property and belong to humanity and not individuals. Sure, there's a bunch of legal work, but it's well within the scope that can be funded through seeding. I think the biggest legal challenge will be wealthy supporters trying to avoid capital gains, but I do not think The Foundation should participate in that directly. However property contracts and contracts that specify proportional responsibility and liability exist already, scoot of artwork is just a modification of those contracts to complement a digital token system.
+I believe that the challenge of creating scoot for physical artwork is primary social -- getting people to accept that that the works of genius, especially masterpieces, are not property and belong to humanity and not individuals. Sure, there's a bunch of legal work, but it's well within the scope that can be funded through seeding. I think the biggest legal challenge will be wealthy supporters trying to avoid capital gains, but I do not think The Foundation should participate in that directly. Property contracts and contracts that specify proportional responsibility and liability exist already, scoot of artwork is just a modification of those contracts to complement a digital token system.
 
-Scoot-of-Agency (SOA) and Pre-Agency Scoot (PAS) are very complex, and may require decades of experimentation to figure out what are the best ways to create a legacy of genius and also protect artists rights and income potential in the present. However, these occur while the artists is alive and has choices, and there are plenty of rich artists who can afford lawyers to pave the way.
+Scoot-of-Agency (SOA) and Pre-Agency Scoot (PAS) are very complex, and may require decades of experimentation to figure out what are the best ways to create a legacy of genius and also protect artists rights and income potential in the present. However, these occur while an artists is alive and has choices, and there are plenty of rich artists who can afford lawyers to pave the way.
 
-Post-Agency Scoot (PAG) is a different matter. How to create an organization, which may or may not have income, which sole purpose is the appreciation of a dead human, after his or her Intellectual Property rights have expired, seems like a level of complexity that might take decades of legal work when you are paying an army of attorneys by the hour. Or, you find a real smart one, it might take him a week and a half. I believe genius exists in every profession, even the legal one.
+Post-Agency Scoot (PAG) is a different matter. How to create an organization, which may or may not have income, which sole purpose is the appreciation of a dead human, after his or her Intellectual Property rights have expired, seems like a level of complexity that might take decades of legal work when you are paying an army of attorneys by the hour. Or you find a real smart one, it might take him a week and a half. I believe genius exists in every profession, even the legal one.
 
-Elon Musk has access to an army of attorneys who when he says jump, they say, "With how many watts of force and at what vector, Elon?"
+Elon Musk has access to an army of attorneys. When he says jump, they say, "With how many Newtons of force and at what vector, Elon?"
 
 That is my challenge, for Elon Musk to create a Post-Agency Scoot for Nikola Tesla.[^27] Maybe this becomes a wrapper organization around the existing museums, and I hope that it would re-create Tesla's Colorado Springs Lab as a learning center for children.[^28]
 
-I think that this **scoot** should award the Tesla Prize. The Tesla prize should go to the greatest engineering accomplishment of the year that benefits humanity in the spirt of Nikola Tesla. Scoot have no means to distribute income, but the scootee can create a fixed dilution and the reward will continue to increase in values as long as the appreciation of Nikola Tesla's genius continues to grow.
+I think that this **scoot** should award the Tesla Prize. The Tesla prize should go to the greatest engineering accomplishment of the year that benefits humanity in the spirt of Nikola Tesla. Scoot have no means to distribute income, but the scootee can award a dilution and the reward will continue to increase in values as long as the appreciation of Nikola Tesla's genius continues to grow.
 
 There are rumors that both Edison and Tesla were up for the Nobel prize in physics, but because of their feud, the Nobel committee declined to award it to either man. Besides his alternating current work, which was truly monumental, Tesla did pioneering work in radio, X-Rays, automation, robotic and even what would later become atomic physics.
 
@@ -464,11 +466,11 @@ I think Nikola Tesla should have been awarded the Nobel Peace Prize.
 
 ![Chart, line chart Description automatically generated](media/image4.jpg){width="6.5in" height="4.180555555555555in"}
 
-Figure - Life expectancy 1870-2019 from https://ourworldindata.org/life-expectancy#twice-as-long-life-expectancy-around-the-world
+Figure 4 - Life expectancy 1870-2019 from https://ourworldindata.org/life-expectancy#twice-as-long-life-expectancy-around-the-world
 
-The chart above shows from 1890, the year of the first commercial application of Tesla's AC inventions, to 1990 life expectancy in the US rose from 45.2 to 75.2 years, an increase of 66%. It's noteworthy that in 1890, The United States was already one of the most advanced countries in the industrial age, and a life expectancy of 45 years was much higher than the world average of around 30 years. In that same time period, the World average doubled -- 100%. Now, modern medicine wants to take most of the credit for that, with lower rates of infant mortality and higher standards or hygiene and care and broader access to doctors across the planet. Sure. Doctors and Nurses deserve a lot of credit.
+The chart above shows from 1890, the year of the first commercial application of Tesla's AC inventions, to 1990 life expectancy in the US rose from 45.2 to 75.2 years, an increase of 66%. It's noteworthy that in 1890, The United States was already one of the most advanced countries in the industrial age, and a life expectancy of 45 years was much higher than the world average of around 30 years. In that same time period, the World average doubled -- 100%. Modern medicine wants to take most of the credit for that, with lower rates of infant mortality and higher standards or hygiene and care and broader access to doctors across the planet. Sure. Doctors, Nurses, and hand washing deserve a lot of credit.
 
-Let me ask you this - What's the success rate of Caesarian sections by candlelight? How often do anesthesiologist just wing it without using heart-rate, blood-pressure and breathing monitors? How well do home brewed mold-cultures work as antibiotics?
+Let me ask you this - What's the success rate of Caesarian sections by candlelight? How often do anesthesiologist just wing it without using heart and respiratory monitors? How well do home brewed mold-cultures work as antibiotics?
 
 I don't think medicine has much do with the worldwide increase in longevity. As an American with employer paid health insurance, I've seen a lot of doctors in my life, but I'm guessing that's not true for most of the billions on this planet.
 
@@ -486,7 +488,7 @@ I feel all engineers have a responsibility to grow the appreciation of Nikola Te
 
 I think we'd consider Martin Luther King, Jr a genius. He led a peaceful movement that directly changed policy and law in the United States. Gandhi was a genius; he peacefully sent the British packing despite the resistance of a very divided and stratified culture.
 
-The world faces many challenging problems today, with scopes that are global, national, and local. If someone were to create an efficient and affordable desalination device, that would solve many problems faced by the poorest drought plagued countries. That solution would be genius. If somebody came up with a solution that removed money and corporate influence from our national elections, that would be genius. If somebody organized a group of locals to reduce gang-violence in a city without the divisiveness of the police force by actually addressing the root problems, that would be genius. We do not need to know what a solution is to say that solving a problem would be a work of genius. Most societal problems solved witout the "help" of government are genius, and most government solutions are at best, half-ass.
+The world faces many challenging problems today, with scopes that are global, national, and local. If someone were to create an efficient and affordable desalination device, that would solve many problems faced by the poorest drought plagued countries. That solution would be genius. If somebody came up with a solution that removed money and corporate influence from our national elections, that would be genius. If somebody organized a group of locals to reduce gang-violence in a city without the divisiveness of the police force by actually addressing the root problems, that would be genius. We do not need to know what a solution is to say that solving a problem would be a work of genius. Most societal problems solved without the "help" of government are genius, and most government solutions are at best, half-ass.
 
 A scoot is formed as a collective responsibility for the appreciation of genius. If a problem is well defined, you can assume the solution will be genius before once it is formed. I see no reason why you need to actually solve a problem before scooting the responsibility to solve it.
 
@@ -494,7 +496,7 @@ This is different from a political cause or movement. Those almost always deal w
 
 One of the fundamental problems we have with political leadership is most of these people are utterly useless at anything else but politics. We don't elect people because they are good a solving problems. We elect people because they are good at getting elected.
 
-I think a scoot of collective genius (SOG) could be a way of finding real leaders who can actually solve social and civil problems. The scoot is formed with a specific problem, and the scootee builds the scootage of people willing to be both responsible and accountable. Maybe multiple SOG are formed to try to find a solution to the same problem, and as the solutions start to become viable, the scootage flees to the most promising or they merge.
+I think a scoot of collective genius (SOG) could be a way of finding real leaders who can solve social and civil problems. The scoot is formed with a specific problem, and the scootee builds the scootage of people willing to be both responsible and accountable. Maybe multiple SOG are formed to try to find a solution to the same problem, and as the solutions start to become viable, the scootage flees to the most promising or they merge.
 
 I think this could be like on-the-job training for elective office. You show us what you can get done with other responsible people's money before you get taxpayer money. With scoot, success will be measurable and failure accountable.
 
@@ -518,31 +520,31 @@ Once wealth as responsibility is mainstream, then I think this could happen natu
 
 An instrument of peace and diplomacy in old times was the exchange of royal hostages between rivals. I'm pretty sure that the failure of the instrument had something to do with the true lack of bilateralism, mostly due to valuing sons over daughters. An equally ineffective tool was the royal marriage, mostly due to it is tougher than you think to stay married to somebody who hates your guts. Kings, first born sons usually, luckily have a genetic preponderance for thick skin. Second sons, apparently, the disposition is usually skill with poison and falling for foreign seductresses.
 
-Since the dawn of the information age, we've had the longest continuous military peace between world powers in history. There is a reason for that, and it's the nuclear take on the hostage exchange. We don't need to bother with exchange part, we can just kill your entire family, including in-laws and mistresses from way over here. From a military-diplomacy systems point of view, we have a fail-safe but it's a pretty hard trip, so the system dyanmically adjust to achieve a stable, though sometimes volatile equilibrium. Mutually Assured Destruction hasn't stopped regional conflict, nor economic and cultural conflict, but it has prevented direct military conflict between the largest world powers.
+Since the dawn of the information age, we've had the longest continuous military peace between world powers in history. There is a reason for that, and it's the nuclear take on the hostage exchange. We don't need to bother with exchange part, we can just kill your entire family, including in-laws and mistresses, from way over here. From a military-diplomacy systems point of view, we have a fail-safe but it's a pretty hard trip, so the system dynamically adjusts to achieve a stable, though sometimes volatile, equilibrium. Mutually Assured Destruction hasn't stopped regional conflict, nor economic and cultural conflict, but it has prevented direct military conflict between the largest world powers.
 
 Just because an implementation is bad doesn't mean the idea was flawed. I'm not saying Mutually Assured Destruction is the best implementation either, but it has been more effective than what we had for the entire history of civilized nations. Tripping the switch has consequences way beyond the king's family. Everybody's family shares in the burden and the risk. The risk distribution is very democratic and equitable. Everybody's family doesn't share in the rewards of royalty, which is the problem we are trying to solve.
 
 There have been other proposals for a peacekeeping system, in spirit, my favorite is Lennon's 1971 proposal, *Imagine*. Genius for sure, but difficult to turn into an algorithm, as there are no conditionals. There one part, and it is a start - "It's easy *if* you try." We are trying, and young people are trying and won't stop. I think he was giving us a big hint. Imagine -- not a conditional, but a loop. Imagination, the fuel of genius. Imagine, and repeat.
 
-### Die Hard 6 -- In a world of the king's gold 
+### Die Hard 7 -- In a world of the king's gold 
 
 A Scorsese film, starring Bruce Willis, Joe Jonas as his grandson, and Matthew McConaughey, as the president. Bruce is getting long in the tooth, so he's the executive at a top-secret private anti-terrorism outfit. The elite strike team is captained by his grandson, Joe Jonas. Bruce is old, but he's not soft, and in the first scene we see him giving Joe Jonas a load of crap about how slow his team is rappelling down an elevator shaft in a training session. He takes off his coat and jumps down the shaft, beating the entire team to the objective.
 
 Cut to Paris. Out of the skies comes a massive parachute drop of troops who quickly and non-violently take over the entire Louvre. It's revealed this is an attack by the military of the rouge province of West Asslickistan, led by the warlord General Drogo, played by Samuel L. Jackson, with an eye patch. It's revealed through a news report that France has offended West Asslickistan by refusing to buy petrol due to human rights violations.
 
-Bruce Willis is surprised by a Blackhawk appearing over his fishing hole, and rushed to an AFB base where he's flown in the fighter jet to Washington. Cut to the White House, where President McConaughey is busy on a five-way video conference between the leaders of France, Britain, Italy and Germany.
+Bruce Willis is surprised by a Blackhawk appearing over his fishing hole and rushed to an AFB base where he's flown by fighter jet to Washington. Cut to the White House, where President McConaughey is busy on a five-way video conference between the leaders of France, Britain, Italy and Germany.
 
 "Excuse, me gentlemen, I've got to leave you to it, we'll get back to you."\
 Shouting in five different languages from the video screens.
 
-"Allright, Allright, Allright," and the President pushes a button and the screens go blank.
+"Allright, Allright, Allright," the President pushes a button, and the screens go blank.
 
 "John McClain, thank you for coming."\
-"Like I had a choice sir."
+"You're keeping me from the fish, sir."
 
 "Sorry, old friend. I wouldn't have picked you except I didn't have a choice."
 
-The President explains the situation. Colonel Drogo must be removed from Paris, and it must be done without destroying the valuable artwork inside. Since a lot of the artwork is actually not even French, but Italian, it's up to the United States to use its elite military forces to rescure the Louvre and the artwork inside. If an Italian, German or British masterpiece is destroyed, it might start World War III.
+The President explains the situation. Colonel Drogo must be removed from Paris, and it must be done without destroying the valuable artwork inside. Since a lot of the artwork is actually not even French, but Italian, it's up to the United States to use its elite military forces to retake the Louvre and the artwork inside. If an Italian, German or British masterpiece is destroyed, it might start World War III.
 
 "He hasn't killed anyone yet, sir. Why not just wait him out?"
 
@@ -554,9 +556,9 @@ The President explains the situation. Colonel Drogo must be removed from Paris, 
 
 "Well, that's what we're here for, sir. Dirty jobs, done dirt cheap."
 
-"I knew I could count on you, John." They shake hands and Bruce returns to headquarters.
+"I knew I could count on you, John." They shake hands and Bruce returns to his headquarters.
 
-Bruce and his grandson pull an all nighter using sophisticated software to go through assault scenarios they could run to destroy Drogo or at least force him out of the Louvre. Drogo has gas masks and chemical suits and armored vehicles and a thousand troops. Joe Jonas has a large die-hard team of over a hundred bad-asses, and they usually can take on odds of at least fifty to one, but nobody has every asked them not to damage the contents of a building before. They run it through, and the best scenario they can come up with is 20 to 30 casualties.
+Bruce and his grandson pull an all-nighter using sophisticated software to go through assault scenarios they could run to destroy Drogo or at least force him out of the Louvre. Drogo has gas masks and chemical suits and armored vehicles and a thousand troops. Joe Jonas has a large die-hard team of over a hundred bad-asses, and they usually can take on odds of at least fifty to one, but nobody has ever asked them not to damage the contents of a building before. They run it through, and the best scenario they can come up with is 20 to 30 casualties.
 
 Bruce tosses and turns trying to get to sleep on a cot in his office, worrying that one of the casualties might be his grandson, Joe Jonas. Flashbacks of Joe as a baby, playing T-ball, with his band playing guitar at his high-school prom, singing an a-cappella version of "I Don't Want to Miss a Thing" at grandpa's seventieth birthday party.
 
@@ -565,8 +567,6 @@ Bruce finally falls asleep, and in his dream, he is visited by a strikingly hand
 Bruce explains his predicament to the old master. How he's scared of losing his golden-voiced grandson, and to a lesser extent, the rest of the boys who work for his firm, thought he points out, they've all got really great life insurance, and most of them would be in prison if he hadn't given them a job where they could kick-ass and blow stuff up. Leonardo transports Bruce on a magical journey, a journey through great masterpieces of history, with matching the artists of history with their artwork, finally ending with study of Leonardo himself, painting his *Mona Lisa* in his studio. Bruce is mesmerized by the beauty, "I didn't know art could be so powerful and beautiful."
 
 "Yes, John. All the paintings in the world are not worth one single human life. And certainly not Joe Jonas."
-
-"You're right."
 
 Suddenly, Bruce wakes up, a new man.
 
@@ -583,45 +583,59 @@ Cut to election day, where McConaughey is reelected in a landslide. Standing nex
 
 In Paris, Samuel L. Jackson watches the victory speech with tears in eyes. He lays down his arms.
 
-### Die Hard 6 -- Leonardo's Revenge
+### Die Hard 7 -- Leonardo's Revenge
 
-This film occurs in a more evolved society, where rather than a world where oil and property are valued, genius is valued above all else.
+This film occurs in a more evolved society where genius is valued above all else.
 
 The first three quarters of the movie is the same, Leonardo Da Vinci appears in Bruce Willis dream, leaves him waking to the thought, "All the paintings in the world are not worth one single human life."
 
-Cut to the Oval Office, Bruce Willis makes his final plea, saying he would lead the assuault himself rather than send his grandson, Joe Jonas, to die for a French Art Museum."
+Cut to the Oval Office, Bruce Willis makes his final plea, saying he would lead the assault himself rather than send his grandson, Joe Jonas, to die for a French Art Museum."
 
-Just behind The Presidents desk, a time-portal opens and Lenoardo and Robert DeNiro appear, costumed in high-Italian Renassicace garb. DeNiro his hodling Leonardo by the scruff of his next."
+Just behind The President's desk, a time-portal opens, and Leonardo and Robert DeNiro appear, both costumed in high-Italian Renaissance garb. DeNiro is holding Leonardo by the scruff of his neck.
 
 "Excuse me gentlemen, my name is Lorenzo de' Medici, and I want to know what this fool that works for me has been telling you."
 
-Leonoardo makes goo-goo eyes and a bashful smile.
+Leonardo makes goo-goo eyes and a bashful smile.
 
-"Well, basically, that no human life is worth a single painting," says Bruce Wilis.
+"Well, basically, that no human life is worth a single painting," says Bruce Willis.
 
-DeNiro shouts, "What is this? This fool would paint his grandma in her underwear feeding the ducks if I paid him half a lira. What, art isn't worth a single life? Come on, gentleman, don't you know how the world works. Your private jets, your yahtchs, your Beverly Hills mansions, you New York Penthouses, your watches and your \$500 dollar haircuts, they're all based on the value of genius."
+DeNiro shouts, "What is this? This fool would paint his grandma in her underwear feeding the ducks if I paid him half a lira. What, art isn't worth a single life? Come on, gentleman, don't you know how the world works. Your private jets, your yachts, your Beverly Hills mansions, you New York Penthouses, your watches and your \$500 dollar haircuts, they're all based on the value of genius."
 
-Silence for a few seconds. In a masterstroke of filmmaking, all the actors drop their roleplaying simultaneously. Scorsese appears in frame holding a clipboard, and Joe Jonas, who hadn't been in the scene but was waiting off set in case there was some a need for instpiration sining, walks on.
+Silence for a few seconds. In a masterstroke of filmmaking, all the actors drop their roleplaying simultaneously and break the fourth wall. Scorsese appears in frame holding a clipboard, and Joe Jonas, who hadn't been in the scene but was waiting off set in case there was some a need for a tune, walks on.
 
 Leonardo says, "Wait, could you explain that part about private jets again."
 
 Scorsese, "Yeah, Bobby. Could you go over that again, I'm feeling a little anxious about this whole scene."
 
-DeNiro shakes his head in frustration. "It's simple, boys. We live in a world where wealth is based on genius. If General Drogo just takes all the masterpieces in Paris, then you won't be nearly wealthy as you used to be. I mean, you'll still have your talent."
+DeNiro shakes his head in frustration. "It's simple, boys. We live in a world where wealth is based on genius. If General Drogo just destroys all the masterpieces in Paris, then you won't be nearly wealthy as you used to be. I mean, you'll still have your talent."
 
-McConaughey says, "I think I get what your saying, but that part about private jets went a little over my head."
+McConaughey says, "I think I get what you're saying, but that part about private jets went a little over my head."
 
-Leonardo says, "Yeah, me too. How do we get to Caan without private jets."
+Leonardo says, "Yeah, me too. How do we get to Cannes without private jets?"
 
-DeNero looks at each and every one of the actors in turn, like they're all imbeciles, and then shrugs and says, "You fly commercial."
+De Niro looks at each of the actors in turn, like they're all imbeciles, and then shrugs and says, "You fly commercial."
 
-Leonardo says, "I did that once, for a role, they had this thing called a jump seat, and let me tell you, it was very uncomfortable. But it was Speilberg, so I didn't say anything."
+Leonardo says, "I did that once, for a role, they had this thing called a jump seat, and let me tell you, it was very uncomfortable. But it was Spielberg, so I didn't say anything."
 
 "Bobby, you can't be serious," says Bruce Willis.
 
 "I am serious. You still think you should let Drogo take over Paris?"
 
-Cut to next scene. Leonardo, McConaughey, Bruce Willis, Joe Jonas, and Robert DeNerio are all geared up in body-armor holding assault rifles flying over Paris in a helicopter. As they jump out of the Blackhawk, they scream in unison, "We'll never fly commercial!"
+Cut to next scene. Leonardo, McConaughey, Bruce Willis, Joe Jonas, and Robert De Niro are all geared up in body-armor holding assault rifles flying over Paris in a helicopter. As they jump out of the Blackhawk, they scream in unison, "We'll never fly commercial!"
+
+### 
+
+### The Stinger
+
+What was the point of this venture into cinema? I'm hoping that if my exposition annoys the wrong billionaire and gets me fired from my job, one of the aforementioned cinematic geniuses will take pity on me and hire me to write a screenplay. Or maybe McConaughey can hire me to develop his gubernatorial campaign platform. I've got a great driving record, perhaps I could be Joe Jonas's chauffeur?
+
+Throughout the Cold War, the United States and the Soviet Union had all kinds of cultural exchanges, and in both fiction and reality they were all subterfuge. The Soviets tried like hell to keep The Beatles off their airwaves, and I personally wanted to hijack a nuclear armed B-52 after Ivan Drago kicked Rocky's ass.
+
+Die Hard 7 was the action movie version of economics. Economic invasions only work when what we value is property. In the world of asimov and scoot, art is not property, and it's value is not changed by who posseses it or even if it is destroyed. A work of genius is more valuable the more it's appreciated.
+
+So real cultural exchange of genius becomes a win-win for both sides of the exchange. It's like royal hostage exchange with clones -- everybody wins (genius), or I guess if the royal princess was extra annoying, everybody loses (vanity). It belongs to everybody, regardless.
+
+.....
 
 ## Academic Genius
 
@@ -955,25 +969,25 @@ References\....
 
 [^1]: The Gold Standard died for good in 1976 when I was in kindergarten, but the gold standard is what I was taught probably because fiat currency is too complex to explain to a kid. I guess is it won't be long before they're teaching Elliptic-curve Cryptology in the first grade, or else kids won't understand money. This disparity between the understanding of money and its actual function is what we should be trying to solve. Shared values between need to be understood fundamentally, not just agreed to as a formality.
 
-[^2]: Or Rockets season tickets.
+[^2]: Hari Seldon's overt plan for the Foundation was a Machiavellian level con-job. I certainly hope to pull off something similar by capitalizing on the lunacy of the crypto-gold rush into focusing our efforts into something like a new renaissance of valuing humanity's creative genius over property.
 
-[^3]: Staker #1 gets multiplier of 199%, Staker #100 gets 100.99% multiplier.
+[^3]: For the rest of this narrative, I'll use billionaire generically for anybody rich enough to spend more on a single painting than the cost of a nice new car.
 
-[^4]: Hari Seldon's overt plan for the Foundation was a Machiavellian level con-job. I certainly hope to pull off something similar by capitalizing on the lunacy of the crypto-gold rush into focusing our efforts into something like a new renaissance of valuing humanity's creative genius over property.
+[^4]: This is another inconsistency in the law. US Copyrights cover up to 70 years after the authors death versus 20 years from issue for patents. Both are protecting types of creative expression.
 
-[^5]: For the rest of this narrative, I'll use billionaire generically for anybody rich enough to spend more on a single painting than the cost of a nice new car.
+[^5]: In perpetuity is an option for qualified curators. Example, a museum already owning a painting but wishing to scoot it but retain physical control.
 
-[^6]: This is another inconsistency in the law. US Copyrights cover up to 70 years after the authors death versus 20 years from issue for patents. Both are protecting types of creative expression.
+[^6]: This would be case where income falls below threshold to maintain insurance and proper care of the artwork, and there are no buyers for new scoot issued to maintain the scoot.
 
-[^7]: In perpetuity is an option for qualified curators. Example, a museum already owning a painting but wishing to scoot it but retain physical control.
+[^7]: There may be a 3^rd^ party market for **statis scoot**, essentially speculating on the time cyclical nature of fashion.
 
-[^8]: This would be case where income falls below threshold to maintain insurance and proper care of the artwork, and there are no buyers for new scoot issued to maintain the scoot.
+[^8]: From Asimov's *Foundation*
 
-[^9]: There may be a 3^rd^ party market for **statis scoot**, essentially speculating on the time cyclical nature of fashion.
+[^9]: Published, but also the Foundation's wallet will be a well-known address, and trading for scoot is never anonymous, so not only will the Foundation's holding's be known, so will the costs.
 
-[^10]: From Asimov's *Foundation*
+[^10]: Or Rockets season tickets.
 
-[^11]: Published, but also the Foundation's wallet will be a well-known address, and trading for scoot is never anonymous, so not only will the Foundation's holding's be known, so will the costs.
+[^11]: Staker #1 gets multiplier of 199%, Staker #100 gets 100.99% multiplier.
 
 [^12]: I found this for 2019 somewhere but forgot the link. \<Yo: maybe you have resource to research this section better, the point is we are trying to point out more effective uses of all that money that is donated to museums\>
 
@@ -997,15 +1011,15 @@ References\....
 
 [^22]: Or multiple agents.
 
-[^23]: SOA and PAS ownership records should be private between the scootee, the artist and **The Foundation** during pre-agency and agency. However, there shall be a method to provide verifiable record of the responsibility tree when required, such as a college application or to potential employers. SOA record can optionally be made public, but that's a one-time decision -- once it's out there, it's out there. Once an SOA is coverted to post-agency (the artists death or perhaps irrevocable retirement, such as medical incapacitation) The Foundation makes the entire scoot-chain publicly accessible by publishing the keys on the scoot-chain.
+[^23]: SOA and PAS ownership records should be private between the scootee, the artist and **The Foundation** during pre-agency and agency. However, there shall be a method to provide verifiable record of the responsibility tree when required, such as a college application or to potential employers. SOA record can optionally be made public, but that's a one-time decision -- once it's out there, it's out there. Once an SOA is converted to post-agency (the artists death or perhaps irrevocable retirement, such as medical incapacitation) The Foundation makes the entire scoot-chain publicly accessible by publishing the keys on the scoot-chain.
 
-[^24]: He died in 1980 so his rights still belong to his heirs and I think the masters belong to either the living members of Led Zeppelin or their record company.
+[^24]: John Bonham died in 1980 so his rights still belong to his heirs and I think the masters belong to either the living members of Led Zeppelin or their record company.
 
 [^25]: Best I can tell, [Al Packer](https://en.wikipedia.org/wiki/Alferd_Packer) was an infamous wilderness guide and cannibal who ate a party he was escorting from Utah to Breckenridge in the winter of 1974. If this chapter of the Clampers was named after a school teacher or something, I hope somebody will correct me. I actually hope it is that Al Packer, I think it fits better.
 
 [^26]: <https://en.wikipedia.org/wiki/E_Clampus_Vitus>
 
-[^27]: If he wants to throw some attorneys at the artwork scoot, that would be cool as well.
+[^27]: If he wants to throw some attorneys at the scoot of artwork that would be cool as well.
 
 [^28]: Colorado Springs residents on the North side of Memorial Park, I'll take my kickback in cash or bitcoin.
 
