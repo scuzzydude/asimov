@@ -2,7 +2,7 @@
 
 **or**
 
-**a post-harden rockets cathartic.**
+**a post-harden rockets cathartic**
 
 There are only two true hedges against inflation. Recorded history and archaeology have proven they've both existed for as long as humanity.
 
@@ -50,7 +50,7 @@ What if we could turn history into money? Would we still forget?
 
 **The Foundation** is a Non-Governmental Organization (NGO). It may be decentralized, but it's not autonomous. It's an ideal, not an algorithm.
 
-Specifically, it is *The Foundation for the Appreciation of Human Genius*. The measure of that appreciation is in units of the digital currency **asimov**. This has a double meaning -- because for **asimov** to appreciate in value, humanity must appreciate the underlying works of genius. That means humanity -- especially our young -- needs exposure so they have the opportunity to appreciate the genius. The other sense is appreciation of the market value of asimov relative to other currencies over time.
+Specifically, it is *The Foundation for the Appreciation of Human Genius*. The measure of that appreciation is in units of the digital currency **asimov**. This has a double meaning -- because for **asimov** to appreciate in value, humanity must appreciate the underlying works of genius. That means humanity -- especially our young -- needs exposure so they have the opportunity to appreciate the genius. The other sense is appreciation of the **asimov's** market value relative to other currencies over time.
 
 **Asimov** is a digital currency minted by **The Foundation** and initially circulated in exchange for **scoot**. **Scoot** are a class of digital token representing **proportional responsibility** for artwork or a legacy of genius.
 
@@ -466,7 +466,7 @@ I think Nikola Tesla should have been awarded the Nobel Peace Prize.
 
 ![Chart, line chart Description automatically generated](media/image4.jpg){width="6.5in" height="4.180555555555555in"}
 
-Figure 4 - Life expectancy 1870-2019 from https://ourworldindata.org/life-expectancy#twice-as-long-life-expectancy-around-the-world
+Figure - Life expectancy 1870-2019 from https://ourworldindata.org/life-expectancy#twice-as-long-life-expectancy-around-the-world
 
 The chart above shows from 1890, the year of the first commercial application of Tesla's AC inventions, to 1990 life expectancy in the US rose from 45.2 to 75.2 years, an increase of 66%. It's noteworthy that in 1890, The United States was already one of the most advanced countries in the industrial age, and a life expectancy of 45 years was much higher than the world average of around 30 years. In that same time period, the World average doubled -- 100%. Modern medicine wants to take most of the credit for that, with lower rates of infant mortality and higher standards or hygiene and care and broader access to doctors across the planet. Sure. Doctors, Nurses, and hand washing deserve a lot of credit.
 
@@ -853,9 +853,19 @@ The encyclopedist set standards for
 
 # Origins
 
-Apologies to Italy on this one, but the credit for the Italian-American spark that kindled my imagination is USA, all the way. I'm sure they're used to others taking credit, you know, with all the Italian Renasicss masterpieces in Paris.[^33]
+Apologies to Italy on this one, but the credit for the Italian-American spark that kindled my imagination is USA, all the way.
 
-....netflix...Rembrandt.
+From the beginning of the pandemic, I'd been developing an idea with a friend that was a replacement for banks and the financial industry for businesses. Fundamentally, it used dynamic scalability for economies of scale. My fundamental model was what Amazon did for IT with AWS. I had done read quite a bit of reading of economic history as research.
+
+For several years, my eldest son had been trying to get me to invest in crypto, and as a coder, I understood bitcoin but was fundamentally skeptical. I certainly liked the decentralization aspect, I love solutions to problems that don't involve government. One the other hand, I had issue with the arbitray creation of perceived value. Fundamental to the concept of money is the exchange of value. Bitcoin, gold standard and fiat currencies all fail in this regard, and so while I valued the cleverness of the implementation, I didn't think it didn't think they addressed the value problem. I am not an idealist when it comes to my own money -- I wished I had listened to my son years ago, I think it was around \$300 when he first implored me to invest.
+
+Coincidently, I'd been having long discussions with my daughter about all the social and political craziness we had to deal with in 2020 with the elections, protests and the pandemic. I blamed social media for of the hyperbole and hysteria. I also realized my generation had invented the technology that enabled all this but had not addressed the ethical problems that technology created. One of the core problems that was behind everything was wealth inequality. My attitude about this can be best summed up by Pink Floyd, "Money, it's a crime, share it fairly, but don't take a slice of my pie." I'm all for voluntary collectivism, spread the wealth, but I don't trust the government to distribute it. Both sides of the political spectrum had ideas about how to solve this, "Trickle down" or "Tax the rich" and neither had ever come close to addressing the core problem, which we both agreed stemmed from generational wealth.
+
+After the first draft of the business idea, my friend implored me to explore adding a crypto play. I was hesitant, as I didn't want to debase the fundamental idea, but there was one particular problem, and as it turned out, a crypto play was an elegant solution. In early 2021 I'd been doing a lot of study of crypto from a technical perspective. While I was impressed with the technology, I became even more skeptical of it's societal value. About this time, my wife joined my son in the crypto-craze, and proceeded to multiply her initial investment by a hundredfold on paper. I'd just turned fifty, so ot was as if the Universe was telling me, "Give up already, you're old."
+
+In April, on the nights when I was free from my Rockets penance, my wife and I would watch some Netflix. For a couple of nights we watched *This is a Robbery: The World's Biggest Art Heist*. This documentary was about the robbery of the Gardner Museum in Boston in 1990. Thirteen pieces were stolen and never recovered, including a Rembrandt and a Vermeer.
+
+One theory was that the paintings were being held by a mob-boss as a "get out of jail free" card if he was ever arrested. This struck me as brilliant, if it were true. That's some tremendous intrinsic value, that there was the belief that you could buy your way out of a felony charge with a painting. Where did that value stem from? It was the appreciation of genius that was valuable. If you could quantify that appreciation, it could be a measure of intrinsic value.
 
 # Ethical Revolution
 
@@ -863,29 +873,29 @@ Isaac Asimov isn\'t the OG of science fiction because he wrote about starships, 
 
 It's a constant problem throughout history, our technology advances beyond the ability of our ethics. The industrial age led directly to industrial warfare, which killed hundreds of millions. It wasn't ethics that saved us from annihilating each other, but the ethical hack of mutually assured nuclear destruction. This hack hasn't saved us from bloody regional slaughter, child soldiers and genocide, but hey, at least the species has survived, and the arms industry is healthy.
 
-Take the media. In my childhood, the standard local newspaper was considered a reliable conveyer of information. The front pages gave you facts. If you wanted a condensed version of the facts read to you by a white man, you could tune into one of the three major networks for local or national news. I'm not going to pretend that there wasn't both overt and hidden bias in the reporting in those days. But both newspaper and TV were profit motivated broadcasts, meaning the appeal needed to broadest population. Newspapers could only slant maybe 10% one way or the other without taking subscription hit. The ethical standard for journalism had stablized and improved over the years. You certainly take a newspaper from 1980 and compare it to a paper from 1880 and see that the standards for reporting "facts" had evolved for the better.
+Take the media. In my childhood, the standard local newspaper was considered a reliable conveyer of information. The front pages gave you facts. If you wanted a condensed version of the facts read to you by a white man, you could tune into one of the three major networks for local or national news. I'm not going to pretend that there wasn't both overt and hidden bias in the reporting in those days. But both newspaper and TV were profit motivated broadcasts, meaning they needed to appeal to the broadest audience. Newspapers could only slant maybe 10% one way or the other without taking subscription hits. The ethical standard for journalism had stabilized and improved over the years. You certainly take a newspaper from 1980 and compare it to a paper from 1880 and see that the standards for reporting "facts" had evolved for the better.
 
-Not today. I don't think we'd even begun to sort the ethical complexity having Broadcast Media competing with Paid Cable News before we were hit first with the internet, then microblogging, then social media. In today's world, if you have an opinion, no matter how idiotic, about some recent or historical event, it will take you less than a second to find a confirming opinion and "facts" to back it up. How the heck do you deal with that ethically, while still protecting my first amendment right to be a bigger idiot than you? No idea, and it's unrealistic to expect that the founding fathers did either. However, it's not really their responsibility. We -- generationally -- invented the technology, and profited from it, so it's really our responsibility to deal with the ethics of it.
+Not today. I don't think we'd even begun to sort the ethical complexity having Broadcast Media competing with Paid Cable News before we were hit first with the internet, then microblogging, then social media. In today's world, if you have an opinion, no matter how idiotic, about some recent or historical event, it will take you less than a second to find a confirming opinion and "facts" to back it up. How the heck do you deal with that ethically, while still protecting my first amendment right to be a bigger idiot than you? No idea, and it's unrealistic to expect that the founding fathers did either. However, it's not really their responsibility. We -- generationally -- invented the technology, and profited from it, so it's our responsibility to deal with the ethics of it.
 
 Satoshi Nakumoto's brilliant engineering of bitcoin opened a whole new world for us, and allowed us to free our dependence on government and banks. Governments never did deal with the ethical side of money. Money is exchange of value. Warfare, and ultimately, any violent confrontation, is a difference in values between people and cultures. It seems to me, before we take our money completely into our own hands, we ought to find a common value across all people. It is simple -- if what you value is gold, people are less valuable. If what you value is hash rate, then both people and the environment are less valuable.
 
-In my opening, I made a crack about the US Dollar not being back by anything but the full faith of the government, which wasn't any better than bitcoin being backed by mathematics. Well, that's not true at all. The US Government is me. It's me and my parents and my children and my neighbors, American's by birth or by choice. It's backed by our common values as Americans. As the year 2020 clearly shown, we are a divided people, we have extremes of opinions on multiple axis, and there are few things we can get on the same page about.
+In my opening, I made a crack about the US Dollar not being back by anything but the full faith of the government, which wasn't any better than bitcoin being backed by mathematics. Well, that's not true at all. The US Government is me. It's me and my parents and my children and my neighbors, American's by birth or by choice. It's backed by our common values as Americans. As the year 2020 clearly shown, we are a divided people, we have extremes of opinions on multiple axes, and there are few things we can all get on the same page about.
 
 There is one common value that Americans share, and we willingly share this value each and every human being on this planet, no matter where you were born or what passport you carry. This common value is embraced voluntarily and with conviction by 99.9% of all Americans and 100% of all Texans.
 
 It is this value that gives me moral righteous to state, Genius belongs to Humanity.
 
-Let's say I'm at a dinner party with a bunch of fancy artsy people.[^34] And some rich dirtbag makes mention he's got a Picasso hidden away at his ski-chalet in Aspen, and only the few other rich dirtbags invited on his ski trip ever get to see it. My response would be "Should I bow or curtsey your royal fucking highness?"
+Let's say I'm at a dinner party with a bunch of fancy artsy people.[^33] And some rich dirtbag makes mention he's got a Picasso hidden away at his ski-chalet in Aspen, and only the few other rich dirtbags invited on his ski trip ever get to see it. My response would be "Should I bow or curtsey your royal fucking highness?"
 
 While I fully concede to the rich their wealth gives them access to private jets, yachts and Lamborghinis, I won't concede that they have the right to keep works of genius from me or my children. That's too much like royalty.
 
 Our common shared value is that all men are created equal. No man by right of birth is better than another. We bow to no man, only to our creator.
 
-Through the lense of history, we see that basic principle was hypocritical in practice, a perfect ideal tarnished by slavery, the genocide of indigenous people, and the denial of fundamental rights to our own mothers and daughters. Why is that?
+Through the lens of history, we see that basic principle was hypocritical in practice, a perfect ideal tarnished by slavery, the genocide of indigenous people, and the denial of fundamental rights to our own mothers and daughters. Why is that?
 
-The failure of the American Revolution, and all the democratic revolutions that followed, was that we said to the king, "We don't need you," but "We still need your gold." And that fact is why we, as a nation, could rectify slavery and genocide, economic imperialism and decade after decade of bloody industrial savagery with the idealism of liberty and freedom. All men are created equal, but from the day he is born, we value a man's worth by the same king's gold. We might have hacked the actual gold out of the algorithm, but it is still the king's gold be it fiat or crypto.
+The failure of the American Revolution, and all the democratic revolutions that followed, was that we said to the king, "We don't need you," but "We still need your gold." And that fact is why we, as a nation, could rectify slavery and genocide, economic imperialism and decade after decade of bloody industrial savagery with the idealism of liberty and freedom. All men are created equal, but from the day he is born, we value a person's worth by the same king's gold. We might have hacked the actual gold out of the algorithm, but it is still the king's gold be it fiat or crypto.
 
-Hindsight is not perfect vision. I am not trying to fault the founders. I can't fathom how my parents survived childhood in Texas without air-conditioning, much less what a bunch of farmers and merchants in colonial American had to deal with. However, I do feel an opportunity was missed that was right there before their eyes. The very first amendment to our Bill of Rights says what we value is the freedom of speech[^35]. This has been interpreted from the beginning as freedom of expression, which is certainly what genius and vanity is all about. We as a people, demand this of our government, meaning we value it, and King George did not. Yet the founders choose to continue to trade and collect taxes using the king's gold.
+Hindsight is not perfect vision. I am not trying to fault the founders. I can't fathom how my parents survived childhood in Texas without air-conditioning, much less what a bunch of farmers and merchants in colonial American had to deal with. However, I do feel an opportunity was missed that was right there before their eyes. The very first amendment to our Bill of Rights says what we value is the freedom of speech[^34]. This has been interpreted from the beginning as freedom of expression, which is certainly what genius and vanity is all about. We as a people, demand this of our government, meaning we value it, and King George did not. Yet the founders choose to continue to trade and collect taxes using the king's gold.
 
 And almost diametrically opposed and as great a failure were the collective revolutions that followed. In those systems, the king's gold was no longer what was valuable. It was the collective good that was valuable. Individual expression was not valued -- and core to individualism are both genius and vanity.
 
@@ -893,33 +903,23 @@ I believe mankind can learn to survive without greed.
 
 I do not believe mankind can survive without genius and vanity.
 
-Genius and vanity are really the same thing. Vanity is failure to align ones expression of genius with the consensus of the masses. That does not mean one man's vanity is not genius. Galileo was the worst sort of vain person -- a heretic -- in his lifetime. Einstein, had he been born only a few years prior, probably would have ended up in a lunatic asylum, but by luck or fate or a divine game of dice, his very name across all cultures is synonymous with genius. Da Vinci might have been a genius in his day, but he worked for the billionaires of his time, vanity personified and glorified.
-
-## 
-
-## 
-
-## 
-
-## Wealth Ineqality
-
-....nobody will go to war to protect rich peoples wall art\....
+Genius and vanity are really the same thing. Vanity is failure to align your expression of genius with the consensus of the masses. That does not mean one man's vanity is not genius. Galileo was the worst sort of vain person -- a heretic -- in his lifetime. Einstein, had he been born only a few years prior, probably would have ended up in a lunatic asylum, but by luck or fate or a divine game of dice, his very name across all cultures is synonymous with genius. Da Vinci might have been a genius in his day, but he worked for the billionaires of his time, vanity personified and glorified.
 
 ## No Small Genius
 
 In this modern world, with the help of social networks, you can find people from all over the world who share your interests and facinations, people who more.
 
-One day, perhaps, when I'm old, some kid that shares my facination with science fiction, space exploration, Led Zeppelin, and the Houston Rockets will find me, because I'll be a fellow member of the scootage.. We'll talk about they way things used to be, and compare the genius of his day with the genius of mine.
+One day, perhaps, when I'm old, some kid that shares my fascination with science fiction, space exploration, Led Zeppelin, and the Houston Rockets will find me, because I'll be a fellow member of the scootage.. We'll talk about they way things used to be, and compare the genius of his day with the genius of mine.
 
-"Yo, old man, is Bonham what they called those big ass computers that used to fill an entire a room, back before Saint Jobs invented the Mac? Is that how they did percussion back in the day?"
+"Yo, old man, is Bonham what they called those big ass computers that used to fill an entire a room, back before Saint Jobs invented the Mac? Is that how what they used to lay down a beat back in the day?"
 
-"Yeah, kid. That's about right. Except Bonham filled stadiums, many stadiums, all over the world."
+"Yeah, kid. That's about right. Except Bonham filled stadiums all over the world."
 
-He'll nod, appreacating the immense technological change between his day and mine.
+He'll nod, appreciating the immense technological change between his day and mine.
 
-"Yo, old man, why you care about rebounding so much? My curry[^36] never misses?"
+"Yo, old man, why you care about rebounding so much? My curry[^35] never misses?"
 
-"Kid, let me tell you about the Worm. Back when I was a kid, there were two Koreas, and there was this kid from Texas, like you and me\...."
+"Kid, let me tell you about the Worm. Back when I was a kid, the Korean peninsula was divided into two countries. There was this kid from Texas, like you and me\...."
 
 ## 
 
@@ -929,7 +929,7 @@ He'll nod, appreacating the immense technological change between his day and min
 
 Genius is turning dreams into reality. You may say, I know some geniuses and they didn't do anything but destroy dreams. And yes, all geniuses have that power too. Usually, you just read it wrong, they just turned some other loser's dreams into reality, you've just got higher standards. And the dark side needs a currency as well, asimov is completely open source, Sith Lords are welcome in our chat (alt-bitcoin whatever the hardcore crytpt geeks use. Asimov\...AND FOR MARKETING PURPOSES HAVE TO SET IT UP BEFORE THIS IS PUBLISHED with an actual working signup link on github or google or whatever Hakeem will know) group.
 
-It is for this reason we refer to coins that collectively own the artifict as dream coins. There's one other reason, but that'll have to be an Awbrey family secret.[^37]
+It is for this reason we refer to coins that collectively own the artifict as dream coins. There's one other reason, but that'll have to be an Awbrey family secret.[^36]
 
 Genius has an absoulte value, but it's recongized value can change with fashion. But real genius, the kind we sometimes take awhile to recongize, can only increase in valude. Let's say there is a painting, a masterpiece, that sold in 1921 for \$150,000 in 2021 USD equivlents and sells in 2021 for \$150,000,000 Was the painting worth less in absolute terms of genius in 1921? NO. Genius is timeless. So only two things could have happened. Humanity took a long time to recognize the level of genius. Or humanity's capacity for vanity increased. What do you think it is? Is this level of vanity a side affect of the rich getting richer and their families staying richer? It's hard to say from 2021, but as we see the cycle of history, it should be clearer. But even if the 2021 outlandish priceis vanity -- it's still may be genius, after all fashion is cyclical.
 
@@ -1031,12 +1031,10 @@ References\....
 
 [^32]:
 
-[^33]: My provocation is to prove the point, countries won't go to war over a bunch of paintings. If I'm wrong, well, it won't be the first time these two have gone to war over the ponderings of some idiot.
+[^33]: In case the rest of the essay wasn't enough, this part here is to make sure I don't ever get invited to dinner parties with fancy artsy people.
 
-[^34]: In case the rest of the essay wasn't enough, this part here is to make sure I don't every get invited to dinner parties with fancy artsy people.
+[^34]: The First Amendment covers freedom of religion and speech.
 
-[^35]: The First Amendment covers freedom of religion and speech.
+[^35]: A mid-21^st^ century trend where basketball fans would get together and issue and ICO (Intial Clone Offering) where they would mix the DNA from various superstars to create NBA players. Stephan Curry's DNA was present to some extend in almost every clone, so the kids had taken to calling them all currys.
 
-[^36]: A mid-21^st^ century trend where basekball fans would get toghether and issue and ICO (Intial Clone Offering) where they would mix the DNA from various superstars to create NBA players. Stephan Currys DNA was present in all NBA players, so the kids had taken to calling them all currys.
-
-[^37]: That I like to name things after geniuses. Or Hakeem has turned several of my dreams into reality. Aw\...
+[^36]: That I like to name things after geniuses. Or Hakeem has turned several of my dreams into reality. Aw\...
