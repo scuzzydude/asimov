@@ -160,11 +160,9 @@ There will be a public staking period where the remaining 0.5% of asimov is sold
 
 The purpose of the public staking is to prevent any one person from the private stake exerting control over of asimov and the development of The Foundation.
 
-### 
-
 ### National Stakes
 
-10% of asimov will be reserved for national stakes. Once **asimov** is established as a stable metric, some asimov may be issued to national governments in exchange for holding stakes in their fiat currency or bonds. There may be legal concessions the national government must make, for instance, accepting payment for taxes in asimov, before a stake agreement is made.
+10% of asimov will be reserved for national stakes. Once **asimov** is established as a stable metric, some asimov may be issued to national governments in exchange for holding stakes in their fiat currency or bonds. There may be legal concessions the national government must make before a stake agreement is made. For instance, they may be required to accept payment for taxes in asimov,
 
 The Foundation's board shall decide when **national stakes** are both appropriate and feasible.
 
@@ -190,7 +188,7 @@ Asimov will be a value currency. I'm sure there are legitimate uses cases for al
 
 For this reason, I think that the goal should be asimov is a base currency -- for both other cypto-currencies and for fiat currencies, and the protocol should support only the features needed to support that goal.
 
-I've outlined the currency protocol requirements in [Appendix A -- Scoot protocol requirements](#appendix-a-scoot-protocol-requirements).
+I've outlined the currency protocol requirements in [Appendix A -- Scoot protocol requirements](#section-1).
 
 ## Outreach Faucet 
 
@@ -209,6 +207,8 @@ We should also seed and sponsor scoot exchanges primarily owned by art professio
 Remember that part about explaining how money actually works to a kindergartener? Well, we can either get a math teacher to explain the art part, or we can let the art teacher explain how a system a shared valuation works. My guess is that it's going to be a lot more fun with finger paint.
 
 ### Prizes
+
+Another way to kindle interest in scoot is to award prices for creative expression across all fields. Initially, The Foundation can award **asimov** for winners of a given prize. However, the contest itself will be the motivator for the associative genius, so I think we want to get to a point where the prizes are scoot. Prize winners are issued newly minted scoot, causing a dilution of the awards prior winners had been awarded. This forces a yearly raising of the bar and maybe the scootee not to award prizes in years when none of the competitors live up to the expectations of the prize.
 
 ## Museums
 
@@ -246,13 +246,13 @@ I think the social pressure could create momentum that most new trade in art wil
 
 A favorite sport of billionaires is trying to out do-good other billionaires. The masterpiece market will dry up for the billionaires out of fear of either a crowd-sourced crusade driving up prices, or cancellation culture impacting their core businesses. The do-good flavor of billionaire will be guided by market and social forces into finding new genius.
 
-What's in it for the billionaires? I think they will see the desirability of a stronger social contract that acknowledges and supports the unavoidable privileges that come with being wealth. Most societies can accept the exchange that if the wealthy provide value to society, they deserve some privilege, because they provide some greater leverage than the average person. But we what are we valuing? If we find ways to value responsibility, then the exchange because something the masses can accept. If you derive you wealth from some abstraction that is say, harmful to children, be it some insidious form of marketing or just like, you know, addictive substances, than you are harmful to genius. That's the problem with the king's gold. Profit does not always align with values that are good for human society.
+What's in it for the billionaires? I think they will see the desirability of a stronger social contract that acknowledges and supports the unavoidable privileges that come with being wealth. Most societies can accept the exchange that if the wealthy provide value to society, they deserve some privilege, because they provide some greater leverage than the average person. But we what are we valuing? If we find ways to value responsibility, then the exchange because something the masses can accept. If you derive your wealth from some abstraction that is say, harmful to children, be it some insidious form of marketing or just like, you know, addictive substances, than you are harmful to genius. That's the problem with the king's gold. Profit does not always align with values that are good for human society.
 
 For many centuries, the social contract that kept the masses from devouring the rich was called royalty. You were born royal, or the king bestowed royalty upon you through magic powers, and the masses accepted this because it was right there in the Bible, which was read to them by priests who worked directly or indirectly for the king. Eventually the masses learned to read, and after decades of inbreeding, the masses figured out these royal idiots were not very special. Or more likely, in Texas old-lady speak of, "He's special," with a wink and a nod.
 
 Why will the rich consent to this exchange? Someone, most likely their children, will inform them what happened the last go round where societies primed for social change intersected with a very high level of income inequality between the superrich and the masses. And, no, I'm not talking about Occupy Wall Street. The part of history I'm talking about was way less fun.
 
-Maybe I'm being hyperbolic, but here's what I know. People get real angry at inequality, and that last time it was about income, it led to a lot of bad times for many people. Back then, they reported about the privileged using newsletters printed with hand-presses out of secret basements and had people hand them off to each other in back alleyways. Today people, all people, have phones with cameras. A flame becomes a raging wildfire with sound of a digital shutter. I'm pretty sure this is in the billionaire handbook, 2021 edition, chapter one, "be careful around people with phones." Unfortunately, reading itself doesn't seem to have been a prerequisite for billionaire school, as chapter two is "don't share your thoughts on Twitter."
+Maybe I'm being hyperbolic, but here's what I know. People get angry at inequality, and that last time it was about income, it led to a lot of bad times for many people. Back then, they reported about the privileged using newsletters printed with hand-presses out of secret basements and had people hand them off to each other in back alleyways. Today people, all people, have phones with cameras. A flame becomes a raging wildfire with sound of a digital shutter. I'm pretty sure this is in the billionaire handbook, 2021 edition, chapter one, "be careful around people with phones." Unfortunately, reading itself doesn't seem to have been a prerequisite for billionaire school, as chapter two is "don't share your thoughts on Twitter."
 
 Responsibility for genius is what we will value. Peacefully, in a manner that is equitable to all people. In a voluntary way. You can pass down responsibility through your family, or collectively, it's your choice, whatever you think is better for the appreciation of human genius. With responsibility comes accountability. If your motivationally challenged grandson inherits the scoot control of a Picasso and uses it for wall decoration for his semi-housetrained wild Peruvian llama's room, history is going to blame you, archetypical billionaire. Bad boy, failed at the social contract. Forgotten by the history of genius. But we're good, as long as you participated in the responsibility trade, even if only in vanity. We captured the digitized version on the scoot-chain, not lost forever, just not properly appreciated.
 
@@ -282,9 +282,9 @@ The currency value of the contents of the Louvre is estimated to be over \$100 b
 
 Using the same fine-art appreciation rate of 13.6% we used for our museum example, over 40 years, the vig on the per-capita value of the art in the Louvre is € 280,000. Pretty good, where the average home price in France is €300,000. If you could hold out for another ten years, the compounding adds up to over a million euro -- enough for a nice house and a retirement.
 
-One way to do it would be to scoot the Louvre and give a proportional amount of scoot to each and every adult citizen *of* France. Within a few years, every working Jean-Luc will have sold his scoot for asimov, and the value and responsibility for the National Treasure of France will have been redistributed to the people of the world. As for the already wealthy French, they'll hold onto their scoot and continue to thrive off the appreciation of Italian Renaissance masters. Diplomatically, a good play for the government, as it retains possession of the contents of the Louvre. Not so great for Wesley, Jean-Luc's offspring. Jean-Luc spent all share of the national treasure on hookers, blow and Earl Grey tea. Nothing left to pass on to Wesley.
+One way to do it would be to scoot the Louvre and give a proportional amount of scoot to each and every adult citizen *of* France. Within a few years, every working Jean-Luc will have sold his scoot for asimov, and the value and responsibility for the National Treasure of France will have been redistributed to the people of the world. As for the already wealthy French, they'll hold onto their scoot and continue to thrive off the appreciation of Italian Renaissance masters. Diplomatically, a good play for the government, as it retains possession of the contents of the Louvre. Not so great for Wesley, Jean-Luc's offspring. Jean-Luc spent all his share of the national treasure on hookers, blow and Earl Grey tea. Nothing left to pass on to Wesley.
 
-Is there a better way? What if you scooted the Louvre, and issued a single scoot to each baby born as a citizen of France.[^15] Once, the baby reaches majority age, he can sell the scoot or hold it -- totally voluntary. Once the citizen dies, the assigned scoot ceases to exists, no matter who holds it. Now, you've got an arbitrage marketplace not only of appreciating genius but also promoting cultural tourism, and keeping citizens healthy for as long as possible. You could tie it to a national health care system or life insurance. There could be a popular movement to hold your national-treasure as long as possible for the pure genius appreciation factor. Maybe the national treasure pays funeral expenses for those who manage a life of pure appreciation.[^16]
+Is there a better way? What if you scooted the Louvre, and issued a single scoot to each baby born as a citizen of France.[^15] Once, the baby reaches majority age, he can sell the scoot or hold it -- totally voluntary. Once the citizen dies, the assigned scoot ceases to exists, no matter who holds it. Now, you've got an arbitrage marketplace not only of appreciating genius but also of promoting cultural tourism and keeping citizens healthy (or at least alive) for as long as possible. You could tie it to a national health care system or life insurance. There could be a popular movement to hold your national-treasure as long as possible for the pure genius appreciation factor. Maybe the national treasure pays funeral expenses for those who manage a life of pure appreciation.[^16]
 
 I suspect the more likely path for those countries with a nostalgia for runaway inflation would be for the government just to scoot National Treasures directly, holding on to as much as possible, but diluting the scoot whenever the government spends more than it should. Fiat currency backed by "faith in the government" is replaced by "faith that Da Vinci really was a genius." Might work, after all, no modern democracy ever elected a complete idiot, right?
 
@@ -296,7 +296,7 @@ First, you could divide up all the royal estates and castles and historical monu
 
 #### Scoot of the Crown
 
-Take everything that is leftover, the personal residences of the Queen and her offspring, the Summer homes, her personal jewelry, and all that, and create a Scoot of Crown (SOC). The ISO will be sold to the British people who want to be responsible for the royal family. There are plenty of Americans who prefer the Windsors over the Kardashians, so you could open up the scoot globally. When the SOC runs out of money, the Queen has to start signing autographs or collecting speaking fees, or the scoot could be diluted with another sale. Maybe Parliament is charged £100 each time the PM stops by for tea.
+Take everything that is leftover, the personal residences of the Queen and her offspring, the Summer homes, her personal jewelry, and all that, and create a Scoot of Crown (SOC). The ISO will be sold to the British people who want to be responsible for the royal family. There are plenty of Americans who prefer the Windsors to the Kardashians, so you could open up the scoot globally. When the SOC runs out of money, the Queen has to start signing autographs or collecting speaking fees, or the scoot could be diluted with another sale. Maybe Parliament is charged £100 each time the PM stops by for tea.
 
 In any case, the Crown can exist as long there are people willing to be responsible for it. It's a scoot of the *Crown* so maybe the current monarch serves as the **scootee** and has the duty to preserve the history of genius of the kings and queens of England. Many of them did some great things. If you've watched the historically accurate docu-series *The Tudors*, you would know King Henry VIII was the inventor of the modern-day divorce industry.
 
@@ -308,13 +308,13 @@ There are many works of art that are not currently in the possession of the cult
 
 The Foundation can facilitate a peaceful transitions of ownership of this artwork to humanity at large, and negotiate an equitable sharing of responsibility through scoot between the cultures that created it and the cultures that currently possess it.
 
-## No Fault
+### No Fault
 
 The Foundation will need to employ experts in Security to ensure masterpiece level scoot are well secured. The Foundation can act as a trusted third party in recovery of stolen artwork, when an agreement is reached with both the original owners and the insurers.
 
 For example, a **scoot in absentia** (SIA) could be created for a stolen work of art. Through both an anonymous messaging system in the protocol and anonymous transfers of asimov, a "reward" of asimov could be paid for recovery of the art. Crowdsource based investigation could also play a part.
 
-This might seem hypocritical, but The Foundation should never pay for recovery of stolen scooted works of art. The reason is simple -- scooted artwork belongs to humanity at large, so theft is a crime against humanity. Un-scooted art is private property -- and thus a common crime, no matter the appraised value. Therefore, the security requirements of scooted works should be appropriate for their valuation or potential. Theft of scooted works will occur, but The Foundation's team will be charged recovery and prosecution. As the market of scoot grows, this will reduce the valuation of artwork on both the legitimate and illegitimate private markets. People trafficking in stolen artwork will be barred from the responsibility domain forever, which may have the effect of locking dishonest professionals out of the Art profession as The Foundation grows.
+This might seem hypocritical, but The Foundation should never pay for recovery of stolen scooted works of art. The reason is simple -- scooted artwork belongs to humanity at large, so theft is a crime against humanity. Un-scooted art is private property -- and thus a common crime, no matter the appraised value. Therefore, the security requirements of scooted artwork should be appropriate for their valuation or potential. Theft of scooted works will occur, but The Foundation's team will be charged recovery and prosecution. As the market of scoot grows, this will reduce the valuation of artwork on both the legitimate and illegitimate private markets. People trafficking in stolen artwork will be barred from the responsibility domain forever, which may have the effect of locking dishonest professionals out of the Art profession as The Foundation grows.
 
 ## Immaterial Genius
 
@@ -328,7 +328,7 @@ Sometimes genius is so obvious that there really is no argument. Newton and Eins
 
 John Bonham, the drummer for the Led Zeppelin, is almost universally recognized as the greatest drummer in history.[^20] Personally, I feel that is selling Bonham short. John Bonham is almost certainly the greatest musician who ever lived. Since recorded music is barely a hundred years old it is hard to prove. Nothing I've ever heard that even approaches that level of mastery.
 
-Since I'm already playing hypothetical multi-billionaire, I think I'd have a prize called the BonzoX prize with an award of 1 billion USD. Since percussion is the closest form of music to being pure digital, I believe if it were possible to determine an algorithm for the divine, it could most easily be done by algorithmically quantifying the groove of John Bonham. Worst case, you might uncover a crypto message from the planet Terminus. Hopefully, Jimmy Page[^21] will give the BonzoX competitors access to the master recordings. In what seems like an intentional assault of their most appreacitive listeners, some of John Bonham's most insanely great drumming *occurs* during the fade-outs of some of their greatest songs. Blast the volume at the end of *Kashmir* for the ultimate example, and I'm sure that this virtuoso Bonham performance goes on for several minutes, because for that song, they hired an orchestra and those guys charge by the day. You'd think maybe Jimmy was intentionally trying to hide Bonham's genius from the rest of us, except that on other songs on that same album, Jimmy fades out some of the most ridiculously bad-ass guitar playing you've ever heard. So what up with that, I mean, apparently nobody but me wants to listen to twelve minutes Zeppelin songs.
+Since I'm already playing hypothetical multi-billionaire, I think I'd have a prize called the BonzoX prize with an award of 1 billion USD. Since percussion is the closest form of music to being pure digital, I believe if it were possible to determine an algorithm for the divine, it could most easily be done by algorithmically quantifying the groove of John Bonham. Worst case, you might uncover a crypto message from the planet Terminus. Hopefully, Jimmy Page[^21] will give the BonzoX competitors access to the master recordings. In what seems like an intentional assault of their most appreciative listeners, some of John Bonham's most insanely great drumming *occurs* during the fade-outs of some of their greatest songs. Blast the volume at the end of *Kashmir* for the ultimate example, and I'm sure that this virtuoso Bonham performance goes on for several minutes, because for that song, they hired an orchestra and those guys charge by the day. You'd think maybe Jimmy was intentionally trying to hide Bonham's genius from the rest of us, except that on other songs on that same album, Jimmy fades out some of the most ridiculously bad-ass guitar playing you've ever heard. So what up with that, I mean, apparently nobody but me wants to listen to twelve minutes Zeppelin songs.
 
 Sadly, percussion seems to be a dying art. For one thing, it's much easier to just buy your kid a Mac, this allows you to sleep in on the weekends, and doesn't piss off your neighbors. And even Rock 'n Roll seems to have hit its peak. I don't think we're going lose the appreciation of John Bonham in my lifetime, but it scares me that we might not long after. I would be willing to take responsibility to make sure we don't. It would be an absolute travesty and failure if humanity lost the value of John Bonham's genius.
 
@@ -346,11 +346,11 @@ I think we can agree while an artist is alive, he's accountable for his work. Co
 
 There may be better ways to do this, and I'm open to all ideas. Core to any solution is responsibility and accountability.
 
-The idea of an agent, be it a sports agent, literary agent, or talent agent is pretty simple. You're a creative professional, you hire somebody to find you paid work in exchange for a percentage of the income. Conceptually, this could apply to any type of professional -- a headhunter works the same way, though they usually are paid directly by and looking out for interest of the client company, not the professional job-seeker. What percentage agents are paid varies both by industry and talent level. For simplicity of my example, let's just say that agents typically get 10% of an artist's income.
+The idea of an agent, be it a sports agent, literary agent, or talent agent is simple. You're a creative professional, you hire somebody to find you paid work in exchange for a percentage of the income. Conceptually, this could apply to any type of professional -- a headhunter works the same way, though they usually are paid directly by and looking out for interest of the client company, not the professional job-seeker. What percentage agents are paid varies both by industry and talent level. For simplicity of my example, let's just say that agents typically get 10% of an artist's income.
 
 Most agents are concerned with an artist's legacy of genius. It's a simple equation -- the more people that appreciated an artist's talent, the higher the demand for his product (expression of genius) and consequently the higher his income will be, and the higher the agent's income will be. But long term, what is better for an artist, good product or income?
 
-[.... Examples -- artists that totally jumped the shark ....]{.mark}
+[.... Example -- artist that totally jumped the shark -- something fairly recent ....]{.mark}
 
 Is there a way we can balance income in the present against legacy of genius and reward both the artists and the agent?
 
@@ -364,7 +364,7 @@ There will be two types of players in the trade of SOA. Speculators in vanity --
 
 An artist with a liquid pool of scoot should be able to gauge what the public sentiment is by the direction from polling or formal elections by the scootage. Direction to decrease dilution would be an indicator that the world thinks his talent is transient. Direction to invest income in future projects would be a good indicator that the world thinks he might have some lasting genius.
 
-Another consideration is who is a member of the scootage. The scootage are never anonymous to the scootee and The Foundation. If it's just fans or speculators, it's a pretty good indicator that an artist should focus on the present. If the **scootage** consists of other artists -- especially people the artist admires and respects, that's a good indicator that the artist should make careful career moves and focus on quality over income. If the **scootage** is held by peers it might mean there are collaborative opportunities. Let's use another hypothetical - If James Harden had a SOA, and the valuation is at an all-time high, he looks at the **scootage** and he sees that Keven Durant and Kyrie Irving have driven up the his value by buying up the majority of liquid scoot, he should by all means force his way out of town.
+Another consideration is who is a member of the scootage. The scootage are never anonymous to the scootee and The Foundation. If it's just fans or speculators, it's a pretty good indicator that an artist should focus on the present. If the **scootage** consists of other artists -- especially people the artist admires and respects, that's a good indicator that the artist should make careful career moves and focus on quality over income. If the **scootage** is held by peers it might mean there are collaborative opportunities. Let's use another hypothetical - If James Harden had a SOA, and the valuation is at an all-time high, he looks at the **scootage** and he sees that Keven Durant and Kyrie Irving have driven up his value by buying up the majority of liquid scoot, he should by all means force his way out of town.
 
 SOA give the artists tools to better judge his agent's performance in terms of income, career potential and legacy. Ultimately, an artist is independent of the SOA. Even if the artist loses majority control of the scootage, he or she can veto the choice of agents and always refuse work sourced from that agent. The scootee, who controls transactions of the SOA, can refuse to trades to pledges it thinks are counter to the best interests of the artists, it should be written into the scooter that the trustee can never refuse to trades back to the artist. If an artist loses control of the SOA, there is always a path to gain it back, and if he or she has true genius potential, likely a pool of resources that could help in that process. Even it's only vanity potential, an artist can crowdsource their way back to control through his or her fanbase.
 
@@ -402,7 +402,7 @@ How does the PAG accomplish this? I have no idea. That what holders of the PAG a
 
 It should be not only creative, but competitive.
 
-If I was scootee for a PAG for John Bonham[^24] my first task would be to get my hands on all master-recordings of Bohnam recordings. I wouldn't need to own them -- only to digitize them and put them on the scoot-chain. If I just had the drum tracks only, digitized, that would provide tremendous value to the scoot. From there, I could commission all kinds of academic studies that would further appreciate Bonham's genius.
+If I was scootee for a PAG for John Bonham[^24] my first task would be to get my hands on all master-recordings of Bohnam recordings. I wouldn't need to own them -- only to digitize them and put them on the scoot-chain. If I just had the drum tracks only, digitized, that would provide tremendous value to the scoot. From there, I could commission all kinds of studies that would further appreciate Bonham's genius.
 
 Perhaps there might be another PAG for Bonham, somebody who'd been collecting Bonham related memorabilia and it could use it's ISO funding to open a museum. And perhaps some time in the future, the two PAGs merge or one acquires the other.
 
@@ -494,13 +494,29 @@ A scoot is formed as a collective responsibility for the appreciation of genius.
 
 This is different from a political cause or movement. Those almost always deal with getting the government to do something. A scoot of unformed genius is a collective responsibility to solve a specific problem directly.
 
-One of the fundamental problems we have with political leadership is most of these people are utterly useless at anything else but politics. We don't elect people because they are good a solving problems. We elect people because they are good at getting elected.
+One of the fundamental problems we have with political leadership is most of these people are utterly useless at anything else but politics. We don't elect people because they are good problem solvers. We elect people because they are good at getting elected.
 
 I think a scoot of collective genius (SOG) could be a way of finding real leaders who can solve social and civil problems. The scoot is formed with a specific problem, and the scootee builds the scootage of people willing to be both responsible and accountable. Maybe multiple SOG are formed to try to find a solution to the same problem, and as the solutions start to become viable, the scootage flees to the most promising or they merge.
 
 I think this could be like on-the-job training for elective office. You show us what you can get done with other responsible people's money before you get taxpayer money. With scoot, success will be measurable and failure accountable.
 
-## Monuments and Nature's Bounty
+### Collective Vanity
+
+Take the Pyramids of Egypt, a wonder of the ancient world. Genius, right? Sure, I guess I think so, but I wonder what the slaves who built the pyramids thought. Maybe the pharaohs a little full of himself, wouldn't you say?
+
+Back to my hypothetical billionaire Dreamland. If were a hypothetical billionaire, I'd have an entire entourage of like-minded millionaire "friends." If I wanted to be known as the man behind Dreamland, it would be fair of me to share the responsibility with my idiot friends, right? Well sure, a scoot would be the perfect venue to share responsibility for collective vanity.
+
+And that's what it would be. But have no fear, that'll never happen. While The Dream might support a free vacationland for kids, he'd never let me put his name on it.
+
+No, my boyhood hero prays fives a day. My man played a month of most of his NBA career while practicing the Ramadan fast. He built a real-estate empire using his own money and didn't put his name on any of it. My man has principles.
+
+It's not because Houston has a problem with vanity. Oh, no. James Harden must have spent eight years with his eyes glued to his phone while somebody drove him around town, because all he would've had to do is look out the window from any freeway and seen he was in paradise city for each and every one of his hedonistic desires. And we don't have any problem with putting your name in the spotlight, especially if you've done something to back it up. Oh, if The Dream had been a different kind of man, I'd have woken with Dream Kolaches and Coffee, had a Dream burrito for lunch, and The Dream Steakhouse for dinner. It could have been like Elway in Denver cubed. Poor Spurs fans headed east on I-10, it they didn't want to fill up with Hakeem's gasoline, they were SOL and better hope they had enough to make it past Beaumont.
+
+No, my dreamland of vanity isn't possible. The genius I appreciate isn't even a little bit vain.
+
+If a bunch of billionaire's get together and want to build a Space Elevator, and then a scoot of collective genius (SOG) would be the way to go. If they're successful, it's genius and they'll be remembered by the masses for freeing humanity from the bondage of gravity. If we're stuck with an 80,000 ft abandoned tower in the middle of the Southern Pacific, we'll have a monumental place to entomb their remains, and future humanity will remember our century as the time when we thought billionaires were gods.
+
+Monuments and Nature's Bounty
 
 What about great monuments, works of art that are also real property?
 
@@ -510,9 +526,9 @@ However, I draw the line at Parks and Natural Wonders -- Nature's bounty. Yosemi
 
 I believe that once scooting is well established as a system of valuing responsibility, a similar system could be set up for Nature's Bounty.
 
-I don't think any social trend towards eliminating private ownership of land can be done in our current society without bloodshed. Private ownership of land is too engrained into our world-view, and too much of our wealth is tied up in property. You could start a trend beginning with rain forests, and park land, and natural wonders, but it wouldn't be long before you run head-first into a wall of minerual rights, and water rights, and air-rights and easements and at some point it would get real ugly.
+I don't think any social trend towards eliminating private ownership of land can be done in our current society without bloodshed. Private ownership of land is too engrained into our world-view, and too much of our wealth is tied up in property. You could start a trend beginning with rain forests, and park land, and natural wonders, but it wouldn't be long before you run head-first into a wall of mineral rights, and water rights, and air-rights and easements and at some point it would get real ugly.
 
-Simply put, I think social pressure can convince the wealthy not to maintain the gerneational wealth as art. I do not think it will be so easy to get them to give up their land.
+Simply put, I think social pressure can convince the wealthy not to maintain the generational wealth as art. I do not think it will be so easy to get them to give up their land.
 
 Once wealth as responsibility is mainstream, then I think this could happen naturally and peaceful. The wealthy will do better against inflation keeping their wealth in scoot and asimov.
 
@@ -599,9 +615,9 @@ Leonardo makes goo-goo eyes and a bashful smile.
 
 "Well, basically, that no human life is worth a single painting," says Bruce Willis.
 
-DeNiro shouts, "What is this? This fool would paint his grandma in her underwear feeding the ducks if I paid him half a lira. What, art isn't worth a single life? Come on, gentleman, don't you know how the world works. Your private jets, your yachts, your Beverly Hills mansions, you New York Penthouses, your watches and your \$500 dollar haircuts, they're all based on the value of genius."
+DeNiro shouts, "What is this? This fool would paint his grandma in her underwear feeding the ducks if I paid him half a lira. What, art isn't worth a single life? Come on, gentleman, don't you know how the world works. Your private jets, your yachts, your Beverly Hills mansions, you New York Penthouses, your watches and your five-hundred dollar haircuts, they're all based on the value of genius."
 
-Silence for a few seconds. In a masterstroke of filmmaking, all the actors drop their roleplaying simultaneously and break the fourth wall. Scorsese appears in frame holding a clipboard, and Joe Jonas, who hadn't been in the scene but was waiting off set in case there was some a need for a tune, walks on.
+Silence for a few seconds. In a masterstroke of filmmaking, all the actors drop their roleplaying simultaneously and break the fourth wall. Scorsese appears in frame holding a clipboard, and Joe Jonas, who hadn't been in the scene but was waiting off set in case there was some need for a tune, walks on.
 
 Leonardo says, "Wait, could you explain that part about private jets again."
 
@@ -623,19 +639,15 @@ Leonardo says, "I did that once, for a role, they had this thing called a jump s
 
 Cut to next scene. Leonardo, McConaughey, Bruce Willis, Joe Jonas, and Robert De Niro are all geared up in body-armor holding assault rifles flying over Paris in a helicopter. As they jump out of the Blackhawk, they scream in unison, "We'll never fly commercial!"
 
-### 
-
 ### The Stinger
 
 What was the point of this venture into cinema? I'm hoping that if my exposition annoys the wrong billionaire and gets me fired from my job, one of the aforementioned cinematic geniuses will take pity on me and hire me to write a screenplay. Or maybe McConaughey can hire me to develop his gubernatorial campaign platform. I've got a great driving record, perhaps I could be Joe Jonas's chauffeur?
 
 Throughout the Cold War, the United States and the Soviet Union had all kinds of cultural exchanges, and in both fiction and reality they were all subterfuge. The Soviets tried like hell to keep The Beatles off their airwaves, and I personally wanted to hijack a nuclear armed B-52 after Ivan Drago kicked Rocky's ass.
 
-Die Hard 7 was the action movie version of economics. Economic invasions only work when what we value is property. In the world of asimov and scoot, art is not property, and it's value is not changed by who posseses it or even if it is destroyed. A work of genius is more valuable the more it's appreciated.
+Die Hard 7 was the action movie version of economics. Economic invasions only work when what we value is property. In the world of asimov and scoot, art is not property, and it's value is not changed by who possesses it or even if it is destroyed. A work of genius is more valuable the more it's appreciated.
 
 So real cultural exchange of genius becomes a win-win for both sides of the exchange. It's like royal hostage exchange with clones -- everybody wins (genius), or I guess if the royal princess was extra annoying, everybody loses (vanity). It belongs to everybody, regardless.
-
-.....
 
 ## Academic Genius
 
@@ -771,8 +783,6 @@ Every participant in the **responsibility domain** is a **pledge**. Pledges have
 
 The asimass are holders of asimov. Since asimov is an open digital currency, where holders may be anonymous and therefore may be individuals, corporations or governments, there is no concept of voting by indivduals in the value domain. Large holders of asimov will dominate the asimass. Votes are proportional to asimov held.
 
-### 
-
 ## The Board of Trustees
 
 The Foundation shall be governed by the Board of Trustees[^31]. I suggest that the total number of trustees be eleven, as follows.
@@ -907,7 +917,7 @@ Genius and vanity are really the same thing. Vanity is failure to align your exp
 
 ## No Small Genius
 
-In this modern world, with the help of social networks, you can find people from all over the world who share your interests and facinations, people who more.
+In this modern world, with the help of social networks, you can find people from all over the world who share your interests and fascinations, people who more.
 
 One day, perhaps, when I'm old, some kid that shares my fascination with science fiction, space exploration, Led Zeppelin, and the Houston Rockets will find me, because I'll be a fellow member of the scootage.. We'll talk about they way things used to be, and compare the genius of his day with the genius of mine.
 
@@ -921,45 +931,7 @@ He'll nod, appreciating the immense technological change between his day and min
 
 "Kid, let me tell you about the Worm. Back when I was a kid, the Korean peninsula was divided into two countries. There was this kid from Texas, like you and me\...."
 
-## 
-
-# Blah,blah,blah
-
 # 
-
-Genius is turning dreams into reality. You may say, I know some geniuses and they didn't do anything but destroy dreams. And yes, all geniuses have that power too. Usually, you just read it wrong, they just turned some other loser's dreams into reality, you've just got higher standards. And the dark side needs a currency as well, asimov is completely open source, Sith Lords are welcome in our chat (alt-bitcoin whatever the hardcore crytpt geeks use. Asimov\...AND FOR MARKETING PURPOSES HAVE TO SET IT UP BEFORE THIS IS PUBLISHED with an actual working signup link on github or google or whatever Hakeem will know) group.
-
-It is for this reason we refer to coins that collectively own the artifict as dream coins. There's one other reason, but that'll have to be an Awbrey family secret.[^36]
-
-Genius has an absoulte value, but it's recongized value can change with fashion. But real genius, the kind we sometimes take awhile to recongize, can only increase in valude. Let's say there is a painting, a masterpiece, that sold in 1921 for \$150,000 in 2021 USD equivlents and sells in 2021 for \$150,000,000 Was the painting worth less in absolute terms of genius in 1921? NO. Genius is timeless. So only two things could have happened. Humanity took a long time to recognize the level of genius. Or humanity's capacity for vanity increased. What do you think it is? Is this level of vanity a side affect of the rich getting richer and their families staying richer? It's hard to say from 2021, but as we see the cycle of history, it should be clearer. But even if the 2021 outlandish priceis vanity -- it's still may be genius, after all fashion is cyclical.
-
-In this system, balance is achieve between genius and vanity. The true genius, the timeless value, is the foundation of our value system. Vanity -- our individually and cultrually biased appreation of certain genius, is the liquity. But here's the thing - The most effcient way for a culture to create new value value is to foster our children with inspritation to dream like a genius.
-
-Country based -
-
-Your appreaciation of genius is your birthright. Literally, in with totally congruenty two for one. You appreaciation -- the rise in value of your national tresure. But your appreaciation of your national tresure -- perhaps permanetly changing a cycle that was fasion into genius --increases the value of your national tresure.
-
-....Summary\.... If I can accept reluctantly accept Michael Jordan as GOAT, and Canada can stand alone in it's prog rock vanity, then we can see across the span of genius and vanity, we'll come to a statistical valuation of humanity genius.
-
-....Is this important. Do we really know in the span of history, if Leonardo was a genius? Or was he an expression of the vanity of the time, which we've taken as genius? Yet here we are, from crytpo-punks quick to say Wall Street is evil to crying at the excess of Wall Street, but the very foundation of modern banking and finance originated in Florence by a family there patrons of Da Vinci\... Will history respect artists that took the kings gold? I'm sure we'll have enough\.....
-
-The measure of consenseous value is how many people, years after an artist is dead, will be responsible for the appreaction of his genius.
-
-Asimov foundation is
-
-### 
-
-### 
-
-## 
-
-## 
-
-## Other forms of Genius
-
-....MJ HO comparision\....leads to how great Bonham is above other musicisians.
-
-I doubt there will ever be a drummer as great as John Bonham. It's simply because, why buy your kid a drum set and piss off the whole neighboorhood, when you can buy him a Mac and he might compose an social media earworm and pay his own way through college.
 
 # Appendix A -- Scoot protocol requirements
 
@@ -999,7 +971,7 @@ References\....
 
 [^16]: There's a crime movie to be had here, where a hitman and a mortician are in cahoots to create steady supply of dead art lovers.
 
-[^17]: Drafted the same year, I would argue that *The Dream*, who played in the much more competitive Western conference, was a more dominant player during the entire span of their careers. Further proof being that the Rockets were 12-10 against the Bulls during that time. Of course, the counter argument is Jordan's six gold rings against Olajuwon's two, but this here narrative is about value and genius, not gold. Alas, they never faced each other in the playoffs, so it is purely speculation. I blame the Utah Jazz. There shall forever be a special class of **scoot** called **stockton** to represent dirty geniuses.
+[^17]: Drafted the same year, I would argue that *The Dream*, who played in the much more competitive Western conference, was a more dominant player during the entire span of their careers. Further proof being that the Rockets were 12-10 against the Bulls during that time. The counter argument is Jordan's six gold rings against Olajuwon's two, but this here narrative is about value of genius, not gold. Alas, they never faced each other in the playoffs, so it is purely speculation. I blame the Utah Jazz. There shall forever be a special class of **scoot** called **stockton** to represent dirty geniuses.
 
 [^18]: Want to have this debate, let's bet a case of Gatorade. "Be Like Mike." Brandon drops the microphone, debate over. "Dream, like Hakeem." That's genius.
 
@@ -1036,5 +1008,3 @@ References\....
 [^34]: The First Amendment covers freedom of religion and speech.
 
 [^35]: A mid-21^st^ century trend where basketball fans would get together and issue and ICO (Intial Clone Offering) where they would mix the DNA from various superstars to create NBA players. Stephan Curry's DNA was present to some extend in almost every clone, so the kids had taken to calling them all currys.
-
-[^36]: That I like to name things after geniuses. Or Hakeem has turned several of my dreams into reality. Aw\...
