@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.2**
+**Version 0.21**
 
 There are only two true hedges against inflation. Recorded history and archaeology have proven they've both existed for as long as humanity.
 
@@ -50,6 +50,18 @@ What if we could turn history into money? Would we still forget?
 
 ## A Measure of Wealth
 
+The goal of this project is to change the way we value wealth. Wealth is currently based on property. Property is inequitably distributed across humanity, and thus is the source of most conflict throughout history.
+
+Crypto-currency has opened up a new frontier in how we implement a currency, relieveing us from dependence on government for a unit of exchange. All crypto, as well as the dollar and all fiat currecies derive their value from the exchange of property, not any intrinsic value.
+
+The goal here is to create a base currency not based on property, which is scarce and unfairly distributed, but on man's ability to create and innovate.
+
+There are two ways of looking at the distribution of genius. The more spiritual outlook, that there's a genius in every child and they just need the find a way to express it. Or, the more practical point of view, genius is a quirk of DNA and statistically distributed as a bell curve across the population. Either view point works with this system. If you have another point of view, perhaps you believe that genius has something to do with your skin color or where you were born or what your father did for a living, then you should stop reading and keep measuring your wealth based on property.
+
+Property based wealth is unsustainable without conflict. Genius based wealth can be both competitive and sustainable.
+
+A genius-based economy will naturally align itself with sustainability and raising children as producers and not consumers.
+
 ## Guardians of the Public Domain
 
 The **public domain** consists of all creative work to which no exclusive intellectual property (IP) rights apply.[^4] Where the public domain begins, and exclusive IP end varies from country to country. In the US public domain begins on copyrighted material 70 years after the authors death.
@@ -58,33 +70,53 @@ Essentially, what Asimov's Foundation was doing was collecting the accumulated p
 
 We face the same problem. It's not that we've forgotten history, but it's been rewritten so many times, it's continually changing. That is a problem we can't fix -- we my chance upon records that correct a "correction," but we may have lost more than we can ever recover. Blockchain technology has one aspect that can help with this. Blockchains are immutable -- you can't make a change in the past without invalidating every other entry on the blockchain since. Essentially, a blockchain is history written in digital stone.
 
-There is a bigger problem to solve. They had academics and huge libraries in the Galactic Empire, but the real problem was that no one was responsible for the preservation of that knowledge. Academics only studied what was fashionable or interesting to them, and since technology and science were already so far advanced, they had little interest in exploring the past to understand the fundamentals. The Foundation was exiled to Terminus, a world that had almost no natural resources. Despite this, armed with knowledge gathered for the Encyclopedia Galactica, with a few centuries the First Foundation rivaled and exceeded the power of the Empire.
+There is a bigger problem to solve. They had academics and huge libraries in the Galactic Empire, but the real problem was that no one was responsible for the preservation of that knowledge. Academics only studied what was fashionable or interesting to them, and since technology and science were already so far advanced, they had little interest in exploring the past to understand the fundamentals. The Foundation was exiled to Terminus, a world that had almost no natural resources. Despite this, armed with knowledge gathered for the Encyclopedia Galactica, within a few centuries the First Foundation rivaled and exceeded the power of the Empire.
 
-We have the same problem today. The amount of knowledge we have accumulated as a species is huge yet is just an eyedropper full of liquid in the vast ocean of raw digital data that exists in computer systems. Who is responsible for the preservation of this valuable knowledge? The public domain is not property, so there is very little motivation to preserve it, as it cannot be sold. Sure, publishers and artists can profit from public domain work, such as Shakespeare, yet for every Shakespeare there are thousands of writers from the same time period forever lost to history.
+We have the same problem today. The amount of knowledge we have accumulated as a species is huge yet is just an eyedropper of liquid in the vast ocean of raw digital data that exists in computer systems. Who is responsible for the preservation of this valuable knowledge? The public domain is not property, so there is very little motivation to preserve it, as it cannot be sold. Sure, publishers and artists can profit from public domain work, such as Shakespeare, yet for every Shakespeare there are thousands of writers from the same time period forever lost to history.
 
 If we don't take responsibility, we will continue to lose important pieces of our legacy as a species. Will this lead to stagnation and the decline of civilization? I don't know.
 
 I do know that a civilization whose value system is based on property will always have conflict if there is scarcity.
 
-A value system built on something that is rare yet potentially unlimited and evenly distributed throughout humanity should cause less conflict, and secure a sustainable economy not dependent on property.
+A value system built on something that is rare yet potentially unlimited and evenly distributed throughout humanity should cause result in less conflict and a more secure and sustainable economy.
 
-Let's look at two geniuses from last century who also happened to be close friends: Mark Twain and Nikola Tesla. Mark Twain was the father of American literature, a social satirist and humorist, and for his day, a social media influencer. Nikola Tesla was an engineer, scientist and inventor who pioneered early electrical systems as well as made fundamental contributions to many other fields, and was in his own way, a celebrity. Mark Twain died in 1910, meaning under U.S. Law, his writings would have entered the public domain in 1980, 70 years after his death.[^5] Nikola Tesla died in 1943, so his written work would have entered the public domain in 2013. Tesla was primarily an inventor, and U.S. patents expire twenty years after issuance. Most of Tesla's patents expired while he was still alive. All work by both men are in the public domain. Their work material -- manuscripts, notebooks, drawings and prototypes, are property -- and belong to whomever legally possess them. In general, for writers and inventors, we place little importance on the physical work product.
+Let's look at two geniuses from last century who also happened to be close friends: Mark Twain and Nikola Tesla. Mark Twain was the father of American literature, a social satirist and humorist, and for his day, a social media influencer. Nikola Tesla was an engineer, scientist and inventor who pioneered early electrical systems as well as made fundamental contributions to many other fields, and was in his own way, a celebrity. Mark Twain died in 1910, meaning under U.S. Law, his writings would have entered the public domain in 1980, 70 years after his death.[^5] Nikola Tesla died in 1943, so his written work would have entered the public domain in 2013. Tesla was primarily an inventor, and U.S. patents expire twenty years after issuance. Most of Tesla's patents expired while he was still alive. All work by both men is in the public domain. Their work material -- manuscripts, notebooks, drawings and prototypes, are property -- and belong to whomever legally possess them. In general, for writers and inventors, we place little importance on the physical work product.
 
 This new value system is built on a fundamental question: Who is the greater genius? Mark Twain or Nikola Tesla?
 
-Twain was a social commentator and humorist, his wit unmatched and voice uniquely and quintessentially American. *The Adventures of Huckleberry Finn* might be the most important novel ever written. A yet, despite Twain's wit and social critique a hundred years later we still have racism and rich idiots, even in his own America.
+Twain was a social commentator and humorist, his wit unmatched and voice uniquely and quintessentially American. *The Adventures of Huckleberry Finn* might be the most important novel ever written. A yet, despite Twain's wit and social critique, over a hundred years later we still have racism and rich idiots, even in his own America.
 
 Tesla invented machines that transformed the world, allowing every home to have a reliable and efficient source of electricity.
 
 Why should we ponder who was greater? Aren't they both geniuses?
 
-If we can place a value on their contributions to humanity, than we can use this form the basis of a value system based on mankind's creativity, which is limitless and yet scarce.
+If we can place a value on their contributions to humanity, then we can use this form the basis of a value system based on mankind's creativity, which is limitless and renewable with every birth.
 
-.....finish making the argument... value of the public domain (man's genius).
+This should be the first interview question for future Foundation employees. Who is the greater genius, Twain or Tesla?
+
+I'd like to think if Nikola Tesla would be deferential to his friend and point out the first step of any innovation is a clear characterization of the problem. If he'd had his friend's gift of rhetorical gab, he'd might have a better salesman for his ideas and become wealthy enough to finish more of his research.
+
+I doubt Mark Twain would be deferential, having seen his friend burn down multiple labs as well as constanst self-inflicted shocks of millions of volts. If Mark Twain had lived a few more years, he could use Einstein as an example, a scientist who changed the world with only pen and ink and his imagination, no high-voltage lab work at all.
+
+You can make arguments either way, but the truth is that we don't know. In future centuries, racism and a class stratified society may seem quaint, Twain's tales will be hard to take seriously. Future children may look upon photographs of the 21^st^ century and wonder why the hell we strung up high-voltage wires everywhere.
+
+We don't know the value of any particular genius -- we can't know. One man's genius is another's vanity.
+
+We can determine the value of all the geniuses that came before us. It's quite simple. The value of man's genius is approximately equivalent to the cumulative value of all human commerce.
+
+Property doesn't not provide value without man's innovation. Raw ore dug from the earth does not transform itself into metal -- man's genius allows it to be smelt. Raw land does not provide food naturally, but through agriculture we feed seven billion souls. Nature's bounty does provide the raw material, but the value comes from man's innovation.
+
+Man's genius can be summed up by the public domain and the current value of the private domain of Intelectual Property, and this value is equivalent to the the cumulative value of all human commerce. Unlike natural resources, genius is naturally renewable. When an Electrical Engineer uses Ohm's law to calcutate the resistance of a circuit, it does not "use up" some of Ohm's Law. Ohm's Law retains it's value, no matter how many use it or what it used for.
 
 This equivalence argument is like the ultimate Catch-22. Economist may wish to argue that property and resources -- the king's gold - are what really create value in our world economy, and may even attempt to prove it using economic theory and mathematics. Yet economics and mathematics are products of mankind's genius.
 
-## The Foundation for the Appreciation of Human Genius
+So even though the public domain is free and open to everyone, it is very valuable. It is the most valuable treasure we have as a species. And treasure can be the foundation of a currency.
+
+How valuable can something be if no one is responsible for it?
+
+There in lies the key to this system. Rather than value genius directly, we will value responsibility. Responsibility is what is valuable.
+
+## The Foundation for the Appreciation of Human Genius 
 
 **The Foundation** is a Non-Governmental Organization (NGO). It may be decentralized, but it's not autonomous. It's an ideal, not an algorithm.
 
@@ -94,23 +126,23 @@ Specifically, it is *The Foundation for the Appreciation of Human Genius*. The m
 
 ![](media/image1.png){width="6.5in" height="3.65625in"}
 
-The Foundation and its members, who are called pledges, mint a class of coin known as scoot. Scoot are identified in the protocol by their index, and asimov is a special class of scoot only minted by The Foundation. Scoot(0) == asimov. To be more precise, scoot with index \< 1 can only be minted by The Foundation. Each scoot, including the asimov has a scoot-chain, which is a blockchain transactional record and a historical record related to the mission of each underlying scoot. The scoot-chain is maintained by each individual scoot's staking network. When The Foundation is a holder of a scoot, it will maintain a copy of that scoot-chain.
+The Foundation and its members, who are called pledges, mint a class of coin known as scoot (lowercase). Asimov is a special case of scoot only minted by The Foundation. scoot(0) == asimov. To be more precise, scoot with index \< 1 can only be minted by The Foundation. Each scoot, including the asimov has a scoot-chain, which is both a blockchain transactional record and a historical record related to the mission of each underlying scoot. The scoot-chain is maintained by each individual scoot's staking network. When The Foundation is a holder of a scoot, it will maintain a copy of that scoot-chain.
 
 Like bitcoin, asimov may be traded anonymously by any persons or organization with a properly formed address. Open trade of asimov is known as the value domain. Transactions in the value domain are processed through a staking network of registered-nodes and anonymous nodes.
 
 Pledges are people, and not organizations and are registered with The Foundation. Trade in scoot occurs in the responsibility domain. The responsibility domain trades only in scoot, and no direct trade with the fiat or crypto. Only registered nodes can operate in the responsibility domain, and regsistered nodes can only be individual pledges or scoot trustees. Only The Foundation, pledges or other scoot can be holders of scoot(\>0).
 
-A scoot is formed as organization of proportion responsibility for artwork or a legacy of genius. Each scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via an election method build into the protocol. Holders of scoot have no rights other than the elective governance, but a responsibility -- a pledge -- to increase the appreaciation of the subject of the scoot. The scoot charter can define direct responsibilities enforceable via protocol (participation in elections can be mandatory, but proxied.)
+A Scoot (uppercase) is formed as organization of proportion responsibility for property (artwork) or a legacy of genius. Each scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via an election method build into the protocol. Holders of scoot have no rights other than the elective governance, but a responsibility -- a pledge -- to increase the appreaciation of the subject of the scoot. The scoot charter can define direct responsibilities enforceable via protocol (such as participation in elections).
 
-Once legally formed, a scoot elects a trustee who holds rights to both the scoots own trading (genesis) address, as well as any real-world assests. A scoot may generate income, but that income can only go to the direct appreciation of the property. Funds may be used for some direct effort, or to re-purchase the scoot on the responsibility domain to decrease liquidity.
+Once legally formed, a Scoot elects a trustee who holds rights to both the scoots own trading (genesis) address, as well as any real-world assets. A Scoot may generate income, but that income can only go to the direct appreciation of the scoot. Funds may be used for some direct effort, or to re-purchase the scoot on the responsibility domain to decrease liquidity.
 
-The Foundation will issue genesis asimov in two cases. Initially, during the staking, seeding and development stages. After that, The Foundation will only issue genesis asimov in exchange for scoot. A total of one trillion asimov will be minted, and distributed over 200 years according to the distribution schedule outlined in [Appendix B](#appendix-b-asimov-distribution-schedule).
+The Foundation will issue genesis asimov in two cases. Initially during the staking, seeding and development stages. After that, The Foundation will only issue genesis asimov in exchange for scoot. A total of one trillion asimov will be minted, and distributed over 200 years according to the distribution schedule outlined in [Appendix B](#appendix-b-asimov-distribution-schedule).
 
-After a scoot is legally formed, it may participate in responsibility domain by registering the scoots address. The Foundation shall charge a fee, in asimov, for this registration. The fee will be high enough to discourage, but not prevent, novelty scooting. There shall be a staking program where pledges can sponsor new artists and creatives and reduce cost of registration. Also, credits will be earned through transaction processing in the responsibility domain by pledges and nodes.
+After a Scoot is legally formed, it may participate in responsibility domain by registering the Scoots address. The Foundation shall charge a fee, in asimov, for this registration. The fee will be high enough to discourage novelty scooting. There shall be a staking program where pledges can sponsor new artists and creatives and reduce cost of registration. Also, credits will be earned through transaction processing in the responsibility domain by pledges and nodes.
 
-At scoot registration, the trustee may sell The Foundation first-genesis scoot at a negotiated rate in asimov. This schedule of investment offered by The Foundation shall be published and unbiased based on content. However, The Foundation may decline to make an offer arbitrarily. This would typically be to avoid participation in novelty scoot.
+At scoot registration, the trustee may sell The Foundation genesis scoot at a negotiated rate in asimov. This schedule of investment offered by The Foundation shall be published and unbiased based on content. However, The Foundation may decline to make an offer arbitrarily. This would typically be to avoid participation in novelty scoot.
 
-In this way, the asimov represents an index of overall scoot issuance. Over time, asimov will represent an index of all scoot issued held by the foundation, without the bias of individual preference. One
+In this way, the asimov represents an index of overall scoot issuance. Over time, asimov will represent an index of all scoot issued held by the foundation, without the bias of individual preference.
 
 The end goal of the Encyclopedist is that the Foundation hold all **scoot** of genius and none of vanity. This is an impossible task. Genius of today may be vanity of the future. In macro-economic terms, it gives us an equivalency. When **The Foundation** is "caught up" all the asimov will have been circulated, and the Foundation should hold in reserve 100% of the **scoot** of "genius."
 
@@ -132,7 +164,9 @@ The end goal of the Encyclopedist is that the Foundation hold all **scoot** of g
 
 [The charter should begin with a simple principle. Genius belongs to Humanity.]{.mark}
 
-[I think this is a principle that will gain universal acceptance. There is already precedence for this. For Intellectual Property - immaterial expressions of genius covered by copyright -- we have the public domain. Some period of time after the creator of work dies, the rights fall to the public. This allows income from this IP to revert to heirs but does not perpetuate beyond the expiration of copyright or patent. This seems fair, as the creator and his family benefit, but the long-term appreciation of the value of his genius benefits humanity.]{.mark}
+[I think this is a principle that will gain universal acceptance. There is already precedence for this. For Intellectual Property - immaterial expressions of genius covered by copyright -- we have the p]{.mark}
+
+[ublic domain. Some period of time after the creator of work dies, the rights fall to the public. This allows income from this IP to revert to heirs but does not perpetuate beyond the expiration of copyright or patent. This seems fair, as the creator and his family benefit, but the long-term appreciation of the value of his genius benefits humanity.]{.mark}
 
 [Think of physical art. A painter sells a picture for a large sum, maybe \$50,000 and it becomes property of some wealthy collector. Appreciation in value due to the painter's genius is conferred to the collector, not the painter or his family, and not to the greater benefit of all of humanity. However, the appreciation in value is due to humanity's appreciation of the genius, not the wealth collector's vanity.]{.mark}
 
@@ -566,7 +600,7 @@ I think Nikola Tesla should have been awarded the Nobel Peace Prize.
 
 ![Chart, line chart Description automatically generated](media/image5.jpg){width="6.5in" height="4.180555555555555in"}
 
-Figure - Life expectancy 1870-2019 from https://ourworldindata.org/life-expectancy#twice-as-long-life-expectancy-around-the-world
+Figure 4 - Life expectancy 1870-2019 from https://ourworldindata.org/life-expectancy#twice-as-long-life-expectancy-around-the-world
 
 The chart above shows from 1890, the year of the first commercial application of Tesla's AC inventions, to 1990 life expectancy in the US rose from 45.2 to 75.2 years, an increase of 66%. It's noteworthy that in 1890, The United States was already one of the most advanced countries in the industrial age, and a life expectancy of 45 years was much higher than the world average of around 30 years. In that same time period, the World average doubled -- 100%. Modern medicine wants to take most of the credit for that, with lower rates of infant mortality and higher standards or hygiene and care and broader access to doctors across the planet. Sure. Doctors, Nurses, and hand washing deserve a lot of credit.
 
