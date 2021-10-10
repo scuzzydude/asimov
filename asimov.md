@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.23**
+**Version 0.24**
 
 There are only two true hedges against inflation. History and archaeology have proven they've both existed for as long as humanity.
 
@@ -30,7 +30,7 @@ And then, just maybe, we might be able to understand Da Vinci's genius. Not ever
 
 Works of art don't just have historical value. They have potential value. And anything that is one of a kind has vanity value.
 
-Genius and Vanity are intangible, but real. This is one problem people have understanding money. Most people can understand equities, a share of stock is partial ownership of company. Most people can understand a fixed currency - a gold-standard dollar is an actual gold coin. People used to understand that a paper dollar bill was backed by gold locked down under Fort Knox.[^2] But the floating dollar? That's backed by the "full faith of the United States Government" which I would argue is neither tangible nor real. I mean, the US Government consists of people we elected, I don't think I need to make a list of examples of all those faithless hypocrites. And bitcoin? Backed by mathematics? Mathematics is a form of genius humanity has created collectively through history, it's as much of an abstraction as faith in a government.
+Genius and Vanity are intangible, but real. This is one problem people have understanding money. Most people can understand equities, a share of stock is partial ownership of company. Most people can understand a fixed currency - a gold-standard dollar is an actual gold coin. People used to understand that a paper dollar bill was backed by gold locked down under Fort Knox.[^2] But the floating dollar? That's backed by the "full faith of the United States Government" which I would argue is neither tangible nor real. The US Government consists of people we elected; I don't think I need to make a list of examples of all those faithless hypocrites -- it's a long list with names in both red and blue. And bitcoin? Backed by mathematics? Mathematics is a form of genius humanity has created collectively through history, it's as much of an abstraction as faith in a government.
 
 Genius and Vanity are timeless.
 
@@ -132,7 +132,33 @@ So even though the public domain is free and open to everyone, it is very valuab
 
 How valuable can something be if no one is responsible for it?
 
-This is the key to this system. Rather than value genius directly, we will value responsibility. Responsibility is what is valuable. You don't have to be a genius to be responsible for genius. Passion for something is all that is required.
+This is the key to this system. Rather than value genius directly, we will value responsibility. Responsibility is what is valuable. You don't have to be a genius to be responsible for genius. Passionis all that is required.
+
+### Scoot - Dynamically Scalable Responsibility
+
+I'm introducing a new concept called Scoot. If I wanted to give it a technical name I would call it a Protocol for managing dynamically scalable responsibly.[^6] It's an investment of responsibility. It is not property. This concept does not exist in any current systems that I am aware, thus it deserves a new name. I call it Scoot, and this should encourage other cultures to apply own interpretation to naming it. When I have a difficult problem to solve, and the solution is a clever engineering hack, that's Scoot. I can't wait to see what the Chinese translation will be. If you're a basketball fan in need of a laugh, just read a few transliterations of NBA player names in Chinese. Wanna guess who is *"The Flying Pig?"*
+
+The power of this system is that it uses the innovations in cryptocurrency to provide a scalable system of limited direct democracy as well as an immutable historical record. That is valuable data. The Protocol will allow you to customize the elective govenrnace of a Scoot. If you want a proportional democracy, like a shareholder in a company, you can implement that. Want a representative democracy, because things work so well in your local congressional district, give it a try. If you want something more like one-vote direct democracy, because you like participating in social media flame wars, go for it. If you'd like more of a *Game of Thrones*, strategic power move without the blood, you can do that to. I don't know which one is better or right. Data we gather over years, decades and centuries will show us which one of these works best or point us towards new forms of self-governance that are more efficient.
+
+The reason direct democracy can't work on a large scale is simple. We elect people at the local, state and federal level who are good at one thing to lead and manage our governments, but then we expect them to be good at many things. What does a lawyer know about running a water or sewer system, or efficient and green recycling and road maintenance? They way is supposed to work is those elected leader hire unbiased experts to do the actual work, or that we have some institutional experience in our departments that should be able to do the job efficiency. The reality is the intact bureaucracy omake this whole process to complicated because the the scope is too broad. Of course, a congressman can get stuff done in government -- he just makes a phone call and a pumping station in his district gets a new pump ahead of some other district. All it cost was a vote against his conscious and consensus of his constituents on a voting rights bill. People who can already vote are likely to remember the high pressure shower they get each morning when election time rolls around again.
+
+Limited democracies can be efficient. Take a Homeowners Association (HOA). You have an hour meeting once a month. Somebody is the leader of the HOA, hopefully it's somebody practical and not somebody making a run at the next open School Board Seat. The practical leader calls a meeting, talks about bids for a new lawn service that's coming up and that's really about price and reliability. They talk about teenagers hanging out at the playground drinking and smoking pot on the weekends, and who was going to call the cops and should they inform parents first. The talk about a few issues they need to prepare to discuss in upcoming meetings, and then close the hour-long meeting in 45 minutes.
+
+Let's say there the leader is running for next School Board Seat. They decide, before getting into the agenda, they should have an open forum where the HOA board can hear from homeowners on their opinions. In the first meeting, the agenda is vaccination mandates and local abortion laws. Do you think they'll be able to agree on a lawn service after that discussion?
+
+We can't agree on broad topics, because our value systems aren't red or blue. They are way more nuanced that the bi-polar party system. When you limit the scope of your governance, you can avoid ideologies and focus on the problem. When you can limit the scope, you can work on solutions rather than negotiate compromise.
+
+Crypto has given us tools that allow us to manage a limited scope direct democracy, but unfortunately, in most places, existing local representative or feudal powers hold jurisdiction over a broad domain of human civil systems.
+
+I believe is that by limiting the scope of these democratic units you can have effective governance. By having all work occur in an open forum with an immutable record of value judgements via elections, you can avoid the conflict, politics, and corruption that occurs in governments with broad interests.
+
+The real innovation, the Awbrey hack, is this. The Foundation is a limited deomacracy that extert non-exclusive management reponsiblity over the public domain. The public domain is NOT the governments domain, nor does it belong to corporations or any other legal entity. It belongs to the public -- and I choose to broadly interpret this as mankind.
+
+This is why Scoot can not own property. Property is clearly the domain of existing governemnts and enforced by common law. By creating a system of responsibility for a humanity's greatest tresasure -- the accumulated knowledge and imagigantion withing th public domain -- we create institutions that are public goods. This creates value that is both equitiable and plentiful. The governance of this public treasure is non exclusive. There can be competiting Scoot entities within the Foundation, but there can be competition to The Foundation itself.
+
+Asimov is the unit of measure in a real value system that does not include property of any kind. The Foundation's digital vaults will be filled with mankind's greatest treasure.
+
+Our dreams.
 
 ## The Foundation for the Appreciation of Human Genius 
 
@@ -160,11 +186,11 @@ Brother Taboo spits truth:
 
 *Not respectin\' each other, deny thy brother*
 
-*A war is goin\' on but the reason\'s undercover*[^6]
+*A war is goin\' on but the reason\'s undercover*[^7]
 
 Bill Gates said, "With great wealth come great responsibility." Scoot is a corollary to that assertion. With great responsibility comes great wealth.
 
-The most valuable treasures we have a species is the knowledge, innovation, and imagination of those who came before us and all that are living now. That is more valuable than gold, oil or hash rate.
+The most valuable treasures we have a species is the knowledge, innovation, and imagination of those who came before us and all that are living now. This is more valuable than gold, oil or hash rate.
 
 It's not valuable if lost, destroyed, or forgotten. It is up to humans to protect, preserve and remember this treasure.
 
@@ -174,7 +200,7 @@ Scoot is the vessel for this responsibility.
 
 A Scoot (uppercase) is formed as organization of proportion responsibility for a legacy of genius. Each Scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via election methods build into the protocol. Holders of scoot have no rights other than the elective governance, but a responsibility -- a pledge -- to increase the appreciation of the subject of the Scoot. The Scoot charter can define direct responsibilities enforceable via protocol (such as participation in elections).
 
-The Foundation and its members, who are called pledges, mint a class of coin known as scoot (lowercase). An instance of scoot is identified by an index X, as in scoot(X). Asimov is a special case of scoot only minted by The Foundation. scoot(0) == asimov. To be more precise, scoot with index \< 1 can only be minted by The Foundation.
+The Foundation and its members, who are called pledges, mint a class of coin known as scoot (lowercase). An instance of scoot is identified by an index X, as in scoot(X). Asimov is a special case of scoot only minted by The Foundation. scoot(0) == asimov. More precisely, scoot with index \< 1 can only be minted by The Foundation.
 
 Each Scoot, including asimov, has a scoot-chain, which is both a blockchain transactional record, a balloting system, and a historical record related to the mission of each underlying Scoot. The scoot-chain is maintained by each individual Scoot's staking network. When The Foundation is a holder of a scoot, it will maintain a copy of that scoot-chain.
 
@@ -184,7 +210,7 @@ Pledges are people registered with The Foundation. Pledges may not be organizati
 
 Once legally formed, a Scoot elects a trustee who proxies the Scoot's own trading (genesis) address. A Scoot may generate income, but that income can only go towards the appreciation of the scoot. Funds may be used for some direct appreciation effort, or to re-purchase the scoot on the responsibility domain to decrease liquidity.
 
-The Foundation will issue genesis asimov in two cases. Initially during the staking, seeding and development stages. After that, The Foundation will only issue genesis asimov in exchange for scoot. A total of one trillion asimov will be minted and disbursed over 200 years according to the distribution schedule outlined in [Appendix B](#appendix-b-asimov-distribution-schedule).
+The Foundation will issue genesis asimov in two cases. Initially during the staking, seeding and development stages, as described in the Circluation chapter. Moving forward, The Foundation will only issue genesis asimov in exchange for scoot. A total of one trillion asimov will be minted and disbursed over 200 years according to the distribution schedule outlined in [Appendix B](#appendix-b-asimov-distribution-schedule).
 
 After a Scoot is legally formed, it may participate in responsibility domain by registering the Scoot's address. The Foundation shall charge a fee, in asimov, for this registration. The fee will be high enough to discourage novelty scooting. There shall be a staking program where pledges can sponsor new Scoot and reduce cost of registration. Credits will be earned through transaction processing in the responsibility domain by pledges and nodes.
 
@@ -192,7 +218,7 @@ After a Scoot is legally formed, it may participate in responsibility domain by 
 
 At Scoot registration, the trustee may trade The Foundation genesis scoot at a negotiated rate in asimov. This schedule of investment offered by The Foundation shall be published and unbiased based on content. The Foundation may decline to make an offer arbitrarily. This would typically be to avoid participation in novelty scoot or obvious vanity. A Scoot does not need to be held by The Foundation for it to participate in the network.
 
-In this way, the asimov represents an index of all scoot.
+In this way, the asimov represents an index of the value of all Scoot.
 
 The end goal is that the Foundation hold all **scoot** of genius and none of vanity. This is an impossible task. Genius of today may be vanity of the future. In macro-economic terms, it gives us an equivalency. When **The Foundation** is "caught up" all the asimov will have been circulated, and the Foundation should hold in reserve 100% of the **scoot** of "genius."
 
@@ -212,19 +238,19 @@ How this is managed both globally and on a per-Scoot basis is prime topic for de
 
 On the other hand, this very system derives its value from the responsibility of individuals. Some people are more responsible than others. Who holds a scoot can confer a higher value. When a genius artist invests in another artist's scoot, it would add value correlated to the value of the genius doing the investing. The relationship between scoot and pledges is the responsibility tree.
 
-PPH would lend itself to always using a new address for each transaction in the responsibility domain. This would be the strictest and most private usage of the responsibility domain. This gives The Foundation an unfair advantage in evaluating genius, as it has access to the full responsibility tree with TPIDs. Privileged employees of The Foundation would always have full visibility to what individuals were investing in. This is unavoidable. To valuate responsibility, you must have accountability.
+PPH would lend itself to always using a new address for each transaction in the responsibility domain. This would be the strictest and most private usage of the responsibility domain. This gives The Foundation an unfair advantage in evaluating genius, as it has access to the full responsibility tree with TPH. Privileged employees of The Foundation would always have full visibility to what individuals were investing in. This is unavoidable. To valuate responsibility, you must have accountability.
 
-There may be cases where Scoot wish only to accept transactions with TPH. It's possible to have cases where PPH are used, but the TPH of the PPH is validated to the Scoot trustee. That requires a level of trust maintenance across elections of trustees, so it's like.
+There may be cases where Scoot wish only to accept transactions with TPH. It's possible to have cases where PPH are used, but the TPH of the PPH is validated to the Scoot trustee. That requires a level of trust maintenance across elections of trustees, it may be difficult to enforce.
 
 I believe a system where you use your TPH to invest in some scoot, and PPHs for others may be the most practical system. The protocol shall handle both cases. Scoot may also implement hybrid models, where perhaps large or majority holders need to reveal TPH but small-scale holders may use PPH. This is essentially how public stock works in some countries, with holdings by large institutions, board members, and company officers are publicly reported, but most holders are publicly anonymous.
 
 The responsibility tree - open or pseudonymous - is very valuable. This system works because more people that are responsible for an idea, the more valuable that idea is. Furthermore, the more responsible people who are responsible for an idea, the more valuable it becomes.
 
-The inverse of the responsibility tree is the hypocrisy tree. Within the protocol, there is a method of shunning. Shunning is a way for Scoot to avoid transactions with other Scoot or pledges it has made a specific value judgement on. When you join a shun, you are making a statement, I refuse to interact with this other individual or Scoot because they are specifically bad. The official reference version of the protocol software will not accept transaction from a shunned entity. However, this purely a choice of implementation. Nodes and pledges can earn discounts by processing transactions. The hypocrisy tree would reveal when nodes transact with nodes they've shunned, which will devalue the importance of a shun. If you joined a shun against one of your competitors and some calamity is forcing you to liquate unexpectedly, the only buyer might be somebody you really don't like. As in individual, I don't think this is a big worry. However, it should come into consideration when electing Foundation leadership and Scoot trustees.
+The inverse of the responsibility tree is the hypocrisy tree. Within the protocol, there is a method of shunning. Shunning is a way for Scoot to avoid transactions with other Scoot or pledges it has made a specific value judgement on. When you join a shun, you are making a statement, I refuse to interact with this other individual or Scoot because they are specifically bad in the way the shun describes. The official reference version of the protocol software will not accept transaction from a shunned entity. However, this purely a choice of implementation. Nodes and pledges can earn discounts by processing transactions. The hypocrisy tree would reveal when nodes transact with nodes they've shunned, which will devalue the importance of a shun. If you joined a shun against one of your competitors and some calamity is forcing you to liquate unexpectedly, the only buyer might be somebody you really don't like. As in individual, I don't think this is a big worry. However, it should come into consideration when electing Foundation leadership and Scoot trustees.
 
 ### Application of Scoot
 
-Scoot is a group of individuals responsible for the appreciation of specific work of genius, or of a legacy of genius. Or vanity. You'd hope the intent of a group would be genius, but vanity for vanity's sake is a real thing -- just check out Instagram Genius provides the value, vanity the liquidity.
+Scoot is a group of individuals responsible for the appreciation of specific work of genius, or of a legacy of genius. Or vanity. You'd hope the intent of a group would be genius, but vanity for vanity's sake is a real thing -- just check out what famous people had for lunch on Instagram. Genius provides the value, vanity the liquidity.
 
 The Foundation should seek to establish Scoot as a legal entity of Scoot. That may take some time for legal system to catch up to understanding what this requires.
 
@@ -234,7 +260,7 @@ It would be preferable to require all Scoot be formed as a trust or similar lega
 
 This really is a matter of semantics and accounting. The pledges of a Scoot are fully responsible for the legacy, but they have no obligation. There is no investment, no dividends, and every transaction recorded on a publicly available blockchain. Scoot is an organization like a fan club, or historical preservation society, or a reading circle, which uses the protocol of Scoot to manage proportional responsibility and to elect trustees and vote on propositions. It has no rights, no exclusivity and must pay taxes and obey local laws.
 
-For compliance and conformortiy, The Foundation should supports efforts to establish "Scoot" as a low cost legal entity in all countries where The Foundation is welcome. This should be a long term effort.
+For compliance and conformity, The Foundation should support efforts to establish "Scoot" as a low cost legal entity in all countries where The Foundation is welcome. This should be a long-term effort and is not required to launch the protocol.
 
 The Foundation should establish training and guidelines for establishing Scoot legally in all countries where it operates.
 
@@ -246,21 +272,21 @@ This includes buybacks of scoot to decrease holder liquidity and increase overal
 
 There is no means for a Scoot to distribute income to the scootage. This is essential to the working of the system, and violators will be permanently banned from participation in the responsibility domain.
 
+Becoming wealthy in Scoot means you are responsible for creating new ideas, appreciating new ideas or more likely, both.
+
 #### Scoot of Property (SOP)
 
 A Scoot of Property is simplest case to understand. A group is formed to be responsible for a piece of property they collectively agree should not be property, but part of the public domain. Genius belongs to Humanity.
 
 Let's say a billionaire owns a Picasso he bought for \$1 million, but it is now appraised at \$10 million. The billionaire forms a Scoot, names himself as trustee and mints 1000 scoot. In forming the Scoot, he formally signs away title to the painting, gives it freely to humanity, formally ending the painting's existence as property, yet the Scoot retains right of possession of the painting as custodian. This is a legal paradox, but a tactical one. A Scoot can buy property, and it can give away property to humanity, but it can never sell property.
 
-The billionaire may agree to sell 1 scoot to The Foundation at the appraised price, or the equivalent of \$10,000 in Asimov, establishing a first mint price. The billionaire may then sale up to 498 scoot in the responsibility domain and still retain possessive control of the painting. The other 498 holders don't benefit. The billionaire can keep his painting holed away at his ski chalet, losing nothing in the process. He controls access the painting but has turned half of its value into liquid wealth.
+The billionaire may agree to sell 1 scoot to The Foundation at the appraised price, or the equivalent of \$10,000 USD in Asimov, establishing a first mint price. The billionaire may then sale up to 498 scoot in the responsibility domain and still retain possessive control of the painting. The other 498 holders don't benefit. The billionaire can keep his painting holed away at his ski chalet, losing nothing in the process. He controls access the painting but has turned half of its value into liquid wealth.
 
-This is zero sum, not only for the billionaire but for the scoot holders. What gets people interested in art is seeing it and talking about it. The billionaire may look to his scootage, and find out one of the holders is Agentinainian and there is unfulfilled demand for all things Picasso in his home country. The Scoot arranges a showing with a museum in Buenos Aires. Bids for the scoot double soon after the painting begins it runs. A few holders sell to Argentinian pledges. Another holder suggests they have an Argentinian Art historian write a biography focused on that period in Pablo's life. The Scoot invests in the historian's Scoot and commissions a biography which is published on the scoot-chain of both the painting and
-
-......
+This is zero sum, not only for the billionaire but for the scoot holders. What gets people interested in art is seeing it and talking about it. The billionaire may hear from the scootage, and find out one of the holders is Argentinian and there is unfulfilled demand for all things Picasso in his home country. The Scoot arranges a showing with a museum in Buenos Aires. Bids for the scoot double soon after the exhibition begins. A few holders sell to Argentinian pledges. Another holder suggests they have an Argentinian Art historian write a biography focused on that period in Pablo's life. The Scoot invests in the historian's Scoot and commissions a biography which is published on the scoot-chain.
 
 You might wonder why any billionaire would do this, after all, who's he got to impress? \$10 million for a painting for a billionaire is equivalent to the wallpaper decision most of us make when buying a new house. I will go into this in great details in the Billionaires chapter.
 
-But they reason is simply, who they have to impress. The wealthy like to flaunt, else we wouldn't have to hear their raw thoughts on Twitter, and know what they had for lunch on Instagram. This is very different. This is a personal staking of what they value. Instead of being able to flaunt their wealth as art because they are rich, they are making a bolder statement, one that will be judged by history. They are saying they are wealthy because they are passionate about something. And that is a good way to be wealthy. For everybody.
+They reason is simple - who they impress. The wealthy like to flaunt, else we wouldn't have to hear their raw thoughts on Twitter and know what they had for lunch on Instagram. This is very different. This is a personal staking of what they value. Instead of being able to flaunt their wealth as art because they are rich, they are making a bolder statement, one that will be judged by history. They are saying they are wealthy because they are passionate about something. And that is a good way to be wealthy. For everybody.
 
 #### Scoot of Gratitude (SOG)
 
@@ -272,17 +298,17 @@ Take Zoey, who came to the Los Angeles as a student from China, studying filmmak
 
 Zoey is Scoot-hip and has made a lot of contacts in the industry. She decides to Scoot James Cameron's *Titanic*, which inspired her career. As for as Scooting goes, it's not a unique idea, there are likely to be hundreds, if not thousands, of Scoots devoted to *Titanic*. Zoey considered most of her competition purely nostalgia, glorifying the romance without looking at the bigger picture.
 
-Zoey initially mints a thousand scoot, which she distributes to her industry friends. She has a few older friends who worked the movie, and through them, meets a few more. She asks those that worked on the movie to write up their thoughts and experiences working on the movie. She interviews a few old-timers in LA and writes up their stories. She starts publishing these memories (the stories become part of the public domain) on the scoot-chain, carefully selecting a few that are complementary to a rose of an actor, whom she eventually gets into contact with. Zoey offers said actor a hefty slice of her majority scoot for just a bit of genius by association, really, half-a-day's work. The actor is game, so Zoey privately reveals her secret strategy, *El Grande Enchilada*.[^7]
+Zoey initially mints a thousand scoot, which she distributes to her industry friends. She has a few older friends who worked the movie, and through them, meets a few more. She asks those that worked on the movie to write up their thoughts and experiences working on the movie. She interviews a few old-timers in LA and writes up their stories. She starts publishing these memories (the stories become part of the public domain) on the scoot-chain, carefully selecting a few that are complementary to a rose of an actor, whom she eventually gets into contact with. Zoey offers said actor a hefty slice of her majority scoot for just a bit of genius by association, really, half-a-day's work. The actor is game, so Zoey privately reveals her secret strategy, *El Grande Enchilada*.[^8]
 
-Word gets out quickly when a high-profile actor pledges with a Scoot based on their work. During the next few months Zoey watches patiently as her scoot, which she now shares majority control with the actor starts to trade openly at nice valuation, and the other holders, who she mostly knows but not all would be considered friends, give her various advice, to dilute or not dilute. She makes an ISO of about 20% dilution, with the actors stake still leaves them with majority control. Both have been known to increase the value. She needed to move quickly. She was getting requests for offering from both high profile and high stakes investors.
+Word gets out quickly when a high-profile actor pledges with a Scoot based on their work. During the next few months Zoey watches patiently as her scoot, which she now shares majority control with the actor starts to trade openly at nice valuation, and the other holders, who she mostly knows but not all would be considered friends, give her various advice, to dilute or not dilute. Both have been known to increase the value. She needed to move quickly. She makes an ISO of about 20% dilution, with the actors stake still leaves them with majority control. She was getting requests for offering from both high profile and high stakes investors.
 
-Zoey subscribes to The Foundation's philosophy, that the more people are responsible for something, the more valuable it can become. The Genius Economy is a brand-new thing, so nobody has really tested it out on a truly large scale. Zoey looking at the downside of forty, what the hell does she have to lose?
+Zoey subscribes to The Foundation's philosophy, the more people are responsible for something, the more valuable it can become. The Genius Economy is a brand-new thing, so nobody has really tested it out on a truly large scale. Zoey looking at the downside of forty, what the hell does she have to lose?
 
-Zoey uses the proceeds of the private ISO to book a big room at a hotel in Santa Monica, and a very small and specifically targeted social media campaign. She advertises a public Initial Scoot Offering (ISO) and plan reveal. She targets women who would have been 7-28 in 1997, players in cryptocurrency and followers of Kate Winslet or Leonardo Di Caprio on social media. Since Chinese social media is faster than the speed of light, within 8 seconds the conference and hotel are fully booked.
+Zoey uses the proceeds of the private ISO to book a big room at a hotel in Santa Monica, and a very small and specifically targeted social media campaign. She advertises a public Initial Scoot Offering (ISO) and plan reveal. She targets women who would have been 7-28 in 1997, players in cryptocurrency and followers of Kate Winslet or Leonardo Di Caprio on social media. Chinese social media is faster than the speed of light, within 8 seconds the conference and hotel are fully booked.
 
-There's a month wait before the conference, rumors begin to swirl. Would the actor show up? Competiting scoot start to make inquiries, are their leverage oppurtuinties? Most people want to know twhat's the actors role? Zoey stays aloof and secretive, only posting that a plan would be revealed shortly.
+There's a month wait before the conference; rumors begin to swirl. Would the actor show up? Competing scoot start to make inquiries, are their leverage opportunities? What's the actor's role? Zoey stays aloof and secretive, only posting that a plan would be revealed shortly.
 
-On the big night, the haunting thematic whistle plays through the hall, and Zoey walks out on stage looking like a Technicolor Theranos priestess, a tie-die pulldown turtleneck, orange plastic rimmed glasses rejected from Elton John's personal collection as being too gaudy, and a purple Devo hat. Whispers spread like wildfire.
+At the hotel, on the big night, the haunting thematic whistle plays through the hall, and Zoey walks out on stage looking like a Technicolor Theranos priestess, a tie-die pulldown turtleneck, orange plastic rimmed glasses rejected from Elton John's personal collection as being too gaudy, and a purple Devo hat. Whispers spread like wildfire.
 
 Zoey raises her arms in a V and shouts in into the microphone, "Silence!"
 
@@ -294,13 +320,13 @@ While a visual facsimile of the actual *Titanic*, the *New Titanic* will be 100%
 
 After the ship is build, a new Titanic series length movie will be shot. The narrator reveals Zoey has written a script, and the actor has agreed to star. Instead of a star-crossed lover, the actor would play their age, the personification of a greedy and evil turn-of-the-century capitalist aristocrat.
 
-Since a Scoot can not own property, the ship itself would become a monument to both the movie and the engineering, a floating tribute to those that brought so much wonder to so many lives, and a reminder of man's hubris. A cruise ship in the public domain, stewarded by Zoey's Scoot.
+Since a Scoot may not own property, the ship itself would become a monument to both the movie and the engineering. A floating tribute to those that brought so much wonder to so many lives, and a reminder of man's hubris. A cruise ship in the public domain, stewarded by Zoey's Scoot.
 
 Zoey walks off the state, having only spoken the one word.
 
-*La Ruidosa Chalupa*[^8] appears from a cloud of dry ice[^9] and sings the song. Eight women in the crowd faint. The actor arrives on stage and makes a few jokes about everybody getting older and acknowledges how much Titanic had really mean for their career.
+*La Ruidosa Chalupa*[^9] appears from a cloud of dry ice and sings the song. Eight women in the crowd faint. The actor arrives on stage and makes a few jokes about everybody getting older and acknowledges how much Titanic had really mean for their career.
 
-A representative of The Foundation comes on stage and explains how the Scoot works and the risks involved, and all the details needed for someone to legally participate. Hundreds of attendees line up to submit the identification and pledge to The Foundation so that can show the world their appreciation of the Titanic.
+A representative of The Foundation comes on stage and explains how the Scoot works and the risks involved, and all the details needed for someone to legally participate. Hundreds of attendees line up to submit the identification and pledge to The Foundation so that can show the world their appreciation of *Titanic*.
 
 The next day, Zoey's ISO is fully subscribed to the tune of an asimov equivalent of \$100 Million USD. Enough to make a CGI movie, not enough to build the ship.
 
@@ -1633,13 +1659,13 @@ Staking agreements -- pledges running software join staking groups to share dece
 
 [^5]: It wouldn't be a proper U.S. law without loopholes. For some reason, all work published before 1926 is public domain in the U.S. Thank you, Congress.
 
-[^6]: *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin Timberlake, Printz Board, Michael Fratantuno and George Pajon, Jr.
+[^6]: In the language of wonderfully creative marketing engineers, it's a PMDSR.
 
-[^7]: This is TexMex for *Magnum Opus*. Zoey, a genius, naturally identifies as Texan.
+[^7]: *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin Timberlake, Printz Board, Michael Fratantuno and George Pajon, Jr.
 
-[^8]: TexMex colloquialism, meaning dependent on context, but in most cases means "The Noisy Canadian."
+[^8]: This is TexMex for *Magnum Opus*. Zoey, a genius, naturally identifies as Texan.
 
-[^9]:
+[^9]: TexMex colloquialism, meaning dependent on context, but in most cases means "The Noisy Canadian."
 
 [^10]: This is Zoey's thinly veiled allegory, not the author's. He's never voluntarily watched *Titanic*. The author's 90's movie would be *Fight Club*. No social commentary...wait a minute. Maybe *Independence Day*? The *Fresh Prince* killing aliens, what billionaire is going to have a problem with that. Unless...
 
