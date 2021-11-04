@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.29**
+**Version 0.30**
 
 There are only two true hedges against inflation. History and archaeology have proven they've both existed for as long as humanity.
 
@@ -188,13 +188,13 @@ You don't have to sell something to create value. The exchange of property is no
 
 Linux has proven that when property is not involved, a system of a self-governeance of a valuable public good can be managed without interferce from national governments. Bitcoin has given us a way to create an immutable historical record and the exchange of proportional responsibility. Social Media has proven that content is valuable without the need to exchange property.
 
-It the old days, the king's coins were minted from gold plunder taken from the king's treasury. You could use the king's gold to trade for property. The gold itself wasn't valuable, it was only valuable because the king said it was valable. You couldn't eat the gold, and while you could wear it, if you weren't nobility, that was pretty much like wearing a "rob me," sign. Gold was only good for exchanging for property that you could use. The gold was valuable because the king said gold was valuable. Gold became a consensoual illusion -- we all believed it was valuable so it was valuable because we believed it was valuable.
+It the old days, the king's coins were minted from gold plunder taken from the king's treasury. You could use the king's gold to trade for property. The gold itself wasn't valuable, it was only valuable because the king said it was valuable. You couldn't eat the gold, and while you could wear it, if you weren't nobility, that was like wearing a "rob me," sign. Gold was only good for the exchange of property. The gold was valuable because the king said gold was valuable. Gold became a consensual illusion -- we all believed it was valuable so it was valuable because we believed it was valuable.
 
-We got rid of the kings, but we kept the king's gold. In modern times, we hacked the gold out of the system, so that now currencys are simply valuable because we believe they are valuable. Most of the world believes the dollar is valuable, so the dollar is valuable.
+We got rid of the kings, but we kept the king's gold. In modern times, we hacked the gold out of the system, so that now currencies are simply valuable because we believe they are valuable. Most of the world believes the dollar is valuable, so the dollar is valuable.
 
-The Foundation's tresaurcy are the ideas of mankind. The only treasure that mankind has that is actually valuable. It's the only valuable treasure we have. That was Asimov's message in *Foundation*.
+The Foundation's treasury are the ideas of mankind. The only treasure that mankind has that is actually valuable. It's the only valuable treasure we have. That was Asimov's message in *Foundation*.
 
-This treasure is more valuable that the Earth. Mankind might survive without the Earth. Mankind can not survive without our treasury of ideas.
+This treasure is more valuable that the Earth. Mankind might survive without the Earth. Mankind will not survive without our treasury of ideas.
 
 That's the Awbrey hack. Make money out of the only thing that is truly valuable.
 
@@ -206,9 +206,9 @@ Why Scoot? Scoot is money, y'all.
 
 The power of this system is that it uses the innovations in cryptocurrency to provide a scalable system of limited direct democracy as well as an immutable historical record of that governance. The Protocol will allow you to customize the elective governance of a Scoot. If you want a proportional democracy, like a shareholder in a company, you can implement that. Want a representative democracy, because things work so well in your local congressional district, give that a try. If you want something more like one-vote direct democracy, because you like participating in social media flame wars, go for it. If you'd like more of a *Game of Thrones*, strategic power moves without all the blood, you can do that too. I don't know which one will be better. Data we gather over years, decades and centuries will show us which one of these works best or may guides us towards new forms of self-governance that are more efficient. 
 
-There is a reason direct democracy can't work on a large scale. We elect people at the local, state and federal level who are good at one thing to lead and manage our governments, but then we expect them to be good at many things.  What does a lawyer know about running a water or sewer system, or efficient and green recycling and road maintenance? The way it is supposed to work is those elected leaders hire unbiased and unconflicted experts to do the actual work, or that we have some institutional experience in our departments that should be able to do the job efficiently.  The reality is the intact bureaucracy make this whole process to complicated because the the scope is too broad.   Of course, a congressman can get stuff done in government -- he just makes a phone call and the water pumping station in his district gets a new pump ahead of some other district. All it cost was a vote against his conscious and consensus of his constituents on a voting rights bill. People who can already vote are likely to remember the high pressure shower they get each morning when election time rolls around again.
+There is a reason direct democracy can't work on a large scale. We elect people at the local, state and federal level who are good at one thing to lead and manage our governments, but then we expect them to be good at many things.  What does a lawyer know about running a water or sewer system, or efficient and green recycling and road maintenance? The way it is supposed to work is those elected leaders hire unbiased and unconflicted experts to do the actual work, or that we have some institutional experience in our departments that should be able to do the job efficiently. The reality is the intact bureaucracy make this whole process complicated because the the scope is too broad.   Of course, a congressman can get stuff done in government -- he just makes a phone call and the water pumping station in his district gets a new pump ahead of some other district. All it cost was a vote against his conscious and consensus of his constituents on a voting rights bill. People who can already vote are likely to remember the high pressure shower they get each morning when election time rolls around again.
 
-Limited democracies can be efficient. Take a Homeowners Association (HOA). You have an hour meeting once a month.  Hopefully the chairman of the HOA is somebody practical who won't make a run at the next open school board seat. The practical leader calls a meeting, talks about bids for a new lawn service that's coming up. They talk about teenagers hanging out at the playground drinking and smoking pot on the weekends, and who was going to call the cops and should they inform parents first. They talk about a few issues they need to prepare to discuss in future meetings, and then close the meeting in 45 minutes. 
+Limited democracies can be efficient. Take a Homeowners Association (HOA). You have an hour meeting once a month. Hopefully the chairman of the HOA is somebody practical who won't make a run at the next open school board seat. The practical leader calls a meeting, talks about bids for a new lawn service that's coming up. They talk about teenagers hanging out at the playground drinking and smoking pot on the weekends, and who was going to call the cops and should they inform parents first. They talk about a few issues they need to prepare to discuss in future meetings, and then close the meeting in 45 minutes. 
 
 Let's say the HOA chairman is running for an open school board seat. They decide, before getting into the agenda, they should have an open forum where the HOA board can hear the homeowner's opinions. In the first meeting, the forum agenda is vaccination mandates and local abortion laws. Do you think they'll be able to agree on a lawn service after the open forum?
 
@@ -216,7 +216,7 @@ We can't agree on broad topics, because our individual value systems aren't red 
 
 Crypto has given us tools that allow us to manage a limited scope direct democracy, but unfortunately, in most places, existing local representative democracies or feudal powers hold jurisdiction over a broad domain of human civil systems.
 
-By limiting the scope of democratic units you can have effective governance. By having all work occur in an open forum with an immutable record of value judgements via elections, you can avoid the conflict, politics, and corruption that occurs in governments with broad interests. 
+By limiting the scope of our democratic units to a single idea, you can have effective governance. By having all work occur in an open forum with an immutable record of value judgements via elections, you can avoid the conflict, politics, and corruption that occurs in governments with broad interests. 
 
 The Foundation is a limited democracy that asserts non-exclusive management responsibility over the public domain. The public domain is NOT the government's domain, nor does it belong to corporations or any other legal entity. It belongs to the public -- and I choose to broadly interpret this as mankind at large.
 
@@ -670,7 +670,7 @@ I'm sure most museum funding is efficient. What we see in the media is not. Spen
 
 ## Crusades
 
-A Crusade could be as simple as a university art student overhearing one of her faculty members talking about seeing a minor masterpiece at the home of a local big-donor alumni businessman. The student starts a crusade of fellow students wishing to implore the businessman to scoot his painting. The crusade negotiates an agreement between the businessman, acting as the **scoot trustee**, and the University, acting as the curator. The painting is displayed in a special hallway in at the University named after the alumnus, and everybody is happy. The scoot charter allows for the **trustee** to recall possession temporarily with short notice. Once every few months, when the businessman needs to entertain fancy people from overseas, the painting is swapped back to the businessman's home. Everybody is happy, especially the businessman, because now that it is a liquid commitment, he feels he can take higher leveraged positions in his business dealings. Rainbows and Unicorns for everybody.
+A Crusade could be as simple as a university art student overhearing one of her faculty members talking about seeing a minor masterpiece at the home of a local big-donor alumni businessman. The student starts a crusade of fellow students wishing to implore the businessman to scoot his painting. The crusade negotiates an agreement between the businessman, acting as the **scoot trustee**, and the University, acting as the curator. The painting is displayed in a special hallway in at the University named after the alumnus, and everybody is happy. The scoot charter allows for the **trustee** to recall possession temporarily with short notice. Once every few months, when the businessman needs to entertain fancy people from overseas, the painting is swapped back to the businessman's home. Everybody is happy, especially the businessman, because now that the painting is a liquid commitment, he feels he can take higher leveraged positions in his business dealings. Rainbows and unicorns for everybody.
 
 Or it could get ugly. Maybe some royal prince of an oil rich nation is holding a major masterpiece nobody has seen in years, the only photographs available are from 1943 in black and white. Art historians have been rebuked by the prince when they asked to study the masterpiece. News gets out of this crime against humanity -- Royalty preventing us from appreciation of our birthright. First it starts with a Social Media campaign, and then peaceful harassment when the prince tries to take his harem out to lunch, and finally, outright cancellation, with the Crusade picketing gas stations across Europe that sell the royal petrol.
 
@@ -1151,7 +1151,7 @@ I don't think corporate American will feel threatened by this idea. If they do, 
 
 I think corporate American will be dismissive. It's hard for the corporate mind to fathom this as a realistic way to do things. Corporate America is mostly run people my age, or a little younger or a little older and that's how we were programmed to understand how the world works, you create value by selling something.
 
-People a bit younger have been brought up differently. They've been brought up that value is relative to how many people pay attention to you, what kind of people pay attention to you, and how much reach your personal network has. This is the crossover generation, because while they might understand the value of networked systems, and they like green cars and the saving the planet, they also like to buy a lot of cheap stuff and buying newer better stuff when the cheap stuff gets old. That's not sustainable either.
+People a bit younger have been brought up differently. They've been brought up that value is relative to how many people pay attention to you, what kind of people pay attention to you, and how much reach your personal network has. This is the crossover generation, because while they might understand the value of networked systems, and they like green cars and the saving the planet, they also like to buy a lot of cheap stuff and buying newer better stuff when the cheap stuff gets old.[^34] That's not sustainable either.
 
 I'm not a tree hugger nor a climate denier, or an alarmist of any kind. I think about sustainability in engineering terms, the most efficient way to implement a system. I've already witnessed multiple amazing transitions of how we live and work in my lifetime. Sustainability is always the best way to implement a system when you are optimizing for efficiency.
 
@@ -1159,7 +1159,7 @@ Corporations are optimized for profit. There's a difference, and it impacts ever
 
 Take Tesla, the car company. I think it would be fair to say Tesla is one of the most sustainable companies out there. Electric cars reduce our dependence on oil, and through the electrical system, we can generate power more cleanly and more efficiently. A worthy objective in a sustainable world.
 
-However, it's not the most sustainable solution. The most sustainable solution is driving less and taking public transportation more. *"Tesla's mission is to accelerate the world's transition to sustainable energy."* [^34] Replacing gasoline powered automobiles with electrically powered vehicles is a leap forward in accelerating the transition to sustainable energy. In parts of the world where people love and can afford cars -- The United States and Texas especially -- this might be the only practical way for a profit driven organization to fulfil this mission.
+However, it's not the most sustainable solution. The most sustainable solution is driving less and taking public transportation more. *"Tesla's mission is to accelerate the world's transition to sustainable energy."* [^35] Replacing gasoline powered automobiles with electrically powered vehicles is a leap forward in accelerating the transition to sustainable energy. In parts of the world where people love and can afford cars -- The United States and Texas especially -- this might be the only practical way for a profit driven organization to fulfil this mission.
 
 It took billions of dollars in investment to design and manufacture electric vehicles and get the costs where they were affordable on a mass scale. Electric vehicles for public transportation might have high profit margins, but nowhere near the volume to justify that kind of investment. Public transportation usually requires huge political incentives. Tearing a city apart to install a train systems when most voters are happy to sit in traffic for hours a day isn't exactly an easy campaign sell.
 
@@ -1169,7 +1169,7 @@ With a genius-based wealth system, it's possible to create organizations that ca
 
 Corporations are property and thus can be bought and be given away to collectively to mankind. Scoot may not own corporations, but they can be responsible for them.
 
-After the early staking, seeding and development phase of The Foundation, the only way to receive new mint asimov will be to Scoot something. Corporations can't create Scoot. If they have a great product or brand their employees, shareholders and even customer may create Scoot as an honor, but the corporations can't profit from this directly. The Foundation will trade scoot at registration, but it'll be a fixed amount for these kind of fan-based Scoot. The only way to get a large volume of asimov will be to convert something property-valued into Scoot.
+After the early staking, seeding and development phase of The Foundation, the only way to receive new mint asimov will be to Scoot something. Corporations can't create Scoot. If they have a great product or brand their employees, shareholders and even customer may create Scoot as an honor, but the corporations can't profit from this directly. The Foundation will trade scoot at registration, but it'll be a fixed amount. The only way to get a large volume of asimov will be to convert something property-valued into Scoot.
 
 In this way, corporations can continue to exist in the genius economy. They can align their mission with the most efficient solutions instead of the most efficient compromises. Instead of the goal being shareholder profit, it becomes shareholder wealth based on success of truly idealistic missions.
 
@@ -1179,9 +1179,11 @@ What is the value oil and gas industry as a public good?
 
 First the negative side of the balance sheet, *There Will be Blood*. Like any form of bubble, the Texas Oil Boom has tales of fantastic riches as ordinary ranchers and farmers became oil barons overnight. And yet, for every success story there were dozens of tales of destitution, hundreds of unrealistic expectations, and thousands of predations. Like every gold rush in history, there is a balance sheet of winners and losers. Statistically, those with the capital at the beginning did much better than those that started with nothing. Then there's the environmental impact, which was really bad, but which was substantially better for the environment in terms of efficiency and emission than the fuel oil and gas replaced (coal).
 
-Okay, on the positive. It created huge industry centered in Texas, which created hundreds of thousands of jobs both directly and indirectly related to exploration and development. It created thousands of patents and drove innovations that leaked into hundreds of different fields. Maybe the oil and gas industry should hire me to produce a reality series, where Matthew McNoguaguly goes to one of us "green" Hollywood friend's house and one by one remove all by-products of the oil and gas industry from their homes, until
+Okay, on the positive. It created huge industry centered in Texas, which created hundreds of thousands of jobs both directly and indirectly related to exploration and development. It created thousands of patents and drove innovations that leaked into hundreds of different fields. Innovations in chemicals and materials derived from petrochemicals are part of every aspect of our lives.
 
-[\<\<FINISH\>\>\>]{.mark}
+The oil and gas industry should hire me to produce a reality series, where Matthew McConaughey hangs out with one of his "green" Hollywood friends and remove all by-products of the oil and gas industry from their homes. I can see it now; the first few episodes end with smiling celebrities cheering "We love the petrochemical industry." Things go horribly wrong in episode six when Matthew and Sheryl Crow are standing in line at all-natural hand-pressed organic coffee bar, Sheryl goes to pay with her Amex and Matthew points out that the Amex card itself is made from plastic, a product of the oil fields, Sheryl goes complete feral, strips down to her hemp undies, and bites poor Matthew on the shoulder. Rather than hide from it, Matthew is a good Texan and "takes his medicine," which in this case, means a whole course of Sheryl's all natural "rabies cure." Due to the extreme nature of that procedure, it can only be shown on Oil & Gas TV+. Big oil is coming for you, *Squid Games*.[^36]
+
+I believe there is a place in a sustainable economy for every industry. Instead of considering what products industries make, they need only think
 
 ## Academic Genius
 
@@ -1205,7 +1207,7 @@ James, Kirk and bassist - don't worry. You'll still be filthy in a genius econom
 
 ### Drumland
 
-Isn't it ironic[^35], coming from a drummer? If you're a *prima donna*[^36] vocalist who has infected an entire generation with an earworm, Napster might have had you worrying about bouncing them checks, but a drummer? Drummers -- real drummers -- play for alcohol. WTF, Lars?
+Isn't it ironic[^37], coming from a drummer? If you're a *prima donna*[^38] vocalist who has infected an entire generation with an earworm, Napster might have had you worrying about bouncing them checks, but a drummer? Drummers -- real drummers -- play for alcohol. WTF, Lars?
 
 In my youth, I spent a lot of time around drummers, and while I hate to propagate stereotypes, it can be a lot of fun. I can still remember the conversation like it was yesterday, or I'm just making it up. In a genius economy, those kinds of details are insignificant.
 
@@ -1356,7 +1358,7 @@ I don't know if autographs were a thing back then, because both paper and ink we
 
 My postcard wasn't special because Colonel Scobee signed it. It was special because of how he touched my life, and special because of his sacrifice. I felt bad not because I lost a collectable that might be valuable, but because I failed at my responsibility to preserve the memory of a hero, a genius of exploration who touched my life. I failed both my ancestors and my decedents in my responsibility to keep a small piece of history alive.
 
-Throughout history, the basis of money has been gold. But throughout history, gold's value has primarily been ornamental, and no matter how you twist it, that value is vanity.[^37] The jewelry industry wants us to believe the more you spend on gold, the more you love someone, and we all know that is ridiculous. It is always vanity, and I think the right amount of vanity is good for both individuals and for society. Vanity is a motivator -- use it correctly, who knows, you might be President. What price is too high a price to pay for vanity? I think gold is too high a price. How many lives have been lost and how much of our planet have we destroyed in this chase of vanity? Gold has destroyed entire civilizations and killed or enslaved hundreds of millions of souls.
+Throughout history, the basis of money has been gold. Throughout history, gold's value has primarily been ornamental, and no matter how you twist it, that value is vanity.[^39] The jewelry industry wants us to believe the more you spend on gold, the more you love someone, and we all know that is ridiculous. It is always vanity, and I think the right amount of vanity is good for both individuals and for society. Vanity is a motivator -- use it correctly, who knows, you might be President. What price is too high a price to pay for vanity? I think gold is too high a price. How many lives have been lost and how much of our planet have we destroyed in this chase of vanity? Gold has destroyed entire civilizations and killed or enslaved hundreds of millions of souls.
 
 I'd originally gone down this path of thinking, because while I'd worked out the basics of a metric of value system based on "Fine Art," I'd struggled with some inconsistencies. For instance, what separates fine art from decoration? Why is one object a silly collectable, or an antique, and another a historical artifact? I was also struggling with the unfairness of valuing artists that produce physical art from those whose media is essentially digital, musicians and writers and photographers and even basketball geniuses. I was struggling with trying to create a value system from something, in all honesty, I didn't personally value that much.
 
@@ -1368,7 +1370,7 @@ Then the realization came, it is the responsibly itself that we should value. Th
 
 I had this eureka moment on April 29^th^, 2021, on my after-dinner walk. It was the eve of my firstborn's birthday, which is likely why the basketball birthday gift crossed my mind. I'd worked this through in my head and felt like I had something of substance that I could turn into a workable system.
 
-As I neared the end of my walk, a cynical thought hit me. When I received the basketball gift in November, James Harden had just demanded to be traded. It was a gut-punch, in the middle of the pandemic, the Rockets in the NBA bubble had kept me optimistic. What followed was the season from hell. They did trade *The Beard*, and in return got a star player on the mend they traded only two months later. There was still hope, the Rockets had gone on a 6-game winning streak, but then the Rocket's best young player got hurt, and they went on a losing streak of 20 games. At that point in April, I had watched the Rockets lose 37 of the last 43 games. For Rockets fans it was absolute hell. I'm thinking, hey little brother, thanks for the gift. He'd tricked me into objectifying *The Dream*, and perhaps that was the greatest sin against the basketball gods. I got home and watched the game, the Rockets versus the Bucks, heavyweight of the East.[^38] I watched, like I watched every game of the losing streak, doing my penance, now with the even heavier heart after realizing my sin.
+As I neared the end of my walk, a cynical thought hit me. When I received the basketball gift in November, James Harden had just demanded to be traded. It was a gut-punch, in the middle of the pandemic, the Rockets in the NBA bubble had kept me optimistic. What followed was the season from hell. They did trade *The Beard*, and in return got a star player on the mend they traded only two months later. There was still hope, the Rockets had gone on a 6-game winning streak, but then the Rocket's best young player got hurt, and they went on a losing streak of 20 games. At that point in April, I had watched the Rockets lose 37 of the last 43 games. For Rockets fans it was absolute hell. I'm thinking, hey little brother, thanks for the gift. He'd tricked me into objectifying *The Dream*, and perhaps that was the greatest sin against the basketball gods. I got home and watched the game, the Rockets versus the Bucks, heavyweight of the East.[^40] I watched, like I watched every game of the losing streak, doing my penance, now with the even heavier heart after realizing my sin.
 
 The Rockets were down 17 points in the second quarter. They got it down to 8 points by halftime, but I'd seen this film before. In the second half something miraculous happened. Kevin Porter Junior, a player we'd acquired for wooden nickels as a bizarre ricochet effect of trading James Harden, caught fire. Kevin, just twenty years old, was a brilliant southpaw guard who had potential to be a star. He'd just been through an embarrassing public incident in Miami where he'd might have saved his teammate's life. As if to confirm the maxim, "No good deed goes unpunished," The NBA had suspended him for a week for COVID protocol violations, and first game back, against the fellow bottom feeding Timberwolves, had scored only 2 points in a nauseating loss. That night against the Bucks, Porter was unconscious, destroying the defensive juggernaut with ease. He ended up with the box score of 51 points and 11 assists, becoming the youngest player in NBA history to record 50/10. He beat the previous title holder, LeBron James, by three years.
 
@@ -1382,7 +1384,7 @@ You might wonder, where am I taking this? Am I casting some voodoo spell of writ
 
 Well, Dodger fans, I'm sure you know what happened next. Guess who won the 2017 World Series? You got that right. The Houston Astros will eternally be the 2017 World Series Champs.
 
-Yes, there is more to the story. There was a sign-stealing scandal and MLB suspended some managers and took away some draft picks, yet the Astros retained the title much to the consternation of sore losers everywhere.[^39]
+Yes, there is more to the story. There was a sign-stealing scandal and MLB suspended some managers and took away some draft picks, yet the Astros retained the title much to the consternation of sore losers everywhere.[^41]
 
 ![](media/image7.jpg){width="4.572916666666667in" height="5.0in"}
 
@@ -1400,7 +1402,7 @@ While Da Vinci drew pictures of flying machines, Olajuwon wore rockets on his un
 
 Colonel Scobee served no master. He volunteered to become an astronaut. Shamefully for the rest of us Americans, there was very little glory left in space exploration by 1986. Scobee started out as an enlisted engine mechanic in the Air Force, working his way through school while raising a family, becoming an officer and a pilot, then risking his life over the skies of Vietnam as a combat pilot, before becoming a test pilot and finally joining NASA. He spent his entire adult life in service to his country. He sacrificed his life in the pursuit of an ideal. He will forever be a genius and a hero.
 
-*Challenger* was a tragedy, and many questioned the expense in terms of human lives and taxpayer dollars. After a thorough investigation and corrective action, in September of 1988 Space Shuttle Discovery returned to space. NASA flew 110 more missions after *Challenger*, and while we lost *Columbia* during reentry, we never lost another shuttle during launch. We launched dozens of satellites, performed thousands of scientific experiments, built the International Space Station, and spawned a private space industry. There are no billionaires in space without the sacrifice of the crew of STS-51.
+*Challenger* was a tragedy, and many questioned the expense in terms of human lives and taxpayer dollars. After a thorough investigation and corrective action, in September of 1988 Space Shuttle *Discovery* returned to space. NASA flew 110 more missions after *Challenger*, and while we lost *Columbia* during reentry, we never lost another shuttle during launch. We launched dozens of satellites, performed thousands of scientific experiments, built the International Space Station, and spawned a private space industry. There are no billionaires in space without the sacrifice of the crew of STS-51.
 
 History becomes myth when the details are forgotten. I think it's a fallacy to think that myths are more powerful than history. The magic -- the inspiration -- is much more powerful when there is evidence that it happened. This simple fact is the dividing line between mythology and religion. Religious stories are all powerful when they are believed to be history.
 
@@ -1418,7 +1420,7 @@ Genius is what you are willing to be responsible for. That responsibility reflec
 
 I've been intentionally divisive for a reason. I could have easily written this from the point of view of a native of Los Angeles or New York. Lame, because how hard is it to be a Lakers or Yankees fan? Hometown has value, and it should, because how constructive is it to hate where you are from? National pride has value. Asimov is a global currency, bound to no single nation, yet most of the genius I've written about are American, by birth or by choice. I don't think America is perfect, we have a lot of geniuses, but we have more than our fair share of idiots and have taken vanity to historical levels.
 
-The divisiveness is simple. It is what I value. I might get called some nasty names when I wear my Altuve shirt next time I pass through LAX. If I ever show my face and Rockets colors in Madison Square Garden, I will probably get my ass kicked, or more likely, spat upon. Next time I try to go to Canada, I'll probably get detained at the border and be forced to listen to *Tom Sawyer* on a loop, eyes pried open ala *A Clockwork Orange* and forced to watch curling. And while I'm a peace-loving person, imagine there's no war and all that, if I happen to cross path with John Stockton down at the Wal-Mart, I might have to stick my leg out for an old man trip, it would be a bit of instant karmic justice.[^40]
+The divisiveness is simple. It is what I value. I might get called some nasty names when I wear my Altuve shirt next time I pass through LAX. If I ever show my face and Rockets colors in Madison Square Garden, I will probably get my ass kicked, or more likely, spat upon. Next time I try to go to Canada, I'll probably get detained at the border and be forced to listen to *Tom Sawyer* on a loop, eyes pried open ala *A Clockwork Orange* and forced to watch curling. And while I'm a peace-loving person, imagine there's no war and all that, if I happen to cross path with John Stockton down at the Wal-Mart, I might have to stick my leg out for an old man trip, it would be a bit of instant karmic justice.[^42]
 
 Here's what isn't going to happen.
 
@@ -1434,7 +1436,7 @@ The idiots, that might be cosmic law. For every Nikola Tesla, the universe needs
 
 ## Collecting Whatever
 
-Have two or three brownies too many and decide to wash them down with the \$20,000 bottle of wine you told your wife was an "investment." It was the best bottle of wine you'd ever had. No reason not to turn that passion into a measurement of your responsibility. Start a Scoot for the series or vineyard or however wine people classify these things, and maybe, you're get in early, you turn that "experience" into generational wealth.
+Have two or three brownies too many and decide to wash them down with the \$20,000 bottle of wine you told your wife was an "investment." It was the best bottle of wine you'd ever had. No reason not to turn that passion into a measurement of your responsibility. Start a Scoot for vineyard, and maybe, you're get in early, you turn that "experience" into generational wealth.
 
 If you're passionate about something, you've found genius in something. Or it's vanity, and you're an idiot who should have let his wife hold the key to the investment cellar.
 
@@ -1446,7 +1448,7 @@ If you're willing to be responsible for your passion and pass along to future ge
 
 I was sort of hoping with the whole Rockets theme and all, I might write myself into a sweet set of season tickets. That bit about the restaurants certainly didn't help my case. I've got one last play, sort of a go for broke, knockout punch. In Houston, we call this kind of play *The Kiss of Death*.
 
-In October of 2020, Daryl Morey, the innovative General Manager of the Houston Rockets, quit. Two months later two MVP superstars had run away, Morey was running the 76ers, and the Rockets went from perianal contender to the very worst team in the NBA. What exactly happened is unclear, but an event a year earlier almost certainly played a part in Morey burning down the house on his way out of town.
+In October of 2020, Daryl Morey, the innovative General Manager of the Houston Rockets, quit. Two months later two MVP superstars had run away, Morey was managing the 76ers, and the Rockets went from perianal contender to the very worst team in the NBA. What exactly happened is unclear, but an event a year earlier almost certainly played a part in Morey burning down the house on his way out of town.
 
 On October 4th, 2019, Morey tweeted something that was politically offensive to China. This created quite a controversy, both from freedom of speech and business management points of view. China was a huge market for NBA broadcasts and merchandize, it was a costly decision. I'll defend Daryl Morey's right to say whatever the hell he wants to say until my last breath. I'll also defend both the NBA and the Rockets, as private organizations, for their right to support or not to support Morey's right to say what he thinks as well. This right if foundational to my identity as a proud American.
 
@@ -1462,13 +1464,13 @@ My valuation of the Rockets didn't change when Daryl Morey tweeted in 2019. Nor 
 
 On August 2^nd^, 2001, The Houston Rockets traded Hakeem Olajuwon to the Toronto Raptors for draft picks. On that day, my personal valuation fell to the level of betrayal. Yao Ming, innocent in all this, was still in China. The Rockets became dumpster divers, only winning 28 games, and then lucking into the #1 pick, which they used to draft Yao.
 
-This wasn't Hollywood, where you could make a Showtime sequel by replacing Kareem/Magic with Shaq/Kobe or Lebron/Lebrow and still pull in the same box office. This was Houston, Texas, where real people worked real jobs and produced valuable product.[^41] You don't just run back the formula, replace your foreign-born dominant center with a dominant center from another country. Rockets basketball wasn't formulistic, it was a dream driven by the most creative big man to ever play the game.
+This wasn't Hollywood, where you could make a Showtime sequel by replacing Kareem/Magic with Shaq/Kobe or Lebron/Lebrow and still pull in the same box office. This was Houston, Texas, where real people worked real jobs and produced valuable product.[^43] You don't just run back the formula, replace your foreign-born dominant center with a dominant center from another country. Rockets basketball wasn't formulistic, it was a dream driven by the most creative big man to ever play the game.
 
 For eleven years, I did not follow the Rockets. That was a big loss for me, and a because of some naming rights I'd acquired, somewhat of a personal tragedy. That loss of value fundamental my own personal wealth.
 
-When an athlete brings a championship to a city, he becomes part of the fabric of the city. Often, it's because they represent some fundamental characteristic of the city they play for. For example, here in Texas, we have San Antonio, whose archetype hero seems to be a grumpy old man. And Dallas, whose foundational principle seems to be, let's come in second to Houston.[^42]
+When an athlete brings a championship to a city, he becomes part of the fabric of the city. Often, it's because they represent some fundamental characteristic of the city they play for. For example, here in Texas, we have San Antonio, whose archetype hero seems to be a grumpy old man. And Dallas, whose foundational principle seems to be, let's come in second to Houston.[^44]
 
-In Houston, we have two fundamental archetypes for our heroes. The first, the ultra-hero, with the superpowers of moral strength, absolute faith, and unwavering courage. This is the universal hero archetype, across cultures, though few cities are lucky enough to get one. I was lucky enough to watch one this summer. It was another athletic big man with Nigerian roots who wore the number 34 on his jersey. I was pulling for Phoenix but was so happy when Giannis Antetokounmpo celebrated his championship victory in Milwaukee in July. Not nearly as happy as when Kevin Porter dropped fifty on the Bucks in April.[^43]
+In Houston, we have two fundamental archetypes for our heroes. The first, the ultra-hero, with the superpowers of moral strength, absolute faith, and unwavering courage. This is the universal hero archetype, across cultures, though few cities are lucky enough to get one. I was lucky enough to watch one this summer. It was another athletic big man with Nigerian roots who wore the number 34 on his jersey. I was pulling for Phoenix but was so happy when Giannis Antetokounmpo celebrated his championship victory in Milwaukee in July. Not nearly as happy as when Kevin Porter dropped fifty on the Bucks in April.[^45]
 
 Hakeem Olajuwon would be a hero in any city. You cannot write better legendary mythology than his actual story.
 
@@ -1478,7 +1480,7 @@ Hakeem flew to Texas and worked out for the coaches of the University of Houston
 
 The Cougars made it to the final four all three years Olajuwon played for the Cougars, though they did not win a championship. In 1984 Olajuwon declared for the draft, knowing the Houston Rockets had a 50% chance of landing the first pick.
 
-And they did. Hakeem Olajuwon was the first pick of the 1984 draft, the most talented draft in NBA history.[^44] Hakeem joined second year player Ralph Sampson to form the Twin Towers. Two years later, Hakeem and Ralph took the Rockets to the NBA Finals against the Boston Celtics, were they lost in six games.
+And they did. Hakeem Olajuwon was the first pick of the 1984 draft, the most talented draft in NBA history.[^46] Hakeem joined second year player Ralph Sampson to form the Twin Towers. Two years later, Hakeem and Ralph took the Rockets to the NBA Finals against the Boston Celtics, were they lost in six games.
 
 The Rockets lost Ralph Sampson due to injury and rebuilt the team around Olajuwon. There were several years of mediocre Rockets ball and supreme dominance by Olajuwon. It took several injuries, a trade request, new teammates and a new coach, Rockets legend Rudy Tomjanovich, before the Rockets finally got back on track, losing a heartbreaking second round series to Seattle in 1993.
 
@@ -1488,9 +1490,9 @@ It was the best regular season the Rockets ever had. They won 58 games, and with
 
 Houston took Utah down in five games in the Western Conference finals. The slogan for this playoff run was "Believe It." Houston believed it. The Rockets had been to the finals twice before, but this one was different. Hakeem didn't need to boast or make predictions or talk down his opponents. He was humble but focused, and all of us who'd been watching him play from the beginning knew he was ready.
 
-Houston faced New York in the finals, and it was a dog fight. I almost lost my mind when the Game 5 broadcast kept getting interrupted to follow coverage of O.J. Simpson Bronco chase. The Rockets were down 3-2 for the final two games in Houston.
+Houston faced New York in the finals, and it was a dog fight. I almost lost my mind when the Game 5 broadcast kept getting interrupted to follow coverage of O.J. Simpson Bronco chase. The Rockets were down 3-2 for the final two games in Houston. In game six, facing elimination, Hakeem had the greatest block in NBA history, preventing John Stark from hitting a game winning shot at the buzzer. The Rockets won game seven at home, bringing Houston her first major professional championship.
 
-Everybody stepped up. Hakeem didn't have a sidekick, he had a team of heroes. Kevin, you should have done your market research, there was already an American Mad Max by way of Florida. Vernon Maxwell was almost exactly the kind of player Michael Jordan was, except without all the vanity. Nope, Vernon wasn't vain, instead, he was bat-shit crazy. Sam Cassell, the rookie, owning the offense, making the Knicks look the fool. Before he was Big-Shot Bob with seven rings, he was Robert Horry with the tomahawk jam and relentless D on the biggest stage. Other games it was Carl Herrera, Mario Ellie or Kenny Smith. It was as if Hakeem got to the locker room early, choose a random teammate, and sprinkled a little *Dream* dust on their uniform before the game.
+Everybody stepped up. Hakeem didn't have a sidekick; he had a team of heroes. Kevin, you should have done your market research, there was already an American Mad Max by way of Florida. Vernon Maxwell was almost exactly the kind of player Michael Jordan was, except without all the vanity. Nope, Vernon wasn't vain, instead, he was bat-shit crazy. Sam Cassell, the rookie, owning the offense, making the Knicks look the fool. Before he was Big-Shot Bob with seven rings, he was Robert Horry with the tomahawk jam and relentless D on the biggest stage. Other games it was Carl Herrera, Mario Ellie or Kenny Smith. It was as if Hakeem got to the locker room early, choose a random teammate, and sprinkled a little *Dream* dust on their uniform before the game.
 
 The Rockets won game 7 of the finals at home and brought the city of Houston its first major sports championship. We Believed It. It was true.
 
@@ -1532,7 +1534,7 @@ A scoot could be formed, The Rockets declared genius, and the property title cou
 
 [If you could evaluate the real human value an NBA team can provide to its fanbase, this includes the real revenue from existing operations, as well as all . It's still billionaire gamesmanship, it would take a lot of investment to get voting control of NBA franchise through scoot, but you share it with a fanbase and your responsibility as wealthy individual is put to test. The real investment could be ticket affordability for your fanbase and independence from public subsidies.]{.mark}
 
-For some billionaires, at least. Ballmer, best stick to property-based investment scheme, seems like your man either needs a grumpy old man yelling at him, or the spirit of Toronto radio to unleash his inner G.[^45]
+For some billionaires, at least. Ballmer, best stick to property-based investment scheme, seems like your man either needs a grumpy old man yelling at him, or the spirit of Toronto radio to unleash his inner G.[^47]
 
 This is essentially the ownership model of the Green Bay Packer's -- without the ownership, just the responsibility. The Packers operate as a non-profit, so it is not really an investment either. With scoot, a pledge would be able to extract the full genius value of a team and pass that along to the next generation of fans.
 
@@ -1554,13 +1556,13 @@ Say we each have a family member with a potentially terminal condition. What is 
 
 The reality is quite different. Bill Gates net worth (\$133B) is at least 250,000 times what mine is. My net worth may only be about 1,000 times that of the farmer in Sierra Leone. Truth is, there is very little Bill Gates could do for his family that I couldn't do. Sure, his loved one would be more comfortable, he'd probably get dozens of opinions from specialist from all over the world, but medicine is limited. Rich or not, we're all human. We age and circumstances beyond the influence of money cause us to get sick, and we all eventually die. Modern medicine can work wonders, but it is rare that money alone can save a life in the United States. There might be some rare diseases with experimental medicine only Bill Gates can afford, but how likely is it his family would be hit with something like that? Pretty random. No, more likely is heart-disease, cancer, stroke or an accident -- things we can prevent but not cure.
 
-Sierra Leone is a different story. One out of twenty children born do not survive their first year of life. One of ten do not survive the first five. One out of seventeen women die giving birth.[^46] Average life expectancy is fifty-seven years. There is one doctor for every 20,000 people. The leading cause of death is malaria, which is both preventable and treatable. Simply put, money can buy life in Sierra Leone.
+Sierra Leone is a different story. One out of twenty children born do not survive their first year of life. One of ten do not survive the first five. One out of seventeen women die giving birth.[^48] Average life expectancy is fifty-seven years. There is one doctor for every 20,000 people. The leading cause of death is malaria, which is both preventable and treatable. Simply put, money can buy life in Sierra Leone.
 
 I have specifically chosen genius as a measure of value, because most of what we want to use money for is a product of mankind's genius. Anything manufactured, any service, any form of intellectual property. Even Agriculture and Mining, though they are fruits of nature, cannot be accomplished without the innovations of mankind. The one thing I've specifically excluded as a measure of value is real property. Land, and the resources land provides -- the king's gold - is the root cause of almost all war. My personal believe if genius potential is distributed equally across humanity. By making genius the basis of value, then we have a fair distribution of potential across both geographies and cultures.
 
 This can work as good replacement for modern currencies as most of what we trade is already the product of genius. Despite our commerce primarily being the product of human creativity in some form, we have an unequal distribution, not only across the world, but within wealthy countries. Why? Because the underlying measurement is property, and the unit of measure is controlled by governments based on economic concepts that use equivalence of value.
 
-Economists are not stupid.[^47] They are aware that something that is worth \$50,000 -- say a new Mercedes -- is less valuable in real terms than something like heart surgery for a forty-year-old man that also costs \$50,000. In economic terms, they'd calculate the earning potential of the man's expected lifetime after the surgery, the ability to pay for his children's education and the economic advantage they'd gain and give you some dollar value, probably in the millions. So essentially, heart surgery is an economic investment for the man, his family and for society. This is a common argument for universal health care. When the choice is surgery or a car, the answer is easy.
+Economists are not stupid.[^49] They are aware that something that is worth \$50,000 -- say a new Mercedes -- is less valuable in real terms than something like heart surgery for a forty-year-old man that also costs \$50,000. In economic terms, they'd calculate the earning potential of the man's expected lifetime after the surgery, the ability to pay for his children's education and the economic advantage they'd gain and give you some dollar value, probably in the millions. So essentially, heart surgery is an economic investment for the man, his family and for society. This is a common argument for universal health care. When the choice is surgery or a car, the answer is easy.
 
 In Asimov's Foundation, the science to predict the future is called psychohistory. Psychohistory could not predict individual events in the future, but general trends. Through statistics, psychohistory could predict the direction of the futures. It's the science of mob psychology spread out over a galactic empire of millions of worlds.
 
@@ -1608,7 +1610,7 @@ I think a bit of verse might be fitting way to express the American ethos of thi
 >
 > *I must be losing my mind, "Are you blind?"*
 >
-> *I've seen it all a million times.*[^48]
+> *I've seen it all a million times.*[^50]
 
 With money, taking it back to the start is not fixing the implementation with clever technology. It's not reproducing the excess of Wall Street with a decentralized protocols and replacing D-bag bankers with DeFi-crypto hackers.
 
@@ -1664,7 +1666,7 @@ We know already The Foundation won't ever be able to hold all the genius. If The
 
 As a psychohistorian I'll note another fact about the Earth's economy. There's about \$80 Trillion in national debt across nations, and the engineer who came up with this genius-based system has reserved 10% of the genius value for National Stakes. Could humanity eliminate this debt -- a legacy of inefficient government habits from when they were all trying to kill each other -- and start over with efficient governments and a proper value system for the fundamentals of innovation, sustenance, health and property?
 
-I put all the figure into my psychohistory calculator[^49] and see that 10% of the asimov's value in ten years' time would be equivalent to \$260 Trillion USD, enough to pay off those national debts four times over -- if they can all agree to stop debt spending, which will be much easier once they stop trying to kill each other.
+I put all the figure into my psychohistory calculator[^51] and see that 10% of the asimov's value in ten years' time would be equivalent to \$260 Trillion USD, enough to pay off those national debts four times over -- if they can all agree to stop debt spending, which will be much easier once they stop trying to kill each other.
 
 I then extend the calculation to two centuries, where all the asimov has been distributed and represents the cumulative value of mankind's genius from the beginning of civilization until the year 2222. At that point, there is no more asimov to distribute, but the earthlings continue with their genius, and begin to explore neighboring star systems. What will happen? Well, the supply of money stays the same, but genius continues to add value. My calculations show me that what will happen is that property-based assets will deflate, as will all material-based rewards. Daily living is no longer a struggle, the only conflict left to the earthlings is genius-based competition. The entire economy become like a giant strategy game, with individuals and groups competing to add the most real value. People who accumulate genius wealth are rightfully respected and admired, because they hold great responsibility and are accountable for their value judgements.
 
@@ -1850,7 +1852,7 @@ For several years, my son had been trying to get me to invest in crypto, and as 
 
 Coincidently, I'd been having long discussions with my daughter about all the social and political craziness we had to deal with in 2020 with the elections, protests, and the pandemic. I blamed social media for of the hyperbole and hysteria. I also realized my generation had invented the technology that enabled all this but had not addressed the ethical problems that technology created. One of the core problems that was behind everything was wealth inequality. My attitude about this could be best summed up by Pink Floyd, "*Money, it's a crime, share it fairly, but don't take a slice of my pie*." I'm all for voluntary collectivism, spread the wealth, but I don't trust the government to distribute it. Both sides of the political spectrum had ideas about how to solve this, "Trickle down" or "Tax the rich" and neither had ever come close to addressing the core problem, which we both agreed was generational wealth.
 
-After the first draft of the business idea, my friend implored me to add a crypto play. I was hesitant, as I didn't want to debase the fundamental idea. There was one technical problem with my system, and as it turned out, crypto provided an elegant solution. In early 2021 I'd been doing a lot of study of crypto from a technical perspective. While I was impressed with the technology, I became even more skeptical of its societal value. About this time, my wife joined my son in the crypto-craze and proceeded to multiply her initial investment by a hundredfold on paper. I'd just turned fifty, so it was as if the universe was telling me, "Give up already, you're old."
+After the first draft of the business idea, my friend implored me to add a crypto play. I was hesitant, as I didn't want to debase the fundamental idea, and was skeptical of crypto. There was one technical problem with my system, and as it turned out, crypto provided an elegant solution. In early 2021 I'd been doing a lot of study of crypto from a technical perspective. While I was impressed with the technology, I became even more skeptical of its societal value. About this time, my wife joined my son in the crypto-craze and proceeded to multiply her initial investment by a hundredfold on paper. I'd just turned fifty, so it was as if the universe was telling me, "Give up already, you're old."
 
 In April on the nights when I was free from my Rockets penance, my wife and I would watch some Netflix. For a couple of nights, we watched *This is a Robbery: The World's Biggest Art Heist*. This documentary was about the robbery of the Gardner Museum in Boston in 1990. Thirteen pieces were stolen and never recovered, including a Rembrandt and a Vermeer.
 
@@ -1862,29 +1864,29 @@ I am aware this isn't the normal delivery method for a crypto currency proposal.
 
 While this system works with physical artwork, I'd be a hypocrite to say a system based on artwork would be valuable to me. The congruency between what is valuable to me and what is valuable as artwork is genius and vanity.
 
-What we value says something about who we are. That's why we proudly wear our colors. There is a [whole science Some of buy merchandize, not for function, but for style. The whole Other's of us are more practical and do our upscale clothes shopping at Costco. Some of those same fools have James]{.mark} Harden's headphones, and backpacks, lunch boxes, and posters and shoes[^50] and are waiting for just the right occasion to burn said artifacts in effigy.
+We already reflect what we value in what we wear and what we buy. What we value is already our identity. I wear my Rocket's colors, but even if I'm not, that's still who I am.
 
-....early drafts psudonoymous like Satoshi..... but I realized how absurdly hyporetcial that would be. And it was why this couldn't just be about fine arts (I didn't value).
+I never was a legit superfan. My family knows how much it meant to me and that is enough. Even before the Canadians[^52] stole Olajuwon, I only went to a few games in person. The main reason, of course, is I couldn't afford to go in the championship years, and even after I had a bit more money, it was better just to watch *The Dream* on the TV. Maybe I dreamed of season tickets but probably not. Regardless, I wasn't going to be wearing a fake beard, I'd just be chillin' and enjoying the games.
 
-Now in reality, I never was any kind of real legitate superfan. My family knows how much it meant to me and that is enough. Even before the Canadians[^51] stole Olajuwon, I only went to a few games in person. The main reason, of course, is I couldn't afford to go in the championship years, and even after I had a bit more money, it was better just to watch *The Dream* on the TV. Maybe I dreamed of season tickets but probably not. Regardless, I wasn't going to be wearing a funny hat or facepaint or a fake beard, I just be chillin and enjoying the games. I didn't even imagine road games, except, you know, if I could fly my own private jet, then well, each game would be an adventure.
+You do have to admire that kind of superfan. I know from personal experience exactly how much value Daryl Morey destroyed with a single tweet.
 
-You do have to admire those kind of superfans, and I know from personal experience exactly how much value Daryl Morey destroyed with a single tweet.
+One of the benefits of being a Houstonian living in Colorado was getting to see the Rocket's on the road in Denver. In 2013, Yao was gone, and Morey had pulled off the "trade of the decade" and acquired James Harden from OKC, and boy was that fun to watch. We started going to games, a few in Houston but it was much more affordable once we lived in Colorado. In the beginning, that was fun, Denver stank and Harden tore them up.
 
-One of the benefits of being a Houstonian living in Colorado was getting to see the Rocket's on the road in Denver. After 2013, Yao was gone, and Morey had pulled off the "trade of the decade" and acquired James Harden from OKC, and boy was that fun to watch. So we started going to games, a few in Houston but it was much more affordable once we lived in Colorado. And boy, was that fun. I think because we'd seen a couple of games in Houston, there were like five games in a row where we saw the Rockets pound Denver.
+The event occurred later, but it was still a long time ago. Way, way, back in Harden's prime MVP year. Denver was getting much better, but we were still able to afford good seats in Denver. My wife and son and myself, decked out in Rockets red. Being a Rockets fan in Denver is pretty safe, it wasn't like we were the only Rockets fans there, lots of Texans in Colorado. When we sat down, in row below us is a guy dressed up like Heath Ledger's Joker, the scary one. The Nugget's star player, and 2021 MVP, is Nikola Jokic, thus his nickname, "The Joker." I'm thinking, "On no," but he's totally cool, says something to my son so he's not scared and says hello to us. It was obvious that both him and his companion were season ticket holders, went to a lot of the games, knew other people that were regulars. The Nuggets were finally starting to get good, and it was a full house and a Nationally televised game. It was one of one of my fondest Rocket's memories of this millennium, the Rockets won, and as it turns out, was the last time I saw the Rockets win in person.
 
-The event occurred later, but it was still a long time ago. Way, way, back in Harden's prime years, decades ago in terms of a players career*.* Denver was getting much better, but we were still able to afford good seats in Denver, where we would have had to settle for nosebleed in Houston. My wife and son and myself, decked out in Rockets red. Being a Rockets fan in Denver, it's a Broncos town. And it wasn't like we were the only rockets fans there, lots of Texans in Colorado. But when we sat down, the row below us is a guy dressed up like Heath Ledger's Joker, the scary one. The Nuggets star player, and 2021 MVP, is Nikola Jokic, thus his nickname, "The Joker." I'm thinking, "On no," but he's totally cool, says something to my son so he's not scared and says hello to us and it's totally cool. It was obvious to me that both him and his companion were season ticket holders, went to a lot of the games, knew other people that were regulars. The Nuggets were finally starting to get good, and it was a full house and a Nationally televised game. It was one of one of my fondest Rocket's memories of this millennium, the Rockets won, and as it turns out, was the last time I saw the Rockets win in person.
+Just after half-time, I notice my wife is playing with her phone, and I'm a little annoyed, because she likes the Rockets, she could have played with her phone at home, but during a stoppage of play she explained. Somebody we knew from our two years living in China, had seen her and my son on TV. I'm like, "no way," thinking it was somebody she'd told we were going to the game and watched here in the states, but she insisted it was somebody in China, who hadn't even known we were at the game. It was something like five in the morning in China, and we hadn't seen that person in years. I forgot about it quickly, not wanting to miss a dribble. It was prime James Harden, there were a lot of dribbles.
 
-Just after half-time, I notice my wife is playing with her phone, and I'm a little annoyed, because she likes the Rockets, and it was some expensive seats, she could have played with her phone at hom, but during a stoppage of play she explained. Somebody we knew from our two years living in China, had seen her and my son on TV. I'm like, "no way," thinking it was somebody she'd told we were going to the game and watched here in the states, but she insisted it was somebody in China, who hadn't even known we were at the game. It was something like five in the morning in China, and we hadn't seen that person in years. I forgot about it quickly, not wanting to miss a dribble. It was prime James Harden, there were a lot of dribbles.
+On the drive back home we got more details, including the moment in the game when the person thought she saw them. I'm thinking, okay, it was a crowd shot and probably blurry and they were guessing. When I got back home, I replay the game and sure enough, there they were. The national broadcast was doing crowd shots, and of course they picked the crazy Joker screaming like a maniac, and wife and youngest son just above his shoulder, big shot, clear as day. And somebody, on the complete other side of the world, likely just as crazy as our new friend Joker, tuning in for the broadcast of an awesome game, at five in the morning, because seeing it live, is always better, just like the seeing the *Mona Lisa* in person, eyes glued to the set even as broadcast goes to commercial. Somebody who loves the Rockets. Somebody who shares values with me.
 
-On the drive back home we got more details, including the moment in the game when the person thought she saw them. I'm thinking, okay, it was a crowd shot and probably blurry and they were guessing. When I got back home, I replay the game and sure enough, there they were. The national broadcast was doing crowd shots, and of course they picked the crazy Joker screaming like a maniac, and wife and youngest son just above his shoulder, big shot, clear as day. And somebody, on the complete other side of the world, likely just as crazy as our new friend Joker, tuning in for the broadcast of an awesome game, at five in the morning, because seeing it live, is always better, just like the seeing the *Mona Lisa* in person, eyes glued to the set even as broadcast goes to commercial.
+What's that worth? That's the value of asimov.
 
-China and The United States are two countries at are supposedly rivals diametrectrically opposed. Yet, we share values not just with sports, but with all kinds of passions. We have
+That's what we want to measure. Measure what unites us.
 
 # Digital Sainthood
 
-One recurring theme in science-ficition is the concept of digital immortality. There are variations on the theme, but the basic idea is that before you die, you upload your memories and consciousness into a computer and you live forever in this digital heaven. You're decendents can use virtual reqality to come visit you or ask you for advice or money. In some of the more advanced stories, you can even download your consciousness into "skins" which might be a clone grown from your DNA, or somebody who has leased their meat out for your enjoyment.
+One recurring theme in science-fiction is the concept of digital immortality. There are variations, but the basic idea is that before you die, you upload your memories and consciousness into a computer and you live forever in this digital heaven. You're decendents can use virtual reqality to come visit you or ask you for advice or money. In some of the more advanced stories, you can even download your consciousness into "skins" which might be a clone grown from your DNA, or in the South Korean version, something much worse.
 
-Personally, I feel this kind of technology is way down the road for mankind, I think we'll probably colonize the starts before we have this kind of immortality.
+Personally, I feel this kind of technology is way down the road for mankind, I think we'll probably colonize the stars before we have this kind of immortality.
 
 If I'm wrong and we develop it sooner, I think it would be hubris way worse than man building an "unsinkable ship." Who are we to choose immortality when our predecessors didn't have that choice? What have we done to deserve this? And if it's a matter of cost, where those with money or privledge can afford to "live" forever and the masses can not? That's some real class warfare.
 
@@ -1910,7 +1912,7 @@ There is one common value that Americans share, and we willingly share this valu
 
 It is this value that gives me moral righteous to state, Genius belongs to Humanity.
 
-Let's say I'm at a dinner party with a bunch of fancy artsy people.[^52] Some rich dirtbag makes mention he's got a Picasso hidden away at his ski-chalet in Aspen, and only the few other rich dirtbags invited on his ski trips ever get to see it. My response would be "Should I bow or curtsey, your worshipfulness?"
+Let's say I'm at a dinner party with a bunch of fancy artsy people.[^53] Some rich dirtbag makes mention he's got a Picasso hidden away at his ski-chalet in Aspen, and only the few other rich dirtbags invited on his ski trips ever get to see it. My response would be "Should I bow or curtsey, your worshipfulness?"
 
 While I fully concede to the rich their wealth gives them access to private jets, yachts, and adventure flights into shallow outer space, I won't concede that they have the right to keep works of genius from me or my children. That's too much like royalty.
 
@@ -1920,7 +1922,7 @@ Through the lens of history, we see that basic principle was hypocritical in pra
 
 A failure of the American Revolution, and all the revolutions that followed, was that we said to the king, "We don't need you," but "We still need your gold." And that fact is why we, as a nation, could rectify slavery and genocide, economic imperialism, and decade after decade of bloody industrial savagery with the idealism of liberty and freedom. All men are created equal, but from the day he is born, we value a man's worth by the same king's gold. We might have hacked the actual gold out of the algorithm, but it is still the king's gold be it fiat or crypto.
 
-Hindsight is not perfect vision. I am not trying to fault the founders. I can't fathom how my folks survived childhood in Texas without air-conditioning, much less what a bunch of farmers and merchants in colonial American had to deal with. I do feel an opportunity was missed that was right there before their eyes. The very first amendment to our Bill of Rights says what we value is the freedom of speech.[^53] This has been interpreted from the beginning as freedom of expression, which is certainly what genius and vanity is all about. We as a people, demand this of our government, meaning we value it, and King George did not. Yet the founders choose to continue to trade and collect taxes using the king's gold.
+Hindsight is not perfect vision. I am not trying to fault the founders. I can't fathom how my folks survived childhood in Texas without air-conditioning, much less what a bunch of farmers and merchants in colonial American had to deal with. I do feel an opportunity was missed that was right there before their eyes. The very first amendment to our Bill of Rights says what we value is the freedom of speech.[^54] This has been interpreted from the beginning as freedom of expression, which is certainly what genius and vanity is all about. We as a people, demand this of our government, meaning we value it, and King George did not. Yet the founders choose to continue to trade and collect taxes using the king's gold.
 
 And almost diametrically opposed and as great a failure were the collective revolutions that followed. In those systems, the king's gold was no longer what was valuable. It was the collective good that was valuable. Individual expression was not valued -- and core to individualism are both genius and vanity.
 
@@ -1940,7 +1942,7 @@ Wait a minute. Who's going to grow rice, pick up the garbage, mow lawns, and pai
 
 Super-efficient robots that are powered by green energy. Don't believe me? Ask Elon Musk. How else are we going to colonize Mars?
 
-I like the shows *Deadliest Catch* and *Ice Road Truckers*.[^54] Both are docuseries about two of the most dangerous jobs in North American, though I imagine from both a global and historical statistical perspective, tame jobs. Living on Mars, full time, as an engineer or scientist or even just the cook, indoors most of the time, will be like a mash-up of those two shows. That's right, burnt up, alcoholic thrice divorced Canadians and American geezers driving big rigs in laps on a frozen lake while their sons and grandsons try to drop crab pots off the trailer into holes blown into the ice by the brother who is literally[^55] riding "shotgun." Take that for social-satirical-tragedy *Squid Games*!
+I like the shows *Deadliest Catch* and *Ice Road Truckers*.[^55] Both are docuseries about two of the most dangerous jobs in North American, though I imagine from both a global and historical statistical perspective, tame jobs. Living on Mars, full time, as an engineer or scientist or even just the cook, indoors most of the time, will be like a mash-up of those two shows. That's right, burnt up, alcoholic thrice divorced Canadians and American geezers driving big rigs in laps on a frozen lake while their sons and grandsons try to drop crab pots off the trailer into holes blown into the ice by the brother who is literally[^56] riding "shotgun." Take that for social-satirical-tragedy *Squid Games*!
 
 That's about the risk level for the people in the caves who watch robots remotely. Even though the Mar's colony will be an international effort, in a throwback homage to America's 1969 landing on the moon, they'll have a lottery just like the U.S government had in 1969.
 
@@ -1984,7 +1986,7 @@ He shows me a picture on his phone of his grandfather and grandmother, laughing 
 
 I'll laugh and shake my head. What can I say, we were all filthy idiots, laughing it up in an unsustainable world.
 
-"Yo, old man, why you care about rebounding so much? My curry[^56] never misses?"
+"Yo, old man, why you care about rebounding so much? My curry[^57] never misses?"
 
 "Kid, let me tell you about the Worm. Back in the 1980s when I was a kid, the Korean peninsula was divided into two countries. There was this kid from Texas, like you and me\...."
 
@@ -2116,48 +2118,50 @@ Staking agreements -- pledges running software join staking groups to share dece
 
 [^33]: Colorado Springs residents on the North side of Memorial Park, I'll take my kickback in cash or bitcoin.
 
-[^34]: From <https://www.tesla.com/about>
+[^34]: Note to self -- tread carefully. You promised yourself you would not speak the name that must not be spoken.
 
-[^35]: I'd have to check with Canada to know for sure.
+[^35]: From <https://www.tesla.com/about>
 
-[^36]: Canadian for *La Ruidosa Chalupa*
+[^36]: Thank you, Korea, but next time, you need to research your American supervillains a little better. I don't know what the hell those people were supposed to be. The proper proto-type for an American supervillain is Marsellus Wallace. I think you got confused with Canadian version of a supervillain, whom always has a four-letter name that starts with 'E'.
 
-[^37]: Gold has industrial, commercial and medical uses. Wikipedia says less than 10% of gold production goes towards industry.
+[^37]: I'd have to check with Canada to know for sure.
 
-[^38]: And three months later, NBA World Champion Milwaukee Bucks.
+[^38]: Canadian for *La Ruidosa Chalupa*
 
-[^39]: For those with me so far, but fear I risk alienating too big a population with my rhetoric, it is strategic. Asimov is an engineered system and based on statistical science. For every single Astros hater out there, there are 1,301 baseball lovers who absolutely despise the Dodgers. The fact that the "Asteriks" went through the Red Sox, the Yankees, and the Dodgers to **win** the World Series means that feat has the greatest statistical reach, as there are no teams universally hated by more fans. One of the highlights of my adult life was my 2019 Vacation to NYC, where I wore my "Houston Rockets 93-94 NBA Champions" T-shirt every day. I heard it from Knicks and Yankees fans alike, got called every name in the book, most of which made me even prouder to be from Houston. I didn't get my ass kicked, not once. I attribute that to my natural Texas swagger. My wife attributes it to repulsive shielding effect of wearing the same shirt for 120 hours straight.
+[^39]: Gold has industrial, commercial and medical uses. Wikipedia says less than 10% of gold production goes towards industry.
 
-[^40]: Karl Malone gets a pass, he's from Louisiana. Old man or not, I'm almost certain he could still kick my ass.
+[^40]: And three months later, NBA World Champion Milwaukee Bucks.
 
-[^41]: Those Enron guys were carpetbaggers.
+[^41]: For those with me so far, but fear I risk alienating too big a population with my rhetoric, it is strategic. Asimov is an engineered system and based on statistical science. For every single Astros hater out there, there are 1,301 baseball lovers who absolutely despise the Dodgers. The fact that the "Asteriks" went through the Red Sox, the Yankees, and the Dodgers to **win** the World Series means that feat has the greatest statistical reach, as there are no teams universally hated by more fans. One of the highlights of my adult life was my 2019 Vacation to NYC, where I wore my "Houston Rockets 93-94 NBA Champions" T-shirt every day. I heard it from Knicks and Yankees fans alike, got called every name in the book, most of which made me even prouder to be from Houston. I didn't get my ass kicked, not once. I attribute that to my natural Texas swagger. My wife attributes it to repulsive shielding effect of wearing the same shirt for 120 hours straight.
 
-[^42]: Sorry Dallas, due to what is technically known as a 'choke order' I'm legally barred from writinscreg about football in any context. How 'bout dem Rangers, though.
+[^42]: Karl Malone gets a pass, he's from Louisiana. Old man or not, I'm almost certain he could still kick my ass.
 
-[^43]: I may have forgotten to mention Giannis left in the early minutes of that game due to "injury." The real story, from those in the know, is that he caught a glimpse of the determination in Porter's eyes and ran to the locker room in absolute terror.
+[^43]: Those Enron guys were carpetbaggers.
 
-[^44]: Michael Jordan, Charles Barkley, Alvin Robertson, Otis Thorpe and dirty John Stockton were all selected in the first round.
+[^44]: Sorry Dallas, due to what is technically known as a 'choke order' I'm legally barred from writinscreg about football in any context. How 'bout dem Rangers, though.
 
-[^45]: Canada, dethroning the Warriors went a long way towards forgiveness, but that trade had two partners. After you got yours, I heard a lot of basketball talk about who the greatest Raptor of all time was, and I knew what they meant. But the technical answer to who was the greatest player to ever wear a Raptors uniform has a very precise answer. Oh, you guys thought we were called H-town because H is for Houston like in kindergarten. Cute, yeah. We're stupid rednecks in Texas.
+[^45]: I may have forgotten to mention Giannis left in the early minutes of that game due to "injury." The real story, from those in the know, is that he caught a glimpse of the determination in Porter's eyes and ran to the locker room in absolute terror.
 
-[^46]: For reference, the ratios in the United States are 1 of 200 for infants, 1 of 153 for age-five, and 1 of 5,263 for maternal mortality. Life expectancy is 78 years and there is a doctor for every 370 people.
+[^46]: Michael Jordan, Charles Barkley, Alvin Robertson, Otis Thorpe and dirty John Stockton were all selected in the first round.
 
-[^47]: This may not be factual. I've never met one, but I'm a nice guy, so benefit of the doubt.
+[^47]: Canada, dethroning the Warriors went a long way towards forgiveness, but that trade had two partners. After you got yours, I heard a lot of basketball talk about who the greatest Raptor of all time was, and I knew what they meant. But the technical answer to who was the greatest player to ever wear a Raptors uniform has a very precise answer. Oh, you guys thought we were called H-town because H is for Houston like in kindergarten. Cute, yeah. We're stupid rednecks in Texas.
 
-[^48]: From *Paradise City* by Slash, Axl Rose, Izzy Stradlin, Duff McKagan and Steven Adler
+[^48]: For reference, the ratios in the United States are 1 of 200 for infants, 1 of 153 for age-five, and 1 of 5,263 for maternal mortality. Life expectancy is 78 years and there is a doctor for every 370 people.
 
-[^49]: Atomic powered, like all the gadgets in Asimov's Foundation.
+[^49]: This may not be factual. I've never met one, but I'm a nice guy, so benefit of the doubt.
 
-[^50]: But no jersey. Only one number Rocket's jersey that particular fool is ever going to wear has #34 on it. Astros #27.
+[^50]: From *Paradise City* by Slash, Axl Rose, Izzy Stradlin, Duff McKagan and Steven Adler
 
-[^51]: I know it's the Toronto Raptors but some people sure made a big deal about it being Canada's team a few years back. Own up, Canada. This is about responsibility.
+[^51]: Atomic powered, like all the gadgets in Asimov's Foundation.
 
-[^52]: In one swift stroke, the author deftly ensures he is never invited to a dinner party with fancy artsy people.
+[^52]: I know it's the Toronto Raptors but some people sure made a big deal about it being Canada's team a few years back. Own up, Canada. This is about responsibility.
 
-[^53]: The First Amendment covers freedom of religion and speech.
+[^53]: In one swift stroke, the author deftly ensures he is never invited to a dinner party with fancy artsy people.
 
-[^54]: Despite the show being about Canadian truckers, it has a theme song by American rockers. Is that ironic?
+[^54]: The First Amendment covers freedom of religion and speech.
 
-[^55]: Children, that's literally the proper usage of "literally."
+[^55]: Despite the show being about Canadian truckers, it has a theme song by American rockers. Is that ironic?
 
-[^56]: A mid-21^st^ century trend where basketball fans would get together and issue and ICO (Initial Clone Offering) where they would mix the DNA from various superstars to create NBA players. Stephan Curry's DNA was present to some extend in almost every clone, so the kids had taken to calling them currys.
+[^56]: Children, that's literally the proper usage of "literally."
+
+[^57]: A mid-21^st^ century trend where basketball fans would get together and issue and ICO (Initial Clone Offering) where they would mix the DNA from various superstars to create NBA players. Stephan Curry's DNA was present to some extend in almost every clone, so the kids had taken to calling them currys.
