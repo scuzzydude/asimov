@@ -2018,7 +2018,7 @@ If John were alive today, I'd only ask that he change the one line.
 
 *No need for greed or hunger, A brotherhood of man*
 
-I'm cool with no greed or hunger, but a brotherhood of man would seem to indicate that I would be in a brotherhood with Jazz, Dodger and Yankee fans. That ain't happening. Who the hell wants to live in a world where you just plain despise another city's team, as well as their players? It's beautiful, because as soon as one of those despised players gets traded to your team, you love them.
+I'm cool with no greed or hunger, but a brotherhood of man would seem to indicate that I would be in a brotherhood with Jazz, Dodger and Yankee fans. That ain't happening. Who the hell wants to live in a world where you can't just plain despise another city's team, as well as their players. It's a beuitul, because as soon as one of those despised players gets traded to your team, you love them.
 
 I debated with myself if I really needed to write this chapter. I realized that most of my audience didn't have the benefit of learning Texas History in middle school like I did, and wouldn't understand, that sports are the greatest genius invention of mankind, and it were invented right in Texas, just like art and feminism. I've reprinted the important lesson in [Appendix E](#appendix-e-a-lesson-in-texas-history). Let's just say, competition, friendly or New York style, is always a good thing.
 
@@ -2028,7 +2028,7 @@ Not everybody can be from Texas. It's a big state but it won't hold seven billio
 
 *I hope someday you'll join us, and the world will live as one*
 
-The world living as one isn't going to solve our problems. A genius based wealth system should free us from violent conflict over property. It doesn't mean there will not be conflict. We want conflict. Conflict is good. Conflict is what drives man to be better, because, at heart we are all vain. We will do things faster, just to do it first. We want to be the best. In the land of ideas, violence has no leverage, because you can't take what already belongs to everybody. There will be competition. Competition for the best ideas. Competition for the brightest people. Competition for the best interpretation of existing ideas. And, yes, competition for who is the best painter, ballerina, polka dancer and even the best drummer. And most certainly, competition for where in the world is the best place to live. However, that'll be nuanced, because the best place to live for a particular person is based on their value set.
+The world living as one isn't going to solve our problems. A genius based wealth system should free us from violent conflict over property. It doesn't mean there will not be conflict. We want conflict. Conflict is good. Conflict is what drives man to be better, because, at heart we are all vain. We will do things faster, just to do it first. We want to be the best. In the land of ideas, violence has no leverage, because you can't take what already belongs to everybody. There will be competition. Competition for the best ideas. Competition for the brightest people. Competition for the best interpretation of existing ideas. And, yes, competition for who is the best painter, ballerina, polka dancer and even the best drummer.
 
 Conflict over ideas is the kind of war we should fight. Not with violence, but with open and free appreciation by all mankind. Not conflict over how much property an idea equates to, but over the value of the ideas themselves. Which ideas improve the lives, reduce hardship, and bring joy to the most people while allowing us to sustain a prosperous and equitable civilization on this planet. Those ideas will win. The Foundation is a system designed for that outcome.
 
@@ -2038,13 +2038,13 @@ Canada, Yankees, Dodgers -- I meant every word.
 
 # Genius Ancestry
 
-I grew up around baseball, but it never really took when I was young. I saw *Phi Slamma Jamma* on television and I was hooked on basketball. Baseball was so simple yet so complicated and slow, I just didn't have the attention span for it. Competitive baseball was usually outside in the summer months. Ideal baseball weather in Houston was about three weeks in January. Nikola Tesla, and not Michael Jordan, should be the patron saint of basketball, at least for ballers who grew up on the Gulf Coast. Tesla's genius benevolence of Air Conditioning, Hakeem Olajuwon, Jose Altuve and putting a man on the moon are what we value in Houston.
+As I said, I've been a fair-weather Astros fan. I grew up around baseball, but it never really took. I saw *Phi Slamma Jamma* on television and I was hooked on basketball. Baseball was so simple yet so complicated and slow, I just didn't have the attention span for it. Competitive baseball was usually outside in the summer months. Ideal baseball weather in Houston was about three weeks in January. Nikola Tesla, and not Michael Jordan, should be the patron saint of basketball, at least for ballers who grew up on the Gulf Coast. Tesla's genius benevolence of Air Conditioning, Hakeem Olajuwon, Jose Altuve and putting a man on the moon are what we value in Houston, Amen.
 
 One common adage of parenthood is, "you don't know how good you got it." I like to bring this up when talking to my kids about the general suckage of the pandemic, and I know I'm right. The pandemic lockdowns would have sucked way worse for young people in the 1980s.
 
 I remember I was about twelve or thirteen and I was bitching to my grandpa about my summer job, working for my Uncle Clay. Uncle Clay drove around Clear Lake in a hatchback towing a trailer, mowing lawns for astronauts. In the summer, it was exactly like being in a sauna, but it wasn't like I was cutting the grass with a machete, my uncle had top-end riding mowers and the necessary gear. Regardless, by 10 a.m. every day I was praying for rain, and prayers worked about half the time. I guess I'm semi-holy.
 
-"I picked cotton when I was your age," my grandpa said.
+"I picked cotton when I was your age," Grandpa said.
 
 I knew where my grandpa grew up. It wasn't quite as humid as Clear Lake, but still Southeast Texas and ever hotter.
 
@@ -2052,19 +2052,19 @@ I knew where my grandpa grew up. It wasn't quite as humid as Clear Lake, but sti
 
 "Tractor?" he laughed. "I picked it with my hands."
 
-I lost total congruence with my grandpa's childhood. What I knew about my Grandpa Marsene was that as a kid he was the baseball badass of five counties. He was like the super-jock of Bellville, Texas. I knew baseball super-jocks at my middle-school. They'd didn't have to mow lawns because their parents sent them to baseball camp, somewhere with cooler weather like Connecticut or Dallas.
+I lost total congruence with my grandpa's childhood. What I knew about my Grandpa Marsene was that as a kid he was the badest-ass baseball player in five counties. He was like the super-jock of Bellville, Texas. I knew baseball super-jocks at my middle-school. They'd didn't have to mow lawns because their parents sent them to baseball camp, somewhere with cooler weather like Connecticut or Dallas.
 
 "Why?"
 
-"I was hungry. Hungry people picked cotton." In hindsight, I clearly interpret from his tone his true meaning, which was, *You think I picked cotton for fun?*
+"I was hungry. Hungry people picked cotton." In hindsight, I clearly interpret from the tone his true meaning, which was, *You think I picked cotton for fun?*
 
-My Grandpa was the coolest dude. He was a small-town country boy, super smart and the best ball player ever to come out of Austin County. He played farm ball in the Depression, and was drafted by the White Sox, but war and family derailed those dreams. He lived in Bellville his whole life, knew everybody in town and everybody loved him. I have no idea what he really thought of his suburban grandson who'd been indulged by air conditioning his whole life. He took long walks with his medal detector and went looking for treasure and dinosaur bones, fished, played golf, and watched baseball. The long walks and looking for treasure took, but I wasn't much for golf or fishing. Marsene Crawford was good at everything he did.
+My Grandpa was the coolest dude. He was a small-town country boy, but super smart and the best ball player ever to come out of Austin County. He played farm ball in the Depression, and was drafted by the White Sox, but war and family derailed those dreams. He lived in Bellville his whole life, knew everybody in town and everybody loved him. A total country boy, I have no idea what he really thought of his suburban grandson who'd been indulged by air conditioning his whole life. He took long walks with his medal detector and looking for treasure and dinosaur bones, fished, played golf, and watched baseball. The long walks and looking for treasure took, but I wasn't much for golf or fishing. Marsene Crawford was good at everything he did.
 
 I spent many a summer watching baseball with my grandpa. I played T-ball and Little League and was a pretty good runner and could catch a fly ball. I understood baseball, like I understand chess. I can play the game and usually beat a six-year-old. There's always another layer with baseball.
 
 Watching the Astros with my grandpa was always an education. He always knew exactly what was going to happen. I don't mean he could predict the future or tell if somebody was going to get a hit on a particular pitch. He'd give you the two or three possibilities on each at bat, and then point out what each player needed to focus on, and he knew what every position player should be looking out for. I don't know if I was just too young, but I never got it like he did, I couldn't see the bigger picture, the management of arms and bats. Most of the time I had no idea what he was talking about. Today, even with the digital enhanced flight path we have on each pitch on television, I can't tell a slider from a sinker, but grandpa knew every pitch the millisecond it left the pitcher's hand in 1970s before the television had any of that.
 
-I've been watching playoff baseball since around 2001, just for something to do in October. It's always slow, and except for the 9^th^ inning in a close game, I was easily distracted. I would usually work on my computer and I might look up and see the replay if there was a home run. I could never really stick there and give it my full attention for the four plus hours it takes to watch a playoff game. However, playoff ball in the late innings you can see the stress grow on the players faces and totally empathize with them. There is a congruence that grows through the home crowd that aligns with the players and I think it's really the only sport where the fans can influence the game, because there is so much time between action, the fans can imagine, and if that aligns with belief, it's powerful when multiplied. The actions is so fast in basketball, fans don't have time to align on anything or figure out what is really going on in the minds of the players. I guess that's why baseball fans or so crazy, they all share a dream or a delusion.
+I've been watching playoff baseball since around 2001, just for something to do in October. It's always been slow, and except for the 9^th^ inning in a close game, I was easily distracted. I would usually work on my computer and I might look up and see the replay if there was a home run. I could never really stick there and give it my full attention for the four plus hours it takes to watch a playoff game. However, playoff ball in the late innings you can literray see the stress grow on the players faces and totally empathize with them. There is a congruence that grows through the home crowd that aligns with the players and I think it's really the only sport where alignment of fans can actually matter, because there is so much time between action, the fans can imagine, and if that aligns with belief, it's powerful. The actions usually is so fast in basketball, you fans don't have time to align on anything or figure out what is really going on in the minds of the players. I guess that's why baseball fans or so crazy, they all share a dream, and or they're all delusional.
 
 That all changed during 2017 playoffs. When I watched Jose Altuve bat, I could see exactly what was going to happen, and I believed it would happen, and it would. I could see things the way my grandpa saw them. When Jose kicked off a rally, getting on base, then I could see if for the other players as well. This ability lasted the entire post-season, and I still got that power, at least for the past five Octobers.
 
@@ -2072,7 +2072,7 @@ When Jose is at bat, and the game is on the line, just close your eyes for a mom
 
 My grandpa died in April of 2005. He'd watched the Astros during their entire existence faithfully, yet never got to see them go to the World Series. In October of 2005, the Astros went to the World Series for the first time, where they ended the 86-year *Curse of The Black Sox*, by losing to the Chicago White Sox, the team that had drafted my grandfather.
 
-I regret my grandpa never got to see the Astros in the World Series. What I really wish is that he'd gotten to see Jose Altuve play. I think we could have enjoyed being on the same wavelength and watching a genius at work. I fondly remember watching a Rockets game with him. We both knew what was going to happen -- *The Dream* was going to dominate, every time he touched the ball. I never got to enjoy a baseball game in the same way with him. We never aligned our dreams or our delusions on baseball, but we did on *The Dream*. That was nice.
+I regret my grandpa never got to see the Astros in the World Series. What I really wish is that he'd gotten to see Jose Altuve play. I think we could have enjoyed being on the same wavelength and watching a genius at work. I remember fondly watching a Rockets games with him. We both knew what was going to happen -- *The Dream* was going to dominate, every time he touched the ball. I never got to enjoy a baseball game in the same way with him. We could align our dreams or our delusions on baseball, but we did on *The Dream*. That was nice.
 
 I value baseball now, but I wouldn't have valued it when I was twenty. The musicians, writers, inventors and heroes I admired in my youth have changed, though a few have been with me most of my life.
 
@@ -2092,7 +2092,7 @@ I think this is something that families must decide for themselves. I'm not sugg
 
 ## Canada
 
-Canada, I'm not exactly talking forgiveness here, but a permanent cease fire. The truth is, I like Canada. It's a beautiful country, the people are nice, and I've always enjoyed visitingI've been civil, I haven't smacked down any of modern-day Canadian heroes, though it was challenging, as there are so many easy targets.[^64]
+Canada, I'm not exactly talking forgiveness here, but a permanent cease fire. The truth is, I like Canada. It's a beautiful country, the people are nice, and I've always enjoyed visiting. And you must know, I've been civil, I haven't smacked down any of modern-day Canadian heroes, though it was challenging, as there are so many easy targets.[^64]
 
 Canada, I'll make you a deal. I'll lay off the Canadian trash-talk, all you got to do is send George Springer back home, we really miss him. I know he went there voluntarily, but he's young, he can always come back home. George, Whataburger will give you some gravy to go with your fries, all you got do I ask. Only explanation I could think of.
 
@@ -2106,7 +2106,7 @@ On Friday October 20^th^, 2017 during game six of the American League Championsh
 
 That's why.
 
-When a billionaire Yankee fan is lamenting his bad fortune, he should just call the Astros ticket office and use some of his property-wealth to bribe somebody and get those names. Should be easy, since we're all *cheaters* down here in Houston.
+When a billionaire Yankee fan is lamenting his bad fortune, all he has to do is call the Astros ticket office and use some of his property-wealth to bribe somebody and get those names. Should be easy, since we're all *cheaters* down here in Houston.
 
 ## Dodgers
 
@@ -2114,7 +2114,15 @@ Dodgers, Dodgers, Dodgers. You want an asterisk, I'll give you an asterisk.
 
 When it comes to heroes they make mythology about in five hundred years, Babe and Joeless Joe will be but bit players, their will be one hero they world will remember, and all they'll remember about the cities the hero conquered that they were city's of sin and the worst kind of excessive, unsustainable and rude behavior, not good values. I think baseball might thrive for another five hundred years because of this legend, and all the Dodgers will be remembered for is somebody the hero had to stand up to.
 
-Baseball just went through several decades of showing the worlds children that the way to achieve your dreams if by being really big and strong, if not naturally, then by jacking yourself up with steroids. Along comes this kid -- the smallest player in professional baseball in forty years -- from a country where he grew up under very meager cicrumstances but with abosultely fantastic parents that allowed him to dream an impossible dream and go for it.
+Baseball just went through several decades of showing the worlds children that the way to achieve your dreams if by being really big and strong, if not naturally, then by jacking yourself up with steroids. Along comes this kid -- the smallest player in professional baseball in forty years -- from a country where he grew up under very meager cicrumstances but with abosultely fantastic parents that allowed him to dream an impossible dream and go for it. When Jose Altuve signed a contract with the Astros in 2007 as a 16 year old for \$15,000, it was already like climbing Mt Everest without oxygen. What Jose achieved in his career was literary not to good to be true, but impossible. A kid from Venezula -- a kid who had a dream.
+
+Hollywood, you will always be the villain in the greatest hero story of sports. And yes, my evil plan is to trick Hollywood into putting up a counter effort in the genius economy into nullifying my test of the value of that story with one of their own. There's no story better, and Hollywood is so vain you'll stick to your fantasy while next legend like *Apollo 13* -- impossible triumph, passes you by. I'm sure they're some genius you
+
+ng screenwriter in Venezuela already working on it.
+
+If you just watched, really watch, Jose Altuve bat, you know nobody ever told this man what pitch he need to swing at. He had that power my grandpa had, he just saw what was going to happen, and then made it happen. He swings because he's in control, it don't matter what the pitcher throws, Jose is the one making dreams happen. Easy for a kid who came from nothing but the generational wealth of dreams and an the inspiration of loving parents. The right way to wealth for us all.
+
+Keep on booin' Dodger fans, it only adds to the legend.
 
 ## The Curse of the Asterisk
 
@@ -2126,9 +2134,9 @@ The *Curse of the Asterisk* is directed at the fans, who booed the greatest base
 
 *The Curse of The Asterisk*, is no matter how much money you spent on players, or how many hats and jersey you might sell, no matter what movie stars show up at your games, the Yankees and the Dodgers will never be as valuable in the genius economy as the Astros.
 
-And even thought I pretty much spelled out how I was going to implement the curse, I don't think you Dodgers and Yankee fans will be able to figure it out. So I'll guess I'll get a reputation as a cheater.
+And even though I spelled out how I was going to implement the curse, I don't think you Dodgers and Yankee fans will be able to figure it out. So I'll guess I'll get a reputation as a cheater.
 
-Well, you know what? I'll have some good company.
+Well, you know what. I'll have some good company.
 
 # Ethical Revolution
 
