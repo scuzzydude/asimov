@@ -2,11 +2,13 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.60**
+**Version 0.62**
 
 **ADVANCED READING COPY**
 
-![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2022 by Brandon Awbrey. This publication maybe reproduced in whole form if fairly attributed for any non-commercial purpose. fF you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
+![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2022 by Brandon Awbrey. This publication maybe reproduced in whole form if fairly attributed for any non-commercial purpose. If you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
+
+Cover Art and Illustrations ©2022 by Jack Awbrey
 
 # Intrinsic Value
 
@@ -1972,21 +1974,21 @@ Agriculture equals just 3.5% of the world economy, industry 25% and the rest is 
 
 We know The Foundation won't ever be able to hold all the genius. If The Foundation sticks to its distribution schedule, holds value through market turmoil, and continues to grow with new additions to genius, psychohistory tells me that the market will price the asimov in terms of impact to the world economy. It's not unreasonable to think this price would be the 70% share of the cumulative gross world product. If that takes ten more years, that'll probably add another Quadrillion, to make the total 3.6 quadrillion, so 70% of that is 2.52 quadrillion dollars. That would put the 2032 price target of asimov at 2.52 Q / 1T = \$2,520 USD per asimov.
 
-  ------------------------------------------------------------------------------
-  **Description**                       **Calculation**     **Billions (USD)**
-  ------------------------------------- ------------------- --------------------
-  Gross World Product (GWP) 1990-2020                       \$2,600,000
+  -------------------------------------------------------------------------------
+  **Description**                        **Calculation**     **Billions (USD)**
+  -------------------------------------- ------------------- --------------------
+  Gross World Product (GWP) 1990-2020                        \$2,600,000
 
-  Estimated GWP 2021-2030                                   \$1,000,000
+  Estimated GWP 2021-2030                                    \$1,000,000
 
-  Cumulative GWP 1990-2030                                  \$3,600,000
+  Cumulative GWP 1990-2030                                   \$3,600,000
 
-  GWP attributed to human innovation    70%                 \$2,520,000
+  GWP attributed to human innovation     70%                 \$2,520,000
 
-  Total asimov                          1,000,000,000,000   
+  Total asimov                           1,000,000,000,000   
 
-  Asimov Price Target                   \$2,520.00          
-  ------------------------------------------------------------------------------
+  Asimov Price Target                    \$2,520.00          
+  -------------------------------------------------------------------------------
 
 As a psychohistorian I'll note another fact about the Earth's economy. There's about \$80 Trillion in national debt across nations, and the engineer who came up with this genius-based system has reserved 10% of the genius value for National Stakes. Could humanity eliminate this debt -- a legacy of inefficient government habits from when they were all trying to kill each other -- and start over with efficient governments and a proper value system for the fundamentals of innovation, sustenance, health and property?
 
@@ -2386,7 +2388,7 @@ My wife, who by summer had turned herself into a genuine crypto mogul, really li
 
 If I manage to stake this venture and circulate asimov, I stand to gain wealth as I am the first staker and expect to be rewarded for my time investment in the development of the system. I pledge to keep all wealth I accumulate through The Foundation in the responsibility domain for my lifetime and pass that responsibility along to people who chose to be responsible for those ideas after I'm gone. Hopefully, this will be my descendants, but they may have other ideas they value. I hope this will become common practice in the genius economy. Instead of generation wealth, we will have generational responsibility.
 
-I will request one privilege as creator of this system. I will ask the board to approve exclusivity to the SNS leases of the names I've listed in [Appendix C](#_Appendix_C_–) for some period. I plan to apply my wealth to these Scoot once The Foundation is staked.
+I will request one privilege as creator of this system. I will ask the board to approve exclusivity to the SNS leases of the names I've listed in [Appendix C](#appendix-b-scoot-naming-reservations) for some period. I plan to apply my wealth to these Scoot once The Foundation is staked.
 
 These are the geniuses that I value.
 
