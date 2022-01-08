@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.62**
+**Version 0.63**
 
 **ADVANCED READING COPY**
 
@@ -270,7 +270,7 @@ Our treasure is not valuable if lost, destroyed, or forgotten. It is up to human
 
 Scoot is the vessel for this responsibility.
 
-![](media/image2.png){width="5.182232064741907in" height="2.9166666666666665in"}
+![](media/image2.png){width="4.039087926509186in" height="2.2732819335083114in"}
 
 A Scoot is formed as organization of proportional responsibility for a legacy of genius. Each Scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via methods in the protocol. Holders of scoot have no rights other than the elective governance of the Scoot, but a responsibility -- a pledge -- to increase the appreciation of the subject of the Scoot.
 
@@ -1064,7 +1064,7 @@ Electricity powers everything we do. Kids today intuitively understand how softw
 
 If you really want children to be inspired and grow up and design self-driving, energy efficient, emission free bad-ass transportation, Tesla's Colorado Springs Lab would be a great place to start the inspiration.
 
-![](media/image4.jpeg){width="6.508333333333334in" height="8.516666666666667in"}
+![](media/image4.jpeg){width="3.4349989063867015in" height="4.494965004374453in"}
 
 2- Tesla Plaque at Memorial Park, Colorado Springs, south side of Pike\'s Peak Avenue, May 2021. Erected by Al Packer #100 Ancient & Honorable Order of E Clampus Vitus, June 2017.
 
@@ -1072,7 +1072,7 @@ The picture above shows a plaque at near the site of Tesla's Colorado Springs la
 
 The plaque above was erected by the *Al Packer*[^36] *Chapter of E Clampus Vitus*, an organization dedicated to the preservation of the heritage of the American West.[^37] Nikola Tesla had a minor role in the American West, he had a major role on the world stage. From what I can tell, the actual site of the laboratory is just north of the plaque in a residential block.
 
-![](media/image5.jpeg){width="5.233333333333333in" height="5.0in"}
+![](media/image5.jpeg){width="4.081120953630796in" height="3.8991601049868767in"}
 
 Figure 3 - Nikola Tesla\'s Wardenclyffe wireless station, located in Shoreham, New York, seen in 1904
 
@@ -2977,8 +2977,6 @@ First, the live venue must fill every seat, every night. That's the best way to 
 ## 
 
 ## 
-
-## Getting there
 
 ### Scoot of Special Purpose Entities
 
