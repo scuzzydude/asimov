@@ -1058,7 +1058,7 @@ Despite being a Houston Rockets fan first, a Texan second, and an American third
 
 You know who else once lived and did some intense thinking in Colorado Springs? Uh, huh. Mister Tesla. And you know what else he did? He built a lab.
 
-![](media/image3.jpeg){width="6.3in" height="4.758333333333334in"}
+![](media/image3.jpeg){width="4.321988188976378in" height="3.2643591426071743in"}
 
 1 - Nikola Tesla sitting in his Colorado Springs laboratory next to his huge \"magnifying transmitter\" Tesla coil which is producing 22 foot bolts of electricity. 1901.
 
