@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.65**
+**Version 0.66**
 
 **ADVANCED READING COPY**
 
@@ -278,7 +278,7 @@ Scoot is the vessel for this responsibility.
 
 ![](media/image2.png){width="4.213238188976378in" height="2.369748468941382in"}
 
-Figure - The Foundation - VALUE and RESPONSIBLITY DOMAINS
+Figure 1 - The Foundation - VALUE and RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a legacy of genius. Each Scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via methods in the protocol. Holders of scoot have no rights other than the elective governance of the Scoot, but a responsibility -- a pledge -- to increase the appreciation of the subject of the Scoot.
 
