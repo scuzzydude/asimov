@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.71**
+**Version 0.73**
 
 **ADVANCED READING COPY**
 
@@ -282,7 +282,7 @@ Scoot is the vessel for this responsibility.
 
 ![](media/image2.png){width="6.383916229221347in" height="4.5289304461942255in"}
 
-Figure 1 - The Foundation - VALUE and RESPONSIBLITY DOMAINS
+Figure - The Foundation - VALUE and RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a legacy of genius. Each Scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via methods in the protocol. Holders of scoot have no rights other than the elective governance of the Scoot, but a responsibility -- a pledge -- to increase the appreciation of the subject of the Scoot.
 
@@ -306,7 +306,7 @@ By collecting newly minted scoot, the asimov represents an index of the value of
 
 An Initial Scoot Offering (ISO) is an issue of a fixed number of scoot. The scoot may be offered at a fixed rate of asimov, or as an auction. Scoot must conform to the rules of the Foundation. In the United States, conforming to these simple rules should ensure that Scoot do not fall under the jurisdiction of securities law. This is not evasion of securities law but a byproduct of the exclusion of property. Holders of a particular scoot are known collectively as the scootage.
 
-The end goal is for the Foundation to hold all scoot of genius and none of vanity. This is an impossible task. Genius of today may be vanity of the future. In macro-economic terms, it gives us an equivalency. When The Foundation is "caught up," all of the asimov will be circulating, and the Foundation should hold in reserve all of scoot of "genius."
+The end goal is for the Foundation to hold all scoot of genius and none of vanity. This is an impossible task. Genius of today may be vanity of the future. In macro-economic terms, it gives us an equivalency. When The Foundation is "caught up," all of the asimov will be circulating, and the Foundation should hold in reserve only scoot of "genius."
 
 ### Property of Wealth (POW)
 
@@ -550,7 +550,7 @@ The Internet almost crashes. People troll this crazy lady, calling her plan ridi
 
 The next day Zoey releases the video presentation along with a technical addendum, showing exactly how the *New Titanic* will work. Not only does the ship have a towed solar array, but there is also a separate electric powered tug that tows the array. The tug "plugs-in" into Titanic like a power cable to a phone, discharging from its own internal battery to the big ship at night. The solar panels would be mounted on bobber-buoys that tracked the sun, which would be at a low angle in the polar seas where *New Titanic* would steam. The bobber-buoys would generate current themselves, from the natural motion of the ocean, thus negating the overall drag effect, even in the dark.
 
-In addition, the Titanic's four massive smokestacks, which one would assume to be decorative in an electric ship, are integral to the operation. An animation shows the smokestacks unfolding and transforming into a massive set of four windmills hundreds of meters over the deck, creating power from the wind. An engineer gives a technical description of how the unfolding mechanism works, and the materials needed to build such a radical windmill. Another animation begins, and we see the fore and aft towers that serve as the crow's nest of the ship bloom into massive, mile wide carbon fiber parasails that turns *New Titanic* into a huge sailboat.
+In addition, the Titanic's four massive smokestacks, which one would assume to be decorative in an electric ship, are integral to the operation. An animation shows the smokestacks unfolding and transforming into a massive set of four windmills hundreds of meters over the deck, creating power from the wind. An engineer gives a technical description of how the unfolding mechanism works, and the materials needed to build such a radical windmill. Another animation begins, and we see the fore and aft towers that serve as the crow's nest of the ship bloom into massive, mile wide carbon fiber parasails that mutates *New Titanic* into a huge sailboat.
 
 The next day the geeky billionaire engineer admits on Twitter he'd underestimated Zoey's plan and announces his intention to invest \$500 Million into Zoey's Scoot. For the next few weeks, Zoey is constantly on the phone with techno-billionaires trying to outbid each other for a piece of the Scoot. She funds her Scoot with over \$2 billion equivalent of asimov.
 
@@ -566,9 +566,9 @@ Such an incredible and constant production would surely cost an incredible amoun
 
 A week after announcement of the plan, a wily Chinese financier prebooks the next 37 years of Rose's Dowry for an equivalent of \$67 billion. He resells the inaugural wedding cruise for \$17 billion two weeks later.
 
-The Scoot continues to dilute, people buying in just for a chance to win the lottery and become ambassadors. Sleeping in bunkrooms and sharing washrooms with strangers for just a chance to reflect in the glory that is *Titanic*. By the time Zoey hits sixty, she's the wealthiest woman in the genius economy, and over 7% of the world's idea wealth is somehow *Titanic* related.
+The Scoot continues to dilute, people buying in just for a chance to win the lottery and become ambassadors. Sleeping in bunkrooms and sharing washrooms with strangers for a chance to reflect in the glory that is *Titanic*. By the time Zoey hits sixty, she's the wealthiest woman in the genius economy, and over 7% of the world's idea wealth is somehow *Titanic* related.
 
-The *New Titanic* voyages, a fairy tale vacation for the romantic, is the hottest ticket in town. Everybody has something special in their life, if they're willing to share it with the world, they might end up with a free cruise. It's the floating version of the Hallmark channel, with a genuine old-world royal wedding on every voyage.
+The *New Titanic* voyages, a fairy tale vacation for the romantic, are the hottest tickets in town. Everybody has something special in their life, if they're willing to share it with the world, they might end up with a free cruise. It's the floating version of the Hallmark channel, with a genuine old-world royal wedding on every voyage.
 
 Zoey's heart can go on.[^14]
 
@@ -620,11 +620,11 @@ Albert Einstein's name has been synonymous with genius my entire life.
 
 After The Foundation goes forward, I suspect they'll be hundreds of Scoot focused on Einstein. Initially, physicist and historians from different countries and backgrounds will create Scoot based on their own take on Einstein's genius. After a few decades, alliances will form, and perhaps after fifty years, there are two mainstream Scoot.
 
-Scoot(54132) was formed by a group of mathematicians out of Princeton, and through mergers, build a huge scootage, mostly of other mathematicians. Their focus is the brilliance in Einstein's work. They are literalist, they believe Einstein's genius is to be found in the papers he wrote and in his equations. They study Einstein's papers and look for hidden meaning, continually publishing interpretations and proofs on the scoot-chain.
+Scoot(54132) was formed by a group of mathematicians out of Princeton, and through mergers, built a huge scootage, mostly of other mathematicians. Their focus is the brilliance in Einstein's work. They are literalist, they believe Einstein's genius is to be found in the papers he wrote and in his equations. They study Einstein's papers and look for hidden meaning, continually publishing interpretations and proofs on the scoot-chain.
 
 Scoot(102343) was formed by a group of Physicists from Germany, but gradually comes to include people from all walks of life. This Scoot is dedicated to Einstein the man, and seek to remember not what he wrote, but how he saw the world in the context of his quote, "*Imagination is more important than knowledge.*" They study Einstein the man, and even commissioned the award-winning movie *Einstein in Love.*[^18]
 
-In 2079, coincidently two hundred years after Einstein's birth, an obscure physicist named Doug who is a member of the Scoot(102343) scootage, discovers a new set of equations, that prove everything that Einstein came up with was wrong. Einstein's equations worked, like Newton's, as mere approximations. A new kind of math is needed to be understand the universe, a kind of mathematics that was beyond the human limits of direct comprehension, but Siri was able to figure out in 14 milliseconds as soon as her 15^th^ generation Quantum CPUs were brought online. Doug just happened to have the imagination to ask her the right question. "Doug" becomes the new synonym for genius -- somebody who can sweet talk Siri.
+In 2079, coincidently two hundred years after Einstein's birth, an obscure physicist named Doug who is a member of the Scoot(102343) scootage, discovers a new set of equations, that prove everything that Einstein came up with was wrong. Einstein's equations worked, like Newton's, as mere approximations. A new kind of math is needed to understand the universe, a kind of mathematics that was beyond the human limits of direct comprehension, but Siri was able to figure out in 14 milliseconds as soon as her 15^th^ generation Quantum CPUs were brought online. Doug just happened to have the imagination to ask her the right question. "Doug" becomes the new synonym for genius -- somebody who can sweet talk Siri.
 
 Scoot(54132) loses value at once, while Scoot(102343) continues to gain value. After all, Imagination is more powerful than knowledge. The overall value of all Einstein related Scoot remained constant and even went up a little. The lesson learned: if a problem is too hard to figure out with math, just make something up. That's the lesson Einstein taught us.
 
@@ -712,7 +712,7 @@ As a base currency, the protocol needs to stand on its own and not be dependent 
 
 I've got a real clear idea about the requirements of the protocol, and it's a simple implementation that is scalable and secure. I will outline a protocol with an extensible crypto layer for staking and transactions processing, including governance and elections. There will be another extensible layer for The Foundation's validation of identity, it'll be open, but that's an area we'll need to understand government grade security and how to do it with an open protocol. There is a very specific legal reason I have not released the protocol document at the time of this printing.
 
-The base Scoot protocol will be implemented in C on Linux, and the idea will be that most nodes will be in the same data center. I will publish the protocol specification as well at this address:
+The base Scoot protocol will be implemented in C on Linux, and the idea will be that most nodes will be in the same data center. I will publish the details of the protocol here:
 
 <http://www.geniusandvanity.org/scoot_protocol>
 
@@ -848,7 +848,7 @@ Henry Ford and Thomas Jefferson both created tremendous value.
 
 Thomas Jefferson authored the blueprint for true global revolution. Revolution burned like wildfire and the feudal powers were gone or sterilized in two hundred years. It only took two hundred years. It was the status quo of governance since the dawn of civilization, five-thousand years at least.
 
-The end of feudal powers didn't end inequality in real human terms, only in legal terms. What would the world look like today without Jefferson? In statistics terms, what was his wins above replacement? In science fiction terms, maybe if there'd been no Jefferson, King George's son Georgie Boy would have fallen in love with an American actress on a visit to the colonies and their grand love would have ignited a proto-Victorian renaissance that led to an age of fabulousness.
+The end of feudal powers didn't end inequality in real human terms, only in legal terms. What would the world look like today without Jefferson? In statistics terms, what was his wins above replacement? In science fiction terms, maybe if there'd been no Jefferson, King George's son Georgie Boy would have fallen in love with an American actress on a visit to the colonies and their grand love would have ignited a proto-Victorian renaissance that led to an age of fabulousness. One can only imagine what would happen if a commoner and royal got together.
 
 Henry Ford revolutionized more than just the automobile. Engineering wasn't really extended to dealing with labor before Henry Ford. Generally, in urban environments, if you were a skilled at some facet of industry, you were good and fast because if you weren't, somebody was going to beat you down and take your job and your family was going to starve. Brutal life, but I don't think that's an overdramatization. Henry Ford equalized a system of labor. He made it so that it didn't really require much education, or much skill, or much intelligence, in a large system, there would be a place where you might fit. If you were willing to work hard and learn how to do at least one thing well, you could earn a good living. He broke down a system and integrated it using equalization of ability. If you were too fast for your job that meant you could move up. That motivated you. The old way rewarded those who were willing to hurt somebody to take a job. In terms of real value, Henry Ford changed the world.
 
@@ -884,11 +884,11 @@ When the future spots inefficiencies of values, bad ideas that keep repeating th
 
 Here's where we get *brilliant with my millions, loan out a billion, I get back a trillion*
 
-I propose a measurement system and data that shows where legends are born. And tales of historical genius as well as hubris and vanity will be attributable. It doesn't matter if The Foundation is involved or not. The days of guessing how memes turn into legends are over. What we buy and sell says everything the future needs to know about who we are right now. The Foundation is a way to explicitly measure our values in the present -- for the future.
+I propose a measurement system and data that shows where legends are born. Tales of historical genius as well as hubris and vanity will be attributable. It doesn't matter if The Foundation is involved or not. The days of guessing how memes turn into legends are over. What we buy and sell says everything the future needs to know about who we are right now. The Foundation is a way to explicitly measure our values in the present -- for the future.
 
 It\'s also a way to value the past. Our generation are the last creators of indeterministic mythology. It is our responsibility to measure values relative to all that have come before us, and we are creating a permanent record -- digital stone -- for the future of mankind. The past is well charted territory for a thousand years, but what isn't yet recorded is what that history means to us now. We have no way to measure what we have learned.
 
-The creators of digital stone will be the last generation to create indeterministic mythology. We'll still have historical legends, but they'll be traceable. We will understand the origins of values, and when we do, we'll be better able to judge if the reasons for those values are still valid. That's the *recursive integration*.
+The creators of digital stone will be the last generation to create indeterministic mythology. We'll still have historical legends, but they'll be traceable. We will understand the origins of values, and when we do, we'll be better able to judge if the reasons for those values are still valid. That's *recursive integration*.
 
 I think *South Park* is the perfect chronicle for the last twenty-five years of history. If the future looks at all the primary sources and tries to figure out what the hell we were thinking, *South Park* will be the only way they'll be able to frame it. Through the eyes of children, you can understand the world, just like *Huck Finn*. How else can we understand the absurd?
 
@@ -1038,9 +1038,9 @@ Artists should benefit from a market assessment of the relative value of their t
 
 Pre-Agency would be a SOA for a child artist or professional.
 
-The idea is to a Scoot as a responsible entity to protect the young artists and to preserve some of the value they generate as children for their future.
+The idea is to form a Scoot as a responsible entity to protect the young artists and to preserve some of the value they generate as children for their future.
 
-This is a complex subject, and intersects with parental rights, so I don't want to speculate beyond the scope of my knowledge. I what I envision is scoot that isn't tradeable while they are minors but can still retain some amount of income to invest in other scoot or projects in the future, and that the PrAS would convert to a potentially tradable SOA once the artist reaches legal age.
+This is a complex subject, and intersects with parental rights, so I don't want to speculate beyond the scope of my knowledge. What I envision is scoot that isn't tradeable while they are minors but can still retain some amount of income to invest in other scoot or projects in the future, and that the PrAS would convert to a potentially tradable SOA once the artist reaches legal age.
 
 ### Post-Agency (PoAS)
 
@@ -1120,7 +1120,7 @@ I believe that the challenge of creating Scoot for physical artwork is primarily
 
 Scoot-of-Agency (SOA) and Pre-Agency Scoot (PrAS) are very complex and may require decades of experimentation to figure out what are the best ways to create a legacy of genius and protect artists rights and income potential in the present. These occur while an artist is alive and has choices, and there are plenty of rich artists who can afford lawyers to pave the way.
 
-Post-Agency Scoot (PoAG) is a different matter. How to create an organization, which may or may not have income, which sole purpose is the appreciation of a dead human, after his or her Intellectual Property rights have expired, seems like a level of complexity that might take decades of legal work when you are paying an army of attorneys by the hour. Or you find a real smart one, it might take him a week and a half. I believe genius exists in every profession, even the legal one.
+Post-Agency Scoot (PoAS) is a different matter. How to create an organization, which may or may not have income, which sole purpose is the appreciation of a dead human, after his or her Intellectual Property rights have expired, seems like a level of complexity that might take decades of legal work when you are paying an army of attorneys by the hour. Or you find a real smart one, it might take him an hour. I believe genius exists in every profession, even the legal one.
 
 Elon Musk has access to an army of attorneys. When he says jump, they say, "*With how many Newtons of force and at what vector, Elon?*"
 
@@ -1150,7 +1150,7 @@ I can think of no other single human effort that had such a profound positive ef
 
 Nikola Tesla was not a good businessman, and he died a poor man. I believe he created more value for humanity than any other individual before or since. His genius is what humanity should appreciate and value.
 
-I feel all engineers have a responsibility to grow the appreciation of Nikola Tesla's genius. Those that use his name to sell electric cars sure as hell do. [^45]
+I feel all engineers have a responsibility to grow the appreciation of Nikola Tesla's extraordinary genius. Those that use his name to sell electric cars sure as hell do. [^45]
 
 ## Scoot of Collective Genius (SCoG)
 
@@ -1182,7 +1182,7 @@ It's not because Houston has a problem with vanity. Oh, no. James Harden must ha
 
 No, my dreamland of vanity isn't possible. The genius I appreciate isn't even a little bit vain.
 
-If a bunch of billionaires get together and want to build a Space Elevator, a Scoot of Collective genius (ScOG) would be the way to go. If they're successful, it is genius and they'll be remembered in history for freeing humanity from the bondage of gravity. Building something for the public good creates value directly. A Space Elevator, owned by "humanity at large" could be the most valuable creation man every attempted, a technological wonder beyond the Pyramids or any ancient wonder. Wealth beyond any measure of property. Wealth synonymous with genius. Wealth not in the relative scale of the present, but something that could become the foundational measure of wealth for the future as mankind peacefully and sustainably extends our domain to the stars.
+If a bunch of billionaires get together and want to build a Space Elevator, a Scoot of Collective genius (ScOG) would be the way to go. If they're successful, it is genius and they'll be remembered by history for freeing humanity from the bondage of gravity. Building something for the public good creates value directly. A Space Elevator, owned by "humanity at large" could be the most valuable creation man every attempted, a technological wonder beyond the Pyramids or any ancient wonder. Wealth beyond any measure of property. Wealth synonymous with genius. Wealth not in the relative scale of the present, but something that could become the foundational measure of wealth for the future as mankind peacefully and sustainably extends our domain to the stars.
 
 If we're stuck with an 80,000 meter abandoned tower in the middle of the southern Pacific, we'll have a monumental place to entomb billionaire remains, and future humanity will remember our century as the time when we thought billionaires were royalty.
 
@@ -1509,7 +1509,7 @@ Nai considers this for a moment.
 
 "You're going want to mike up your kit, for when you need to lay down a demo. You run a line from your board through the wall, get some headphones. So you looking for a drummer, you walk by, put the headphones on, check him out. You hear the groove you want, you push a buzzer."
 
-"Naw, dude," says drummer boy, "What if you were recording your demo right when the guy buzzes the door."
+"Naw, dude," says drummer boy, "What if you were recording your demo right when the guy buzzes the door?"
 
 "Good point, dude. You hook up the doorbell to the lights, so they just flash," says Lars.
 
@@ -1565,7 +1565,7 @@ The way forward for Drumland is for musicians just to give away their music for 
 
 You Scoot your work, and you say to world, my craft is not property. You can have restrictive licensing, so your work gets turned into a jingle or soundtrack of a blockbuster movie, you get paid. Streaming services or radio want to play it, you get paid. Otherwise, just give it away.
 
-You form up with other Scoot in your community, and you establish social protocol. A musician just starting out, it'd be understandable if he'd trade scoot with anybody that'll trade. Each scene will develop customs of decorum. You get serious about your craft, you only trade scoot with other musicians using TPH, but you'll let people bid your scoot with PPH. Somebody makes a big offer, you take a bite. You get enough bites and you get a real market value.
+You form up with other Scoot in your community, and you establish social protocol. Trading scoot becomes a trade in the appreciation of songs. A musician just starting out, it'd be understandable if he'd trade scoot with anybody that'll trade. Each scene will develop customs of decorum. You get serious about your craft, you only trade scoot with other musicians using TPH, but you'll let people bid your scoot with PPH. Somebody makes a big offer, you take a bite. You get enough bites and you get a real market value.
 
 It may become like a tip. Somebody likes your song, they make an offer on your scoot, loose change in the genius wallet, a few isaacs or a scoot of some other singer the musician should check out. It's sort of like an open guitar case on the sidewalk, tossing something -- anything -- even if it's a scoot to your favorite tune -- shows your appreciation, somebody lays down a quarter, somebody throws down a Grant, it's all good. When somebody with some actual credibility throws down, things change. Beyoncé lays down a full asimov on you, it would be disrespectful to the queen for somebody to offer less. Eventually, you set a low bid and your tunes get real play.
 
@@ -1757,7 +1757,7 @@ The ideal is that all efficiency gains are proportional to those who are respons
 
 I will manage this problem by issuing virtual scoot. Virtual scoot[^63] are earned just like the scoot(IKSK). It would work exactly like a loyalty card as a store or restaurant. Customers that aren't pledges earn the equivalent of virtual scoot they would have earned if they'd been pledges. These virtual scoot are convertible into actual scoot once that person becomes a pledge, though it might require a 'back-payment' calculation of their share of the historical fixed costs, or some responsibility commitment before the conversion takes effect.
 
-Things start to get busy for Deemo. Deemo can serve a bowl of soup, but tends to lollygag when it comes to cleaning up. This is where the OG scoot come into play. Initially, the ten originally OGs help. Cleaning up, chopping veggies, yelling at the kids to bus their own tables, checking Deemo's math when he calculates the night's figures. Later, a scheduling mechanism is built into the governance system, and it works out that maybe once a month an OG has a shift, as they sell off their initial and slurped scoot to new stakers.
+Things start to get busy for Deemo. Deemo can serve a bowl of soup, but tends to lollygag when it comes to cleaning up. This is where the OG scoot come into play. Initially, the ten original OGs help. Cleaning up, chopping veggies, yelling at the kids to bus their own tables, checking Deemo's math when he calculates the night's figures. Later, a scheduling mechanism is built into the governance system, and it works out that maybe once a month an OG has a shift, as they sell off their initial and slurped scoot to new stakers.
 
 Soon enough, for several hours at dinner, the hall is full, serving 300 people a night. Many families come two or three times a week, and many parents who work nights send their kids to have a good meal in a safe environment. Deemo uses his advanced business degree to calculate that the only way to optimize efficiency further without rushing people through their meals is to start serving lunch. It's mostly a residual area, but it's Houston, so there is an industrial concern, probably a petrochemical plant, as well as an office park within a mile. Post-pandemic there are many home workers. Rather than renegotiate Deemo's contract to include overtime, we hire a second cook, as well as some teenagers to help. Within a few months, IKSK costs per bowl are reduced to a level that is affordable to eat daily for all the families in the area. It's not rare to find a line of outside the hall.
 
@@ -1823,7 +1823,7 @@ Hakeem didn't have a sidekick; he had a team of heroes. Kevin Costner, you shoul
 
 The Rockets won game seven of the finals at home and brought the city of Houston its first major sports championship. We Believed It. It was true.
 
-What came next? It's a travesty of history that the Rockets championship repeat came sandwiched in between Michael Jordan's double three-peat. I want to write about the second run, but another 20,000 words about basketball might be too much. It is the greatest story in the history of sports, and has so many tangents and connections, I don't want to try to condense the glory. When there is a Scoot for the Houston Rockets, that story will be my first contribution to the scoot-chain. I'll spin that into legend that will go down in history as the greatest tale of team genius in the history of mankind.
+What came next? It's a travesty of history that the Rockets championship repeat came sandwiched in between Michael Jordan's double three-peat. I want to write about the second run, but another 20,000 words about basketball might be too much. It is the greatest story in the history of sports, and has so many tangents and connections, I don't want to try to condense the glory. When there is a Scoot for the Houston Rockets, that story will be my first contribution to the scoot-chain. I'll spin that into legend that will go down as the greatest tale of team genius in the history of mankind.
 
 Hakeem Olajuwon is not the GOAT because he was the greatest basketball player that has ever lived. I concede that to Jordan without argument. Hakeem Olajuwon is the GOAT because he made every player around him better by an order of magnitude. Ask any player on those two championship teams, and they'll tell you the same thing -- they played beyond their limits because of Olajuwon. The real *Dream Team* was Hakeem's team, inspired, relentless, genius. That other *Dream Team*, Michael Jordan and his corporate sponsored dirty traveling vanity band.
 
@@ -1975,7 +1975,7 @@ You are your own wealth.
 
 ## Artificial Scarcity
 
-Cryptocurrency and digital assets create artificial scarcity. Cryptography creates this system where if you can keep a secret key safe, you can uniquely stamp an item as unique and prove you hold the keys to that item. This is a clever trick and useful in securing data. It's artificial. The item itself isn't scarce. Nothing digital is scarce. This is why we get to see what wealthy people had for breakfast on the Instagram. Published digitally, it's more expensive to restrict access to data than it is to allow everybody in the world to have it. That is the leverage of the internet and having digital devices everywhere.
+Cryptocurrency and digital assets create artificial scarcity. Cryptography works because if you can keep a secret key safe, you can uniquely stamp an item as unique and prove you hold the keys to that item. This is a clever trick and useful in securing data. It's artificial. The item itself isn't scarce. Nothing digital is scarce. This is why we get to see what wealthy people had for breakfast on the Instagram. Published digitally, it's more expensive to restrict access to data than it is to allow everybody in the world to have it. That is the leverage of the internet and having digital devices everywhere.
 
 Capitalism is not an unfair system if everybody starts out with the same capital. It's more like *Monopoly*, there is a handful of good strategies, but it also depends on a bit of luck. Fair enough, that aligns with life in general. The problem capitalism has always had is if you start out with more capital, your odds are much, much better.
 
@@ -2095,7 +2095,7 @@ How this is managed as generational wealth is a choice. Children may inherit thi
 
 There are many benefits of transferring ownership of property into shared custodianship for a public good. It changes the wealth flex from the flaunting of valuable property to the flexing of your gift of value to the public good. In the case I described, it directly converts Jay-Z immense but finite wealth in the property-domain into immense and perhaps infinite wealth in the genius domain. The small commitment of wealth would strengthen the foundation of the system -- that genius and not property is the real treasure of humanity. Changing the wealth flex for the wealthiest will have a trickledown effect, so that the wealth flex moves away from investment in consumable goods into durable sharable goods -- quality and leveraged value over quantity. Things that can be shared. This is the path towards more sustainable life.
 
-Scoot of Bling will form staking networks with other Scoot of Bling. A visiting rapper from Korea visits Brooklyn, because he's in the same exclusive staking network as the Bonzo Bentley, he might warrant an honor of a pickup -- it's like a royal courtesy -- as long as there is a special set of wheels waiting next time Jay-Z lands in Seoul.
+Scoot of Bling will form staking networks with other Scoot of Bling. A rapper from Korea visits Brooklyn, because he's in the same exclusive staking network as the Bonzo Bentley, he might warrant an honor of a pickup -- it's like a royal courtesy -- as long as there is a special set of wheels waiting next time Jay-Z lands in Seoul.
 
 This could lead to all kinds of exclusive luxury. Every genius musician needs a boat, but a musician don't need a boat every day. Scoot of Yacht is the way to go. Same goes with homes in Italy, or the Rivera or in Manhattan or Tokyo. Instead of AirBnB, it's a network of places to stay connected by shared value systems.
 
@@ -2121,7 +2121,7 @@ What's more, your collected data shows that what your neighborhood values is the
 
 This works if the system is real; if it really is a way to measure responsibility. People who leave their trash and don't make sure the charger is latched-- or worse -- get arrested using a SOT vehicle to commit a crime -- could get you kicked out of the Scoot and the responsibility domain. It's a privilege -- something special earned by commitment to a shared value system. That shared value might simply be affordable and sustainable transportation for your neighborhood.
 
-You're an innovative scooter who expands his vision beyond a neighborhood radius, to say the broad sprawl of an urban city like Houston. You collect '67 Cadillacs, the most valuable one you give to your third wife, and had it painted pink with Hello Kitty trim. She dumps you when your Transylvania Meta Crypto fortune is staked and suddenly gushes, and you got out just seconds too late. She leaves you the Cadillac. Inspired by your sister, who'd once guilt tripped you about your car collection, while she puttered around Houston in a Prius with her three daughters. One day, having an epiphany to the futility of sustainability, she breaks into your house, takes your keys, and drives Hello Kitty, top down, daughters seat-beltless in the back, all in Hello Kitty outfits. She's arrested. You realize your sister is just on the edge of something. It's a good thing, because taking care young nieces is hard and expensive and choosing the unemployment option in the same crypto currency you bet your life savings on wasn't good planning, with sister away for twenty to life for child endangerment.
+You're an innovative scooter who expands his vision beyond a neighborhood radius, to say the broad sprawl of an urban city like Houston. You collect '67 Cadillacs, the most valuable one you give to your third wife, and had it painted pink with Hello Kitty trim. She dumps you when your Transylvania Meta Crypto fortune is staked and suddenly gushes, and you got out just seconds too late. She leaves you the Cadillac. You are inspired by your sister, who'd once guilt tripped you about your car collection, while she puttered around Houston in a Prius with her three daughters. One day, having an epiphany to the futility of sustainability, she breaks into your house, takes your keys, and drives Hello Kitty, top down, daughters seat-beltless in the back, all in Hello Kitty outfits. She's arrested. You realize your sister is just on the edge of something. It's a good thing, because taking care young nieces is hard and expensive and choosing the unemployment option in the same crypto currency you bet your life savings on wasn't good planning, with sister away for twenty to life for child endangerment.
 
 Your sister was on front end of a trend of girls that had grown up in the 90s and 2000s with the badass moms driving SUVs, minivans, and Cadillacs. Usually on the third kid but sometimes all it took was one, they'd feel the need to burn some gas, even if it cost \$46.60 a gallon. Nobody makes gasoline cars, and private cars of any kind new cost more than a house because of the overall reduction of demand because of SOT. Your ten Cadillacs become very valuable. Turns out moms all around the country want to drive around and burn some gas in a Hello Kitty Cadillac. Pretty soon, you're nationwide, except in California and Vermont, where you're wanted for crimes against humanity.
 
@@ -2676,7 +2676,7 @@ Keep on booin' Dodgers fans, it only adds to the legend.
 
 There's no *Curse of the Altuve.* José is a nice guy. When he hears the boos, he has nothing but compassion for the poor, downtrodden fans of the Yankees and Dodgers.
 
-Instead, I cast the *Curse of the Asterisk*. The curse is simple. How long it lasts, depends how long those fans *keep on living like they ain't got no mamas*.[^98]
+Instead, I cast the *Curse of the Asterisk*. The curse is simple. How long it lasts, depends how long those fans keep on *living like they ain't got no mamas*.[^98]
 
 The *Curse of the Asterisk* is directed at the fans at who feign to value the Dodgers and the Yankees, who booed the greatest baseball player of all time and were rude around my mother. It doesn't affect how many games the Yankees and the Dodgers may win, how many series they might advance, or even how many rings they wear.
 
@@ -2802,19 +2802,7 @@ I'll laugh and shake my head. What can I say, we were all filthy idiots, laughin
 
 *Instead of spreading love we\'re spreading animosity*
 
-*Lack of understanding, leading lives away from unity*
-
-*That\'s the reason why sometimes I\'m feelin\' under*
-
-*That\'s the reason why sometimes I\'m feelin\' down*
-
-*There\'s no wonder why sometimes I\'m feelin\' under*
-
-*Gotta keep my faith alive till love is found*
-
-*And ask yourself*
-
-*Where is the love?*[^105]
+*Lack of understanding, leading lives away from unity*[^105]
 
 # F.A.Q.
 
@@ -2918,9 +2906,9 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
 
 # Appendix B -- Scoot Naming Reservations
 
-  -----------------------------------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------------------------------------
   **Scoot Index**   **Unit**            **SubUnit**                               **Notes**
-  ----------------- ------------------- ----------------------------------------- ---------------------------------
+  ----------------- ------------------- ----------------------------------------- ----------------------------------
   **-2**            **Stephenson**      **Neal**                                  **Foundaton mint**
 
   **-1**            **Liu**             **Cixin**                                 **Foundaton mint**
@@ -2939,13 +2927,13 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
 
   6                 Jarvis              Gregory                                   SOG
 
-  3                 McAuliffe           Christa                                   SOG
+  7                 McAuliffe           Christa                                   SOG
 
   8                 Bonham              John                                      SOG
 
   9                 Tesla               Nikola                                    PoAS - Post Agency Scoot
 
-  10                Leicester           Codex                                     SOP -Leonardo Da Vinci Notebook
+  10                Leicester           Codex                                     SOP - Leonardo Da Vinci Notebook
 
   11                Armstrong           Neil                                      SOG
 
@@ -2957,7 +2945,7 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
 
   22                Kerouac             Jack                                      SOG
 
-  23                Scoot               Protocol                                  SOH (Scoot of Hackathon)++
+  23                Scobee-Rodgers      June                                      SOG
 
   27                Altuve              José                                      SOG
 
@@ -3006,7 +2994,7 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
                     \*GOCDF             Get out of Canadian Detention Free card   
 
                     ++                  I know that\'s Jordan\'s number           
-  -----------------------------------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------------------------------------
 
 # Appendix C -- Prime Shards
 
@@ -3242,7 +3230,7 @@ Near the fire, fish hung on a line. Less than a hand of fish. Even in those days
 
 "How many hands of fish will your daughters catch?"
 
-"Enough for their own children." That was the way, when the rains didn't come. Mothers and the female children would go to the river for as long as it took. Some did not come back, and many died. The chief had sired many children in a time of good rains, but he had lost many sisters to the river when he was a boy.
+"Enough for their own children." That was the way when the rains didn't come. Mothers and the female children would go to the river for as long as it took. Some did not come back, and many died. The chief had sired many children in a time of good rains, but he had lost many sisters to the river when he was a boy.
 
 "Look at all these boys," she said. "How many hands?"
 
@@ -3855,7 +3843,7 @@ James was amazed.
 
 ![A picture containing text Description automatically generated](media/image10.jpeg){width="3.5828062117235344in" height="3.8472222222222223in"}
 
-Figure 7 - sketch of cave drawing from James Naismith\'s notebook
+Figure - sketch of cave drawing from James Naismith\'s notebook
 
 "Yeah, your dad would come up here every day for a few hours, as long as he could take it, smoke builds up pretty quick, and it is hard to see the entire picture at once, so he would take his time, do his doodles, then head out for a breather."
 
@@ -4162,7 +4150,7 @@ Remember, never trust a stranger James, and watch out for the dream stealing Can
 
 [^12]: TexMex colloquialism, meaning dependent on context, but in most cases means "The Noisy Canadian."
 
-[^13]: This is Zoey's thinly veiled allegory, not the author's. The author's 90's movie would be *Fight Club.* Wait a minute. Maybe *Independence Day*? The *Fresh Prince* killing aliens, what billionaire is going to have a problem with that? Unless...
+[^13]: This is Zoey's thinly veiled allegory, not the author's. The author's 90's movie would be *Fight Club.* Wait a minute. Maybe *Independence Day*? The *Fresh Prince* slapping down aliens, what billionaire is going to have a problem with that? Unless...
 
 [^14]: For anyone reading this who feels an intense need for a testosterone injection, stay with me. The smackdown will begin shortly.
 
@@ -4192,7 +4180,7 @@ Remember, never trust a stranger James, and watch out for the dream stealing Can
 
 [^27]: I may have borrowed elements of this interlude from an unpublished screenplay written by a certain carrot eating entrepreneur in the late 70s. Rumor is he sold it to John Lennon and used the proceeds to finance a technology startup.
 
-[^28]: Or so I was told by a Canadian. France, you can take any complaints about this chapter up with Canada directly. I don't have any problems with the French. Rudy Gobert is like a Karl Malone who likes to lose to the Rockets in the playoffs. All good. The goal of my Rockets Scoot will be to invent a time machine and switch those two at birth. Rudy will do just fine in Louisiana; they talk funny down there. I guess I'd have to live with years of Karl Malone sending James Harden home in the playoffs, but I think that would be better for my karma than living with having Steph Curry done it like five times. I guess I can sort of sympathize with James running east.
+[^28]: Or so I was told by a Canadian. France, you can take any complaints about this chapter up with Canada directly. I don't have any problems with the French. Rudy Gobert is like a Karl Malone who likes to lose to the Rockets in the playoffs. All good. The goal of my Rockets Scoot will be to invent a time machine and switch those two at birth. Rudy will do just fine in Louisiana; they talk funny down there. I guess I'd have to live with years of Karl Malone sending James Harden home in the playoffs, but I think that would be better for my karma than living with having Steph Curry done it five times. I guess I can sort of sympathize with James running east.
 
 [^29]: In 2040, when the population of France has exceeded that of China and India combined, I'll pen a sequel called, *The Dilution of Genius*.
 
@@ -4224,7 +4212,7 @@ Remember, never trust a stranger James, and watch out for the dream stealing Can
 
 [^43]: Colorado Springs residents on the North side of Memorial Park, I'll take my kickback in cash or bitcoin.
 
-[^44]: A device Elon Mush is trying to replace in our vehicles with a cleaner alternative -- fueled by Tesla's electrical grid.
+[^44]: A device Elon Musk is trying to replace in our vehicles with a cleaner alternative -- fueled by Tesla's electrical grid.
 
 [^45]: Gotta make a statement to clarify, E. Half the south thinks those guys re-did the *long haired freaky people* song is your favorite band. Oh, no. Please don't tell me it is.
 
@@ -4278,7 +4266,7 @@ Remember, never trust a stranger James, and watch out for the dream stealing Can
 
 [^70]: From: *Living the Dream: My Life and Basketball* by Hakeem Olajuwon and Peter Knboler
 
-[^71]: The Flying Pig
+[^71]: Flying Pig
 
 [^72]: *Forrest Gump* was released June 23^rd^, 1994 -- two days after *The Dream* won his first championship. Hollywood knows how to freeride a genius wave.
 
