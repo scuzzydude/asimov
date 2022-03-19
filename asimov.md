@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.75**
+**Version 0.76**
 
 **ADVANCED READING COPY**
 
@@ -58,7 +58,7 @@ Asimov warns that history always repeats itself and humans always forget history
 
 What if we could turn history into money? Would we still forget?
 
-## A Measure of Wealth
+# A Measure of Wealth
 
 The goal of this project is to change the way we value wealth. Wealth is currently based on the exchange of property. Property is inequitably distributed across humanity and is the source of most conflict in history.
 
@@ -2018,19 +2018,19 @@ Agriculture equals just 3.5% of the world economy, industry 25% and the rest is 
 We know The Foundation won't ever be able to hold all the genius. If The Foundation sticks to its distribution schedule, holds value through market turmoil, and continues to grow with new additions to genius, psychohistory tells me that the market will price the asimov in terms of impact to the world economy. It's not unreasonable to think this price would be the 70% share of the cumulative gross world product. If that takes ten more years, that'll probably add another Quadrillion, to make the total 3.6 quadrillion, so 70% of that is 2.52 quadrillion dollars. That would put the 2032 price target of asimov at 2.52 Q / 1T = \$2,520 USD per asimov.
 
   -------------------------------------------------------------------------------
-  **Description**                        **Calculation**     **Billions (USD)**
-  -------------------------------------- ------------------- --------------------
+  **Description**                       **Calculation**      **Billions (USD)**
+  ------------------------------------- -------------------- --------------------
   Gross World Product (GWP) 1990-2020                        \$2,600,000
 
   Estimated GWP 2021-2030                                    \$1,000,000
 
   Cumulative GWP 1990-2030                                   \$3,600,000
 
-  GWP attributed to human innovation     70%                 \$2,520,000
+  GWP attributed to human innovation    70%                  \$2,520,000
 
-  Total asimov                           1,000,000,000,000   
+  Total asimov                          1,000,000,000,000    
 
-  Asimov Price Target                    \$2,520.00          
+  Asimov Price Target                   \$2,520.00           
   -------------------------------------------------------------------------------
 
 As a psychohistorian I'll note another fact about the Earth's economy. There's about \$80 Trillion in national debt across nations, and the engineer who came up with this genius-based system has reserved 10% of the genius value for National Stakes. Could humanity eliminate this debt -- a legacy of inefficient government habits from when they were all trying to kill each other -- and start over with efficient governments and a proper value system for the fundamentals of innovation, sustenance, health and property?
@@ -2634,7 +2634,7 @@ This is the metric of genius. This is what we will measure.
 
 # Truces and Curses
 
-## Canada
+Canada
 
 Canada, I'm not exactly talking forgiveness here, but a permanent cease fire. I like Canada. It's a beautiful country, the people are nice, and I've always enjoyed visiting. I've been civil, I haven't smacked down any of modern-day Canadian heroes. It was challenging, as there are so many easy targets.[^97]
 
@@ -2860,145 +2860,145 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
 
 # Appendix A -- Asimov Distribution Schedule
 
-  -----------------------------------------------------------------------------------------------------------------
-                               Asimov    1,000,000,000,000                                                    
-  ---------------------------- --------- ------------------------------- --------- ----- ------------------- ------
-                               Group                                                                          
+  -----------------------------------------------------------------------------------------------------------
+                               Asimov    1,000,000,000,000                                              
+  ---------------------------- --------- ------------------------------- --------- ------------------- ------
+                               Group                                                                    
 
-  Group                        Percent   Tranche                         Percent         Asimov              Year
+  Group                        Percent   Tranche                         Percent   asimov (Mega)       Year
 
-  Reserve Stake                1.00%     Private Stake                   0.50%           5,000,000,000       1
+  Reserve Stake                1.00%     Private Stake                   0.50%     5,000,000,000       1
 
-                                         Public Stake                    0.50%           5,000,000,000       1
+                                         Public Stake                    0.50%     5,000,000,000       1
 
-  National Stakes              10.00%    National Stakes                 10.00%          100,000,000,000     TBD
+  National Stakes              10.00%    National Stakes                 10.00%    100,000,000,000     TBD
 
-  Seeding                      1.00%     Seeding                         1.00%           10,000,000,000      1
+  Seeding                      1.00%     Seeding                         1.00%     10,000,000,000      1
 
-  Development                  1.00%     Development                     1.00%           10,000,000,000      1
+  Development                  1.00%     Development                     1.00%     10,000,000,000      1
 
-  Outreach Faucet              1.00%     Professionals                   0.50%           5,000,000,000       1
+  Outreach Faucet              1.00%     Professionals                   0.50%     5,000,000,000       1
 
-                                         Educators                       0.50%           5,000,000,000       1
+                                         Educators                       0.50%     5,000,000,000       1
 
-  Engineers Reserve            1.00%     Engineers Reserve               1.00%           10,000,000,000      1
+  Engineers Reserve            1.00%     Engineers Reserve               1.00%     10,000,000,000      1
 
-  Genius and Vanity (GAV-D0)   10.00%    Initial disbursement (..2030)   10.00%          100,000,000,000     1
+  Genius and Vanity (GAV-D0)   10.00%    Initial disbursement (..2030)   10.00%    100,000,000,000     1
 
-  GAV-D1                       9.00%     Decade 1 (2031)                 9.00%           90,000,000,000      10
+  GAV-D1                       9.00%     Decade 1 (2031)                 9.00%     90,000,000,000      10
 
-  GAV-D2                       5.00%     Decade 2 (2041)                 5.00%           50,000,000,000      20
+  GAV-D2                       5.00%     Decade 2 (2041)                 5.00%     50,000,000,000      20
 
-  GAV-D3                       4.00%     Decade 3 (2051)                 4.00%           40,000,000,000      30
+  GAV-D3                       4.00%     Decade 3 (2051)                 4.00%     40,000,000,000      30
 
-  GAV-D4                       3.00%     Decade 4 (2061)                 3.00%           30,000,000,000      40
+  GAV-D4                       3.00%     Decade 4 (2061)                 3.00%     30,000,000,000      40
 
-  GAV-D5                       2.00%     Decade 5 (2071)                 2.00%           20,000,000,000      50
+  GAV-D5                       2.00%     Decade 5 (2071)                 2.00%     20,000,000,000      50
 
-  GAV-D6                       1.00%     Decade 6 (2081)                 1.00%           10,000,000,000      60
+  GAV-D6                       1.00%     Decade 6 (2081)                 1.00%     10,000,000,000      60
 
-  GAV-D7                       1.00%     Decade 7 (2091)                 1.00%           10,000,000,000      70
+  GAV-D7                       1.00%     Decade 7 (2091)                 1.00%     10,000,000,000      70
 
-  GAV-C2                       50.00%    Century 2                       50.00%          500,000,000,000     100
+  GAV-C2                       50.00%    Century 2                       50.00%    500,000,000,000     100
 
-  TOTALS                       100.00%                                   100.00%         1,000,000,000,000    
-  -----------------------------------------------------------------------------------------------------------------
+  TOTALS                       100.00%                                   100.00%   1,000,000,000,000    
+  -----------------------------------------------------------------------------------------------------------
 
 # Appendix B -- Scoot Naming Reservations
 
-  -----------------------------------------------------------------------------------------------------------------
-  **Scoot Index**   **Unit**            **SubUnit**                               **Notes**
-  ----------------- ------------------- ----------------------------------------- ---------------------------------
-  **-2**            **Stephenson**      **Neal**                                  **Foundation mint**
+  ---------------------------------------------------------------------------------------------------------------
+  **Scoot Index**   **Unit**          **SubUnit**                               **Notes**
+  ----------------- ----------------- ----------------------------------------- ---------------------------------
+  **-2**            **Stephenson**    **Neal**                                  **Foundation mint**
 
-  **-1**            **Liu**             **Cixin**                                 **Foundation mint**
+  **-1**            **Liu**           **Cixin**                                 **Foundation mint**
 
-  **0**             **Asimov**          **Isaac**                                 **Foundation mint**
+  **0**             **Asimov**        **Isaac**                                 **Foundation mint**
 
-  1                 Scobee              Dick                                      SOG (Scoot of Gratitude)
+  1                 Scobee            Dick                                      SOG (Scoot of Gratitude)
 
-  2                 Smith               Michael                                   SOG
+  2                 Smith             Michael                                   SOG
 
-  3                 McNair              Ronald                                    SOG
+  3                 McNair            Ronald                                    SOG
 
-  4                 Onizuka             Ellison                                   SOG
+  4                 Onizuka           Ellison                                   SOG
 
-  5                 Resnik              Judith                                    SOG
+  5                 Resnik            Judith                                    SOG
 
-  6                 Jarvis              Gregory                                   SOG
+  6                 Jarvis            Gregory                                   SOG
 
-  3                 McAuliffe           Christa                                   SOG
+  3                 McAuliffe         Christa                                   SOG
 
-  8                 Bonham              John                                      SOG
+  8                 Bonham            John                                      SOG
 
-  9                 Tesla               Nikola                                    PoAS - Post Agency Scoot
+  9                 Tesla             Nikola                                    PoAS - Post Agency Scoot
 
-  10                Leicester           Codex                                     SOP -Leonardo Da Vinci Notebook
+  10                Leicester         Codex                                     SOP -Leonardo Da Vinci Notebook
 
-  11                Armstrong           Neil                                      SOG
+  11                Armstrong         Neil                                      SOG
 
-  12                Titanic                                                       SOG - held for \"Zoey\"
+  12                Titanic                                                     SOG - held for \"Zoey\"
 
-  13                RSV                 RSV                                       TBD
+  13                RSV               RSV                                       TBD
 
-  17                Awbrey              Brandon                                   my open source code and writing
+  17                Awbrey            Brandon                                   my open source code and writing
 
-  22                Kerouac             Jack                                      SOG
+  22                Kerouac           Jack                                      SOG
 
-  23                Scobee Rodgers      June                                      SOG++
+  23                Scobee Rodgers    June                                      SOG++
 
-  27                Altuve              José                                      SOG
+  27                Altuve            José                                      SOG
 
-  31                Black Eyed Peas                                               SOG
+  31                Black Eyed Peas                                             SOG
 
-  34                Olajuwon            Hakeem                                    SOG
+  34                Olajuwon          Hakeem                                    SOG
 
-  35                Twain               Mark                                      PoAS
+  35                Twain             Mark                                      PoAS
 
-  40                Lennon              John                                      SOG
+  40                Lennon            John                                      SOG
 
-  43                Jefferson           Thomas                                    PoAS
+  43                Jefferson         Thomas                                    PoAS
 
-  45                Nakamoto            Satoshi                                   SOG
+  45                Nakamoto          Satoshi                                   SOG
 
-  52                Peart               Neil                                      GOCDF
+  52                Peart             Neil                                      GOCDF
 
-  54                Vaughan             Steve Ray                                 SOG
+  54                Vaughan           Steve Ray                                 SOG
 
-  61                Rodman              Dennis                                    SOG
+  61                Rodman            Dennis                                    SOG
 
-  62                Astros              Houston                                   SOT - Scoot of Team
+  62                Astros            Houston                                   SOT - Scoot of Team
 
-  63                Ford                Henry                                     PoAS
+  63                Ford              Henry                                     PoAS
 
-  68                Led Zeppelin                                                  SOG
+  68                Led Zeppelin                                                SOG
 
-  69                Jay-Z                                                         SOG
+  69                Jay-Z                                                       SOG
 
-  74                Morrisette          Alanis                                    GOCDF
+  74                Morrisette        Alanis                                    GOCDF
 
-  75                Taboo                                                         SOG
+  75                Taboo                                                       SOG
 
-  81                Beyoncé                                                       SOG
+  81                Beyoncé                                                     SOG
 
-  84                Rockets             Houston                                   SOT - Scoot of Team
+  84                Rockets           Houston                                   SOT - Scoot of Team
 
-  88                TBD                 TBD                                       
+  88                TBD               TBD                                       
 
-  94                Rockets             1994                                      SOG - 1993-1994 Championship
+  94                Rockets           1994                                      SOG - 1993-1994 Championship
 
-  95                Rockets             1995                                      SOG - 1995-1995 Championship
+  95                Rockets           1995                                      SOG - 1995-1995 Championship
 
-  97                South Park                                                    SOG
+  97                South Park                                                  SOG
 
-  2000              Porter              Kevin, Jr                                 SOG
+  2000              Porter            Kevin, Jr                                 SOG
 
-                                                                                  
+                                                                                
 
-                    GOCDF               Get out of Canadian Detention Free card   
+                    GOCDF             Get out of Canadian Detention Free card   
 
-                    ++                  I know that\'s Jordan\'s number           
-  -----------------------------------------------------------------------------------------------------------------
+                    ++                I know that\'s Jordan\'s number           
+  ---------------------------------------------------------------------------------------------------------------
 
 # Appendix C -- Prime Shards
 
@@ -3024,41 +3024,41 @@ This fits nicely with a staking algorithm where each person in your chain of sta
 
 With fractional, serialized, and prime sharded scoot, each trustee has a wide range of tools to design specific governance aligned with their mission.
 
-  --------------------------------------------------------------------------------------------------------------
-  []{#_Appendix_E_– .anchor}**Prime Index**   **First Prime**   **Total Shards**    **First Prime Percentage**
-  ------------------------------------------- ----------------- ------------------- ----------------------------
-  1                                           2                 2                   50.0000
+  ----------------------------------------------------------------------------------------------------------------
+  []{#_Appendix_E_– .anchor}**Prime Index**   **First Prime**   **Total Shards**      **First Prime Percentage**
+  ------------------------------------------- ----------------- --------------------- ----------------------------
+  1                                           2                 2                     50.0000
 
-  2                                           3                 8                   33.3333
+  2                                           3                 8                     33.3333
 
-  3                                           5                 26                  20.0000
+  3                                           5                 26                    20.0000
 
-  4                                           7                 65                  14.2857
+  4                                           7                 65                    14.2857
 
-  5                                           11                143                 9.0909
+  5                                           11                143                   9.0909
 
-  10                                          29                1,391               3.4483
+  10                                          29                1,391                 3.4483
 
-  15                                          47                4,977               2.1277
+  15                                          47                4,977                 2.1277
 
-  20                                          71                12,278              1.4085
+  20                                          71                12,278                1.4085
 
-  30                                          113               44,101              0.8850
+  30                                          113               44,101                0.8850
 
-  40                                          173               107,364             0.5780
+  40                                          173               107,364               0.5780
 
-  50                                          229               213,261             0.4367
+  50                                          229               213,261               0.4367
 
-  75                                          379               738,477             0.2639
+  75                                          379               738,477               0.2639
 
-  100                                         541               1,773,035           0.1848
+  100                                         541               1,773,035             0.1848
 
-  250                                         1,583             28,088,072          0.0632
+  250                                         1,583             28,088,072            0.0632
 
-  500                                         3,571             188,706,189         0.0280
+  500                                         3,571             188,706,189           0.0280
 
-  1000                                        7,919             241,815,743         0.0126
-  --------------------------------------------------------------------------------------------------------------
+  1000                                        7,919             241,815,743           0.0126
+  ----------------------------------------------------------------------------------------------------------------
 
 # Appendix D -- Scoot of Team
 
@@ -3114,7 +3114,7 @@ I'm optimizing for the fans and screaming kids, that will have the biggest impac
 
 []{#_Scoot_of_Special .anchor}Houston, we don't need to wait on protocol or funding or testing to get started with building the value. You get your people together and stake a responsibility for an idea, and you decide how you govern yourself. And then just get it done.
 
-### Scoot of Special Purpose Entities
+Scoot of Special Purpose Entities
 
 In Houston, when you blow one, if you're a real Texan by birth or by choice, you own it and take your medicine. Then, you do your best to make it history. Even better, turn it into mythology, a morality tale for a new millennium.
 
@@ -3185,8 +3185,6 @@ The exact definition of a SSPE shall be defined in amendments to The Foundation'
 *There is a rumor that there's a special coach's audio edition narrated by native son, Matthew McConaughey. Didn't even bother trying to get ahold of that, a 7^th^ grade football coach/history teacher losing his instructional tools would be like a police officer losing his weapon.*
 
 *You'll just have to use your imagination for the proper narrative voice. Sit back, relax, and read, and hear the narration in a slow, but tangy twang. A voice that has a meditative effect on one's soul, able to convince one that even driving grandpa's car is cool.*
-
-## Big Mama, Little Mama and Stinky Fingers
 
 ### Big Mama
 
