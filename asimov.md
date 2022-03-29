@@ -282,7 +282,7 @@ Scoot is the vessel for this responsibility.
 
 ![](media/image2.png){width="6.383916229221347in" height="4.5289304461942255in"}
 
-Figure - The Foundation - VALUE and RESPONSIBLITY DOMAINS
+Figure 1 - The Foundation - VALUE and RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a legacy of genius. Each Scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via methods in the protocol. Holders of scoot have no rights other than the elective governance of the Scoot, but a responsibility -- a pledge -- to increase the appreciation of the subject of the Scoot.
 
@@ -496,7 +496,7 @@ A billionaire owns a Picasso he bought for \$1 million, but it is now appraised 
 
 The billionaire may agree to sell 1 scoot to The Foundation at the appraised price, or the equivalent of \$10,000 in asimov, establishing a first mint price. The billionaire may then trade up to 498 scoot in the responsibility domain and retain possessive control of the painting.[^9] The other 498 holders don't benefit in any way directly. The billionaire can keep his painting holed away at his ski chalet, losing nothing in the process. He controls access the painting but has turned half of its value into liquid wealth.[^10]
 
-This is zero sum, not only for the billionaire but for the scoot holders (scootage). What make people appreciate art is seeing art. The billionaire hears from his scootage and finds out one of them is Argentinian and there is unfulfilled demand for all things Picasso in his home country. The Scoot arranges an exhibition with a museum in Buenos Aires. Bids on the scoot double soon after the exhibition begins. A few holders sell to Argentinian pledges. Another holder suggests they have an Argentinian Art historian write a biography focused on that period in Pablo's life. The Scoot invests in the historian's Scoot and commissions a biography which is published on the scoot-chain.
+This is zero sum, not only for the billionaire but for the scoot holders (scootage). What makes people appreciate art is seeing art. The billionaire hears from his scootage and finds out one of them is Argentinian and there is unfulfilled demand for all things Picasso in his home country. The Scoot arranges an exhibition with a museum in Buenos Aires. Bids on the scoot double soon after the exhibition begins. A few holders sell to Argentinian pledges. Another holder suggests they have an Argentinian Art historian write a biography focused on that period in Pablo's life. The Scoot invests in the historian's Scoot and commissions a biography which is published on the scoot-chain.
 
 You might wonder why any billionaire would do this, after all, who does he got to impress? \$10 million for a painting for a billionaire is equivalent to the wallpaper decision most of us make when buying a new house.
 
@@ -558,7 +558,7 @@ A few years later, the *New Titanic* sails and the series is filmed. Zoey's co-d
 
 After accepting their Emmys for best Director of Drama Series, Zoey and the actor hold a press conference and reveal the final chapter of *El Grande Enchilada*.
 
-*New Titanic* will "steam" constantly, a series of month-long cruises. Each year, writers, directors, and actors will have opportunity to bid on a new movie or series. Effectively, scoot(Titanic) becomes a media franchise of the public domain. The scootage votes on the merits of these screenplays, and award production to the winners. In addition, everyday people will get a chance to submit their stories of how *Titanic* touched their lives. The scootage votes for the best stories and the winners are chosen as guest for the cruise. Groups of people who do some Titanic themed public good can bid on group cruises. And best of all, everything is free for the guests. Workers are chosen based on some creative angle. Chefs trying to make a name for themselves. Waitstaff and cleaners are really actors and writers vying for a chance to create an angle that would get them a part in the production. Artist, musicians, dancers and magicians, all driven by the scoot economy, bid to "work" the *New Titanic*. Not only does the cruise become an active-production Hollywood set, with the guests as extras, but it's also a reality show, the guest and their crew sharing their heartaches and triumphs in the context of a magical themed cruise.
+*New Titanic* will "steam" constantly, a series of month-long cruises. Each year, writers, directors, and actors will have opportunity to bid on a new movie or series. Effectively, scoot(Titanic) becomes a media franchise of the public domain. The scootage votes on the merits of these screenplays, and award production to the winners. In addition, everyday people will get a chance to submit their stories of how *Titanic* touched their lives. The scootage votes for the best stories and the winners are chosen as guests for the cruise. Groups of people who do some Titanic themed public good can bid on group cruises. And best of all, everything is free for the guests. Workers are chosen based on some creative angle. Chefs trying to make a name for themselves. Waitstaff and cleaners are really actors and writers vying for a chance to create an angle that would get them a part in the production. Artist, musicians, dancers and magicians, all driven by the scoot economy, bid to "work" the *New Titanic*. Not only does the cruise become an active-production Hollywood set, with the guests as extras, but it's also a reality show, the guest and their crew sharing their heartaches and triumphs in the context of a magical themed cruise.
 
 The scootage may not join the cruise as guests. That would be equivalent of transferring income to the scootage. This is strictly forbidden, nor can the scootage "buy" their way in. They *can* bid through a lottery to become ambassadors of the Scoot, thus gaining a berth on the ship, though they must work the cruise. The work consists of walking around and talking to guests about how awesome *Titanic* is.
 
@@ -1615,7 +1615,7 @@ Throughout history, the basis of money has been gold. Throughout history, gold's
 
 Vanity is a motivator -- use it correctly, who knows, you could be President. What price is too high a price to pay for vanity? I think gold is too high a price. How many lives have been lost and how much of our planet have we destroyed in this chase of vanity? Gold has destroyed entire civilizations and killed or enslaved hundreds of millions of souls.
 
-I'd originally gone down this path of thinking, because while I'd worked out the basics of a metric of value system based on physical artwork, I'd struggled with some inconsistencies. For instance, what separates fine art from decoration? Why is one object a silly collectable, or an antique, and another a historical artifact? I was also struggling with the unfairness of valuing artists that produce physical art from those whose media is essentially digital. Musicians, writers, photographers and even basketball geniuses. I was struggling trying to create a value system from something, in all honesty, I didn't personally value that much.
+I'd originally gone down this path of thinking, because while I'd worked out the basics of a metric of value system based on physical artwork, I'd struggled with some inconsistencies. For instance, what separates fine art from decoration? Why is one object a silly collectable, or an antique, and another a historical artifact? I was also struggling with the unfairness of valuing artists that produce physical art over those whose media is essentially digital. Musicians, writers, photographers and even basketball geniuses. I was struggling trying to create a value system from something, in all honesty, I didn't personally value that much.
 
 I thought of the basketball gift. I liked starting with a sports analogy and contrasting that with my postcard. Modern currencies, fiat and crypto, aren't really relatable to most people, because they are difficult to understand. Neither is the art world. Few people, even the wealthy, can fathom paying more for a painting than it costs to send a kid to college. More people can relate to sports, and we can all imagine getting paid what professional athletes get paid. Virtually all people use money, few understand it, and this leads to a disparity of value. People who count every penny live in the same society and supposedly under the same rules as people who throw around millions on vanity and sometimes pure waste.
 
@@ -2125,7 +2125,7 @@ You're an innovative scooter who expands his vision beyond a neighborhood radius
 
 Your sister was on front end of a trend of girls that had grown up in the 90s and 2000s with the badass moms driving SUVs, minivans, and Cadillacs. Usually on the third kid but sometimes all it took was one, they'd feel the need to burn some gas, even if it cost \$46.60 a gallon. Nobody makes gasoline cars, and private cars of any kind cost more than a house because of the overall reduction of demand due the success of SOTs. Your ten Cadillacs become very valuable. Turns out moms all around the country want to drive around and burn some gas in a Hello Kitty Cadillac. Pretty soon, you're nationwide, except in California and Vermont, where you're wanted for crimes against humanity.
 
-Would this be vanity? It depends on the context. Sharing Cadillacs is better than individual ownership in terms of sustainability, but they stopped making the ones you collect in 1967. It's a sunk cost in terms over economic value.
+Would this be vanity? It depends on the context. Sharing Cadillacs is better than individual ownership in terms of sustainability, but they stopped making the ones you collect in 1967. It's a sunk cost in terms of economic value.
 
 What if your sister was a big-time fight for justice lawyer, who defended the poor and downtrodden and stood up against corporations and governments? Perhaps there is a public outcry and protest, and some big shot pro-bono lawyers from New York City show up and get her free of the state charges of child endangerment. A crowd awaits her on the courthouse steps, where she makes a passionate speech, "*When you're fighting for justice, sometimes you just need to burn a little gas!*"
 
@@ -2335,7 +2335,7 @@ They support training pledges in use of tools and best practices. Besides lawyer
 
 The security team handles both the physical and digital security of The Foundation.
 
-One of the main jobs of the security team will be to establish an identification program for pledges that is very difficult to circumvent. This will include deterministic identification of pledges. It won't prevent all criminal behavior, but it should prevent the same human from perpetuating multiple acts.
+One of the main jobs of the security team will be to establish an identification program for pledges that is difficult to circumvent. This will include deterministic identification of pledges. It won't prevent all criminal behavior, but it should prevent the same human from perpetuating multiple acts.
 
 ### Encyclopedist
 
@@ -2485,7 +2485,7 @@ Scoot would be considered in statis when active governance has ceased. This may 
 
 If the Foundation is a holder of the scoot, it will maintain scoot-chain in statis. By definition, a Scoot in statis doesn't have much genius value, so it would not align with the Foundation's long-term goals to hold statis Scoot.
 
-I think there is a market for pledges to act as caretaker trustee for Scoot in statis. The caretaker assumes the trustee role and becomes sole member of the scootage. Request for scoot-chain research can be handled by API and the scoot-chain can be served from cold-storage. Parties wishing to merge or resurrect a scoot-chain can make an offer to take control back from the caretaker.
+There is a market for pledges to act as caretaker trustee for Scoot in statis. The caretaker assumes the trustee role and becomes sole member of the scootage. Request for scoot-chain research can be handled by API and the scoot-chain can be served from cold-storage. Parties wishing to merge or resurrect a scoot-chain can make an offer to take control back from the caretaker.
 
 Caretaker pledges can serve as initial stakers for new Scoot. In exchange for no-par scoot, the caretaker commits to taking care of the scoot-chain if it goes into stasis. Some Scoot will do very well, and those that appreciate, should be able to cover the storage expense of the statis Scoot.
 
@@ -2576,7 +2576,7 @@ I knew where my grandpa grew up. It wasn't quite as humid as Clear Lake, but sti
 
 "Tractor?" he laughed. "I picked it with my hands."
 
-I lost total congruence with my grandpa's childhood. What I knew about my Grandpa Marsene was as a kid, he was the baseball badass of five counties. He was like the super-jock of Bellville, Texas. I knew baseball super-jocks at my middle-school. They'd didn't have to mow lawns because their parents sent them to baseball camp, somewhere with cooler weather like Connecticut or Dallas.
+I lost total congruence with my grandpa's childhood. What I knew about my Grandpa Marsene was as a kid, he was the baseball badass of five counties. He was like the super-jock of Bellville, Texas. I knew baseball super-jocks at my middle-school. They didn't have to mow lawns because their parents sent them to baseball camp, somewhere with cooler weather like Connecticut or Dallas.
 
 "Why?"
 
@@ -3847,7 +3847,7 @@ James was amazed.
 
 ![A picture containing text Description automatically generated](media/image10.jpeg){width="3.5828062117235344in" height="3.8472222222222223in"}
 
-Figure - sketch of cave drawing from James Naismith\'s notebook
+Figure 7 - sketch of cave drawing from James Naismith\'s notebook
 
 "Yeah, your dad would come up here every day for a few hours, as long as he could take it, smoke builds up pretty quick, and it is hard to see the entire picture at once, so he would take his time, do his doodles, then head out for a breather."
 
@@ -4011,7 +4011,7 @@ Hakeem crouched down and made his way through the narrow passage. At the entranc
 
 The first sketch had a plaque.
 
-> *In 1889, basketball founder James A. Naismith discovered the very first archeological evidence of a civilization that invented sports, art, writing, mathematics, feminism, and fishing on the shores of the Brazos River. These ancient people built a sprawling civilization thousands of years before these innovations were passed on to Eurasia and Africa. Naismith tried to bring his discoveries to academia but was hunted by The Texas Rangers who wanted to keep the secrets of history to themselves. In consultation with industry leaders, it was decided to keep most of the history secret, as it could upset the existing power dynamic. In a last-ditch effort to keep the history secret, the evil Texas Ranger Cordell Walker blew up the caves and this notebook is the only remaining evidence of the location of the true cradle of civilization, in what is now Austin Country, Texas, on the shores of the Brazos.*
+> *In 1889, basketball founder James A. Naismith discovered the very first archeological evidence of a civilization that invented sports, art, writing, mathematics, feminism, and fishing on the shores of the Brazos River. These ancient people built a sprawling civilization thousands of years before these innovations were passed on to Eurasia and Africa. Naismith tried to bring his discoveries to academia but was hunted by The Texas Rangers who wanted to keep the secrets of history to themselves. In consultation with industry leaders, it was decided to keep most of the history secret, as it could upset the existing power dynamic. In a last-ditch effort to keep the history secret, the evil Texas Ranger Cordell Walker blew up the caves and this notebook is the only remaining evidence of the location of the true cradle of civilization, in what is now Austin County, Texas, on the shores of the Brazos.*
 
 "This is unbelievable. Michael, basketball, not soccer is the first true sport. And it was invented by the ancient Texans."
 
@@ -4102,7 +4102,7 @@ They made it down to the street level, and sure enough there was a crowd of peop
 
 When he got back to the hotel, Hakeem quickly went to his room, gathered his things, and headed straight for the airport and took the red-eye back to Houston. He called Houston Rockets assistant coach Rudy Tomjanovich, who, like Hakeem, wasn't originally from Texas, but had taken the mandatory Texas History for adults refresher course with the rest of the team in 1971 when the Rockets moved from San Diego to Houston. They went back to Rudy's house and consulted the Young Discoverers handout he'd kept from his class. Rudy knew what they had to do. They immediately drove to Rudy's office at The Summit and made photocopies of all pages of the notebook. They then hid the notebook in a secret chamber in the basement of The Summit.
 
-Rudy consulted businessman Tilman Fertitta and together they took the copies to Austin, where the three of them met with Governor White. Governor White made a few calls, and the next day, Vice President George H.W. Bush arrived with his eldest son, where they discussed options. An secret emergency session of the Texas Legislature was held, and a writ of vengeance was levied against Canada for theft of historical treasure. Much of the legislature urged immediately retaliation, but in a rousing speech, Bush the younger urged caution.
+Rudy consulted businessman Tilman Fertitta and together they took the copies to Austin, where the three of them met with Governor White. Governor White made a few calls, and the next day, Vice President George H.W. Bush arrived with his eldest son, where they discussed options. A secret emergency session of the Texas Legislature was held, and a writ of vengeance was levied against Canada for theft of historical treasure. Much of the legislature urged immediately retaliation, but in a rousing speech, Bush the younger urged caution.
 
 "We can use this to our advantage," Bush said.
 
