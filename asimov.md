@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.82**
+**Version 0.83**
 
 **ADVANCED READING COPY**
 
@@ -282,7 +282,7 @@ Scoot is the vessel for this responsibility.
 
 ![](media/image2.png){width="6.383916229221347in" height="4.5289304461942255in"}
 
-Figure - The Foundation - VALUE and RESPONSIBLITY DOMAINS
+Figure 1 - The Foundation - VALUE and RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a legacy of genius. Each Scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via methods in the protocol. Holders of scoot have no rights other than the elective governance of the Scoot, but a responsibility -- a pledge -- to increase the appreciation of the subject of the Scoot.
 
@@ -2511,7 +2511,7 @@ In recent years, there's been a lot of blame cast at pharmaceutical companies fo
 
 What that really means is we are all responsible. Anybody who has a 401(k) or a retirement plan that owns any broad mutual funds is likely invested in pharmaceuticals. If you don't hold pharmaceutical stock, your parents or your children or somebody you know does.
 
-We are saying to pharmaceutical people are we expect you to behave ethically and responsibly, but we will measure and reward you according to how much property value you can accumulate. It doesn't matter if you're a brainiac researcher or washing cars, humans always optimize for the highest value reward.
+We are saying to pharmaceutical people that we expect you to behave ethically and responsibly, but we will measure and reward you according to how much property value you can accumulate. It doesn't matter if you're a brainiac researcher or washing cars, humans always optimize for the highest value reward.
 
 Blame is useless unless you use it to fix the problem. If you can diagnose with a measurement of value that is equitable, we can solve real problems.\
 In sports, when you lose, you go home and figure out how to get better. Sometimes it works, sometimes it doesn't, sometimes it's luck, other times it's who you hire and draft and what values those people represent. In Houston, you take your medicine and own it. There is another approach. You go home and blame your teammates, or the officials, or call the other team cheaters, or demand a trade. Both strategies have been known to work, though I believe sports karma favors the first approach.[^93] [^94]
@@ -2650,7 +2650,7 @@ Dodgers, Dodgers, Dodgers. You want an asterisk; I'll give you an asterisk.
 
 When it comes to heroes of the mythology, in five hundred years, Babe and Shoeless Joe will be but bit players. There will be one hero the world will remember. All the future will remember about the cities the hero conquered was that those were places of sin and the worst kind of excess, unsustainable property-based lifestyles, and rude behavior. I think baseball might thrive for another five hundred years because of this legend, and all the Dodgers will be remembered for is somebody the hero had to stand up to.
 
-Baseball just went through decades of teaching the world's children that the way to achieve your dreams was by being big and strong, if not naturally, then by shooting yourself up with steroids. Along comes this kid -- the smallest player in professional baseball in forty years -- who grew up in a country under very meager circumstances but with fantastic parents that challenged him to dream an impossible dream and go for it. When José Altuve signed a contract with the Astros in 2007 as a 16-year-old for \$15,000, it was already like climbing Mount Everest without oxygen. What José achieved in his career was not too good to be true. It was impossible. A kid from Venezuela with nothing but great parents. A kid who had a dream. Not the largest, or strongest, or fastest, but the greatest MVP in American League history. A baseball genius.
+Baseball just went through decades of teaching the world's children that the way to achieve your dreams was by being big and strong, if not naturally, then by shooting yourself up with steroids. Along comes this kid -- the smallest player in professional baseball in forty years -- who grew up under very meager circumstances but with fantastic parents that challenged him to dream an impossible dream and go for it. When José Altuve signed a contract with the Astros in 2007 as a 16-year-old for \$15,000, it was already like climbing Mount Everest without oxygen. What José achieved in his career was not too good to be true. It was impossible. A kid from Venezuela with nothing but great parents. A kid who had a dream. Not the largest, or strongest, or fastest, but the greatest MVP in American League history. A baseball genius.
 
 Hollywood, the asterisk is this: You will always be the villain in the greatest hero story of the history of sports. And yes, my evil plan is to trick Hollywood into putting up a counter effort in the genius economy to nullify my story of genius with one of their own. There's no story better, and Hollywood is so vain, you'll stick to your fantasy while a real legend of impossible triumph passes you by. Somebody in Venezuela has already written the screenplay.
 
@@ -2670,7 +2670,7 @@ The *Curse of the Asterisk* is directed at the fans at who feign to value the Do
 
 *The Curse of The Asterisk* is no matter how much money they spend on players, or how many hats and jersey they might sell, no matter what movie stars show up at their games, the Yankees and the Dodgers will never be as valuable in the genius economy as the Astros.
 
-And even though I've spelled out how I am going to implement the curse, I don't think the Dodger and Yankee fans will be able to figure it out. I guess I'll get a reputation as a cheater.
+And even though I've spelled out how I am going to implement the curse, I don't think the Dodgers and Yankee fans will be able to figure it out. I guess I'll get a reputation as a cheater.
 
 You know what? I'll be in some good company.
 
@@ -2935,13 +2935,21 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
 
   23                Scobee Rodgers    June                                      SOG++
 
+  24                Bryant            Kobe                                      SOG
+
+  25                Fairchild         Steve                                     SOG
+
   27                Altuve            José                                      SOG
+
+  28                Crawford          Marsene                                   SOG
 
   31                Black Eyed Peas                                             SOG
 
   34                Olajuwon          Hakeem                                    SOG
 
   35                Twain             Mark                                      PoAS
+
+  36                Texas History                                               PoAS
 
   40                Lennon            John                                      SOG
 
@@ -2951,7 +2959,7 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
 
   52                Peart             Neil                                      GOCDF
 
-  54                Vaughan           Steve Ray                                 SOG
+  54                Vaughan           Stevie Ray                                SOG
 
   61                Rodman            Dennis                                    SOG
 
@@ -3056,7 +3064,7 @@ The NBA will agree to this, because at least some of the other twenty-nine teams
 
 The scootage will set the direction for management. I'll voice my opinion, and I'll tell my brothers and sisters that the blueprint for championships in Houston is homegrown heroes. We don't chase ballers, we birth them. We'll direct management to choose players and coaches that know how to dream and believe it.
 
-I think there is a role for oversight by the Scoot. Some shards will have characteristics that give them specific responsibilities. Some shards will work with the scouts, some with the community, some with the coaching staff, and others will work with the players directly. Day to day operation is left to management, the scootage is there to help. I think we give the Rockets management freedom by pledging -- in our charter -- not to instigate management or coaching changes during the season without specific causes that we will outline in writing. The Scoot is an open system of governance. There will be some level of oversight.
+I think there is a role for oversight by the Scoot. Some shards will have characteristics that give them specific responsibilities. Day to day operation is left to management, the scootage is there to help. We will give the Rockets management freedom by pledging -- in our charter -- not to instigate management or coaching changes during the season without specific causes that we will outline in writing. The Scoot is an open system of governance. There will be some level of oversight.
 
 There is no profit motive, the team should make enough money while keeping the experience available to as many people as possible. We'll need a large reserve to deal with cash flow demands, but the goal should be the best experience possible for greatest number of people.
 
@@ -3328,8 +3336,9 @@ Tot debated should he sneak into the forest or wait until the village went back 
 
 He was nearly to the edge of the last hut, and took a deep breath, ready for a silent sprint to the river's edge, and was just about to take off, when two young girls stepped out from the woods.
 
-> "I smell it!"\
-> "Dog Turd! Dog Turd!"
+"I smell it!"
+
+"Dog Turd! Dog Turd!"
 
 Tot charged between the two girls, splitting the double team, and sprinted for the river. When he was just a few feet away from the shore, he looked up and saw that the river was full of people crossing towards him. It was the entire west-side village of Na-is-mit, who'd heard the commotion and were coming for help. Tot turned back around, just in time for a rock thrown by one of the girls to hit him square in the forehead.
 
@@ -3373,18 +3382,19 @@ He took pity on her, her cleverness with the ball had allowed Big Mama to create
 
 "Why do you do this? Why does your son smell like a dog turd?"
 
-> "He could not play the game."\
-> "Yes, so you sent him to the river."
+"He could not play the game."
+
+"Yes, so you sent him to the river."
 
 "See for yourself," Little Mama said.
 
-She went to Tot, untied his feet, while she was reaching for the ties around this hands the man said, "Be careful, look at those claws, they're the worst part, it's probably poison, like rattlesnake venom."
+She went to Tot, untied his feet, while she was reaching for the ties around his hands the man said, "Be careful, look at those claws, they're the worst part, it's probably poison, like rattlesnake venom."
 
 Little Mama finished untying his hands, and held them out, so that in the firelight, the entire crowd could see Tot's hands.
 
 "Hands. These are the fingers of my son, not the claws of a beast."
 
-> The Chief stepped forward to take a closer look, and sniffed. "Looks like fingers. Stinky fingers."
+The Chief stepped forward to take a closer look, and sniffed. "Looks like fingers. Stinky fingers."
 
 "Go wash him in the river and bring him to me when the sun rises," said the Chief. "I've had enough of that smell for now."
 
@@ -3438,8 +3448,9 @@ Tot handed his mother the torch. She guided them to wall and held it up. There w
 
 "The stone didn't make this -- Tail of Tatanka made this."
 
-> "Magic," The Chief said. "Magic people did this."\
-> "Tail of Tatanka did this. Look here."
+"Magic," The Chief said. "Magic people did this."
+
+"Tail of Tatanka did this. Look here."
 
 They looked at the next section of wall. A woman was flying and laying down a monster dunk, while two large warriors looked on for the sidelines.
 
@@ -3585,7 +3596,7 @@ Silence. Stinky Fingers, covered in black goo, steps forward from his line of th
 
 "You can't eat mushrooms. That's where the magic people live. But you're close, because the magic people did bring me the food I ate."
 
-Stinky Fingers was literally[^114] a stone's throw from the strong Be-ek-em warrior holding the large stone over his head, ready to toss it. Close enough so Stinky Finger could whisper without being heard by the line of warriors on either side.
+Stinky Fingers was literally[^114] a stone's throw from the strong Be-ek-em warrior holding the large stone over his head, ready to toss it. Close enough so Stinky Fingers could whisper without being heard by the line of warriors on either side.
 
 "Hey brother, watch your step there, this heavy brush, you going to step \-\--"
 
@@ -3623,9 +3634,9 @@ The boys turn tail and run as do all the warriors. The Be-ek-em coalesce into a 
 
 The expedition returned to the Brazos as heroes, the celebration lasted for days.
 
-And the empire of Heart and Tail of Tatanka was born. Hot stayed at home on the Brazos, coaching up new ranks of warrior of all shapes and sizes, while Stinky Fingers roamed to the North and East, building an empire through peaceful competition, but sometimes, usually after a mother insult, outright stone age savagery or magic. Stinky Finger had many sons, and they build leagues that spanned the entire continent, the very first empire, started right here in Texas.
+And the empire of Heart and Tail of Tatanka was born. Hot stayed at home on the Brazos, coaching up new ranks of warrior of all shapes and sizes, while Stinky Fingers roamed to the North and East, building an empire through peaceful competition, but sometimes, usually after a mother insult, outright stone age savagery or magic. Stinky Fingers had many sons, and they built leagues that spanned the entire continent, the very first empire, started right here in Texas.
 
-Aren't you Lucky?
+Aren't you lucky?
 
 Texas archaeologists say that the Empire of the Tail and Heart of Tatanka lasted several centuries. We have no historical record of what became of them, though there is an account related to a historian by a former Navajo captive. Legend was that a new people from the ice lands, who liked to stand in the open like idiots on the prairie and use sticks to knock round stones into gofer holes, brought with their strange sport a strange disease and wiped the entire Brazos River empire out of existence. We might never be able confirm this, but it sounds about right. One of the constants of Texas History is never trust people from the land of ice and snow.
 
@@ -3835,7 +3846,7 @@ James was amazed.
 
 ![A picture containing text Description automatically generated](media/image10.jpeg){width="3.5828062117235344in" height="3.8472222222222223in"}
 
-Figure - sketch of cave drawing from James Naismith\'s notebook
+Figure 7 - sketch of cave drawing from James Naismith\'s notebook
 
 "Yeah, your dad would come up here every day for a few hours, as long as he could take it, smoke builds up pretty quick, and it is hard to see the entire picture at once, so he would take his time, do his doodles, then head out for a breather."
 
