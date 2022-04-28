@@ -2,13 +2,15 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.83**
+**Version 0.85**
 
-**ADVANCED READING COPY**
+***ADVANCED READING COPY***
 
 ![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2022 by Brandon Awbrey. This publication maybe reproduced in whole form if fairly attributed for any non-commercial purpose. If you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
 
 Cover Art and Illustrations ©2022 by Jack Awbrey
+
+Lyrics are reprinted by permission, copyrights listed in Acknowledgements.
 
 # 
 
@@ -204,7 +206,7 @@ We got rid of the kings, but we kept the king's gold. In modern times, we hacked
 
 The Foundation's treasury are the ideas of mankind. It's the only valuable treasure we have. That was Asimov's message in *Foundation*.
 
-This treasure is more valuable than the Earth. Mankind might survive without the Earth. Mankind will not survive without our treasury of ideas.
+This treasure is more valuable than Earth. Mankind might survive without Earth. Mankind will not survive without our treasury of ideas.
 
 That's the Awbrey hack. Make money out of the only thing that is truly valuable.
 
@@ -466,7 +468,7 @@ The Foundation should seek to establish Scoot as a legal entity of Scoot. That m
 
 Scoot may be implemented as a trust. The beneficiary of the trust is the public domain. The trustee is elected by the holders of proportional responsibility as specified by the scoot-chain, known collectively as the scootage.
 
-It would be preferable to require all Scoot be formed as a trust or similar legal entity. The cost of establishing a trust in the U.S. is about \$2000 and that expense could be a way to prevent novelty scooting. One of the goals of The Foundation is global wealth equalization, and for that to work, we need to people in every country to be able to form Scoot without hardship. We must allow individuals to manage Scoot directly, like a sole proprietorship, without the formality of a legal entity.
+It would be preferable to require all Scoot be formed as a trust or similar legal entity. The cost of establishing a trust in the U.S. is about \$2000 and that expense could be a way to prevent novelty scooting. One of the goals of The Foundation is global wealth equalization, and for that to work, we need for people in every country to be able to form Scoot without hardship. We must allow individuals to manage Scoot directly, like a sole proprietorship, without the formality of a legal entity.
 
 For compliance and conformity, The Foundation should support efforts to establish "Scoot" via legislation as a low-cost legal entity in all countries where The Foundation is welcome. This should be a long-term effort and is not needed to launch the protocol. In this effort, the Foundation should provide written legal justifications, and expert testimony, but no funding. The Foundation may not use asimov, held scoot, cash or any form of property or service to influence local political leaders, office seekers or government officials.
 
@@ -494,7 +496,7 @@ A Scoot of Property is the simplest case to understand. A group is formed to be 
 
 A billionaire owns a Picasso he bought for \$1 million, but it is now appraised at \$10 million. The billionaire forms a Scoot, names himself as trustee and mints 1000 scoot. In forming the Scoot, he formally signs away title to the painting, gives it freely to humanity, formally ending the painting's existence as property, yet the Scoot retains right of possession of the painting as custodian. This is a legal paradox, but a tactical one. A Scoot can buy property, and it can give away property to humanity, but it can never sell properties of wealth.
 
-The billionaire may agree to sell 1 scoot to The Foundation at the appraised price, or the equivalent of \$10,000 in asimov, establishing a first mint price. The billionaire may then trade up to 498 scoot in the responsibility domain and retain possessive control of the painting.[^9] The other 498 holders don't benefit in any way directly. The billionaire can keep his painting holed away at his ski chalet, losing nothing in the process. He controls access the painting but has turned half of its value into liquid wealth.[^10]
+The billionaire may agree to sell 1 scoot to The Foundation at the appraised price, or the equivalent of \$10,000 in asimov, establishing a first mint price. The billionaire may then trade up to 498 scoot in the responsibility domain and retain possessive control of the painting.[^9] The other 498 holders don't benefit in any way directly. The billionaire can keep his painting holed away at his ski chalet, losing nothing in the process. He controls access to the painting but has turned half of its value into liquid wealth.[^10]
 
 This is zero sum, not only for the billionaire but for the scoot holders (scootage). What makes people appreciate art is seeing art. The billionaire hears from his scootage and finds out one of them is Argentinian and there is unfulfilled demand for all things Picasso in his home country. The Scoot arranges an exhibition with a museum in Buenos Aires. Bids on the scoot double soon after the exhibition begins. A few holders sell to Argentinian pledges. Another holder suggests they have an Argentinian Art historian write a biography focused on that period in Pablo's life. The Scoot invests in the historian's Scoot and commissions a biography which is published on the scoot-chain.
 
@@ -2261,7 +2263,7 @@ People will find a way to profit from bugs in the system. There may be cases whe
 
 This involves placing the scoot on a board shun, basically kicking the Scoot out of the responsibility domain. Banished Scoot can still process their transactions, and may even transact with other banished scoot, and use proxies to interact with the value domain.
 
-It's important that banished scoot have full access to the protocol and tools. There is always the possibility that the banished behavior will change, or that Foundation policy would change, and the Scoot would be welcomed back.
+It's important that banished scoot have full access to the protocol and tools. There is the possibility that the behavior will change, or that Foundation policy would change, and the Scoot would be welcomed back.
 
 ### Continentals (7)
 
@@ -2792,6 +2794,132 @@ I'll laugh and shake my head. What can I say, we were all filthy idiots, laughin
 
 *Lack of understanding, leading lives away from unity*[^106]
 
+# Acknowledgements
+
+**Crazy In Love**
+
+Words and Music by Beyonce Knowles, Rich Harrison, Sean Carter and Eugene Record
+
+Copyright © 2003 Beyonce\'s Publishing, Hitco South, EMI Blackwood Music Inc., Carter Boys Publishing and Unichappell Music, Inc.
+
+All Rights for Beyonce\'s Publishing and Hitco South Administered by BMG Rights Management (US) LLC
+
+All Rights for EMI Blackwood Music Inc. Administered by Sony Music Publishing (US) LLC, 424 Church
+
+Street, Suite 1200, Nashville, TN 37219
+
+All Rights for Carter Boys Publishing Administered by WC Music Corp.
+
+All Rights Reserved Used by Permission
+
+{This song contains elements of \"Are You My Woman\" by Eugene Record, (c) 1970 (Renewed) Unichappell
+
+Music, Inc.}
+
+Reprinted by permission of Hal Leonard LLC
+
+**Where Is The Love**
+
+Words and Music by Will Adams, Allan Pineda, Jaime Gomez, Justin Timberlake, Michael Fratantuno,
+
+George Pajon Jr., Printz Board and J. Curtis
+
+Copyright © 2003 by Universal Music - Z Tunes LLC, Tennman Tunes, Songs Of Universal, Inc., Printz
+
+Polar Publishing, BMG Sapphire Songs, I.Am.Composing LLC, Apl.De.Ap Publishing LLC,
+
+Nawasha Networks Publishing, EMI Blackwood Music Inc., El Cubano Music and Tuono Music
+
+All Rights for Tennman Tunes Administered by Universal Music - Z Tunes LLC
+
+All Rights for Printz Polar Publishing Controlled and Administered by Songs Of Universal, Inc.
+
+All Rights for BMG Sapphire Songs, I.Am.Composing LLC, Apl.De.Ap Publishing LLC and Nawasha
+
+Networks Publishing Controlled and Administered by BMG Rights Management (US) LLC
+
+All Rights for EMI Blackwood Music Inc., and El Cubano Music Administered by Sony Music Publishing
+
+(US) LLC, 424 Church Street, Suite 1200, Nashville, TN 37219
+
+International Copyright Secured All Rights Reserved
+
+Reprinted by permission of Hal Leonard LLC
+
+**American Dreamin\'**
+
+Words and Music by Shawn Carter, Sean Combs, Mario Winans, Marvin Gaye, Arthur Ross, Leon Ware,
+
+Levar Coppin and Deleno Matthews
+
+Copyright © 2007 EMI April Music Inc., Carter Boys Music, Justin Combs Publishing Co., EMI Blackwood
+
+Music Inc., Janice Combs Publishing, Inc., Jobete Music Co., Inc., FCG Music, NMG Music, MGIII
+
+Music, Wait That\'s Mine Music and For My Son Publishing
+
+All Rights on behalf of EMI April Music Inc., Carter Boys Music, Justin Combs Publishing Co., EMI
+
+Blackwood Music Inc., Janice Combs Publishing, Inc., Jobete Music Co., Inc., FCG Music, NMG
+
+Music and MGIII Music Administered by Sony Music Publishing (US) LLC, 424 Church Street,
+
+Suite 1200, Nashville, TN 37219
+
+All Rights on behalf of Wait That\'s Mine Music Administered by Hipgnosis International
+
+All Rights on behalf of For My Son Publishing Administered by Hipgnosis Worldwide
+
+International Copyright Secured All Rights Reserved
+
+\- contains elements of \"Soon I\'ll Be Loving You Again\"
+
+Reprinted by permission of Hal Leonard LLC
+
+**Public Service Announcement (Interlude)**
+
+Words and Music by Shawn Carter and Raymond Levin
+
+© 2003 EMI APRIL MUSIC INC., CARTER BOYS MUSIC and EDGEWATER MUSIC, INC.
+
+All Rights for CARTER BOYS MUSIC Controlled and Administered by EMI APRIL MUSIC INC.
+
+All Rights Reserved International Copyright Secured Used by Permission
+
+\- contains elements of \"Seed Of Love\"
+
+Reprinted by permission of Hal Leonard LLC
+
+**Paradise City**
+
+Words and Music by W. Axl Rose, Slash, Izzy Stradlin\', Duff McKagan and Steven Adler
+
+Copyright © 1987 Guns N\' Roses Music (ASCAP) and Black Frog Music (ASCAP)
+
+All Rights for Black Frog Music in the U.S. and Canada Controlled and Administered by Universal --
+
+PolyGram International Publishing, Inc.
+
+International Copyright Secured All Rights Reserved
+
+Reprinted by permission of Hal Leonard LLC
+
+**Rocket Man (I Think It\'s Gonna Be A Long Long Time)**
+
+Words and Music by Elton John and Bernie Taupin
+
+Copyright © 1972 UNIVERSAL/DICK JAMES MUSIC LTD.
+
+Copyright Renewed
+
+All Rights in the United States and Canada Controlled and Administered by UNIVERSAL - SONGS OF
+
+POLYGRAM INTERNATIONAL, INC.
+
+All Rights Reserved Used by Permission
+
+Reprinted by permission of Hal Leonard LLC
+
 # F.A.Q.
 
 **Do you seriously believe that Hakeem Olajuwon is better than Michael Jordan? Have you ever seen the movie *Space Jam*? I watched that movie a thousand times when I was a kid, dreaming of one day staring in my own movie, and let me tell you, Michael Jordan is the best player I've ever seen, and Hakeem doesn't even have a movie or a cartoon. Is this whole thing just a publicity stunt to get clicks, like standing up for a cause just so you get a buncha likes and tweets?**
@@ -2802,7 +2930,7 @@ Hi LBJ, I appreciate the question. Did you know that the first President from th
 
 I'm guessing by your question you are a child of the late eighties or nineties. It's understandable that your worldview is shaped by the media of that time. The internet hadn't been fully commercialized, so television and the movies were the primary medium for marketing. Both are broadcast mediums and thus they needed a symbol that could reach into the souls of the greatest number of children and the pocketbooks of their parents. Michael Jordan was an almost ideal choice, as he was charismatic, flashy and was a great basketball player. Of course, you wanted to *Be Like Mike*.
 
-Today, we live in a better world. The internet has made targeted marketing possible. Google James Harden's stats once in your life, and you'll be forever followed across the internet with Taco Bell and Beat Headphones ads. If you google insurance rates, Chris Paul will haunt you like Bruce Willis. In the 21^st^ century, children can be whomever they want to be, as long as whomever they want to be has a way to extract dollars from the pockets of their parents. This explains why they'll never be a "greater" basketball player than Michael Jordan. It's not about rings, it's about marketing impressions. Too bad for guys like Kobe and Steph Curry who are also great and got the rings to prove it.
+Today, we live in a better world. The internet has made targeted marketing possible. Google James Harden's stats once in your life, and you'll be forever followed across the internet with Taco Bell and Beats Headphones ads. If you google insurance rates, Chris Paul will haunt you like Bruce Willis. In the 21^st^ century, children can be whomever they want to be, as long as whomever they want to be has a way to extract dollars from the pockets of their parents. This explains why they'll never be a "greater" basketball player than Michael Jordan. It's not about rings, it's about marketing impressions. Too bad for guys like Kobe and Steph Curry who are also great and got the rings to prove it.
 
 Let's not get off track. I was an adult in the nineties who could appreciate actual basketball, and while Mike was fun to watch, Hakeem was the genius. Hakeem Olajuwon innovated from the moment he stepped on the court, dominating both the NCAA and NBA. You start looking at Olajuwon's post ups and shakes, you're looking at Bonham level rhythms that are absolutely unguardable, played back in slow-motion, you see them as choreographed and perfectly executed. On defense, there's no comparison. Michael Jordan is a great defender for a guard, he's number three in career steals. You know who is number nine? Hakeem Olajuwon, the only center on the list. How many blocked shots Michael Jordan got?[^107] Mike was a thief; Hakeem was a stopper. He played D the Houston way, any way that that got the job done, blocks, steals, or sometime just intimidation. The kind of intimidation that makes you want to go play baseball.
 
@@ -2915,7 +3043,7 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
 
   6                 Jarvis            Gregory                                   SOG
 
-  3                 McAuliffe         Christa                                   SOG
+  7                 McAuliffe         Christa                                   SOG
 
   8                 Bonham            John                                      SOG
 
@@ -3348,11 +3476,13 @@ When Tot woke up, he was on his belly, hands and feet bound together.
 
 "I'm not food," Tot said.
 
-> "It speaks our words," said a girls voice, "Big Mama! Big Mama!\
-> Tot tried to turn over, but somebody kicked him in the head.
->
-> "Stop it! Stop it!"\
-> A voice he knew, Little Mama's voice.
+"It speaks our words," said a girls voice, "Big Mama! Big Mama!"
+
+Tot tried to turn over, but somebody kicked him in the head.
+
+"Stop it! Stop it!"
+
+A voice he knew, Little Mama's voice.
 
 "Stay away, we claim the heart and liver," said a man's voice. "My third daughter threw the stone that downed the monster."
 
@@ -3376,7 +3506,7 @@ It was the Chief, Heart of Tatanka II, Little Mama's Uncle and the son of Big Ma
 
 "Beloved niece of mine, your puny son went to the river many winters ago. Have you forgotten? Perhaps it is time for you to go find your son at the bottom of the Brazos."
 
-He took pity on her, her cleverness with the ball had allowed Big Mama to create the game, which had allowed him to assemble his army of tall warriors and rule both shores of the Brazos. Yet, she was useless, to small to produce tall warriors, no one wanted her around except his mother. When a heartbroken childless woman starts trying to adopt wild creatures and treat them as children, it was time to gently, compassionately, guide her to the river.
+He took pity on her, her cleverness with the ball had allowed Big Mama to create the game, which had allowed him to assemble his army of tall warriors and rule both shores of the Brazos. Yet, she was useless, too small to produce tall warriors, no one wanted her around except his mother. When a heartbroken childless woman starts trying to adopt wild creatures and treat them as children, it was time to gently, compassionately, guide her to the river.
 
 "Uncle, it is my son. He speaks our words. He has been living in the cave of the magic people since he was a hand of winters, I bring him food."
 
@@ -3696,7 +3826,7 @@ James found Joe on the river at San Felipe where James explained his quest. His 
 
 "Oh, sports? That's - there is a white man's word for it, I just can't think of it right now, but there's a word for it. You are into sports, and he told you this painting was your great treasure?"
 
-> "Sentimental?"
+"Sentimental?"
 
 "No, not sentimental," said Joe, pondering how to explain. "Like if you had an entire bag of spoons, but you really needed a knife."
 
@@ -3740,9 +3870,9 @@ James picked apart the chest and found several wooden rollers and another smalle
 
 "That's exactly what it is."
 
-He pulled another tube and un-scrolled the painting. It looked a very basic game of football, which James had believed was derived from the noble British sport of rugby. He's always believed baseball, grand American past time, had originated with the British as well. He said as much to Joe.
+He pulled another tube and un-scrolled the painting. It looked a very basic game of football, which James had believed was derived from the noble British sport of rugby. He'd always believed baseball, grand American past time, had originated with the British as well. He said as much to Joe.
 
-"No. What happened was the Conquistadors captured a Tonkawa medicine man and made him tell their translator the rules of the three ancient sports of the Brazos empire people. The Tonkawa was clever, so he told them the rules for the two lesser sports -- baseball and football, and instead of telling them the rules of the most noble game, he substituted the rules of the snake eaters game, and told them that it was the most noble game of the Brazos people that made them great warriors that conquered the entire continent. As a secret part of the *Treaty of Madrid*, the British and Spaniards split up the rule book, the Spaniards thinking they kept the most noble sport for themselves. But the Spaniards was who got tricked."
+"No. What happened was the Conquistadors captured a Tonkawa medicine man and made him tell their translator the rules of the three ancient sports of the Brazos empire people. The Tonkawa was clever, so he told them the rules for the two lesser sports -- baseball and football, and instead of telling them the rules of the most noble game, he substituted the rules of the snake eater's game, and told them that it was the most noble game of the Brazos people that made them great warriors that conquered the entire continent. As a secret part of the *Treaty of Madrid*, the British and Spaniards split up the rule book, the Spaniards thinking they kept the most noble sport for themselves. But the Spaniards was who got tricked."
 
 "What is most noble sport? You mean cricket?"
 
@@ -4050,7 +4180,7 @@ The first sketch had a plaque.
 
 Hakeem continued to inspect the drawings. He was amazed. He had always thought Africa was the cradle of civilization, but given what he knew from Texas History, it wasn't surprising. Baseball, football, soccer and fishing, and one of the drawings had symbolic representation of hands, an ancient form of mathematics. He always knew there was something special about basketball, he was magnetically drawn to it the first time he dunked the ball, despite having loved soccer growing up.
 
-"Michael," Hakeem said. "I think James Naismith stole this from Texas. This is a treasure of Texas History. It's the first duty of a Texan to preserve and protect Texas history. I'm going take it back with me."
+"Michael," Hakeem said. "I think James Naismith stole this from Texas. This is a treasure of Texas History. It's the first duty of a Texan to preserve and protect Texas History. I'm going take it back with me."
 
 Hakeem took the notebook and carefully hid it in his jacket pocket.
 
@@ -4141,7 +4271,7 @@ Remember young Texans, never trust a stranger James, and watch out for the dream
 
 [^6]: And what kind of unbiased, unconflicted real expert wants to work for a politician?
 
-[^7]: *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin Timberlake, Printz Board, Michael Fratantuno and George Pajon, Jr.
+[^7]: *Where is the Love?* by Black Eyed Peas
 
 [^8]: [How Many Words Are in the Tax Code](https://taxfoundation.org/how-many-words-are-tax-code/): <https://taxfoundation.org/how-many-words-are-tax-code/>. Another factor is that lawyers get paid by the hour and write real slow.
 
@@ -4283,7 +4413,7 @@ Remember young Texans, never trust a stranger James, and watch out for the dream
 
 [^77]: This may not be factual. I'm from Texas, my mother taught me right, so benefit of the doubt.
 
-[^78]: From *Paradise City* by Slash, Axl Rose, Izzy Stradlin, Duff McKagan and Steven Adler
+[^78]: From *Paradise City* by Guns N' Roses
 
 [^79]: Atomic powered, like all the gadgets in Asimov's *Foundation*.
 
@@ -4291,7 +4421,7 @@ Remember young Texans, never trust a stranger James, and watch out for the dream
 
 [^81]: In addition, Tesla don't rhyme with epilepsy or apl.de.
 
-[^82]: From *Crazy In Love*, by Rich Harrison, Beyoncé Knowles, Eugene Record, Shawn Carter
+[^82]: From *Crazy In Love*, by Beyoncé, featuring Jay-Z
 
 [^83]: When Jay-Z flies this bad boy back to the states, better land in Houston, we'll take care of the paperwork, and I know a guy who can perform a flip job, turn that funny hand drive back American.
 
@@ -4325,7 +4455,7 @@ Remember young Texans, never trust a stranger James, and watch out for the dream
 
 [^98]: Mom, if he comes back, it's on you to show George where to eat. Them Connecticut Yankees got sensitive tummies, what I hear.
 
-[^99]: *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin Timberlake, Printz Board, Michael Fratantuno and George Pajon, Jr.
+[^99]: *Where is the Love?* by Black Eyed Peas
 
 [^100]: With the swift stroke of a single sentence, the author deftly ensures he is never invited to a dinner party with fancy artsy people.
 
@@ -4333,13 +4463,13 @@ Remember young Texans, never trust a stranger James, and watch out for the dream
 
 [^102]: Children, that's literally the proper usage of "literally."
 
-[^103]: *Rocket Man*, 1972, Elton John and Bernie Taupin
+[^103]: *Rocket Man*, By Elton John
 
 [^104]: *American Dreamin'* by Jay-Z
 
 [^105]: A mid-21^st^ century trend where basketball fans would get together and form Scoot to issue ICO (Initial Clone Offering) where they would mix the DNA from various superstars to create NBA players. Stephan Curry's DNA was present to some extent in almost every clone, so the kids had taken to calling them currys.
 
-[^106]: *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin Timberlake, Printz Board, Michael Fratantuno and George Pajon, Jr.
+[^106]: *Where is the Love?* by Black Eyed Peas.
 
 [^107]: Jordan had 893 blocks. Olajuwon had 3,830 blocks in his career, the NBA record, 541 more than the next guy on the list.
 
