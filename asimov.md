@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.85**
+**Version 0.87**
 
 ***ADVANCED READING COPY***
 
@@ -30,7 +30,7 @@ It follows that humanity should use its own creation as the fundamental measure 
 
 The two true hedges against inflation are *genius* and *vanity*.
 
-It is likely that within my lifetime, technology will have advanced to a stage where we can passively scan inanimate objects and digitize them down to the atomic level. 3-D printing will advance to a level where we can reproduce facsimiles of scanned items that and indinistinguishable from the original to human senses.
+It is likely that within my lifetime, technology will have advanced to a stage where we can passively scan inanimate objects and digitize them down to the atomic level. 3-D printing will advance to a level where we can reproduce facsimiles of scanned items that are indistinguishable from the original to human senses.
 
 It's very possible that in a few decades, you want a reproduction of the *Mona Lisa*, you pull up an app on your phone, pay the Louvre for a digital file, and 5 minutes later, your 3-D printer spits one out. It's likely that technology will allow you to print out a copy that matches what the painting looked like when the paint first dried.
 
@@ -256,7 +256,7 @@ Scoot may be understood by what it's not. Scoot is not stock. It is not an asset
 
 Scoot (uppercase) is a group of accountable individuals. Lowercase scoot is a unit of responsibility.
 
-Scoot is an enterprise that does not own property of wealth.
+Scoot is an enterprise that does not own property.
 
 While it might be easier to explain what scoot is in terms of cryptocurrency or existing financial instruments, it would be wrong. When the foundation of a system is broken, you don't mold a new system using the old foundation. You find a better rock to build your house upon. A rock that does not roll.
 
@@ -284,7 +284,7 @@ Scoot is the vessel for this responsibility.
 
 ![](media/image2.png){width="6.383916229221347in" height="4.5289304461942255in"}
 
-Figure 1 - The Foundation - VALUE and RESPONSIBLITY DOMAINS
+Figure - The Foundation - VALUE and RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a legacy of genius. Each Scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via methods in the protocol. Holders of scoot have no rights other than the elective governance of the Scoot, but a responsibility -- a pledge -- to increase the appreciation of the subject of the Scoot.
 
@@ -1787,7 +1787,7 @@ For eleven years, I did not follow the Rockets. That was a big loss for me, and 
 
 When an athlete brings a championship to a city, he becomes part of the fabric of the city. Often, it's because they represent some fundamental characteristic of the city they play for. For example, here in Texas, we have San Antonio, whose archetype hero seems to be a grumpy old man. And Dallas, whose foundational principle seems to be, let's try to be just like Houston.[^66]
 
-In Houston, we have two fundamental archetypes for our heroes. The first, the ultra-hero, with the superpowers of moral strength, absolute faith, and unwavering courage. This is the universal hero archetype, across cultures, though few cities are lucky enough to get one. I was lucky enough to watch one this past summer. It was another athletic big man with Nigerian roots who wore the number 34 on his jersey. I was happy when Giannis Antetokounmpo celebrated his championship victory in Milwaukee in July. Not nearly as happy as when KPJ dropped fifty on the Bucks in April.[^67]
+In Houston, we have two fundamental archetypes for our heroes. The first, the ultra-hero, with the superpowers of moral strength, absolute faith, and unwavering courage. This is the universal hero archetype, across cultures, though few cities are lucky enough to get one. I was lucky enough to watch one in July 2021. It was another athletic big man with Nigerian roots who wore the number 34 on his jersey. I was happy when Giannis Antetokounmpo celebrated his championship victory in Milwaukee in July. Not nearly as happy as when KPJ dropped fifty on the Bucks in April.[^67]
 
 Hakeem Olajuwon would be a hero in any city. You cannot write better legendary mythology than his actual story.
 
@@ -3976,7 +3976,7 @@ James was amazed.
 
 ![A picture containing text Description automatically generated](media/image10.jpeg){width="3.5828062117235344in" height="3.8472222222222223in"}
 
-Figure 7 - sketch of cave drawing from James Naismith\'s notebook
+Figure - sketch of cave drawing from James Naismith\'s notebook
 
 "Yeah, your dad would come up here every day for a few hours, as long as he could take it, smoke builds up pretty quick, and it is hard to see the entire picture at once, so he would take his time, do his doodles, then head out for a breather."
 
