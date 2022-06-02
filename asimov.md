@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.91**
+**Version 0.92**
 
 ***ADVANCED READING COPY***
 
@@ -44,7 +44,7 @@ Works of art don't just have historical value. They have potential value. And an
 
 Genius and vanity are intangible, but real. This is one problem people have understanding money. Most people can understand equities, a share of stock is partial ownership of a company. Most people can understand a fixed currency - a gold-standard dollar is an actual gold coin. People used to understand that a paper dollar bill was backed by gold locked down under Fort Knox.[^1] But the floating dollar? That's backed by the "full faith and credit of the U.S. Government" which I would argue is neither tangible nor real. The U.S. Government consists of people we elected; I don't think I need to make a list of examples of all those faithless hypocrites -- it's a long list with names in both red and blue. And bitcoin? Backed by mathematics? Mathematics is a form of genius humanity has created collectively through history, it's as much of an abstraction as faith in a government.
 
-Genius and Vanity are timeless.
+Genius and vanity are timeless.
 
 Genius is timeless. I don't mean to imply that if we put old Leo in a time machine and brought him to the year 2022, in a week he'd be rocking an iPhone while dropping smack on crypto developers, puffin' on a vape pen, giving Banksy a run for his money spray-painting a masterpiece portrait of Queen Bey on the side of a railcar. No, he'd probably be spooked to death and think he was surrounded by sorcery. If I could talk to him, engineer to engineer, I think he would be able to understand Boolean logic, the basis of digital logic, and then quickly fathom how simple but extraordinarily complex all these wondrous machines are. He'd understand it, not sure he'd believe it. His next stop would probably be either the confessional or the liquor store.
 
@@ -138,7 +138,7 @@ We can determine the value of all the geniuses that came before us. It's simple.
 
 Property does not provide value without man's innovation. Raw ore dug from the earth does not transform itself into metal -- man's genius allows it to be smelt. Raw land does not provide surplus food naturally, but through agriculture we feed seven billion souls. Nature's bounty provides the raw material, but the value comes from man's innovation.
 
-Man's genius can be summed as the value of the public domain and the current value of all private Intellectual Property. This value is equivalent to the cumulative value of all human commerce. From the beginning of human history. Unlike most natural resources, genius is naturally renewable. When an Electrical Engineer uses Ohm's law to calculate the resistance of a circuit, it does not "use up" some of Ohm's Law. Ohm's Law retains its value, no matter how many engineers use it or what it is used for. You could argue Ohm's law becomes more valuable every time it is used.
+Man's genius can be summed as the value of the public domain and the current value of all private Intellectual Property. This value is equivalent to the cumulative value of all human commerce. From the beginning of human history. Unlike most natural resources, genius is naturally renewable. When an electrical engineer uses Ohm's law to calculate the resistance of a circuit, it does not "use up" some of Ohm's Law. Ohm's Law retains its value, no matter how many engineers use it or what it is used for. You could argue Ohm's law becomes more valuable every time it is used.
 
 This equivalence argument is like the ultimate Catch-22. Economist may wish to argue that property and resources -- the king's gold - are what really creates value in the economy and may even attempt to prove it using economic theory and mathematics. Yet economics and mathematics are products of mankind's genius.
 
@@ -438,7 +438,7 @@ There will be cases where Scoot wish only to accept transactions with TPH. It's 
 
 I believe using TPH to invest in some scoot, and PPHs for others may be the most practical system. The protocol shall handle both cases. Scoot may also implement hybrid models, where perhaps large or majority holders need to reveal TPH but small-scale holders may use PPH. This is essentially how public stock works in some countries, when holdings by large institutions, board members, and company officers are publicly reported, but most holders are publicly anonymous.
 
-The responsibility tree - open or pseudonymous - is very valuable. This system works because the more people that are responsible for an idea, the more valuable that idea becomes. Furthermore, the more responsible people who are responsible for an idea, the more valuable it becomes.
+The responsibility tree - open or pseudonymous - is very valuable. This system works because the more people who are responsible for an idea, the more valuable that idea becomes. Furthermore, the more responsible people who are responsible for an idea, the more valuable it becomes.
 
 The inverse of the responsibility tree is the hypocrisy tree. Within the protocol, there is a method of shunning. Shunning is a way for Scoot and pledges to avoid transactions with other Scoot or pledges it has made a specific value judgement on. When you join a shun, you are making a statement, I refuse to interact with this other individual or Scoot because they are specifically bad in the way the shun describes. The official reference version of the protocol software will not accept transaction from an entity you have shunned. This is a choice of implementation. Nodes and pledges can earn discounts by processing transactions. The hypocrisy tree would reveal when nodes transact with nodes they've shunned, which will devalue the importance of a shun. If you joined a shun against one of your competitors and some calamity is forcing you to liquate unexpectedly, the only buyer might be somebody you really don't like. As in individual, I don't think this is a big worry. People's value judgements change over time. It should come into consideration when electing Foundation leadership and Scoot trustees.
 
@@ -494,7 +494,7 @@ I've given names to different types of Scoot. Their names are derived from how t
 
 A Scoot of Property is the simplest case to understand. A group is formed to be responsible for a piece of property they collectively agree should not be property, but part of the public domain. Genius belongs to Humanity.
 
-A billionaire owns a Picasso he bought for \$1 million, but it is now appraised at \$10 million. The billionaire forms a Scoot, names himself as trustee and mints 1000 scoot. In forming the Scoot, he formally signs away title to the painting, gives it freely to humanity, formally ending the painting's existence as property, yet the Scoot retains right of possession of the painting as custodian. This is a legal paradox, but a tactical one. A Scoot can buy property, and it can give away property to humanity, but it can never sell properties of wealth.
+A billionaire owns a Picasso he bought for \$1 million, now appraised at \$10 million. The billionaire forms a Scoot, names himself as trustee and mints 1000 scoot. In forming the Scoot, he formally signs away title to the painting, gives it freely to humanity, formally ending the painting's existence as property, yet the Scoot retains right of possession of the painting as custodian. This is a legal paradox, but a tactical one. A Scoot can buy property, and it can give away property to humanity, but it can never sell properties of wealth.
 
 The billionaire may agree to sell 1 scoot to The Foundation at the appraised price, or the equivalent of \$10,000 in asimov, establishing a first mint price. The billionaire may then trade up to 498 scoot in the responsibility domain and retain possessive control of the painting.[^9] The other 498 holders don't benefit in any way directly. The billionaire can keep his painting holed away at his ski chalet, losing nothing in the process. He controls access to the painting but has turned half of its value into liquid wealth.[^10]
 
@@ -750,7 +750,7 @@ Many hardworking Americans give to museums through donations and memberships bec
 
 If public donations are inefficient, then private donations must be as well. In the United States, we give over \$20 billion a year privately to the arts and humanities. In 2019, there were 10.46 million kids in poverty in the United States. Give that \$20B directly to those children, it works out to \$1,912 per child -- life changing money for a poor family.
 
-I'm not proposing defunding museums or scaling back their operations but reducing their reliance on private and public funding. Genius can pay for itself. Museum principals can Scoot their collections, giving the museum perpetual rights as curator, and sell off some scoot as funding is required. I've read the Metropolitan Museum of Art's Collection is valued at least \$100 Billion, and that contemporary art has an annual appreciation rate of 13.6%. That's \$13.6 Billion dollars of appreciation a year for a single museum -- vs \$20 Billion of donations across all museums.
+I'm not proposing defunding museums or scaling back their operations but reducing their reliance on private and public funding. Genius can pay for itself. Museum principals can scoot their collections, giving the museum perpetual rights as curator, and sell off some scoot as funding is required. I've read the Metropolitan Museum of Art's Collection is valued at least \$100 Billion, and that contemporary art has an annual appreciation rate of 13.6%. That's \$13.6 Billion dollars of appreciation a year for a single museum -- vs \$20 Billion of donations across all museums.
 
 I'm sure most museum funding is efficient. What we see in the media is not. Spending \$100K on a lavish gala dinner so that you can book a few of million in donations isn't efficient. It is taxpayer subsidized social networking for millionaires and their celebrity friends. You want to throw a celebration for the appreciation of art, have a chili cookoff, and the millionaires can stand in line with the plumbers and Uber drivers, and chat up the latest Scoot rumors and tips. Museums need to get with it, it's the 21^st^ century, and a party is fine if everybody is included.
 
@@ -830,7 +830,7 @@ I think it's a worthwhile debate. They are two deeply flawed men. How do we judg
 
 Thomas Jefferson, the man who castrated royalty for good, with words both logical and defiant, was a master of men himself. Yet, to his brethren in the colonies, his peers, he was admired and respected, highly valued. In today's values, he was a criminal, holding people hostage and forcing them into labor against their will. Is that ironic? Or is it hypocrisy? Or -- was Jefferson's own internal struggle what gave him words to perfectly define what freedom means?
 
-Henry Ford mastered a process that was duplicated in millions of peaceful, commercial, and military applications. This led to prosperity throughout the entire world. He might have been the most innovative engineer in American history, greater than Tesla himself in real value created because his innovation had such broad application.[^26] Yet he hated Jews and used his wealth to influence others with his hate. In his day, he was valued tremendously. In today's value system, he would be canceled. In today's value system, he would not be a criminal, it's a fundamental right to express your opinion, no matter how stupid. You can hate who or what you want. When we talk about moral values, they are seen to be individual choices, our own values. Is it ironic, that Henry Ford, who hated Jews, invented the fundamental processes that allowed American industry to defeat Adolph Hitler, the most powerful antisemite in history?
+Henry Ford mastered a process that was duplicated in millions of peaceful, commercial, and military applications. This led to prosperity throughout the entire world. He might have been the most innovative engineer in American history, greater than Tesla in real value created because his innovation had such broad application.[^26] Yet he hated Jews and used his wealth to influence others with his hate. In his day, he was valued tremendously. In today's value system, he would be canceled. In today's value system, he would not be a criminal, it's a fundamental right to express your opinion, no matter how stupid. You can hate who or what you want. When we talk about moral values, they are seen to be individual choices, our own values. Is it ironic, that Henry Ford, who hated Jews, invented the fundamental processes that allowed American industry to defeat Adolph Hitler, the most powerful antisemite in history?
 
 In terms of a system, when you see a repeating pattern of conflicts that occur at an increasing frequency, this usually represents unbalanced resources. To fix it, you break the entire process apart and rebalance them. You build cars, and you notice that it takes one tire-installer four minutes to put four tires on a car, and that stage of the assembly is where the production back up starts. You figure out, you can have four tire-installers put on a tire each, and since they don't have to move around the car, it takes only 40 seconds. You not only cleared a blockage, but you sped up the process by efficiency of motion.
 
@@ -1230,7 +1230,8 @@ Shouting in five different languages from the video screens.
 
 "All right, all right, all right," the President pushes a button, and the screens go blank.
 
-"John McClain, thank you for coming."\
+"John McClain, thank you for coming."
+
 "You're keeping me from the fish, sir."
 
 "Sorry, old friend. I wouldn't have picked you except I didn't have a choice."
@@ -1393,7 +1394,7 @@ I believe there is a place in a sustainable economy for every industry. Instead 
 
 There are many large international projects that would be of tremendous public good, don't align with corporate or governmental priorities or political reality. Those are the projects for Scoot.
 
-Global projects of public good is what Big Oil has sold to much of the developing world for decades -- despite the obvious corporate and geo-political conflicting motivations. Think of the massive public good project you could pull off if your motives were genuine across the board and aligned only with public good. Organizations that could pull off those kinds or massive works of public good at scale around the globe would be genius. Coincidently, there's a bunch of people who know how to do things like that in Houston, Texas.
+Global projects of public good is what Big Oil has sold to much of the developing world for decades -- despite the obvious corporate and geo-political conflicting motivations. Think of the massive public good project you could pull off if your motives were genuine and aligned only with public good. Organizations that could pull off those kinds or massive works of public good at scale around the globe would be genius. Coincidently, there's a bunch of people who know how to do things like that in Houston, Texas.
 
 There is embedded genius in every industry that can be extracted in the genius economy. We shouldn't forget how we got here. The alternative to Big Oil was Americans never straying five miles from home and a large proportion of the population executing jobs of back-breaking manual labor. You want to imagine a science fiction world where we produced today's energy intensive lifestyle using only beasts of burden, as we did before big oil and gas? I can't tell you if it would be a good story, but I can tell you it would stink.[^52]
 
@@ -1471,8 +1472,9 @@ Nai emits a long sign of exasperation. "I don't think I can deal with it today, 
 
 "Rich scumbags don't like to go to the store," I say. "They like making us peons do degrading stuff for money."
 
-> "I can't keep doing this, dude."\
-> "You're quitting?"
+"I can't keep doing this, dude."
+
+"You're quitting?"
 
 "How am I supposed to work on my craft man? What the hell is this, I gotta go to work, I ain't never going to be able to take it to the next level."
 
@@ -1496,8 +1498,9 @@ Nai emits a long sign of exasperation. "I don't think I can deal with it today, 
 
 Nai pauses the game and looks very serious for a moment, like he has indigestion.
 
-> "Studio grade soundproofing, dude."\
-> "Okay, so how do you make money?"
+"Studio grade soundproofing, dude."
+
+"Okay, so how do you make money?"
 
 "You don't need money, that's my point. You live, chill, and rock out in the same place. Instead of being a drummer who delivers liquor, you're just a drummer."
 
@@ -1565,7 +1568,7 @@ Nai, thirty years later, I finally figured it out. Lars, you've been warned.
 
 The way forward for Drumland is for musicians just to give away their music for free to anybody who wants to hear it. Open Source everything.
 
-You Scoot your work, and you say to world, my craft is not property. You can have restrictive licensing, so your work gets turned into a jingle or soundtrack of a blockbuster movie, you get paid. Streaming services or radio want to play it, you get paid. Otherwise, just give it away.
+You scoot your work, and you say to world, my craft is not property. You can have restrictive licensing, so your work gets turned into a jingle or soundtrack of a blockbuster movie, you get paid. Streaming services or radio want to play it, you get paid. Otherwise, just give it away.
 
 You form up with other Scoot in your community, and you establish social protocol. Trading scoot becomes a trade in the appreciation of songs. A musician just starting out, it'd be understandable if he'd trade scoot with anybody that'll trade. Each scene will develop customs of decorum. You get serious about your craft, you only trade scoot with other musicians using TPH, but you'll let people bid your scoot with PPH. Somebody makes a big offer, you take a bite. You get enough bites and you get a real market value.
 
@@ -2477,7 +2480,7 @@ If the Foundation is a holder of the scoot, it will maintain scoot-chain in stat
 
 There is a market for pledges to act as caretaker trustee for Scoot in statis. The caretaker assumes the trustee role and becomes sole member of the scootage. Request for scoot-chain research can be handled by API and the scoot-chain can be served from cold-storage. Parties wishing to merge or resurrect a scoot-chain can make an offer to take control back from the caretaker.
 
-Caretaker pledges can serve as initial stakers for new Scoot. In exchange for no-par scoot, the caretaker commits to taking care of the scoot-chain if it goes into stasis. Some Scoot will do very well, and those that appreciate, should be able to cover the storage expense of the statis Scoot.
+Caretaker pledges can serve as initial stakers for new Scoot. In exchange for scoot, the caretaker commits to taking care of the scoot-chain if it goes into stasis. Some Scoot will do very well, and those that appreciate, should be able to cover the storage expense of the statis Scoot.
 
 # Genius Antagonism
 
@@ -2546,7 +2549,7 @@ The world living as one isn't going to solve our problems. A genius-based wealth
 
 Conflict over ideas is the kind of war we should fight. Not with violence, but with open and free appreciation by all mankind. Not conflict over how much property an idea equates to, but over the value of the ideas themselves. Which ideas improve the lives, reduce hardship, and bring joy to the most people while allowing us to sustain a prosperous and equitable civilization. Those ideas will win. The Foundation is a system designed for that outcome.
 
-France, Bruce Willis, Kevin Costner, Joe Jonas, Apple TV+, Petrochemical Industry, Kawaii Leonard, three-quarters of Metallica, Korea, wine collectors, museum people, and most everyone else I made fun off, please take it in the proper spirit: Through humor we can appreciate the actual value of something.
+France, Bruce Willis, Kevin Costner, Joe Jonas, Apple TV+, Petrochemical Industry, Kawhi Leonard, three-quarters of Metallica, Korea, wine collectors, museum people, and most everyone else I made fun off, please take it in the proper spirit: Through humor we can appreciate the actual value of something.
 
 Canada, Yankees, Dodgers -- I meant every word.
 
@@ -4258,6 +4261,12 @@ It's funny how history works and some people just happen to be in the right plac
 Aren't you lucky?
 
 Remember young Texans, never trust a stranger James, and watch out for the dream stealing Canadians. It doesn't matter if you were born here, or just got here just as fast as you could, it's your duty as a Texan, to appreciate and preserve the legacy of our history.
+
+Our heroes are but human.
+
+It is the stories we tell about them that make them genius.
+
+August 2^nd^, 2022
 
 [^1]: The Gold Standard died for good in 1976 when I was in kindergarten. In school, I was taught the gold standard. I guess they thought floating currency is too complex to explain to a kid. I guess is it won't be long before they have to teach Elliptic-curve cryptology in the first grade, or else kids won't understand money. This disparity between the understanding of money and its actual function is what we should be trying to solve. Shared values between cultures need to be understood fundamentally, not just agreed to as a formality a bunch of economists or coders came up with.
 
