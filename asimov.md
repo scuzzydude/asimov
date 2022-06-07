@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.92**
+**Version 0.93**
 
 ***ADVANCED READING COPY***
 
