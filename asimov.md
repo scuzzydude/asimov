@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.93**
+**Version 0.95**
 
 ***ADVANCED READING COPY***
 
@@ -3058,7 +3058,11 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
 
   12                Titanic                                                     SOG - held for \"Zoey\"
 
-  13                RSV               RSV                                       TBD
+  13                Protocol          Scoot                                     OpenSource Protocol
+
+  14                Scoot             of Scoots                                 
+
+  15                Kate              Winslet                                   SOG
 
   17                Awbrey            Brandon                                   my open source code and writing
 
@@ -3091,6 +3095,8 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
   52                Peart             Neil                                      GOCDF
 
   54                Vaughan           Stevie Ray                                SOG
+
+  55                Costner           Kevin                                     SOG
 
   61                Rodman            Dennis                                    SOG
 
