@@ -3025,12 +3025,12 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
 
 # Appendix B -- Scoot Naming Reservations
 
-  ---------------------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------------
   **Scoot Index**   **Unit**          **SubUnit**                               **Notes**
-  ----------------- ----------------- ----------------------------------------- ---------------------------------
+  ----------------- ----------------- ----------------------------------------- -----------------------------------
   **-2**            **Stephenson**    **Neal**                                  **Foundation mint**
 
-  **-1**            **Liu**           **Cixin**                                 **Foundation mint**
+  **-1**            **Liu**           **Cixin**                                 **Foundation mint ( 刘慈欣)**
 
   **0**             **Asimov**        **Isaac**                                 **Foundation mint**
 
@@ -3054,17 +3054,19 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
 
   10                Leicester         Codex                                     SOP -Leonardo Da Vinci Notebook
 
-  11                Armstrong         Neil                                      SOG
+  11                Armstrong         Neil                                      PoAS
 
-  12                Titanic                                                     SOG - held for \"Zoey\"
+  12                Titanic                                                     
 
-  13                Protocol          Scoot                                     OpenSource Protocol
+  13                Protocol          Scoot                                     Open Source Protocol
 
   14                Scoot             of Scoots                                 
 
-  15                Kate              Winslet                                   SOG
+  15                Winslet           Kate                                      SOG
 
   17                Awbrey            Brandon                                   my open source code and writing
+
+  21                Malone            Moses                                     SOG
 
   22                Kerouac           Jack                                      SOG
 
@@ -3090,13 +3092,21 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
 
   43                Jefferson         Thomas                                    PoAS
 
+  44                RSV               RSV                                       
+
   45                Nakamoto          Satoshi                                   SOG
+
+  47                John              Elton                                     SOG
+
+  48                Rudy              Tomjanovich                               SOG
 
   52                Peart             Neil                                      GOCDF
 
   54                Vaughan           Stevie Ray                                SOG
 
   55                Costner           Kevin                                     SOG
+
+  59                Murphy            Calvin                                    SOG
 
   61                Rodman            Dennis                                    SOG
 
@@ -3108,15 +3118,27 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
 
   69                Jay-Z                                                       SOG
 
+  73                Lee               Jun-fan                                   SOG - 李小龍
+
   74                Morrisette        Alanis                                    GOCDF
 
   75                Taboo                                                       SOG
 
+  79                Ryan              Nolan                                     SOG
+
+  80                Yao               Ming                                      SOG - 姚明
+
   81                Beyoncé                                                     SOG
+
+  83                Drexler           Clyde                                     SOG
 
   84                Rockets           Houston                                   SOT - Scoot of Team
 
-  88                TBD               TBD                                       
+  88                RSV               RSV                                       
+
+  89                IKSK                                                        SOK - Instant Karmic Soup Kitchen
+
+  90                TTC                                                         SOK - Taco Truck Chuck\'s
 
   94                Rockets           1994                                      SOG - 1993-1994 Championship
 
@@ -3124,14 +3146,18 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
 
   97                South Park                                                  SOG
 
+  98                RSV               RSV                                       
+
   2000              Porter            Kevin, Jr                                 SOG
+
+  2001              Kerouac           Crews                                     SOT - fans
 
                                                                                 
 
                     GOCDF             Get out of Canadian Detention Free card   
 
                     ++                I know that\'s Jordan\'s number           
-  ---------------------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------------
 
 # Appendix C -- Prime Shards
 
