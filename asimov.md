@@ -2,9 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.95**
-
-***ADVANCED READING COPY***
+**Version 0.96**
 
 ![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2022 by Brandon Awbrey. This publication maybe reproduced in whole form if fairly attributed for any non-commercial purpose. If you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
 
@@ -440,7 +438,7 @@ I believe using TPH to invest in some scoot, and PPHs for others may be the most
 
 The responsibility tree - open or pseudonymous - is very valuable. This system works because the more people who are responsible for an idea, the more valuable that idea becomes. Furthermore, the more responsible people who are responsible for an idea, the more valuable it becomes.
 
-The inverse of the responsibility tree is the hypocrisy tree. Within the protocol, there is a method of shunning. Shunning is a way for Scoot and pledges to avoid transactions with other Scoot or pledges it has made a specific value judgement on. When you join a shun, you are making a statement, I refuse to interact with this other individual or Scoot because they are specifically bad in the way the shun describes. The official reference version of the protocol software will not accept transaction from an entity you have shunned. This is a choice of implementation. Nodes and pledges can earn discounts by processing transactions. The hypocrisy tree would reveal when nodes transact with nodes they've shunned, which will devalue the importance of a shun. If you joined a shun against one of your competitors and some calamity is forcing you to liquate unexpectedly, the only buyer might be somebody you really don't like. As in individual, I don't think this is a big worry. People's value judgements change over time. It should come into consideration when electing Foundation leadership and Scoot trustees.
+The inverse of the responsibility tree is the hypocrisy tree. Within the protocol, there is a method of shunning. Shunning is a way for Scoot and pledges to avoid transactions with other Scoot or pledges it has made a specific value judgement on. When you join a shun, you are making a statement: *I refuse to interact with this other individual or Scoot because they are specifically bad in the way the shun describes*. The official reference version of the protocol software will not accept transaction from an entity you have shunned. This is a choice of implementation. Nodes and pledges can earn discounts by processing transactions. The hypocrisy tree would reveal when nodes transact with nodes they've shunned, which will devalue the importance of a shun. If you joined a shun against one of your competitors and some calamity is forcing you to liquate unexpectedly, the only buyer might be somebody you really don't like. As in individual, I don't think this is a big worry. People's value judgements change over time. It should come into consideration when electing Foundation leadership and Scoot trustees.
 
 ### Scoot Naming System (SNS)
 
@@ -664,7 +662,7 @@ By staking The Foundation, we establish relative value before issuing asimov for
 
 The purpose of the private stake is to provide a backing reserve in fiat and cryptocurrencies[^19] for asimov as a currency. The private stake will not be touched, and conditions where the stake would be used or burned should be outlined in amendments to the charter. There should be a long probationary period, and if The Foundation does NOT meet certain goals, the private stake should be returned to the stakers.
 
-The private staking period begins now and lasts until the stake reaches a threshold of \$100 million in USD equivalents. At that point the distribution value will be calculated. The average daily value of the stake currency in USD will be used between the time the stake is received until mint day. There will be a multiplier for each stake in the order it was received.
+The private staking period begins now and lasts until the stake reaches a threshold of \$100 million in USD equivalents. At that point the distribution value will be calculated. Other staked currencies will be converted to a USD value when the distribution is calculated. There will be a multiplier for each stake in the order it was received.
 
 Details of the private stake process will be available here: <http://www.geniusandvanity.org/stakes/>
 
@@ -3058,13 +3056,19 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
 
   12                Titanic                                                     
 
-  13                Protocol          Scoot                                     Open Source Protocol
+  13                Harden            James                                     SOG
 
   14                Scoot             of Scoots                                 
 
   15                Winslet           Kate                                      SOG
 
+  16                RSV               RSV                                       
+
   17                Awbrey            Brandon                                   my open source code and writing
+
+  18                Scoot             Protocol                                  Scoot Protocol
+
+  19                RSV               RSV                                       
 
   21                Malone            Moses                                     SOG
 
@@ -3857,7 +3861,7 @@ James found Joe on the river at San Felipe where James explained his quest. His 
 
 "What's that?"
 
-"Sports"
+"Sports."
 
 "Oh, sports? That's - there is a white man's word for it, I just can't think of it right now, but there's a word for it. You are into sports, and he told you this painting was your great treasure?"
 
@@ -4286,7 +4290,7 @@ Hakeem Olajuwon would escape from Ontario in a jet the next summer and return to
 
 Texas History remains safe in God's hands.
 
-Hakeem Olajuwon[^115] is a historical legend and a defender of Texas History. Without his keen eye and ability to completely ignore Michael Jordan's cloak of vanity, we might never have known that Texas was the cradle of civilization and birthplace of human genius.
+Hakeem Olajuwon is a historical legend and a defender of Texas History. Without his keen eye and ability to completely ignore Michael Jordan's cloak of vanity, we might never have known that Texas was the cradle of civilization and birthplace of human genius.
 
 It's funny how history works and some people just happen to be in the right place at the right time. Texas, fortunately, has been home to many of them, such as the likes of Jim Bowie and Sam Houston. Hakeem is one of those people, a hero with a life too good to be true. When it is true, it's history.
 
@@ -4527,11 +4531,3 @@ August 2^nd^, 2022
 [^113]: This happened just north of the Rio Grande so another feminist innovation invented in Texas.
 
 [^114]: Children, this proves that Texas Historians also know the literal use of "literally."
-
-[^115]: This last footnote may come out of the final edition, but I want to make sure early reviewers, as well as Hakeem Olajuwon himself, have a chance to read it. My worst fear in this endeavor is that I would offend him without explanation. If he is offended, I'll change the ending.
-
-    What Hakeem Olajuwon did was legendary, and I witnessed it and I am responsible for the memory. When my kids were young and watching cartoons, if I wanted them to know about basketball, you think I could show them *Space Jam*? Ridiculous, I'd show them the *Exorcist* first. No wonder decades later people of think Michael Jordan is the greatest of all time. Bugs Bunny told them so. I thought, for a Texas kid, what would be bigger than a blockbuster movie? My youngest son is in seventh grade in Colorado, and there's no Colorado History class. I always thought state history was a basic requirement nationwide. Not forgetting history is the theme of this book as well as Asimov's *Foundation*. We Texans appreciate our history enough to add the right amount of embellishment, so I think this is the ultimate tribute to a true Texas hero. Contrasting Hakeem's humbleness against Jordan's commercial dominance really fits really with the theme of genius and vanity. Our legends are always bigger in Texas. Hakeem's story doesn't need any embellishment, it's just the way we do things in Texas.
-
-    I love Michael Jordan. He kept me in it every year to the end, and I've never seen such a fierce competitor in any sport. There's only room for one GOAT in my personal value system. I'll never be like Mike, but I'll always dream like Hakeem.
-
-    All my MJ smack is written with love in my heart. As far as comparing him to Loki, the trickster, I feel totally justified. Since 1998, Jordan's final shot as a Chicago Bull has probably been broadcast more than any play in sports. It's iconic MJ. I don't share many values with fans of the Utah Jazz, but on this we're aligned. First, on the defensive end, Mike clearly throws Karl Malone to the ground to steal the ball, and on the other end, he shoves Byron Russel to the ground to get off his shot. MJ's moment of glory is highlighted by two fouls that would have been called on any other player in the league. When it comes to legends, we see what we want to see. Mike's a true American hero, in sports, business and life, but he's a trickster, and I love him for it. I was so thrilled when Mike slammed that stake through Utah's heart. I love Mike, but it's not like I'm going to name a kid after him. My personal value system only has room for one GOAT, and he's *The Dream*.
