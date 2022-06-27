@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.96**
+**Version 0.97**
 
 ![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2022 by Brandon Awbrey. This publication maybe reproduced in whole form if fairly attributed for any non-commercial purpose. If you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
 
