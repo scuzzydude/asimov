@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.98**
+**Version 1.00**
 
 ![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2022 by Brandon Awbrey. This publication maybe reproduced in whole form if fairly attributed for any non-commercial purpose. If you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
 
@@ -2424,7 +2424,7 @@ I checked my phone and read about the tragedy. Kobe Bryant, along with his daugh
 
 It was a strange and subdued game, everyone on the court and good portion of the people in the arena idolized or admired Kobe, if only as a basketball villain. There was a dark moment of silence before the game, and it was obvious that both teams were disturbed. Russ gave it his all, but I really don't remember much about the game. In my mind the entire game was played in the darkened arena at the beginning, players lined up and heads hung low. It was the last time I saw James Harden in person, he was there, but he decided not to play. The Rockets lost and that was just the beginning of a very, very bad year.
 
-In human terms, I have nothing but sympathy for James Harden on that day, a child of Los Angeles who would have come of age in basketball during the time of Kobe and an Laker three-peat, just as I had *The Dream* when I fell in love with the game. Harden idolized Kobe. A young Harden had faced Kobe in his absolute prime. I've already recounted the day one of my childhood heroes died, a man I had met only once, and it was one of the worst days of my life.
+In human terms, I have nothing but sympathy for James Harden on that day, a child of Los Angeles who would have come of age in basketball during the time of Kobe and a Laker three-peat, just as I had *The Dream* when I fell in love with the game. Harden idolized Kobe. A young Harden had faced Kobe in his absolute prime. I've already recounted the day one of my childhood heroes died, a man I had met only once, and it was one of the worst days of my life.
 
 That's the way I felt at the time. I've been hard on James Harden in this narrative. The Rockets, the pandemic, crypto-insanity, and everything else that has happened in the world since that day in Pepsi Center, made writing a story about my personal value system easy.
 
