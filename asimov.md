@@ -2,9 +2,9 @@
 
 **a post-harden rockets cathartic**
 
-**Version 1.03**
+**Version 1.04**
 
-![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2022 by Brandon Awbrey. This publication maybe reproduced in whole form if fairly attributed for any non-commercial purpose. If you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
+![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2022 by Brandon Awbrey. This publication may be reproduced in whole form if fairly attributed for any non-commercial purpose. If you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
 
 Cover Art and Illustrations ©2022 by Jack Awbrey
 
@@ -434,7 +434,7 @@ PPH would lend itself to always using a new address for each transaction in the 
 
 There will be cases where Scoot wish only to accept transactions with TPH. It's possible to have cases where PPH are used, but the TPH of the PPH is validated to the Scoot trustee. That would require a level of trust maintenance across elections of trustees and may be difficult to enforce.
 
-I believe using TPH to invest in some scoot, and PPHs for others may be the most practical system. The protocol shall handle both cases. Scoot may also implement hybrid models, where perhaps large or majority holders need to reveal TPH but small-scale holders may use PPH. This is essentially how public stock works in some countries, when holdings by large institutions, board members, and company officers are publicly reported, but most holders are publicly anonymous.
+I believe using TPH to invest in some scoot, and PPHs for others may be the most practical system. The protocol shall handle both cases. Scoot may also implement hybrid models, where large or majority holders must reveal TPH but small-scale holders may use PPH. This is essentially how public stock works in some countries, when holdings by large institutions, board members, and company officers are publicly reported, but most holders are publicly anonymous.
 
 The responsibility tree - open or pseudonymous - is very valuable. This system works because the more people who are responsible for an idea, the more valuable that idea becomes. Furthermore, the more responsible people who are responsible for an idea, the more valuable it becomes.
 
@@ -826,7 +826,7 @@ One is Henry Ford; one is Thomas Jefferson. Compare these two men's introduction
 
 I think it's a worthwhile debate. They are two deeply flawed men. How do we judge their flaws relative to the value they created?
 
-Thomas Jefferson, the man who castrated royalty for good, with words both logical and defiant, was a master of men himself. Yet, to his brethren in the colonies, his peers, he was admired and respected, highly valued. In today's values, he was a criminal, holding people hostage and forcing them into labor against their will. Is that ironic? Or is it hypocrisy? Or -- was Jefferson's own internal struggle what gave him words to perfectly define what freedom means?
+Thomas Jefferson, the man who castrated royalty for good, with words both logical and defiant, was a master of men himself. Yet, to his brethren in the colonies, his peers, he was admired and respected, highly valued. In today's values, he was a criminal, holding people hostage and forcing them into labor against their will. Is that ironic? Or is it hypocrisy? Or was Jefferson's own internal struggle what gave him words to perfectly define what freedom means?
 
 Henry Ford mastered a process that was duplicated in millions of peaceful, commercial, and military applications. This led to prosperity throughout the entire world. He might have been the most innovative engineer in American history, greater than Tesla in real value created because his innovation had such broad application.[^26] Yet he hated Jews and used his wealth to influence others with his hate. In his day, he was valued tremendously. In today's value system, he would be canceled. In today's value system, he would not be a criminal, it's a fundamental right to express your opinion, no matter how stupid. You can hate who or what you want. When we talk about moral values, they are seen to be individual choices, our own values. Is it ironic, that Henry Ford, who hated Jews, invented the fundamental processes that allowed American industry to defeat Adolph Hitler, the most powerful antisemite in history?
 
@@ -1020,7 +1020,7 @@ When the agent is hired, he is awarded options to buy some amount of scoot at th
 
 There will be two types of players in the trade of SOA. Speculators in vanity -- who feel the artist may not have long term genius but will have a high income for some period during their lifetimes. And investors in genius -- people who feel the artist will leave a mark on culture beyond their lifetimes.
 
-An artist with a liquid pool of scoot should be able to gauge what the public sentiment is by the direction from polling or formal elections. Direction to decrease dilution would be an indicator that the world thinks his talent is transient. Direction to invest income in future projects would be a good indicator that the world thinks he might have some lasting genius.
+An artist with a liquid pool of scoot should be able to gauge public sentiment by polling or formal elections. Direction to decrease dilution would be an indicator that the world thinks his talent is transient. Direction to invest income in future projects would be a good indicator that the world thinks he might have some lasting genius.
 
 Another consideration is who is in the responsibility tree. Value may be derived by who holds the scoot. If it's just fans or speculators, it's a good indicator that an artist should focus on the present. If the scootage consists of other artists -- especially people the artist admires and respects, that's a good indicator that the artist should make careful career moves and focus on quality over income. If the scootage is held by peers, it might mean there are collaborative opportunities.
 
@@ -1564,7 +1564,7 @@ It wasn't just drummers. I'd heard variations of the theme from guitarists and b
 
 Nai, thirty years later, I finally figured it out. Lars, you've been warned.
 
-The way forward for Drumland is for musicians just to give away their music for free to anybody who wants to hear it. Open Source everything.
+The way forward for Drumland is for musicians to give away their music for free to anybody who wants to hear it. Open Source everything.
 
 You scoot your work, and you say to world, my craft is not property. You can have restrictive licensing, so your work gets turned into a jingle or soundtrack of a blockbuster movie, you get paid. Streaming services or radio want to play it, you get paid. Otherwise, just give it away.
 
@@ -2547,7 +2547,7 @@ The world living as one isn't going to solve our problems. A genius-based wealth
 
 Conflict over ideas is the kind of war we should fight. Not with violence, but with open and free appreciation by all mankind. Not conflict over how much property an idea equates to, but over the value of the ideas themselves. Which ideas improve the lives, reduce hardship, and bring joy to the most people while allowing us to sustain a prosperous and equitable civilization. Those ideas will win. The Foundation is a system designed for that outcome.
 
-France, Bruce Willis, Kevin Costner, Joe Jonas, Apple TV+, Petrochemical Industry, Kawhi Leonard, three-quarters of Metallica, Korea, wine collectors, museum people, and most everyone else I made fun off, please take it in the proper spirit: Through humor we can appreciate the actual value of something.
+France, Bruce Willis, Kevin Costner, Joe Jonas, Apple TV+, Petrochemical Industry, Kawhi Leonard, three-quarters of Metallica, Korea, wine collectors, museum people, and most everyone else I made fun of, please take it in the proper spirit: Through humor we can appreciate the actual value of something.
 
 Canada, Yankees, Dodgers -- I meant every word.
 
