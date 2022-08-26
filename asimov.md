@@ -4,7 +4,7 @@
 
 **SECOND FOUNDATION**
 
-**Version 1.68**
+**Version 1.70**
 
 ![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2023 by Brandon Awbrey. This publication may be reproduced in whole form if fairly attributed for any non-commercial purpose. If you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
 
@@ -284,7 +284,7 @@ Scoot is the vessel for this responsibility.
 
 ![](media/image2.png){width="6.383916229221347in" height="4.5289304461942255in"}
 
-Figure - The Foundation - VALUE AND RESPONSIBLITY DOMAINS
+Figure 1 - The Foundation - VALUE AND RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a legacy of genius. Each Scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via methods in the protocol. Holders of scoot have no rights other than the elective governance of the Scoot, but a responsibility -- a pledge -- to increase the appreciation of the subject of the Scoot.
 
@@ -650,7 +650,7 @@ I also found some difficulty in explaining why the system excluded property, yet
 
 ### Texas Catfish
 
-It's important that The Foundation be a system of legitimate self-governance. As such, it needed to be properly formed. My original plan was for Jay-Z to handle the organization. I wasn't going to sit around and wait for instructions from the crown, just because he wasn't around. Jay-Z never sat around waiting on nobody to make something happen.[^21]
+It's important that The Foundation be a legitimate system of self-governance. As such, it needed to be properly formed. My original plan was for Jay-Z to handle the organization. I wasn't going to sit around and wait for instructions from the crown, just because he wasn't around. Jay-Z never sat around waiting on nobody to make something happen.[^21]
 
 Convincing people that money is unfair is not hard. I braved big-city traffic and arrived downtown H-Town on August 2^nd^, ready to spread the word.
 
@@ -660,7 +660,7 @@ I parked a block away from The Toyota Center. I gave a homeless guy some cash an
 
 He says, *"Hey, man, how about those shoes there, my feet are killing me?"* He interrupts my rap about how I'm trying to start a fair currency for poor people to ask me that. His timing was perfect, respect.
 
-My wife had bought a new pair of A\$i\$a#\$s[^22]. I walk a lot, usually break in my new shoes gradually. I'd planned to spend the day in Fonde Rec Center, in the air-conditioning, so I had worn the new shoes and planned to switch to the broken-in shoes later if I had to walk. The shoes he's looking at are the broken in pair in the back of my vehicle.
+My wife had bought a new pair of A\$i\$a#\$s[^22]. I walk a lot, usually break in my new shoes gradually. I'd planned to spend the day in Fonde Rec Center in the air-conditioning, so I had worn the new shoes and planned to switch to the broken-in shoes later if I had to walk. The shoes he's looking at are the broken-in pair in the back of my vehicle.
 
 "I'm size 12," I say, hoping. He was about 5'6".
 
@@ -672,9 +672,9 @@ I had easily escaped the clutches of an unnamed science fiction themed cult in m
 
 My grandpa taught me the key rule of Texas History. *"When you don't have all the facts, history is usually what makes the best story."*
 
-Grandpa took me fishing as a boy. I didn't get the feeling he was much for fishing, but it was something he'd learned by necessity, and probably thought it was a good idea to teach his grandson. I was very young and the first time, I was excited. He told me stories about fish, and I'm sure I asked what kind of fish, and it was catfish. Brazos Catfish, as a matter of fact. He told me how it looked like, with long whiskers like a cat, and how good they tasted.
+Grandpa took me fishing as a boy. I didn't get the feeling he was much for fishing, but it was something he'd learned by necessity, and probably thought it was a good idea to teach his grandson. I was excited to go fishing. He told me stories about catfish. He told me how it looked like, with long whiskers like a cat, and how good they tasted.
 
-We went fishing, I think I was too young to be useful, but I remember putting a bug on a hook and it was gooey. There was a bank with a beach around a bend in the muddy river. All around the banks were higher, I think he'd carried me down. In fact, I think he was carrying me, a bucket and a pole and a net all at once.[^23] The Brazos is smooth flowing on top but supposedly treacherous underneath. I remember him telling me to stand back from shore while he reeled it in, struggling. I imagine the real struggle was concentrating on the fish while making sure his grandson didn't jump in the river. It's flopping around in the net and grandpa grabs it by the gill and the next part is too graphic, but after a flurry of activity the fish is there, flopping very slowly on the sand, and it stops moving and I can finally see it clearly. A boy from any other state would be crying at this point, how ugly and scary this catfish looks.
+We went fishing, I think I was too young to be useful, but I remember putting a bug on a hook and it was gooey. There was a bank with a beach around a bend in the muddy river. All around the banks were higher he'd carried me down. In fact, I think he was carrying me, a bucket and a pole and a net all at once. The Brazos is smooth flowing on top but treacherous underneath. I remember him telling me to stand back from shore while he reeled it in, struggling. I imagine the real struggle was concentrating on the fish while making sure his grandson didn't jump in the river. It's flopping around in the net and grandpa grabs it by the gill and the next part is too graphic, but after a flurry of activity the fish is there, flopping very slowly on the sand, and it stops moving and I can finally see it clearly. A boy from any other state would be crying at this point, how ugly and scary this catfish looks.
 
 "Grandpa, that's ugly and don't look like a cat."
 
@@ -708,13 +708,13 @@ The Private Staking period lasts until the stake distribution is calculated and 
 
 The closing of the private staking period and calculation of the distribution will require unanimous ratification of the board. The board and the electorates are described in [Governance](#governance).
 
-Trading will only be validated in the responsibility domain. This means during the private staking period, asimov and scoot exist in a closed system, exclusive of currency and property. During the private staking period, asimov is a metric of the value of the exchange of scoot.
+Trades will only be validated in the responsibility domain. This means during the private staking period, asimov and scoot exist in a closed system, exclusive of currency and property. During the private staking period, asimov is a metric of the value of the exchange of scoot.
 
 ### Distribution
 
-The Foundation will be staked in units and subunits of asimov. The subunit of asimov is the isaac. One thousand isaacs are equal to an asimov.
+The Foundation will be staked in units and subunits of asimov. The subunit of asimov is the isaac. One thousand isaacs are equal to an asimov.[^23]
 
-The private staking period will end with a unanimous vote of the board that the sum of the ideas appreciated in all scoot-chains is equivalent to or greater than the genius of one Asimov.
+The private staking period will end with a unanimous vote of the board that the sum of the ideas appreciated in the aggregate scoot-chains is equivalent to or greater than the genius of one Asimov.
 
 This is an arbitrary and time biased opinion. Isaac Asimov was a writer and a great thinker. If self-driving cars take over the world and enslave the human population because some techno-dweeb forgot to implement the ***Three Laws of Robotics***[^24] Asimov's genius will probably challenge the weight of Moses or Siddhartha. On the other hand, history is littered with the scribblings of writers who pointed out problems but didn't do anything to fix them. Genius is relative.
 
@@ -722,9 +722,15 @@ There is an alternative method of invoking the distribution. The Mule may be rat
 
 #### Distribution algorithm
 
-Stakes are assigned indexes beginning with one, in the order they are staked. Each stake will be assigned a multiplier ({$Number\ of\ stakes\ \}) - index\}.$ This multiplier is the distribution factor of the stake.
+Stakes are assigned indexes beginning with one, in the order they are staked. At distribution, each stake will be assigned a multiplier.
 
-If The Mule is selected, 49% of the asimov in the private staking pool, a total of 2.450 Billion will be staked to The Mule. The remainder of the 2.550 Billion, minus actual staked asimov, shall be divided proportionally after applying the distributional factor to individual stakes. This means the earliest stakes will have a proportionally larger distribution than those that come later.
+$Multiplier = (Number\ of\ stakes\ ) - stake\ index$
+
+This multiplier is the distribution factor of the stake.
+
+If The Mule is ratified, 49% of the asimov in the private staking pool (a total of 2.450 billion asimov) will be staked to The Mule. The remainder (2.550 Billion) shall be divided proportionally after applying the distributional factor to individual stakes. This means the earliest stakes will have a proportionally larger distribution than those that come later.
+
+If the board elects distribution without selecting The Mule, then the entire 5 billion private stake tranche will be divided among the stakes proportionally after applying the distribution factor to individual stakes.
 
 Most of the electoral power for The Foundation lies outside of asimov and is controlled by the responsibility domain. This prevents The Mule from having a larger influence in the bootstrap phase of The Foundation. The electorates are described in the [Governance](#governance) section.
 
@@ -740,7 +746,7 @@ The sum of the encumbered scoot as well as the number of stakers, staking period
 
 The stake weight of a Scoot is a fundamental measurement used in the protocol as a method of flow control and separation of staking networks. Conceptually, this means that stakeholders have a high level of control in what ideas their network trades in.
 
-The time commitment is intentional, staking is not speculation. Staking is commitment to ideas you believe in.[^25]
+The time commitment is intentional. Staking is not speculation. Staking is commitment to ideas you believe in.[^25]
 
 #### Appreciation Stakes
 
@@ -766,7 +772,7 @@ Irrevocable means the committed property is a gift to humanity for the purpose o
 
 Irrevocable commitment stakes are a way for a Scoot to accept seed money for operations. The ratio of exchange is arbitrary and determined by Scoot.
 
-Second Foundation shall only commit to a single Revokable Commitment Stake, as specified in The Mule chapter.
+Second Foundation shall only accept a single Revokable Commitment Stake, as specified in The Mule chapter.
 
 ### Staking Codes
 
@@ -774,7 +780,7 @@ Second Foundation shall only commit to a single Revokable Commitment Stake, as s
 
 https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA5331EEE514E093
 
-1000 valid staking codes have been created. Staking codes are used to earn stakes through appreciation or commitment of some content value.
+One thousand valid staking codes have been created. Staking codes are used to earn stakes through appreciation or commitment of some content value.
 
 Staking codes may be used multiple times, but they are time locked after each usage. Staking codes used by suspected bots or AI will be invalidated.
 
@@ -784,13 +790,13 @@ Commitment stakes require establishing an email communication with Second Founda
 
 #### Linked Stakes
 
-It is critical to the functioning of the system is that the Foundation be a legitimate system of governance, run by responsible people and not machines or legal entities.
+It is critical that the Foundation be a legitimate system of governance, run by responsible people and not machines or legal entities.
 
-Through people known to each other, you can establish a strong linked chain.
+Through people known to each other in the material world, a chain of linked pledges can be established.
 
-By using linked stakes, we can establish a legitimate organization of people, prior to establishing the infrastructure required for deterministic pledge identification. This is a recursive bootstrap, we need a governance system to supervise the installation of the infrastructure.
+By using linked stakes, we can establish a legitimate organization of people, prior to establishing the infrastructure required for deterministic pledge identification. This is a recursive bootstrap, we need a governance system to fund, design, supervise and regulate Second Foundation's security infrastructure.
 
-All linked stakes are contingent upon identity validation before and distribution occurs.
+All linked stakes are contingent upon identity validation before a pledge's addresses are validated.
 
 If you're interested in directly participating in The Foundation, make a commitment stake, and request a linked staking code.
 
@@ -814,11 +820,11 @@ The Mule could be anybody, except Steph Curry or John Stockton. Some potential c
 
 During public staking, each new pledge who registers with Second Foundation shall receive one asimov. This is the public staking period, which begins after the distribution is calculated and private staking period ends.
 
-The public staking tranche consists of 5 billion asimov. Once depleted, asimov will no longer be assigned to new pledges.
+The public staking tranche consists of 5 billion asimov. Once depleted, asimov will no longer be awarded to new pledges.
 
 The Second Foundation shall implement novel methods to ensure that the initial pledge recruitment is equitable across both geographical and class divisions. Second Foundation will only operate in countries where we are invited by the local population.
 
-Second Foundation only requires identification of pledges as unique human being. Local governments may wish that we collect additional information in their juristicturions. Operation and compliance in any jurisdiction is a deliberative manner for the Second Foundation's board to decide. The [Provisional Board](#provisional-board) shall decide which jurisdiction to first stake Second Foundation.
+Second Foundation only requires identification of pledges as unique human being. Local governments may wish that we collect additional information within their jurisdiction. Operation and compliance within any jurisdiction is a deliberative manner for the Second Foundation's board to consider. The [Provisional Board](#provisional-board) establish Second Foundation as a legal entity.
 
 ### National Stakes
 
@@ -842,11 +848,9 @@ The goal should be asimov as a base currency -- for both other crypto-currencies
 
 As a base currency, the protocol needs to stand on its own and not be dependent on any existing platforms.
 
-I've got a real clear idea about the requirements of the protocol, and it's a simple implementation that is scalable and secure. I will outline a protocol with an extensible crypto layer for staking and transactions processing, including governance and elections. There will be another extensible layer for The Foundation's validation of identity, it'll be open, but that's an area we'll need to understand government grade security and how to do it with an open protocol. There is a very specific legal reason I have not released the protocol document at the time of this printing.
+The Scoot^2^ Protocol is under development. When ready, the location of the protocol code shall be published here:
 
-The base Scoot protocol will be implemented in C on Linux, and the idea will be that most nodes will be in the same data center. When ready, I will publish location of the protocol code here:
-
-<http://www.geniusandvanity.org/scoot_protocol>
+http://www.geniusandvanity.org/scoot_protocol
 
 ## Outreach Faucet 
 
@@ -1024,7 +1028,7 @@ The creators of digital stone will be the last generation to create indeterminis
 
 I think *South Park* is the perfect chronicle for the last twenty-five years of history. If the future looks at all the primary sources and tries to figure out what the hell we were thinking, *South Park* will be the only way they'll be able to frame it. Through the eyes of children, you can understand the world, just like *Huck Finn*. How else can we understand the absurd?
 
-On our current path, there will be a large job market for historians in the furture. The historians will just sit around all day long and watch YouTubes and TikToks from the 20s trying to understand our ideas and motivations.
+On our current path, there will be a large job market for historians in the future. The historians will just sit around all day long and watch YouTubes and TikToks from the 20s trying to understand our ideas and motivations.
 
 In the future, telling your mom you're going to be a historian is equivalent to saying, "Don't clean out my room, I'll be sticking around for a bit." Come to think of it, that's what telling your mom you're going to be a historian means now. Talk about a zero-accountability profession, we keep making the same mistakes and historians get to write the same stories over and over.
 
@@ -1490,7 +1494,7 @@ Companies whose primary value contribution to the economy is intellectual proper
 
 There is a role for the corporation in the genius economy. Maybe corporate overlords and their drones transform themselves into the experienced and disciplined samurai warriors, plying their trade as gig workers in the genius economy. Or maybe the corporate structures transform into an analog of the coaching staff of team sports -- they play a strategic game and put teams of pledges to work together towards a common purpose in the responsibility domain, but do not take the field themselves.
 
-I don't think corporate American will feel threatened by this idea. If they do, they can blame James Harden. If I'd been watching winning Rockets basketball the past year, I'd spend all my free time between games thinking about how fun it would be to watch the next game, and I would still be a property-happy corporate drone. Sorry, James, if that hurts your future endorsement contracts with the corporate overlords. Taste a little instant karmic soup. It's good for the soul, but a little messy to slurp with a beard.
+I don't think corporate American will feel threatened by this idea. If they do, they can blame James Harden. If I'd been watching winning Rockets basketball, I'd spend all my free time between games thinking about how fun it would be to watch the next game, and I would still be a property-happy corporate drone. Sorry, James, if that hurts your future endorsement contracts with the corporate overlords. Taste a little instant karmic soup. It's good for the soul, but a little messy to slurp with a beard.
 
 I think corporate American will be dismissive. It's hard for the corporate mind to fathom this as a realistic way to do things. Most of the people running corporate America have been programmed to understand you create value by selling something.
 
@@ -4177,7 +4181,7 @@ James was amazed.
 
 ![A picture containing text Description automatically generated](media/image11.jpeg){width="3.5828062117235344in" height="3.8472222222222223in"}
 
-Figure - sketch of cave drawing from James Naismith\'s notebook
+Figure 7 - sketch of cave drawing from James Naismith\'s notebook
 
 "Yeah, your dad would come up here every day for a few hours, as long as he could take it, smoke builds up pretty quick, and it is hard to see the entire picture at once, so he would take his time, do his doodles, then head out for a breather."
 
@@ -4485,7 +4489,7 @@ August 2^nd^, 2022
 +-----------+------------+--------+----------------------------------+
 | 1.63      | 3/3/2023   | 1      | Second Foundation                |
 +-----------+------------+--------+----------------------------------+
-| 1.65      | 4/6/2023   |        | WIP                              |
+| 1.69      | 4/6/2023   |        | WIP                              |
 +-----------+------------+--------+----------------------------------+
 
 # Chapter Coding 
@@ -4500,7 +4504,7 @@ August 2^nd^, 2022
 
 SECOND FOUNDATION
 
-**Version 1.68**
+**Version 1.70**
 
 Dick Scobee
 
@@ -4562,11 +4566,13 @@ He was.
 
 Both.
 
-The tragedy is what stands out in my memory, what happened after. There was a lot of expectation in the news and among Houston schoolteachers about a teacher in space. We were freshmen boys, I'm sure we mocked it. My youngest kid that is that same age now, his disdain for teachers matches mine, for the same reason. People are complex, and kids see things through their direct experience first until they've experienced more.
+The tragedy is what stands out in my memory, what happened after. It was only half a year between the camp and the accident, but in a teenager's timeline it might have well been a decade.
 
-I have no memory of knowing that Dick Scobee was commander of the teacher-in-space mission ahead of the tragedy. I bet my mom told me and I tuned it out. That day, realizing what it meant after the fact, was sickening. That memory became a stake in my identity. How shallow we can really be.
+There was a lot of expectation in the news and among Houston schoolteachers about a teacher in space. We were freshmen boys, I'm sure we mocked it. My youngest kid that is that same age now, his disdain for teachers matches mine, for the same reason. People are complex, and kids see things through their direct experience first until they've experienced more. Raising teenagers sure does change your perspective on being a teenager.
 
-I can't blame teenagers for their thoughts on teachers and authority. Look how long it took me to realize that this gift was the greatest leverage in terms of actual earning potential in my life. I was 51 years old, when I realized this after finishing the book. I was 14 when I went to that summer camp. 37 years. I have made a career directly out of what June taught me I could do in a free summer camp.
+I have no memory of knowing that Dick Scobee was commander of the teacher-in-space mission ahead of the tragedy. I bet my mom told me and I tuned it out. That day, realizing what it meant after the tragedy, was sickening. That memory became a stake in my identity. How shallow we can really be.
+
+I can't blame teenagers for their thoughts on teachers and authority. Look how long it took me to realize how valuable this gift I received from June Scobee was. It was the greatest leverage in terms of actual earning potential in my life. I was 51 years old when I realized this after finishing writing the book. I was 14 when I went to that summer camp. 37 years. I have made a career directly out of what June taught me I could do in a free summer camp.
 
 This is where the story diverges from what most teachers would want.
 
@@ -4594,7 +4600,7 @@ I remember I'd been programming in C++ for about two years when I finally got so
 
 That memory is truth. How leveraged by the past we are. My bag of tricks in programing was like a cheat code in a game to him. He'd had to solve all these puzzles himself, through incredible hours of focused thought. Every time I ran into a difficult programming problem -- even in 1998 -- all I had to do was write the problem clearly in English and type it into a search engine and I'd come up with at least a hundred ways somebody had solved the same problem.
 
-Leverage is the prime component of any engineering task. Digital leverage is the most powerful tool man has every created. That is because all engineering is digital engineering. Good engineers in every field are the ones that use software as a tool. *Engineers are responsible for the tools they use*. That's the most valuable engineering lesson. The sooner engineers understand that basic toolset, the more effective engineers they will be. All industries are potential innovation frontiers for young people trained to use digital tools.
+Leverage is the prime component of any engineering task. Digital leverage is the most powerful tool man has every created. That is because all engineering is digital engineering. Good engineers in every field are the ones that use software as a tool. *Engineers are responsible for the tools they use*. That's the most valuable engineering lesson. The sooner engineers understand their basic toolset, the more effective engineers they will be. All industries are potential innovation frontiers for young people trained to use digital tools.
 
 Not everybody has it. It's not the same as being good at math. The math we use in integrative thinking is very simple. I do think it can be identified through testing and evaluation.
 
@@ -4604,13 +4610,13 @@ It seems like most kids play some sort of digital games, and that is probably a 
 
 Some kids are good at games because they have perhaps innate-talent -- maybe. Games are designed by people who like to play games, so there's a level of insight you can gain from that.
 
-There are other kids, who are given a game, will eventually figure it out. You can study those kids, and sort of by watching studying the choices they make, figure out the deductive logic they are using. Some will follow deductive paths. Others might just use monkey-with darts and make a mental or digital or physical[^124] note and build a map. Both are optimal strategies of finding the best solution, and both are integrative ability. The map strategy requires many more iterations but is valid since that's how. It's very easy to design experiments to iterate through a set of possibilities, that's the leverage of Moore's Law. Digital games usually make you go through a lot of work to do that, so kids with this ability may tend to give p more easily.
+There are other kids, who are given a game, will eventually figure it out. You can study those kids, and sort of by watching studying the choices they make, figure out the deductive logic they are using. Some will follow deductive paths. Others might just use monkey-with darts and make a mental or digital or physical note and build a map. Both are good strategies to find a solution, and both are demonstrations of integrative ability. The map strategy requires many more iterations but. It's very easy to design experiments to iterate through a set of possibilities, that's the leverage of Moore's Law. Digital games usually make you go through a lot of work to do that, so kids with this ability may tend to give p more easily.
 
 Other kids, might just be lucvky or extra-leverage -- used a cheat code. That's extra integrative levelarge -- exactly what I do when I google for a solution. That approach is a fair way to study and find kids that are can become useful engineers.
 
 I'm neither of those types. I know how to do both approaches. The map is the best way, if you can iterate and have the people who can think it through, but there's a bunch of tricks I have in my bags, I use the one that I have to at the moment. It's just different strategies, using a common toolset -- code.
 
-You find those kids, where ever they are, teach them to code in a summer camp, and they will have a valuable and marketable skill that they can use directly in almost any endeavor in life. More directly, you make sure these kids have oppooutuniy to develop that skill in direct and equitable ways. Applied learning is driven by the desire to increase earnings where school is driven by a majority of kids want it to be over. Having a real chance at a really high paid profession is a easy motivater that leverages all parties involved. Dedication, but knowing you have the basic skills is all it takes.
+You find those kids, wherever they are, teach them to code in a summer camp, and they will have a valuable and marketable skill that they can use directly in almost any endeavor in life. More directly, you make sure these kids have opportunity to develop that skill in direct and equitable ways. Applied learning is driven by the desire to increase earnings where school is driven by a majority of kids want it to be over. Having a real chance at a really high paid profession is a easy motivater that leverages all parties involved. Dedication, but knowing you have the basic skills is all it takes.
 
 Learning to code changed my life directly. So, thanks, mom for sending me to the free NASA nerd camp.
 
@@ -4636,7 +4642,7 @@ How to teach a bunch of smart-ass fourteen year olds? No clue. Not one single ou
 
 I'm going to ask June Scobee Rodgers how to make this camp happen. And how to apply to kids who need that leverage the most. First, but not only, in Houston, then everywhere. Kids play games on electronic device in every country. Billionaires want to put devices in every childs hands. She'll know how to leverage that and still protect the kids. We can't study kids without kids permission, but the truth is that I'm pretty sure gamemakers already know this stuff and there are probably studies already to leverage. I'm not an expert on how to idetinfy kids with developing ability. I'm just an 80s model test-subject.
 
-How to teach a kid to code? I mean, I tried teaching 3^rd^ and 4^th^ graders to play team baskeball at the why, and succeed, well, for the same reason Steve Kerr succeeds as a coach. The YMCA assigned y team identical twin-Steph Currys.[^125]
+How to teach a kid to code? I mean, I tried teaching 3^rd^ and 4^th^ graders to play team baskeball at the why, and succeed, well, for the same reason Steve Kerr succeeds as a coach. The YMCA assigned y team identical twin-Steph Currys.[^124]
 
 It\'s obvious who could benefit from this in both altruistic and profit senses, but the talent pipeline of committed kids -- who took summer camp seriously, actually learned a challenging skill -- would be more valuable than selling kids a game. Do games really develop valuable skill sets? I don't really play games, I'm not going to judge.
 
@@ -4688,6 +4694,8 @@ Steve engrained in me the notion that engineers are responsible for the tools th
 
 This work is dedicated to Steve Fairchild.
 
+*Scoot^2^ is money, y'all!*
+
 The Foundation Is Gratitude
 
 [^1]: The Gold Standard died for good in 1976 when I was in kindergarten. In school, I was taught the gold standard. I guess they thought floating currency is too complex to explain to a kid. I guess is it won't be long before they have to teach Elliptic-curve cryptology in the first grade, or else kids won't understand money. This disparity between the understanding of money and its actual function is what we should be trying to solve. Shared values between cultures need to be understood fundamentally, not just agreed to as a formality a bunch of economists or coders came up with.
@@ -4734,11 +4742,11 @@ The Foundation Is Gratitude
 
 [^22]: Yes, James I still wear your shoes. They're the only ones don't hurt my feet.
 
-[^23]: Future grandchildren's parents, remember, my grandpa was a real country boy and I was raised in the suburbs exactly like you were. I don't fish. Your kid is safe with me, I'm taking them to Rockets and Astros games in an Uber Black with a five star rating.
+[^23]: I like irregular fractions like [Prime Shards](#appendix-c-prime-shards). Asimov was a big proponent of the metric system: <https://themetricmaven.com/asimov-and-metric-prefixes/> Dropping a Dîme in the value domain is one-tenth of an asimov or a centi-asimov or 100 isaacs.
 
 [^24]: https://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 
-[^25]: The protocol shall provide a method to "unstake." How and when to grant a pledge permission to unstake shall be determined by the governance of a Scoot.
+[^25]: The protocol shall provide a method to "unstake." How and when to grant a pledge permission to unstake shall be specified in the charter and genesis block.
 
 [^26]: Backoff Musk, it's not you. The Mule was a hidden figure, hidden in plain sight. Oh wait, what... Twitter. Dude, we're reading the same books.
 
@@ -4936,6 +4944,4 @@ The Foundation Is Gratitude
 
 [^123]: It's Texas History, even though it happened in Colorado. Scoot was in Houston, that's for sure.
 
-[^124]: Not this notetaker, but probably you, reader, since you're reading the footnotes.
-
-[^125]: I promised not to embellish but I really want to say clones.
+[^124]: I promised not to embellish but I really want to say clones.
