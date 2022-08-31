@@ -4,7 +4,7 @@
 
 **SECOND FOUNDATION**
 
-**Version 1.70**
+**Version 1.71**
 
 ![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2023 by Brandon Awbrey. This publication may be reproduced in whole form if fairly attributed for any non-commercial purpose. If you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
 
@@ -284,7 +284,7 @@ Scoot is the vessel for this responsibility.
 
 ![](media/image2.png){width="6.383916229221347in" height="4.5289304461942255in"}
 
-Figure 1 - The Foundation - VALUE AND RESPONSIBLITY DOMAINS
+Figure - The Foundation - VALUE AND RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a legacy of genius. Each Scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via methods in the protocol. Holders of scoot have no rights other than the elective governance of the Scoot, but a responsibility -- a pledge -- to increase the appreciation of the subject of the Scoot.
 
@@ -658,9 +658,9 @@ Struck pure virgin irony with my first conversation.
 
 I parked a block away from The Toyota Center. I gave a homeless guy some cash and asked him for the inside scoop, which entrance the office workers and staff go through. I was pulling stuff out of my Jeep, while I told him about Scoot. I gave him a cold bottle of water from my cooler.
 
-He says, *"Hey, man, how about those shoes there, my feet are killing me?"* He interrupts my rap about how I'm trying to start a fair currency for poor people to ask me that. His timing was perfect, respect.
+He says, *"Hey, man, how about those shoes there, my feet are killing me?"* He interrupts my rap about how I'm trying to start a fair currency for poor people to ask me that. His timing was perfect. Respect.
 
-My wife had bought a new pair of A\$i\$a#\$s[^22]. I walk a lot, usually break in my new shoes gradually. I'd planned to spend the day in Fonde Rec Center in the air-conditioning, so I had worn the new shoes and planned to switch to the broken-in shoes later if I had to walk. The shoes he's looking at are the broken-in pair in the back of my vehicle.
+My wife had bought a new pair of A\$\*\$a#\$s[^22]. I walk a lot, usually break in my new shoes gradually. I'd planned to spend the day in Fonde Rec Center in the air-conditioning, so I had worn the new shoes and planned to switch to the broken-in shoes later if I had to walk. The shoes he's looking at are the broken-in pair in the back of my vehicle.
 
 "I'm size 12," I say, hoping. He was about 5'6".
 
@@ -672,9 +672,9 @@ I had easily escaped the clutches of an unnamed science fiction themed cult in m
 
 My grandpa taught me the key rule of Texas History. *"When you don't have all the facts, history is usually what makes the best story."*
 
-Grandpa took me fishing as a boy. I didn't get the feeling he was much for fishing, but it was something he'd learned by necessity, and probably thought it was a good idea to teach his grandson. I was excited to go fishing. He told me stories about catfish. He told me how it looked like, with long whiskers like a cat, and how good they tasted.
+Grandpa took me fishing as a boy. I didn't get the feeling he was much for fishing, but it was something he'd learned by necessity, and probably thought it was a good idea to teach his grandson. I was excited to go fishing. He told me stories about catfish. He told me how they looked, with long whiskers like a cat, and how good they tasted.
 
-We went fishing, I think I was too young to be useful, but I remember putting a bug on a hook and it was gooey. There was a bank with a beach around a bend in the muddy river. All around the banks were higher he'd carried me down. In fact, I think he was carrying me, a bucket and a pole and a net all at once. The Brazos is smooth flowing on top but treacherous underneath. I remember him telling me to stand back from shore while he reeled it in, struggling. I imagine the real struggle was concentrating on the fish while making sure his grandson didn't jump in the river. It's flopping around in the net and grandpa grabs it by the gill and the next part is too graphic, but after a flurry of activity the fish is there, flopping very slowly on the sand, and it stops moving and I can finally see it clearly. A boy from any other state would be crying at this point, how ugly and scary this catfish looks.
+We went fishing, I think I was too young to be useful, but I remember putting a bug on a hook and it was gooey. There was a bank with a beach around a bend in the muddy river. All around the banks were higher, he'd carried me down. In fact, I think he was carrying me, a bucket and a pole and a net all at once. The Brazos is smooth flowing on top but treacherous underneath. I remember him telling me to stand back from shore while he reeled it in, struggling. I imagine the real struggle was concentrating on the fish while making sure his grandson didn't jump in the river. This fish is flopping around in the net and grandpa grabs it by the gill and the next part is too graphic, but after a flurry of activity the fish is there, flopping very slowly on the sand, and it stops moving and I can finally see it clearly. A boy from any other state would be crying at this point, how ugly and scary this catfish looks.
 
 "Grandpa, that's ugly and don't look like a cat."
 
@@ -728,7 +728,7 @@ $Multiplier = (Number\ of\ stakes\ ) - stake\ index$
 
 This multiplier is the distribution factor of the stake.
 
-If The Mule is ratified, 49% of the asimov in the private staking pool (a total of 2.450 billion asimov) will be staked to The Mule. The remainder (2.550 Billion) shall be divided proportionally after applying the distributional factor to individual stakes. This means the earliest stakes will have a proportionally larger distribution than those that come later.
+If The Mule is ratified, 49% of the asimov in the private staking pool (a total of 2.450 billion asimov) will be staked to The Mule. The remainder (2.550 billion asimov) shall be divided proportionally after applying the distributional factor to individual stakes. This means the earliest stakes will have a proportionally larger distribution than those that come later.
 
 If the board elects distribution without selecting The Mule, then the entire 5 billion private stake tranche will be divided among the stakes proportionally after applying the distribution factor to individual stakes.
 
@@ -741,6 +741,8 @@ Stakes are a commitment to the idea a Scoot appreciates. Stakes are made in exch
 Staked scoot are encumbered on their respective scoot-chain and may not be traded during the staking period. Stake encumbered scoot may not be traded but they can still exercise voting privileges.
 
 Second Foundation stakes -- stakes in asimov - will be encumbered for 10 years.
+
+#### Stake Weight
 
 The sum of the encumbered scoot as well as the number of stakers, staking period and the measurable property value are inputs to a calculation known at the stake weight.
 
@@ -780,13 +782,13 @@ Second Foundation shall only accept a single Revokable Commitment Stake, as spec
 
 https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA5331EEE514E093
 
-One thousand valid staking codes have been created. Staking codes are used to earn stakes through appreciation or commitment of some content value.
+There are one thousand valid staking codes. Staking codes are used to earn stakes through appreciation or commitment of some content value.
 
-Staking codes may be used multiple times, but they are time locked after each usage. Staking codes used by suspected bots or AI will be invalidated.
+Staking codes may be used multiple times, but they are time locked after each usage. Staking codes used by suspected bots or AI may be invalidated.
 
 Appreciation stakes are anonymous and accessed with a word-key. They may be converted to full pledge stakes at any time during the private staking period.
 
-Commitment stakes require establishing an email communication with Second Foundation.
+Commitment stakes require establishing a communication channel with Second Foundation.
 
 #### Linked Stakes
 
@@ -802,9 +804,9 @@ If you're interested in directly participating in The Foundation, make a commitm
 
 ### The Mule
 
-In Asimov's *Foundation* epic, the Mule was a leader who threatened Foundation's growing federation of trading planets who had quickly gained power in the outer regions of the galaxy. The empire, as Hari Sheldon had predicted, had fallen, and war broke out through the realm.
+In Asimov's *Foundation* epic, the Mule was a leader who threatened Foundation's growing federation of trading planets. Using his mutant powers, he conquered the outer regions of the galaxy. The empire, as Hari Sheldon had predicted, had fallen, and war broke out through the realm.
 
-The Mule was a mutant, a disfigured freak, who remained in the shadows[^26] and controlled people through his mental powers. He was a pathetic figure, horrendous who all who saw him. He controlled emotions telepathically with his mutant powers. He would bend people to his will.
+The Mule was a disfigured freak, who remained in the shadows[^26] and controlled people through his mental powers. He was a pathetic figure, horrifying to all who saw him. He controlled emotions telepathically with his mutant powers. He would bend people to his will.
 
 In Awbrey's Second Foundation, the Mule is an entity that stakes The Foundation with something of material value. This opens the value domain. The value domain is the trade in asimov in exchange for property.
 
@@ -812,7 +814,7 @@ The Mule is an individual or entity that stakes a single Revokable Commitment St
 
 This property stake would be held by Second Foundation, in escrow. Legal defense of this property would be the burden of The Mule.
 
-The Mule benefits by being the great equalizer and holding the largest portion of asimov. As Described in Governance chapter, the election of at least three board members is required before an agreement can be reached with The Mule. This should prevent The Mule from corrupting the process of equalization.
+The Mule benefits by being the great equalizer and holding the largest portion of asimov. The election of at least three board members is required before an agreement can be reached with The Mule. This should prevent The Mule from corrupting the process of equalization.
 
 The Mule could be anybody, except Steph Curry or John Stockton. Some potential candidates are King Charles III, Satoshi Nakamoto or Bill Gates.
 
@@ -824,7 +826,7 @@ The public staking tranche consists of 5 billion asimov. Once depleted, asimov w
 
 The Second Foundation shall implement novel methods to ensure that the initial pledge recruitment is equitable across both geographical and class divisions. Second Foundation will only operate in countries where we are invited by the local population.
 
-Second Foundation only requires identification of pledges as unique human being. Local governments may wish that we collect additional information within their jurisdiction. Operation and compliance within any jurisdiction is a deliberative manner for the Second Foundation's board to consider. The [Provisional Board](#provisional-board) establish Second Foundation as a legal entity.
+Second Foundation only requires identification of pledges as unique human being. Local governments may wish that we collect additional information within their jurisdiction. Operation and compliance within any jurisdiction is a deliberative manner for the Second Foundation's board to consider.
 
 ### National Stakes
 
@@ -1070,7 +1072,7 @@ I suspect the more likely path for those countries with a nostalgia for runaway 
 
 **Authorization Hash :#706F6F7273706172656861727279**
 
-**Encyclopedist Handle:hakeemala17 -- PID(80201042921)**
+**Encyclopedist:hakeemala17 -- PID(80201042921)**
 
 **Date:09/08/2522**
 
@@ -1722,6 +1724,8 @@ I think we will see a comeback in patronage as the property rich devise ways to 
 
 The concept is simple -- more public value is created when an idea is appreciated by more people. The economics must adjust to that. Giving away your work creates more value than selling it, and if your work is digital, the cost of distributing your product is negligible.
 
+[]{#_Collecting_Responsibility .anchor}
+
 # Collecting Responsibility
 
 While I've never had that special thrill that supposedly comes with viewing a masterpiece in person, I've tried. Maybe if I'd gone to an art museum before cell phones, it could have worked. People elbowing me out of the way to snap selfies apparently has a dissonant effect on my Zen. This is not to imply I don't believe there is something special. There must be.
@@ -1752,7 +1756,7 @@ Vanity is a motivator -- use it correctly, who knows, you could be President. Wh
 
 I'd originally gone down this path of thinking, because while I'd worked out the basics of a metric of value system based on physical artwork, I'd struggled with some inconsistencies. For instance, what separates fine art from decoration? Why is one object a silly collectable, or an antique, and another a historical artifact? I was also struggling with the unfairness of valuing artists that produce physical art over those whose media is essentially digital. Musicians, writers, photographers and even basketball geniuses. I was struggling trying to create a value system from something, in all honesty, I didn't personally value that much.
 
-I thought of the basketball gift. I liked starting with a sports analogy and contrasting that with my postcard. Modern currencies, fiat and crypto, aren't really relatable to most people, because they are difficult to understand. So is the art world. Few people, even the wealthy, can fathom paying more for a painting than it costs to send a kid to college. More people can relate to sports, and we can all imagine getting paid what professional athletes get paid. Virtually all people use money, few understand it, and this leads to a disparity of value. People who count every penny live in the same society and supposedly under the same rules as people who throw around millions on vanity and sometimes pure waste.
+I thought of the basketball gift. I liked starting with a sports analogy and contrasting that with my postcard. Modern currencies, fiat and crypto, aren't relatable to most people, because they are difficult to understand. So is the art world. Few people, even the wealthy, can fathom paying more for a painting than it costs to send a kid to college. More people can relate to sports, and we can all imagine getting paid what professional athletes get paid. Virtually all people use money, few understand it, and this leads to a disparity of value. People who count every penny live in the same society and supposedly under the same rules as people who throw around millions on vanity and sometimes pure waste.
 
 I'd already crossed the threshold of making the holders of artwork a commitment of responsibility, not ownership. This was a technical decision, because I needed to keep the responsibility domain clean of property, so that the responsibility domain could act as equalizer between different tastes and cultural biases and provide a common metric in asimov.
 
@@ -1794,7 +1798,7 @@ Da Vinci drew pictures of flying machines, Olajuwon wore rockets on his uniform,
 
 Colonel Scobee served no master. He volunteered to become an astronaut. Shamefully for the rest of us Americans, there was very little glory left in space exploration by 1986. Scobee started out as an enlisted engine mechanic in the Air Force, working his way through school while raising a family, becoming an officer and a pilot, then risking his life over the skies of Vietnam in combat. He became a test pilot and then joined NASA as an astronaut. He spent his entire adult life in service to his country. He sacrificed his life in the pursuit of an ideal. He will forever be a genius and a hero.
 
-*Challenger* was a tragedy, and many questioned the expense in terms of human lives and taxpayer dollars. After a thorough investigation and corrective action, in September of 1988 *Discovery* returned to space. NASA flew 110 more missions after *Challenger*, and while we lost *Columbia* during reentry, we never lost another shuttle during launch. We launched dozens of satellites, performed thousands of scientific experiments, built the International Space Station, and spawned a private space industry. There are no billionaires in space without the sacrifice of the crew of STS-51.
+*Challenger* was a tragedy, and many questioned the expense in terms of human lives and taxpayer dollars. After a thorough investigation and corrective action, in September of 1988 *Discovery* returned to space. NASA flew 110 more missions after *Challenger*, and while we lost *Columbia* during reentry, we never lost another shuttle during launch. We launched dozens of satellites, performed thousands of scientific experiments, built the International Space Station, and spawned a private space industry. There are no billionaires in space without the sacrifice of the crew of STS-51-L.
 
 History becomes myth when the details are forgotten. I think it's a fallacy to think that myths are more powerful than history. The magic -- the inspiration -- is much more powerful when there is evidence that it happened. This simple fact is the dividing line between mythology and religion. Religious stories are all powerful when they are believed to be history.
 
@@ -2510,7 +2514,7 @@ One way to implement this is for the Foundation to hire independent traders, and
 
 A quorum of at least eleven pledges shall be formed through linked stakes. They shall first elect the engineer. The engineer's term shall be prorated and end at the next decade boundary.[^94]
 
-The quorum should also elect two popular trustee from it's members. The two popular trustees and the engineer shall form the provisional board. The provisional board's first order of business is to write a charter.
+The quorum should also elect two popular trustees. he two popular trustees and the engineer shall form the provisional board. The provisional board's first order of business is to write a charter.
 
 # Origins
 
@@ -4181,7 +4185,7 @@ James was amazed.
 
 ![A picture containing text Description automatically generated](media/image11.jpeg){width="3.5828062117235344in" height="3.8472222222222223in"}
 
-Figure 7 - sketch of cave drawing from James Naismith\'s notebook
+Figure - sketch of cave drawing from James Naismith\'s notebook
 
 "Yeah, your dad would come up here every day for a few hours, as long as he could take it, smoke builds up pretty quick, and it is hard to see the entire picture at once, so he would take his time, do his doodles, then head out for a breather."
 
@@ -4379,7 +4383,7 @@ The first sketch had a plaque.
 
 "Daryl, Harold, Farrell, Carol, it don't matter, sounds like Daryl, it must be like Daryl," said Michael. "Just don't let nobody sounds like dumbass Daryl hold the keys."
 
-"So many things to remember. There was so much to learn about Texas. I had to take the class before they'd let me enroll at the University. I was jet-lagged from the flight from Nigeria. There was something else, maybe, *Take your dreams to Canada?* It was so hard to stay awake, I never had jet lag before. I should really take the yearly refresher class when I get back to Houston."
+"So many things to remember. There was so much to learn about Texas. I had to take the class before they'd let me enroll at the University. I was jet-lagged from the flight from Nigeria. There was something else, maybe, *Take your dreams to Canada?* It was so hard to stay awake, I never had jet lag before that. I should really take the yearly refresher class when I get back to Houston."
 
 "You funny, *Dream*."
 
@@ -4489,7 +4493,9 @@ August 2^nd^, 2022
 +-----------+------------+--------+----------------------------------+
 | 1.63      | 3/3/2023   | 1      | Second Foundation                |
 +-----------+------------+--------+----------------------------------+
-| 1.69      | 4/6/2023   |        | WIP                              |
+| 1.69      | 4/26/2023  | 2      | ARC                              |
++-----------+------------+--------+----------------------------------+
+| 1.71      | 4/28/2023  | 1      | ARC                              |
 +-----------+------------+--------+----------------------------------+
 
 # Chapter Coding 
@@ -4506,6 +4512,26 @@ SECOND FOUNDATION
 
 **Version 1.70**
 
+![A group of people wearing helmets Description automatically generated with low confidence](media/image12.jpg){width="4.620138888888889in" height="3.6958333333333333in"}
+
+NASA FLIGHT CREW STS-51-L
+
+Ellison Onizuka
+
+Christa McAuliffe
+
+Gregory Jarvis
+
+Judith Resnik
+
+Michael Smith
+
+Dick Scobee
+
+Ronald McNair
+
+The Foundation is Gratitude
+
 Dick Scobee
 
 # Scoot(1)
@@ -4520,7 +4546,7 @@ What is the integral component of manned exploration of space and the planets?
 
 One Scobee is the unit that defines that integral. How many integral parts are required?
 
-We stake this Scoot with that mission. To define One Scobee as an integral part of manned spaceflight. I seek others who knew the man to share with me what they think. I want to know what Colonel Scobee thought after returning from space.
+We stake this Scoot with that mission. To define One Scobee as an integral part of manned spaceflight. I seek others who knew the man to share with me what they think. I want to know what Colonel Scobee thought.
 
 I'll ask his family.
 
@@ -4528,15 +4554,15 @@ JUNE Scobee RODGERS
 
 # Scoot(23)
 
-In [*Collecting Responsibility*](#collecting-responsibility), I recount a moment of inspiration. I wrote about *Challenger* in terms of a postcard I'd lost. It was a critical breakthrough in my thinking. Later that night it was as if the basketball gods were blessing my idea because Kevin Porter Junior destroyed the Bucks, dropping 50 points. It is a good story, and it really happened like I wrote it.[^123]
+In [*Collecting Responsibility*](#_Collecting_Responsibility), I recount a moment of inspiration. I wrote about *Challenger* in terms of a postcard I'd lost. It was a critical breakthrough in my thinking. Later that night it was as if the basketball gods were blessing my idea because Kevin Porter Junior destroyed the Bucks, dropping 50 points. It is a good story, and it really happened like I wrote it.[^123]
 
-It wasn't until much later that it hit me; I'd already finished writing the book and realized something even more profound. It's an even better story. I mean this as a testament to genius, so I'll keep the embellishment down to a bare minimum.
+It wasn't until much later that it hit me; I'd already finished writing the book and realized something even more profound. It's an even better story. This work is a testament to genius, so I'll keep the embellishment down to a Texas minimum.
 
-I'd been curious, I remembered *Challenger* well, one of the few moments in high-school I can see clearly through the cobwebs of time. I also remember who I was, what I was like, and there was some incongruity. How did my mom get me to a NASA nerd camp when I was fourteen?
+I was curious, I remembered *Challenger* well, one of the few moments in high-school I can see clearly through the cobwebs of time. I also remember who I was, what I was like, and there was some incongruity. How did my mom get me to a NASA nerd camp when I was fourteen?
 
-After a full year of 6^th^ grade, I'd left my nerd roots behind. I still read science fiction but sure wasn't hanging out with other people who did. Summer after 7^th^ grade was the last run of my suburban rap/breakdance crew. Thankfully, this occurred before digital photography. Videos of teenagers doing stupid stuff was reserved for rich people. Summer after 8^th^ grade, I was hanging with kids who smoked and listened to metal, friends I'd have through high school. I know I wasn't volunteering to go to a NASA summer camp.
+After a full year of 6^th^ grade, I'd left my nerd roots behind. I still read science fiction but wasn't hanging out with other nerds who did. Summer after 7^th^ grade was the last run of my suburban rap/breakdance crew. Thankfully, this occurred before digital photography. Home videos of teenagers doing stupid stuff was for rich people. Summer after 8^th^ grade, I was hanging with kids who listened to metal and hated school, friends I'd have through high school. I know I wasn't volunteering to go to a NASA summer camp.
 
-My Uncle Clay, Air Force retiree, had broken the news to me years before. One summer it was, *with your glasses you'll never be a fighter pilot*. Gave it to me raw, then told me how he found out he was colorblind. I think the story was he didn't even know until after he'd already signed up for the Air Force, hoping to become a pilot. Probably the Air Force doctors told him. No fast jets for Uncle Clay, but he made a career out of military intelligence.
+My Uncle Clay, retired Air Force sergeant, had broken the news to me years before. One summer it was, *with your glasses you'll never be a fighter pilot*. Gave it to me raw, then told me how he found out he was colorblind. I think the story was he didn't even know until after he'd already signed up for the Air Force, hoping to become a pilot. The Air Force doctors told him. No jets for Uncle Clay, but he made a career out of military intelligence.
 
 I'd left astronaut dreams behind in grade school, along with the nerds. I wasn't a computer geek. I didn't even like to play video games at home, though the arcade was cool place to hang out. I couldn't understand how I ended up at NASA camp at that age. I asked my mother.
 
@@ -4550,13 +4576,13 @@ I'd left astronaut dreams behind in grade school, along with the nerds. I wasn't
 
 And then I got it. I get along with my mom great now, but as a teenager if there was a way to get me far away from her and it was free, she was first in line. My mom could walk into a supermarket in the 1980s with a box of coupons and walk out with two carts of groceries and \$50 cash in rebates.
 
-She'd camp out like it was for concert tickets, to get rid of me for a few weeks in the summer. I can see my teen-self would have made peace with the fact, it's all the way in Clear Lake, far away from where anybody might know me where I lived in Cypress.
+She'd camp out like it was for concert tickets, to get rid of me for a few weeks in the summer. I can see my teen-self would have made peace with the fact it was all the way in Clear Lake, far away from where anybody might know me where I lived in Cypress.
 
 I had no interest in computers at all. As a kid, I'd wanted to be an astronaut, but as a teenager, no way.
 
 I don't remember much about the camp. We did a tour, saw mission control. We looked through a window at the computer room. I saw my first hard drive at NASA, it looked like and was the size of a washing machine. I remember the engineers were dudes in short-sleeve collared shirts who'd chain smoke and wore bad glasses.
 
-I do remember learning to code on the Apple IIs. Only time I ever used Apple anything until I got an iPhone 35 years later. It wasn't even a real programming language, but this educational language called Logo that drew pictures on a screen. I don't really remember them teaching us much, but they must have. I don't remember if June was even part of the programming class, but she was part of our day.
+I do remember learning to code on the Apple IIs. Only time I ever used Apple anything until I got an iPhone 25 years later. It wasn't even a real programming language, but this educational language called Logo that drew pictures on a screen. I don't really remember them teaching us much, but they must have. I don't remember if June was even part of the programming class, but she was part of our day.
 
 While we were in some lecture scenario, I remember June talking about science fiction and ethics and the ***Laws of Robotics***. I never read Asimov's robot novels, I'd gone straight to *Foundation*, since my Uncle Clay had told me was the best Asimov. I might have mouthed off something to that effect.
 
@@ -4568,11 +4594,13 @@ Both.
 
 The tragedy is what stands out in my memory, what happened after. It was only half a year between the camp and the accident, but in a teenager's timeline it might have well been a decade.
 
-There was a lot of expectation in the news and among Houston schoolteachers about a teacher in space. We were freshmen boys, I'm sure we mocked it. My youngest kid that is that same age now, his disdain for teachers matches mine, for the same reason. People are complex, and kids see things through their direct experience first until they've experienced more. Raising teenagers sure does change your perspective on being a teenager.
+There was a lot of expectation in the news and among Houston schoolteachers about a teacher in space. We were freshmen boys, I'm sure we mocked it. My youngest kid that is that same age now, his disdain for teachers matches mine at that age, for the same reason. People are complex, and kids see things through their direct experience until they've experienced more. Raising teenagers sure does change your perspective on being a teenager.
 
-I have no memory of knowing that Dick Scobee was commander of the teacher-in-space mission ahead of the tragedy. I bet my mom told me and I tuned it out. That day, realizing what it meant after the tragedy, was sickening. That memory became a stake in my identity. How shallow we can really be.
+I have no memory of knowing that Dick Scobee was commander of the teacher-in-space mission ahead of the tragedy. I bet my mom told me and I tuned it out. That day, realizing what it meant after the accident, was sickening. That memory became a stake in my identity. How shallow we can really be.
 
-I can't blame teenagers for their thoughts on teachers and authority. Look how long it took me to realize how valuable this gift I received from June Scobee was. It was the greatest leverage in terms of actual earning potential in my life. I was 51 years old when I realized this after finishing writing the book. I was 14 when I went to that summer camp. 37 years. I have made a career directly out of what June taught me I could do in a free summer camp.
+I can't blame teenagers for their thoughts on teachers and authority. Look how long it took me to realize the true value of this gift from June Scobee.[^124]
+
+Her gift was the greatest leverage in real terms anybody has ever given me. I raised a family and provided for them with this gift. I was 51 years old when I realized it. I was 14 when I went to that summer camp. 37 years. I have made an entire life out of what June taught me I could do in a free summer camp.
 
 This is where the story diverges from what most teachers would want.
 
@@ -4584,9 +4612,9 @@ I knew what a PC was but never used one. In fact, rather than buy a computer, I 
 
 I had a bunch of food and retail jobs, delivery driver, bank teller, liquor store, gas station attendant. In 1992 I was working for a redneck in Waller delivering horse trailers, when my gypsy friend set me up with an air-conditioned job repairing laptop computers. I ordered parts and kept the operation moving along and learned how to put laptop computers together. The secret, I learned, was that if you put a laptop back together and have an even amount of screws leftover, you did something wrong.
 
-That company was somehow connected to Tony in New Jersey, and it went under. My drummer's mom worked at Compaq Computer on the night shift assembly line and used some insider voodoo to get me a temp job under her general protection. We worked on a Printed Circuit Board (PCB) manufacturing line, we made huge motherboards for servers. It was an air-conditioned job and I learned several roles rapidly, but none used computer skills. Late at night, you had to stay awake or risk instant termination if you were spotted dozing by a supervisor. It was very difficult as the line was often stalled for hours at a time due to changeovers or supply chain issues. There was one lady who did stuff on the computer. She'd open reports and print them, then collate them manually and then print out another report, which she would give to the boss. You couldn't read books on the assembly line even if there was nothing to do. I quickly figured out the best thing to do was look busy when there was nothing to do or somebody would make me do something I didn't want to do.
+That company was somehow connected to Tony in New Jersey, and it went under. My drummer's mom worked at Compaq Computer on the night shift assembly line and used some insider voodoo to get me a temp job under her general protection. We worked on a Printed Circuit Board (PCB) manufacturing line, we made huge motherboards for servers. It was an air-conditioned job, and I learned several roles rapidly, but none needed computer skills. Late at night, you had to stay awake or risk instant termination if you were spotted dozing by a supervisor. It was very difficult as the line was often stalled for hours at a time due to changeovers or supply chain issues. There was one lady who did stuff on the computer. She'd open reports and print them, then collate them manually and then print out another report, which she would give to the boss. You couldn't read books on the assembly line even if there was nothing to do. I quickly figured out the best thing to do was look busy when there was nothing to do or somebody would make me do something I didn't want to do.
 
-Computers in those days came with a set of manuals, including a BASIC programming manual. So extra books that came with new systems were always around the line and were the one kind of reading material allowed besides specifications and work orders and schematics. I found that I could teach myself BASIC by figuring out how to collate all the files and print them out and save the lady some time each night. It probably took about a month.
+Computers in those days came with a set of manuals, including a BASIC programming manual. Extra books that came with new systems were always around the line and were the one kind of reading material allowed on the floor besides specifications and work orders and schematics. I found that I could teach myself BASIC by figuring out how to collate all the files and print them out and save the lady some time each night. It probably took about a month.
 
 Didn't go like I thought when I unveiled my innovation to the lady. Turns out she liked staying late to turn in the reports so she could get a half-hour overtime pay every day. Plus, complaining about staying late to the young people gave her a way to stay awake all night. My bad. My drummer's mom rescued me, but I was banished to another shift in a negotiated truce.
 
@@ -4598,61 +4626,63 @@ The more you do it, the better you get at it. The real power is your ability to 
 
 I remember I'd been programming in C++ for about two years when I finally got some real training in a class we took at Compaq. My mentor, who was a C programmer only, but light years beyond me in engineering terms, was sitting next to me struggling with some examples in C++ which was new to him. I remember him watching me do some trick on the command line in Windows that was illegal in Unix and him pointing that out and I felt so smug.
 
-That memory is truth. How leveraged by the past we are. My bag of tricks in programing was like a cheat code in a game to him. He'd had to solve all these puzzles himself, through incredible hours of focused thought. Every time I ran into a difficult programming problem -- even in 1998 -- all I had to do was write the problem clearly in English and type it into a search engine and I'd come up with at least a hundred ways somebody had solved the same problem.
+That memory is truth. How leveraged by the past we are. My bag of tricks in programing was like a cheat code in a game to him. He'd had to solve all these puzzles himself, through incredible hours of focused thought. Every time I ran into a difficult programming problem -- even in 1998 -- all I had to do was write the problem clearly in English and type it into a search engine and I'd find at least a hundred ways somebody had solved the same problem.
 
-Leverage is the prime component of any engineering task. Digital leverage is the most powerful tool man has every created. That is because all engineering is digital engineering. Good engineers in every field are the ones that use software as a tool. *Engineers are responsible for the tools they use*. That's the most valuable engineering lesson. The sooner engineers understand their basic toolset, the more effective engineers they will be. All industries are potential innovation frontiers for young people trained to use digital tools.
+Leverage is the prime component of any engineering task. Digital leverage is the most powerful tool man has ever created. That is because all engineering is digital engineering. Good engineers in every field are the ones that use software as a tool. *Engineers are responsible for the tools they use*. That's the most valuable engineering lesson. The sooner engineers understand their basic toolset, the more effective engineers they will be. All industries are potential innovation frontiers for young people trained to use digital tools.
 
-Not everybody has it. It's not the same as being good at math. The math we use in integrative thinking is very simple. I do think it can be identified through testing and evaluation.
+Coding isn't for everybody.
 
-Can it be learned by everybody? I don't know that, but I suspect it's much easier as a young person.
+This ability is not the same as being good at math. The math we use in integrative thinking is very simple.
 
-It seems like most kids play some sort of digital games, and that is probably a commonality even among a much wider range of income levels. Learning to play a game of some sort is probably a great desire at a young age, and how could it not be? It's fun entertainment you can share with friends and compete, the great equalizer.
+I don't know how June Scobee identified that I was a good candidate to learn how to code.
 
-Some kids are good at games because they have perhaps innate-talent -- maybe. Games are designed by people who like to play games, so there's a level of insight you can gain from that.
+I suspect if you ran the same studies to identify kids who'd be good engineers in the 1980s on kids from the 2020's, it would result in a much broader candidate pool. How could it not? We give very young children digital devices to play games with, sometimes before they can talk or walk.
 
-There are other kids, who are given a game, will eventually figure it out. You can study those kids, and sort of by watching studying the choices they make, figure out the deductive logic they are using. Some will follow deductive paths. Others might just use monkey-with darts and make a mental or digital or physical note and build a map. Both are good strategies to find a solution, and both are demonstrations of integrative ability. The map strategy requires many more iterations but. It's very easy to design experiments to iterate through a set of possibilities, that's the leverage of Moore's Law. Digital games usually make you go through a lot of work to do that, so kids with this ability may tend to give p more easily.
+It could be some kids are good at games because they have an innate talent, like some kids can learn to juggle. I doubt it. Video games are designed by people who like to play games, so there's a level of insight you can gain from that.
 
-Other kids, might just be lucvky or extra-leverage -- used a cheat code. That's extra integrative levelarge -- exactly what I do when I google for a solution. That approach is a fair way to study and find kids that are can become useful engineers.
+There are some kids who will always beat a game, given enough time. You can study those kids, and by studying the choices they make, figure out the deductive logic they are using.
 
-I'm neither of those types. I know how to do both approaches. The map is the best way, if you can iterate and have the people who can think it through, but there's a bunch of tricks I have in my bags, I use the one that I have to at the moment. It's just different strategies, using a common toolset -- code.
+Some will follow logical deductive paths. Essentially, they reverse engineer the algorithms the game designers used.
 
-You find those kids, wherever they are, teach them to code in a summer camp, and they will have a valuable and marketable skill that they can use directly in almost any endeavor in life. More directly, you make sure these kids have opportunity to develop that skill in direct and equitable ways. Applied learning is driven by the desire to increase earnings where school is driven by a majority of kids want it to be over. Having a real chance at a really high paid profession is a easy motivater that leverages all parties involved. Dedication, but knowing you have the basic skills is all it takes.
+Others might just use monkey-with darts and make a map of what works, either mentally or by recording results.
 
-Learning to code changed my life directly. So, thanks, mom for sending me to the free NASA nerd camp.
+Both approaches are good strategies to find a solution, and both are demonstrations of integrative ability. The map strategy requires many more iterations but in digital engineering is that natural leverage -- something computers can do very quickly. It's very easy to design experiments to iterate through a set of possibilities, that's the leverage of Moore's Law.
 
-I remember Dick Scobee as just an ordinary guy with an extraordinarily cool job. June Scobee didn't come across as ordinary. The correct Texan terminology for June "sparkplug." She was no ordinary mom and schoolteacher. She was like a live action version of a Jetson's supermom, whose kid would be expected to grow up become a general in the Space Cadets. She expected something of her students.
+Digital games usually make you go through a lot of work to keep experimenting with a map strategy, so kids with this ability may tend to give up more easily than those who use a more deductive path.
+
+Other kids might just be lucky. Some will have extra-leverage -- they used a cheat code. That's super integrative leverage -- exactly what I do when I Google a solution. That approach is a fair way to study and find kids that are can be productive engineers.
+
+You find these kids, wherever they are, teach them to code in a summer camp, and they will have a valuable and marketable skill that they can use directly in almost any endeavor they choose. More directly, you make sure these kids have opportunity to develop that skill in direct and equitable ways.
+
+In Academic learning, most kids prime motivation is to get it over with. Applied learning is often driven by the desire to increase earnings, a real motivator. Having a chance at a high paid profession is a motivation that leverages all parties involved. Dedication is required, but knowing you have the basic skills is all it takes to get started.
+
+Learning to code directly changed my life. Thanks, mom, for banishing me to the free NASA nerd camp.
+
+I remember Dick Scobee as just an ordinary guy with an extraordinarily cool job.
+
+June Scobee didn't come across as ordinary. The correct Texan terminology for June is "sparkplug." She wasn't an ordinary mom and schoolteacher. She was like a live action version of a Jetson's supermom, whose kid would be expected to grow up become a general in the Space Cadets. She expected something of her students.
 
 Thank you, June Scobee Rodgers.
 
-I wonder what the success rate of those kids was June Scobee taught that summer, and the prior summers? And then how many lives did she touch the Challenger Centers? What was that value created by all those children? I bet we did better than average, statistically, as a group.
+I wonder what the success rate of those kids June taught that summer?
 
-Initially, after publishing the book, I wanted to approach June indirectly, by developing some organization of value first and then approaching her. I was very worried about the cryptocurrency aspect.
+After the accident, June and the families of the crew founded Challenger Center. Challenger Center's mission is a natural extension of STS-51-L's primary mission -- The Teacher in Space Project.[^125] Challenger Center's inspires and educates students in STEM through hands-on lessons that simulate space missions. In the 35 years since Challenger Center opened, they've taught millions of students and enabled hundreds of thousands of teachers.
 
-Crypto people will argue asimov is not a cryptocurrency because it's not decentralized. There's all kinds of altruistic minded cryptos out there that are hype and ponzi and celebrity endorsement. I was geniusly worried about approaching a wonderful lady -- my own mother's age -- with any kind of rap about cryptocurrencies. I'd tell my mother to run away from that. Everybody else should warn their mother's as well. Can it become a useful good tool after all the bad guys are exposed?
+What's the value of June's contribution to our civilization? It's very valuable, but immeasurable with property. You can't put a dollar value on dreams, but they have intrinsic value.
 
-It seemed like a lot to approach an older person. And I did not want to seem to be trying to leverage a hero's death in promoting something. I am not, but this is my story. My story of what I value. What I am grateful for.
+If you read *Silver Linings*, June's book, you know she had to fight just to study what she was interested in. She gets her revenge by forcing the next generation -- me -- to learn something I was good at but has absolutely zero interest in. How ironic. And recursive. And Texan. And wonderful.
 
-I believe in what I wrote is a good thing.
+That's the mission for Scoot(23). To give every child on the planet the same opportunity that June gave me. To learn to code for free.
 
-My gypsy friend helped me see the obvious recurisiveness if front of me. This teacher gave me a lecture about Isaac Asimov. That didn't happen in CFISD, not at least up until junior year HS, and I wasn't listening then.
+I don't know how I'm going to do it.
 
-So I don't think there could be a better demonstration of what a Scoot is than one that is achievable, and most in line with my profession, engineering.
+I know who I'm going to ask for help.
 
-How to teach a bunch of smart-ass fourteen year olds? No clue. Not one single ounce of wisdom after all these years and three kids. And she taught me -- I was the worst. The obvious answer.
+Thank you, June.
 
-I'm going to ask June Scobee Rodgers how to make this camp happen. And how to apply to kids who need that leverage the most. First, but not only, in Houston, then everywhere. Kids play games on electronic device in every country. Billionaires want to put devices in every childs hands. She'll know how to leverage that and still protect the kids. We can't study kids without kids permission, but the truth is that I'm pretty sure gamemakers already know this stuff and there are probably studies already to leverage. I'm not an expert on how to idetinfy kids with developing ability. I'm just an 80s model test-subject.
+![A picture containing person, posing, blue, work-clothing Description automatically generated](media/image13.jpg){width="3.4451760717410322in" height="4.3405183727034125in"}
 
-How to teach a kid to code? I mean, I tried teaching 3^rd^ and 4^th^ graders to play team baskeball at the why, and succeed, well, for the same reason Steve Kerr succeeds as a coach. The YMCA assigned y team identical twin-Steph Currys.[^124]
-
-It\'s obvious who could benefit from this in both altruistic and profit senses, but the talent pipeline of committed kids -- who took summer camp seriously, actually learned a challenging skill -- would be more valuable than selling kids a game. Do games really develop valuable skill sets? I don't really play games, I'm not going to judge.
-
-Is teacher evaluation better?
-
-I don't know. That's what found me, my mom just remembered, "I was good at math." I was in 8^th^ grade, I think maybe it was basic (linear) algebra, which is, like the skill level in modern times to build a spreadsheet in the real world. That might be the more recursive way to start. I aim to ask June how she figured it out.
-
-When you want to start a Scoot, the foundation is gratitude.
-
-That's where I'll start.
+June Scobee Rodgers
 
 STEVE FAIRCHILD
 
@@ -4693,6 +4723,10 @@ I've had a very successful career, and for the most part, I've been able to do t
 Steve engrained in me the notion that engineers are responsible for the tools they use. And Steve said to me, "The methodology is the most important thing." The industry lost a legendary engineer when we lost Steve. He was the best engineer I've ever worked with.
 
 This work is dedicated to Steve Fairchild.
+
+![A picture containing person, outdoor, tree Description automatically generated](media/image14.jpg){width="2.1666666666666665in" height="2.3958333333333335in"}
+
+Steve Fairchild
 
 *Scoot^2^ is money, y'all!*
 
@@ -4944,4 +4978,6 @@ The Foundation Is Gratitude
 
 [^123]: It's Texas History, even though it happened in Colorado. Scoot was in Houston, that's for sure.
 
-[^124]: I promised not to embellish but I really want to say clones.
+[^124]: I do not know who organized the camp or funded the camp. I want to express my gratitude and acknowledgement that there were people and organizations unknown to me behind the camp. I plan to find out who it was responsible. I know who I'm going to ask.
+
+[^125]: https://en.wikipedia.org/wiki/Teacher_in_Space_Project
