@@ -4,13 +4,13 @@
 
 **SECOND FOUNDATION**
 
-**Version 1.71**
+**Version 2.00**
 
 ![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2023 by Brandon Awbrey. This publication may be reproduced in whole form if fairly attributed for any non-commercial purpose. If you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
 
 Cover Art and Illustrations ©2023 by Jack Awbrey
 
-Lyrics are reprinted by permission, copyrights listed in Acknowledgements.
+Lyrics are reprinted by permission, copyrights listed in [Acknowledgements](#acknowledgements).
 
 # 
 
@@ -778,9 +778,9 @@ Second Foundation shall only accept a single Revokable Commitment Stake, as spec
 
 ### Staking Codes
 
-![Qr code Description automatically generated](media/image4.png){width="3.5in" height="1.9375in"}
+![](media/image4.png){width="2.262607174103237in" height="2.3645833333333335in"}
 
-https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA5331EEE514E093
+https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA97C99A4757AE01
 
 There are one thousand valid staking codes. Staking codes are used to earn stakes through appreciation or commitment of some content value.
 
@@ -4478,25 +4478,27 @@ August 2^nd^, 2022
 
 # Revision History
 
-+-----------+------------+--------+----------------------------------+
-| Revision  | Date       | Copies | Description                      |
-+===========+============+========+==================================+
-| 0.00-0.68 | 4/29/2021  |        | Ouroboros                        |
-+-----------+------------+--------+----------------------------------+
-| 0.69-0.99 |            |        | Review Copies                    |
-+-----------+------------+--------+----------------------------------+
-| 1.00      | 8/2/2022   |        | First Publication                |
-+-----------+------------+--------+----------------------------------+
-| 1.        | 8/3/2022-  | 2      | Copy Edits, First Edition        |
-|           |            |        |                                  |
-| 1.04      | 2/14/2023  |        |                                  |
-+-----------+------------+--------+----------------------------------+
-| 1.63      | 3/3/2023   | 1      | Second Foundation                |
-+-----------+------------+--------+----------------------------------+
-| 1.69      | 4/26/2023  | 2      | ARC                              |
-+-----------+------------+--------+----------------------------------+
-| 1.71      | 4/28/2023  | 1      | ARC                              |
-+-----------+------------+--------+----------------------------------+
++-----------+------------+--------+------------------------------------+
+| Revision  | Date       | Copies | Description                        |
++===========+============+========+====================================+
+| 0.00-0.68 | 4/29/2021  |        | Ouroboros                          |
++-----------+------------+--------+------------------------------------+
+| 0.69-0.99 |            |        | Review Copies                      |
++-----------+------------+--------+------------------------------------+
+| 1.00      | 8/2/2022   |        | First Publication                  |
++-----------+------------+--------+------------------------------------+
+| 1.        | 8/3/2022-  | 2      | Copy Edits, First Edition          |
+|           |            |        |                                    |
+| 1.04      | 2/14/2023  |        |                                    |
++-----------+------------+--------+------------------------------------+
+| 1.63      | 3/3/2023   | 1      | Second Foundation                  |
++-----------+------------+--------+------------------------------------+
+| 1.69      | 4/26/2023  | 2      | ARC                                |
++-----------+------------+--------+------------------------------------+
+| 1.71      | 4/28/2023  | 1      | ARC                                |
++-----------+------------+--------+------------------------------------+
+| 2.00      | 4/29/2023  |        | Second Foundation, first printing  |
++-----------+------------+--------+------------------------------------+
 
 # Chapter Coding 
 
@@ -4510,7 +4512,7 @@ August 2^nd^, 2022
 
 SECOND FOUNDATION
 
-**Version 1.70**
+**Version 2.00**
 
 ![A group of people wearing helmets Description automatically generated with low confidence](media/image12.jpg){width="4.620138888888889in" height="3.6958333333333333in"}
 
