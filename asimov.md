@@ -1770,7 +1770,7 @@ The Rockets were down 17 points in the second quarter. They got it down to 8 poi
 
 This story would be better if after my walk, I'd gone and held that signed basketball, trying to absorb some of *The Dream* magic, and somehow channeled that through my television back to the Toyota Center and into the soul of Kevin Porter. But I didn't. Porter stepped up big because he did what stars do when they've had a bad game and been talked about in the media. He played ball.
 
-![A person in a uniform holding a baseball bat Description automatically generated with low confidence](media/image9.jpeg){width="4.275in" height="5.35in"}
+![A person in a uniform holding a baseball bat Description automatically generated with low confidence](media/image9.jpeg){width="4.14182195975503in" height="5.183333333333334in"}
 
 Figure 6 - June 2014 Sport\'s Illustrated Cover
 
@@ -2642,7 +2642,7 @@ The greatest value we may be able to provide our decedents is the ability to exa
 
 ## Stasis
 
-Scoot would be considered in statis when active governance has ceased. This may be because none of the scootage wants the responsibility of trustee, or there have been no trades or scoot-chain activity for some period, or no staking networks exists to process transactions for the Scoot.
+Scoot is considered in statis when active governance has ceased. This may be because none of the scootage wants the responsibility of trustee, or there have been no trades or scoot-chain activity for some period, or no staking networks exists to process transactions for the Scoot.
 
 If the Foundation is a holder of the scoot, it will maintain scoot-chain in statis. By definition, a Scoot in statis doesn't have much genius value, so it would not align with the Foundation's long-term goals to hold statis Scoot.
 
@@ -2664,7 +2664,7 @@ If John were alive today, I'd only ask that he change the one line.
 
 I'm cool with no greed or hunger, but a *brotherhood of man* would seem to indicate that I would be in a brotherhood with Jazz, Dodgers and Yankee fans. That ain't happening. Who the hell wants to live in a world where you can't plain despise another city's team, as well as their players? It's beautiful, because as soon as one of those despised players gets traded to your team, you love them. Very binary. As a digital engineer, I love it. Empathy makes for very complicated analysis of relationships.
 
-I debated with myself if I really needed to write this chapter. I realized that most of my audience didn't have the benefit of learning Texas History in middle school like I did, and wouldn't understand, that sports are the greatest genius invention of mankind, and were invented in Texas, just like art, writing, mathematics, and feminism. I've reprinted the important lesson in [Appendix E](#_Appendix_E_–).
+I debated with myself if I really needed to write this chapter. I realized that most of my audience didn't have the benefit of learning Texas History in middle school like I did, and wouldn't understand, that sports are the greatest genius invention of mankind, and were invented in Texas, just like art, writing, mathematics, and feminism. I've reprinted the important lesson in [Appendix E](#appendix-e-a-lesson-in-texas-history).
 
 In 1894 Mark Twain and Nikola Tesla were dining at Delmonico's in New York City, when a banker and a railroad man from Houston stopped by their table to say hello. They talked for several minutes. After they left, Twain, who despite his wide travels, had never set foot in Texas, said to Tesla, *"Nicky, if them boys ever get a ballclub down in Houston, they should call it the Astros or the Rockets, because those are the kind of people who could put a man on the moon."*[^98]
 
@@ -2672,21 +2672,24 @@ Not everybody can be from Texas. It's a big state but it won't hold seven billio
 
 I want to highlight Texas because it's where I'm from, and I think it's gotten a bad rap lately, mostly because of the loud jackasses in Austin and Washington. Texas isn't our politicians, that is just what happens when you polish a turd. When it comes to the people, we are industrious and friendly towards outsiders, as demonstrated by our heroes. We absolutely love a good idea that you can put to work, right away. And we always do things big.
 
-It's foolish to point fingers at how we got here. We have not only the accumulated knowledge of all those that came before us, but these mechanical, electrical, and digital devices that would have empowered those in the past. We should worry about how history should judge us, with this immense power, yet we still live in a stratified society based on material-wealth.
+It's foolish to point fingers at how we got here. We have not only the accumulated knowledge of all those that came before us, but these mechanical, electrical, and digital devices that would have empowered those in the past. We should worry about how history should judge us, with this immense power, yet we still live in a stratified society based on material wealth.
 
 I think sports antagonism is the perfect metaphor for what The Foundation is trying to emulate in the world of all ideas, including sports.
 
-I may sports-hate Los Angeles and New York fans, but I do not blame them. How could I? Sports loyalty is a birthright or fostered in childhood. If I meet somebody who grew up in Dallas or San Antonio who is a Rockets fan, I'd admire them for their fine appreciation of genius, but I ain't letting them park my car.
+I may sports-hate Los Angeles and New York fans, but I do not blame them. How could I? Sports loyalty is a birthright or fostered in childhood. If I meet a Rockets fan who grew up in Dallas or San Antonio, I'd admire them for their fine appreciation of genius, but I ain't letting them park my car.
 
-Blame is not wrong. It's right to blame responsible parties. Measuring responsibility it the hard part.
+Blame is not wrong. It's right to blame responsible parties. Measuring responsibility is the hard part.
 
-In recent years, there's been a lot of blame cast at pharmaceutical companies for high prices that put lifesaving medicine out of reach of poor people and much of the developing world. *Pharma Bro*[^99] didn't help with the industry's self-defense. I think blaming boards, executives, researchers and even Pharma douchebags is avoiding real responsibility. The truth is, every investor in every pharmaceutical company is making the choice; I'm going to invest my money, protected by limited liability, in a company that develops medicine and measures its success by the accumulation of property, a scare resource not available equitably to all people. It's a choice. They are responsible.
+In recent years, there's been a lot of blame cast at pharmaceutical companies for high prices that put lifesaving medicine out of reach of poor people and much of the developing world. *Pharma Bro*[^99] didn't help with the industry's self-defense. I think blaming boards, executives, researchers and even Pharma douchebags is avoiding real responsibility. The truth is, every investor in every pharmaceutical company is making a choice; I'm going to invest my money, protected by limited liability, in a company that develops medicine and measures its success by the accumulation of property, a scare resource not available equitably to all people.
+
+It's a choice. They are responsible.
 
 What that really means is we are all responsible. Anybody who has a 401(k) or a retirement plan that owns any broad mutual funds is likely invested in pharmaceuticals. If you don't hold pharmaceutical stock, your parents or your children or somebody you know does.
 
 We are saying to pharmaceutical people that we expect you to behave ethically and responsibly, but we will measure and reward you according to how much property value you can accumulate. It doesn't matter if you're a brainiac researcher or washing cars, humans always optimize for the highest value reward.
 
-Blame is useless unless you use it to fix the problem. If you can diagnose with a measurement of value that is equitable, we can solve real problems.\
+Blame is useless unless you use it to fix the problem. If you can diagnose with a measurement of value that is equitable, we can solve real problems.
+
 In sports, when you lose, you go home and figure out how to get better. Sometimes it works, sometimes it doesn't, sometimes it's luck, other times it's who you hire and draft and what values those people represent. In Houston, you take your medicine and own it. There is another approach. You go home and blame your teammates, or the officials, or call the other team cheaters, or demand a trade. Both strategies have been known to work, though I believe sports karma favors the first approach.[^100] [^101]
 
 I call my engineering approach *recursive integration*. In digital systems design, this means that when you improve one part of the core system, you need to go back and reevaluate how the rest of the system works and then repeat whole process again.
@@ -2695,7 +2698,7 @@ I believe *recursive integration* applied to human systems will lead to huge opp
 
 When my daughter and I were discussing the causes of conflict in 2020, we had one serious difference of opinion. She wanted me to accept that I was the beneficiary of generational wealth, but I argued against that in material terms. I've worked for all the material goods that I've acquired in my life. My parents, my grandparents and multiple generations back were hardworking people, in ways that neither her nor I could even imagine. She has a different perspective on background, though we both agreed that our primary fortune in life was to have been born American. I've worked hard all my life. I have always tried to make the most of that fortune, and so has she.
 
-Now I realize that the real way to measure value is not our fortune in life to be born American, Nigerian, Chinese or Vietnamese or white or black, but the real fortune we all share, is to be born with all the accumulated value of the ideas of all who came before us, because that wealth is available to everybody on the planet. This leverage is something we all benefit from, and it should scale to much higher levels if we can value our potential. If Elon Musk gets his way and connects every person on the planet, this accumulated value is within reach of every child born.
+Now I realize that the real way to measure value is not our fortune in life to be born American, Nigerian, Chinese, or Vietnamese or white or black, but the real fortune we all share, is to be born with all the accumulated value of the ideas of all who came before us, because that wealth is available to everybody on the planet. This leverage is something we all benefit from, and it should scale to much higher levels if we can value our potential. If Elon Musk gets his way and connects every person on the planet, this accumulated value is within reach of every child born.
 
 The reason Mark Twain's satire *The Connecticut Yankee in King Arthur's Court*[^102] is so powerful and funny is because it's a simple theme, shared by Isaac Asimov's *Foundation*. We might have great technology and cool toys but we keep repeating the same historical mistakes because we believe we are somehow more advanced than mankind just a few generations before.
 
@@ -3152,7 +3155,7 @@ The symbolism is perfect. I finally understand California. LBJ, again, thanks fo
   ---------------------------- --------- ------------------------------- --------- ------------------- ------
                                Group                                                                    
 
-  Group                        Percent   Tranche                         Percent   asimov (Mega)       Year
+  Group                        Percent   Tranche                         Percent   asimov              Year
 
   Reserve Stake                1.00%     Private Stake                   0.50%     5,000,000,000       1
 
@@ -3345,7 +3348,7 @@ $$\frac{1}{2} + \frac{1}{3} = \frac{5}{6}$$
 
 There are only 2 shards possible, the first is worth 50.00% and the second is worth 33.33% of the total responsibility. The remainder, 16.66% would be tiebreaker by trustee.
 
-The second index is more useful. It has eight shards
+The second index is more useful. It has eight shards.
 
 $$\frac{1}{3} + \frac{1}{5} + \frac{1}{7} + \frac{1}{11} + \frac{1}{13} + \frac{1}{17} + \frac{1}{19} + \frac{1}{23} = .998956$$
 
@@ -3357,41 +3360,41 @@ This fits nicely with a staking algorithm where each person in your chain of sta
 
 With fractional, serialized, and prime sharded scoot, each trustee has a wide range of tools to design specific governance aligned with their mission.
 
-  -----------------------------------------------------------------------------------------------------------------
-  []{#_Appendix_E_– .anchor}**Prime Index**   **First Prime**   **Total Shards**       **First Prime Percentage**
-  ------------------------------------------- ----------------- ---------------------- ----------------------------
-  1                                           2                 2                      50.0000
+  ---------------------------------------------------------------------------------------
+  **Prime Index**   **First Prime**   **Total Shards**       **First Prime Percentage**
+  ----------------- ----------------- ---------------------- ----------------------------
+  1                 2                 2                      50.0000
 
-  2                                           3                 8                      33.3333
+  2                 3                 8                      33.3333
 
-  3                                           5                 26                     20.0000
+  3                 5                 26                     20.0000
 
-  4                                           7                 65                     14.2857
+  4                 7                 65                     14.2857
 
-  5                                           11                143                    9.0909
+  5                 11                143                    9.0909
 
-  10                                          29                1,391                  3.4483
+  10                29                1,391                  3.4483
 
-  15                                          47                4,977                  2.1277
+  15                47                4,977                  2.1277
 
-  20                                          71                12,278                 1.4085
+  20                71                12,278                 1.4085
 
-  30                                          113               44,101                 0.8850
+  30                113               44,101                 0.8850
 
-  40                                          173               107,364                0.5780
+  40                173               107,364                0.5780
 
-  50                                          229               213,261                0.4367
+  50                229               213,261                0.4367
 
-  75                                          379               738,477                0.2639
+  75                379               738,477                0.2639
 
-  100                                         541               1,773,035              0.1848
+  100               541               1,773,035              0.1848
 
-  250                                         1,583             28,088,072             0.0632
+  250               1,583             28,088,072             0.0632
 
-  500                                         3,571             188,706,189            0.0280
+  500               3,571             188,706,189            0.0280
 
-  1000                                        7,919             241,815,743            0.0126
-  -----------------------------------------------------------------------------------------------------------------
+  1000              7,919             241,815,743            0.0126
+  ---------------------------------------------------------------------------------------
 
 # Appendix D -- Scoot of Team
 
@@ -3981,7 +3984,7 @@ Texas archaeologists say that the Empire of the Tail and Heart of Tatanka lasted
 
 ### The Canadian
 
-One of the first rules of historical research that every good Texan needs to know is; Question your sources. You might ask yourself, how do we know about the origins of the Brazos empire, but not about the fall?
+One of the first rules of historical research that every good Texan needs to know is: Question your sources. You might ask yourself, how do we know about the origins of the Brazos empire, but not about the fall?
 
 That's a very good question. The answer is in the story.
 
@@ -4485,7 +4488,7 @@ August 2^nd^, 2022
 +-----------+------------+--------+------------------------------------+
 | 0.69-0.99 |            |        | Review Copies                      |
 +-----------+------------+--------+------------------------------------+
-| 1.00      | 8/2/2022   |        | First Publication                  |
+| 1.00      | 8/2/2022   | 122    | First Edition                      |
 +-----------+------------+--------+------------------------------------+
 | 1.        | 8/3/2022-  | 2      | Copy Edits, First Edition          |
 |           |            |        |                                    |
@@ -4682,10 +4685,6 @@ I know who I'm going to ask for help.
 
 Thank you, June.
 
-![A picture containing person, posing, blue, work-clothing Description automatically generated](media/image13.jpg){width="3.4451760717410322in" height="4.3405183727034125in"}
-
-June Scobee Rodgers
-
 STEVE FAIRCHILD
 
 # Scoot(25)
@@ -4726,7 +4725,7 @@ Steve engrained in me the notion that engineers are responsible for the tools th
 
 This work is dedicated to Steve Fairchild.
 
-![A picture containing person, outdoor, tree Description automatically generated](media/image14.jpg){width="2.1666666666666665in" height="2.3958333333333335in"}
+![A picture containing person, outdoor, tree Description automatically generated](media/image13.jpg){width="2.1666666666666665in" height="2.3958333333333335in"}
 
 Steve Fairchild
 
