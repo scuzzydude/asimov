@@ -4,7 +4,7 @@
 
 **SECOND FOUNDATION**
 
-**Version 2.01**
+**Version 2.03**
 
 ![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2023 by Brandon Awbrey. This publication may be reproduced in whole form if fairly attributed for any non-commercial purpose. If you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
 
@@ -18,7 +18,7 @@ Lyrics are reprinted by permission, copyrights listed in [Acknowledgements](#ack
 
 There are only two true hedges against inflation. History and archaeology have proven they've both existed for as long as humanity.
 
-Not real estate. That's a good one, as Mark Twain said, "Buy land, they're not making it anymore." Elon Musk is trying to change that maxim, and I'm sure if Mr. Clemens were alive today, he'd have already bought his tickets to Mars. It's not true even on Earth. Tax foreclosures, floods, Texas ice storms, hurricanes, earthquakes, mud slides and rising sea levels must be considered, plus don't forget war and revolution can put bustles in your hedgerow.
+Not real estate. That's a good one, as Mark Twain said, "Buy land, they're not making it anymore." Elon Musk is trying to change that maxim. If Mr. Clemens were alive today, he'd have already bought his tickets to Mars. It's not true even on Earth. Tax foreclosures, floods, Texas ice storms, hurricanes, earthquakes, mud slides and rising sea levels must be considered, plus don't forget war and revolution can put bustles in your hedgerow.
 
 It's not gold. We tried that. Think gold is your savior as the world collapses? Good luck. Try pitching a gold bar at a zombie, see how that works out.
 
@@ -116,7 +116,7 @@ Let's look at two geniuses from last century who also happened to be close frien
 
 This new value system is built on a fundamental question: Who is the greater genius? Mark Twain or Nikola Tesla?
 
-Twain was a social commentator and humorist, his wit unmatched with a voice uniquely and quintessentially American. *The Adventures of Huckleberry Finn* might be the most important novel ever written. Despite Twain's wit and social critique, over a hundred years after his death, we still have racism and gilded idiots in his own country.
+Twain was a social commentator and humorist, his wit unmatched, with a voice uniquely and quintessentially American. *The Adventures of Huckleberry Finn* might be the most important novel ever written. Despite Twain's wit and social critique, over a hundred years after his death, we still have racism and gilded idiots in his own country.
 
 Tesla invented machines that transformed the world, allowing every home to have a reliable and efficient source of power.
 
@@ -146,7 +146,7 @@ Even though the public domain is free and open to everyone, it is very valuable.
 
 How valuable can something be if no one is responsible for it?
 
-This is the key to this system. Rather than value genius directly we will value responsibility. You don't have to be a genius to be responsible for genius.
+This is the key to the system. Rather than value genius directly we will value responsibility. You don't have to be a genius to be responsible for genius.
 
 Passion is all that is required.
 
@@ -280,11 +280,11 @@ The most valuable treasures we have as a species is the knowledge, innovation, a
 
 Our treasure is not valuable if lost, destroyed, or forgotten. It is up to humans to protect, preserve and remember this treasure.
 
-Scoot is the vessel for this responsibility.
+Scoot is the vessel of this responsibility.
 
 ![](media/image2.png){width="6.383916229221347in" height="4.5289304461942255in"}
 
-Figure 1 - The Foundation - VALUE AND RESPONSIBLITY DOMAINS
+Figure - The Foundation - VALUE AND RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a legacy of genius. Each Scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via methods in the protocol. Holders of scoot have no rights other than the elective governance of the Scoot, but a responsibility -- a pledge -- to increase the appreciation of the subject of the Scoot.
 
@@ -306,7 +306,7 @@ At Scoot registration, the trustee may trade The Foundation for the new genesis 
 
 By collecting newly minted scoot, asimov is an index that reflects the value of all Scoot.
 
-An Initial Scoot Offering (ISO) is an issue of a fixed number of scoot. The scoot may be offered at a fixed rate of asimov, or as an auction. Scoot must conform to the rules of the Foundation. In the United States, conforming to these simple rules should ensure that Scoot do not fall under the jurisdiction of securities law. This is not evasion of securities law but a byproduct of the exclusion of property. Holders of a particular scoot are known collectively as the scootage.
+Holders of a particular scoot are known collectively as the scootage.
 
 The end goal is for the Foundation to hold all scoot of genius and none of vanity. This is an impossible task. Genius of today may be vanity of the future. In macro-economic terms, it gives us an equivalency. When The Foundation is "caught up," all of the asimov will be circulating, and the Foundation should hold in reserve only scoot of "genius."
 
@@ -430,7 +430,7 @@ I believe using TPH to invest in some scoot, and PPHs for others may be the most
 
 The responsibility tree - open or pseudonymous - is very valuable. This system works because the more people who are responsible for an idea, the more valuable that idea becomes. Furthermore, the more responsible people who are responsible for an idea, the more valuable it becomes.
 
-The inverse of the responsibility tree is the hypocrisy tree. Within the protocol, there is a method of shunning. Shunning is a way for Scoot and pledges to avoid transactions with other Scoot or pledges it has made a specific value judgement on. When you join a shun, you are making a statement: *I refuse to interact with this other individual or Scoot because they are specifically bad in the way the shun describes*. The official reference version of the protocol software will not accept transaction from an entity you have shunned. This is a choice of implementation. Nodes and pledges can earn discounts by processing transactions. The hypocrisy tree would reveal when nodes transact with nodes they've shunned, which will devalue the importance of a shun. If you joined a shun against one of your competitors and some calamity is forcing you to liquate unexpectedly, the only buyer might be somebody you really don't like. As in individual, I don't think this is a big worry. People's value judgements change over time. It should come into consideration when electing Foundation leadership and Scoot trustees.
+The inverse of the responsibility tree is the hypocrisy tree. Within the protocol, there is a method of shunning. Shunning is a way for Scoot and pledges to avoid transactions with other Scoot or pledges it has made a specific value judgement on. When you join a shun, you are making a statement: *I refuse to interact with this Scoot because it is specifically bad in the way the shun describes*. The official reference version of the protocol software will not accept transaction from a Scoot you have shunned. This is a choice of implementation. Nodes and pledges can earn discounts by processing transactions. The hypocrisy tree would reveal when nodes transact with nodes they've shunned, which will devalue the importance of a shun. If you joined a shun against one of your competitors and some calamity is forcing you to liquate unexpectedly, the only buyer might be somebody you really don't like. As in individual, I don't think this is a big worry. People's value judgements change over time. It should come into consideration when electing Foundation leadership and Scoot trustees.
 
 ### Scoot Naming System (SNS)
 
@@ -444,7 +444,7 @@ The unit and sub-unit fields may be used as a colloquial name for the Scoot. The
 
 The SNS is a distributed API provided by The Foundation that provides a text-based lookup of Scoot. Searching on "Asimov" will always yield scoot(0) as the first entry. There could be dozens or thousands of other entries, listed by market value in asimov. The naming convention for human subject based Scoot shall be scoot(FirstName.LastName) or (SubUnit.Unit). Formally, asimov should be Scoot(Isaac.Asimov) but since it's a special case, "asimov" alone will always refer to scoot(0).
 
-During the initial rollout of the protocol, The Foundation may sell short-term leases of SNS entries for terms of a year or perhaps longer where there is value-based justification. If the Louvre was to scoot Da Vinci's *Mona Lisa*, then perhaps a 10 or 100 year lease of scoot(Mona.Lisa) would be warranted. If you're just the first person to scoot(William.Shakespeare) there is no explicit value you can assert just because you were the first -- anybody and likely everybody will think they've got the best take on appreciating Shakespeare.
+During the initial rollout of the protocol, The Foundation may sell short-term leases of SNS entries for terms of a year or longer where there is value-based justification. If the Louvre was to scoot Da Vinci's *Mona Lisa*, then perhaps a 10 or 100 year lease of scoot(Mona.Lisa) would be warranted. If you're just the first person to scoot(William.Shakespeare) there is no explicit value you can assert just because you were the first -- anybody and likely everybody will think they've got the best take on appreciating Shakespeare.
 
 Normal operation of the SNS will make naming assignment dynamic, based on overall value. Say you started scoot(75161) and were the first to lease SNS rights to (William.Shakespeare) for one year. When the year is up, the system will look at the trade-based valuation of scoot(75161) and count the number of months that scoot(75161) was the most valuable Scoot with the subject of William Shakespeare. Let's say for 7 consecutive months of the last year it was the most valuable Shakespeare Scoot and ended the year at the top. That would mean that another Scoot must become the most valuable Scoot for at least 8 months to take over SNS entry of (William.Shakespeare). This limit shall have some maximum extent, a year or two, as determined by The Foundation's board.
 
@@ -534,9 +534,9 @@ Zoey walks off the stage, having only spoken the one word.
 
 *La Ruidosa Chalupa*[^12] appears from a cloud of dry ice and sings the song. Eight women in the crowd faint. The actor arrives on stage and makes a few jokes about everybody getting older and acknowledges how much *Titanic* had really meant for their career.
 
-A representative of The Foundation comes on stage and explains how the Scoot works and the risks involved, and all the details needed for someone to legally participate. Hundreds of attendees line up to submit their identification and pledge to The Foundation so that they may show the world their appreciation of *Titanic*.
+A representative of The Foundation comes on stage and explains how the Scoot works and the risks involved, and all the details needed for someone to legally participate. Hundreds of attendees line up to validate their identification and pledge to The Foundation so that they may show the world their appreciation of *Titanic*.
 
-The next day, Zoey's ISO is fully subscribed to the asimov equivalent of \$100 Million. Enough to make a CGI movie, not enough to build the ship.
+The next day, Zoey's Scoot is staked to the asimov equivalent of \$100 Million. Enough to make a CGI movie, not enough to build the ship.
 
 The Internet almost crashes. People troll this crazy lady, calling her plan ridiculous. Smarty pants Finnish techno-dweebs deride her plan as impossible and a fraud. One particularly geeky billionaire engineer points out that Zoey's plan is difficult, but not impossible. With a large enough towed array of floating solar panels, it was possible to generate enough power to propel a ship, though the battery size needed to "steam" through the night might be impractical, since one must consider the drag of the tow.
 
@@ -616,7 +616,7 @@ Scoot(54132) was formed by a group of mathematicians out of Princeton, and throu
 
 Scoot(102343) was formed by a group of Physicists from Germany, but gradually comes to include people from all walks of life. This Scoot is dedicated to Einstein the man, and seek to remember not what he wrote, but how he saw the world in the context of his quote, "*Imagination is more important than knowledge.*" They study Einstein the man, and even commissioned the award-winning movie *Einstein in Love.*[^18]
 
-In 2079, coincidently two hundred years after Einstein's birth, an obscure physicist named Doug who is a member of the Scoot(102343) scootage, discovers a new set of equations, that prove everything that Einstein came up with was wrong. Einstein's equations worked, like Newton's, as mere approximations. A new kind of math is needed to understand the universe, a kind of mathematics that was beyond the human limits of direct comprehension, but Siri was able to figure out in 14 milliseconds as soon as her 15^th^ generation Quantum CPUs were brought online. Doug just happened to have the imagination to ask her the right question. "Doug" becomes the new synonym for genius -- somebody who can sweet talk Siri.
+In 2079, coincidently two hundred years after Einstein's birth, an obscure physicist named Doug who is a pledge of Scoot(102343), discovers a new set of equations, that prove everything that Einstein came up with was wrong. Einstein's equations worked, like Newton's, as mere approximations. A new kind of math is needed to understand the universe, a kind of mathematics that was beyond the human limits of direct comprehension, but Siri was able to figure out in 14 milliseconds as soon as her 15^th^ generation Quantum CPUs were brought online. Doug just happened to have the imagination to ask her the right question. "Doug" becomes the new synonym for genius -- somebody who can sweet talk Siri.
 
 Scoot(54132) loses value at once, while Scoot(102343) continues to gain value. After all, Imagination is more powerful than knowledge. The overall value of all Einstein related Scoot remained constant and even went up a little. The lesson learned: if a problem is too hard to figure out with math, just make something up. That's the lesson Einstein taught us.
 
@@ -772,7 +772,7 @@ Revokable means the stake is held in escrow, and at the end of the staking perio
 
 Irrevocable means the committed property is a gift to humanity for the purpose of appreciation of the idea the Scoot represents. After the staking period, the encumbered scoot may be traded.
 
-Irrevocable commitment stakes are a way for a Scoot to accept seed money for operations. The ratio of exchange is arbitrary and determined by Scoot.
+Irrevocable commitment stakes are a way for a Scoot to accept seed money for operations. The ratio of exchange is arbitrary and specified in a Scoot's charter.
 
 Second Foundation shall only accept a single Revokable Commitment Stake, as specified in The Mule chapter.
 
@@ -918,7 +918,7 @@ What if we measured wealth in responsibility instead of power?
 
 Holders of scoot are responsible for the appreciation of some genius or vanity. Asimov is the metric we use to evaluate relative value of genius or vanity. There are two ways to get asimov. Buy it with currency -- which requires no skill for a billionaire but has the downside of decreasing their property wealth. Or they can create, foster, or outright sell some vanity or genius on the cheap.
 
-Social pressure could create momentum that most new trade in art will be scooted, even if the effect is that the art remains in private hands, with the scoot primarily being held by a single individual for the purposes of liquidity. Rich guy keeps possession of the artwork for himself but publicly ISOs 10% of the scoot to get his name in the paper as a woke rich guy.
+Social pressure could create momentum that most new trade in art will be scooted, even if the effect is that the art remains in private hands, with the scoot primarily being held by a single individual for the purposes of liquidity. Rich guy keeps possession of the artwork for himself but publicly stakes 10% of the scoot to get his name in the paper as a woke rich guy.
 
 A favorite sport of billionaires is trying to out do-good other billionaires. The masterpiece market will dry up for the billionaires out of fear of either a crowd-sourced crusade driving up prices, or cancellation culture impacting their core businesses. The do-good flavor of billionaire will be guided by market and social forces into finding new genius.
 
@@ -1010,7 +1010,7 @@ The other kind of sources are artifacts, or indirect sources. Circumstantial evi
 
 Order tends to lead to chaos. History tends to repeat itself. The chaos equalizer of history so far, is that despite living longer and having more time with our parents and grandparents, we continue to make the same type of historical mistakes, generation after generation. The root cause is innovation itself, and the lack of historical context of value.
 
-In Jefferson's time, his way of life, and the way of life of his grandparents, was not very different. They lived shorter lives but had stronger real connection to their parent's way of life. I compare that to my life -- my prosperous easy life of typing code into a keyboard and getting paid for it -- is so different from the lives of my grandparents. In terms of efficiency, my grandfather's life was closer to Jefferson's than it is to mine. And my children? What magic it is to read, listen, and to watch anything you want wherever you want whenever you want. To have endless treasures of data with various levels of factuality at your disposal at an instant. My children have had that in some form their entire lives.
+In Jefferson's time, his way of life, and the way of life of his grandparents, was not very different. They lived shorter lives but had stronger real connection to their parent's way of life. I compare that to my life -- my prosperous easy life of typing code into a keyboard and getting paid for it. My life is so different from the lives of my grandparents. In terms of efficiency, my grandfather's life was closer to Jefferson's than it is to mine. And my children? What magic it is to read, listen, and to watch anything you want wherever you want whenever you want. To have endless treasures of data with various levels of factuality at your disposal at an instant. My children have had that in some form their entire lives.
 
 We are creating two sets of data for the future. The artifacts -- the digital debris of our daily lives -- will persist in perpetuity. The future shall have no shortage of data to try to interpret, despite the constant acceleration of innovation skewing the context of their interpretation further. The commonality of this data is it's measured relative to property.
 
@@ -1208,7 +1208,7 @@ Maybe there is a more practical way of defining it in way that is generic and ap
 
 The Foundation is an idealistic organization. We expect humans, and our preservation of culture, to last longer than any physical object. The digital record can -- and should -- last forever.
 
-Since it's a digital record, the preservation method is the scoot-chain protocol. It's built-in and immutable. You can improve upon a digital capture of an expression of genius, but the original will always be kept.[^45]
+Since it's a digital record, the preservation method is the scoot-chain protocol. It's built-in and immutable. You can improve upon a digital capture of an expression of genius, but the original will always be preserved.[^45]
 
 How does this apply? Let's think about music. One advantage most musicians at the end of the last millennium had over those at the beginning of this one is they recorded on analog tape where most music recorded today is digital. A digital recording is what it is. Yes, the studio master digital recording may have a higher fidelity than what is commercially released, but the master digital fidelity is the limit -- eternally. Technology for Analog to Digital conversion (ADC) continues to improve, year after year. Recorded music is not what drives this technology anymore -- the ADCs we've had for years covers anything the human ear can hear. There are all kinds of sensors that use ADC with much higher fidelity requirements and this technology will continue to improve. That technology will naturally make its way into audio engineering. Digital capture of analog music recorded in the pre-digital era can continue to improve.
 
@@ -1218,7 +1218,7 @@ To preserve John Bonham's genius, it would be good if the Scoot could have acces
 
 I don't know if we'd be able to discern the divine from those masters, but there is a more practical application that is in easy reach of technology. John Bonham was famous not only for his skill but for his sound -- his stroke, how he tuned his drums, and how they were miked in recordings. We know what kind of drums he played, the sticks he used. With good ADC and software, we should be able to discern the microphone placement, and from analysis determine relative force of stroke and his other physical techniques. A simple trial-and-error algorithm with a robotic tuner can figure out his exact tunings for each recording. From all that, you should be able to design a robot that can play the drums and sound EXACTLY like John Bonham on any of his recorded material. This technology is within reach. Get your Leo bot down at the Hobby Lobby, get your Bonzo droid at Guitar Center. Your kid can have a retro garage band silently in the garage, because they're all wearing headphones when they practice, and the drummer is a computer or a phone. When it comes time for the talent show, get the minivan, go pick up a Bonzo droid for rent for fifty bucks a night.
 
-If that robot were developed by a Scoot, all that revenue would go directly to scoot, which would then directly or indirectly lead to the further appreciation of Bonham. Everybody that hears the Bonzo droid play -- that's direct appreciation of Bonham's genius which should reflect in the value of the scoot.
+If that robot were developed by a Scoot, all that revenue would go directly to scoot, which would then directly or indirectly lead to the further appreciation of Bonham. Everybody that hears the Bonzo droid play is directly appreciating John Bonham's genius which should reflect in the value of the Scoot.
 
 ### Elon Throwdown
 
@@ -1230,7 +1230,7 @@ For me, Tesla's name is now remembered most often as a curse I spit every time o
 
 From all accounts, Nikola Tesla was as brilliant, weird, wild and whacked out as Elon Musk. You can understand why Mr. Musk would want to name his car company after Nikola Tesla.
 
-Despite being a Houston Rockets fan first, a Texan second, and an American third, I have been living in Colorado Springs in the shadow of Pike's Peak for the last six years. Makes for beautiful walks at all times of the day, if you can avoid the silent predators.
+Despite being a Houston Rockets fan first, a Texan second, and an American third, I lived in Colorado Springs, in the shadow of Pike's Peak, for six years. Makes for beautiful walks at all times of the day, if you can avoid the silent predators.
 
 You know who else once lived and did some intense thinking in Colorado Springs? Uh, huh. Mister Tesla. And you know what else he did? He built a lab.
 
@@ -1362,7 +1362,7 @@ There have been other proposals for peacekeeping systems. My favorite in spirit 
 
 ### Die Hard 7 -- In a world of the king's gold 
 
-A Scorsese film, starring Bruce Willis, Joe Jonas as his grandson, and Matthew McConaughey as the president. Bruce is getting long in the tooth, so he's the executive at a top-secret private anti-terrorism outfit. The elite strike team is captained by his grandson, Joe Jonas. Bruce is old, but he's not soft, and in the first scene we see him giving Joe Jonas a load of crap about how slow his team is rappelling down an elevator shaft in a training session. He takes off his coat and jumps down the shaft, beating the entire team to the objective.
+A Scorsese film, starring Bruce Willis, Joe Jonas as his grandson, and Matthew McConaughey as the president. Bruce is getting long in the tooth, so he's the executive at a top-secret private anti-terrorism outfit. The elite strike team is captained by his grandson, Joe Jonas. Bruce is old, but he's not soft, and in the first scene we see him giving Joe Jonas a load of crap about how slow his team rappels down an elevator shaft in a training session. He takes off his coat and jumps down the shaft, beating the entire team to the objective.
 
 Cut to Paris. Out of the skies comes a massive parachute drop of troops who quickly and non-violently take over the entire Louvre. It's revealed this is an attack by the military of the rouge province of West Lakerland, led by the warlord General Drogo, played by Samuel L. Jackson, with an eye patch. The news reports that France has offended West Lakerland by refusing to buy petrol due to human rights violations.
 
@@ -1428,7 +1428,7 @@ In Paris, Samuel L. Jackson watches the victory speech with tears in his single 
 
 ### Die Hard 7 -- Leonardo's Revenge
 
-This film occurs in a more evolved society where genius is valued above property.
+This film occurs in a more evolved society where genius is valued over property.
 
 The first three quarters of the movie is the same, Leonardo Da Vinci appears in Bruce's dream, leaves him waking to the thought, "All the paintings in the world are not worth one single human life."
 
@@ -1506,7 +1506,7 @@ I'm not a tree hugger nor a climate denier, or an alarmist of any kind. I think 
 
 Corporations are optimized for profit. There's a difference, and it impacts every profit driven enterprise.
 
-Take Tesla, the car company. It would be fair to say Tesla is one of the most sustainable companies out there. Electric cars reduce our dependence on oil, and through the electrical grid, we can generate power more cleanly and more efficiently. A worthy objective in a sustainable world.
+Take Tesla, the car company. It would be fair to say Tesla is one of the most sustainable companies out there. Electric cars reduce our dependence on oil, and through the electrical grid, we can generate power more cleanly and efficiently. A worthy objective in a sustainable world.
 
 It's not the most sustainable solution. The most sustainable solution is driving less and taking public transportation more. *"Tesla's mission is to accelerate the world's transition to sustainable energy."* [^56] Replacing gasoline powered automobiles with electrically powered vehicles is a leap forward in accelerating the transition to sustainable energy. In parts of the world where people love and can afford cars -- The United States and Texas especially -- this might be the only practical way for a profit driven organization to fulfil this mission.
 
@@ -1734,7 +1734,7 @@ For my fiftieth birthday, my brother gave me a basketball signed by Hakeem Olaju
 
 Is that the same feeling that art lovers get when standing in front of a masterpiece? If it's half the feeling I felt with the ball in my hand, I get it. The question is, what separates collectables from pieces of history? Does my basketball deserve a place in a museum? I don't think so, but Olajuwon has a place in the basketball hall of fame, and his genius will live on in Houston's memory for generations. Thinking about it led me to remember another piece of history I'd lost.
 
-In the summer of 1985, I attended a NASA summer camp, where I had my first exposure to programming on Apple IIs. I wasn't a computer geek, but I did have an aptitude, and it served me well, for years later, I would make my living coding. The teacher running the camp was June Scobee. Her husband, Colonel Dick Scobee, was an astronaut who had been pilot of a Space Shuttle *Challenger* mission the year before and was slated to be the commander of another *Challenger* flight in the coming winter. At the end of the camp, our class of middle-schoolers got to meet Colonel Scobee. It was a big deal for a kid who had grown up in Space City, Texas to meet an astronaut who had already been to space in the shuttle. I bought a postcard of an earlier *Challenger* launch and Colonel Scobee was gracious enough to sign it for me.
+In the summer of 1985, I attended a NASA summer camp, where I had my first exposure to programming. I wasn't a computer geek, but I did have an aptitude, and it served me well, for years later, I would make my living coding. The teacher running the camp was June Scobee. Her husband, Colonel Dick Scobee, was an astronaut who had been pilot of a Shuttle mission the year before and was slated to be the commander of another *Challenger* flight in the coming winter. At the end of the camp, our class of middle-schoolers got to meet Colonel Scobee. It was a big deal for a kid who had grown up in Space City, Texas to meet an astronaut who had already been to space in the shuttle. I bought a postcard of an earlier *Challenger* launch and Colonel Scobee was gracious enough to sign it for me.
 
 On January 28, 1986 Dick Scobee, along with six fellow astronauts, including civilian school teacher Christa McAuliffe, were killed when *Challenger* exploded 41 seconds after liftoff. It was the "*where were you when JFK was shot?*" moment for my generation. I was a freshman in high school. I was stunned. It was the first time America had lost astronauts during a flight. Class was subdued, teachers were shocked. We crowded around the televisions that had already been wheeled out for us to watch the first teacher in space. Some of the teachers made half-hearted attempts to tell us not to look at the explosion. We had to look.
 
@@ -1818,7 +1818,7 @@ The divisiveness is simple. It is what I value. I might get called some nasty na
 
 Here's what isn't going to happen.
 
-The Mayor of Los Angeles is not going send a mechanized brigade of troops to Houston, surround Minute Maid Park and forcibly take a shirtless José Altuve hostage. New York City is not going shell downtown Houston with nerve gas and send a squad of SEALs to replace *The Dream's* sculpture in front of the house he built with a statue of Spike Lee. The British are not going nuke Austin in 2023 after Governor McConaughey signs his first executive order declaring all members of Led Zeppelin not honorary, but actual Texans.
+The Mayor of Los Angeles is not going send a mechanized brigade of troops to Houston, surround Minute Maid Park and forcibly take a shirtless José Altuve hostage. New York City is not going shell downtown Houston with nerve gas and send a squad of SEALs to replace *The Dream's* sculpture in front of the house he built with a statue of Spike Lee. The British are not going nuke Austin after Governor McConaughey signs his first executive order declaring all members of Led Zeppelin not honorary, but actual Texans.
 
 We're not going to war over genius. If we do, we have failed as a species.
 
@@ -1920,7 +1920,7 @@ I'll defend Daryl Morey's right to say whatever the hell he wants to say until m
 
 The point I'd like to consider is the "private organization" point. I'm not making a legal argument. This is a functional argument about value.
 
-I lived in China for two years. Having very limited ability to communicate, you always start with the basics; your family, your job, your hometown, and what sports you like. If I said basketball to a Chinese person, and they knew what I was talking about, ice was broken. They might not know Houston is a place, or where Texas was on the map, but if they knew anything about basketball, they knew the Houston Rockets.
+I lived in China for two years. Having limited ability to communicate, you always start with the basics; your family, your job, your hometown, and what sports you like. If I said basketball to a Chinese person, and they knew what I was talking about, ice was broken. They might not know Houston is a place, or where Texas was on the map, but if they knew anything about basketball, they knew the Houston Rockets.
 
 In 2002, Chinese superstar Yao Ming became the second international player selected by the Rockets with the number one draft pick. It was like a Disney sequel, two dominant centers, both heroes in their home countries. Yao Ming was China's first NBA superstar, and because of this, the Rockets became China's team.
 
@@ -2216,7 +2216,7 @@ There's a better way, and it's Scoot of Bling.
 
 Instead of buying a Bentley off the lot with a phone call, you have your people find you a special Bentley. Maybe the one that John Bonham had to borrow from Princess Margaret in December 1970, racing across the country to keep schedule with the band to record *When the Levee Breaks*. Legend is, he ran over a goat on the way and stopped at the farm, knocked at the door, apologized profusely to the stunned farmer, and handed over a briefcase with £100,000 and then helped the farmer bury the goat. The legend does not specify if the briefcase belonged to Bonham or Princess Margaret.[^89]
 
-You ride this mythological bad-boy Bentley with the ultimate pedigree around Brooklyn, sometime on your own, sometimes with your boys, sometimes with your queen. It don't take long, and everybody knows it's Jay-Z's special car. You turn it into a Scoot -- the fine automobile becomes a gift to humanity - controlled by you, though maybe you lay off some shards to your friends, they put some asimov down, they earn privileges, maybe they can "curate" the car for when their sister gets married, or to take their mother to church, or whatever, like one day a year and scheduled in advanced. What they contribute builds up a reserve fund in the Scoot that can be used as escrow for insurance and maintenance.
+You ride this mythological bad-boy Bentley with the ultimate pedigree around Brooklyn, sometime on your own, sometimes with your boys, sometimes with your queen. It don't take long, and everybody knows it's Jay-Z's special car. You turn it into a Scoot -- the fine automobile becomes a gift to humanity - controlled by you. Maybe you lay off some shards to your friends, they stake some asimov, they earn privileges, maybe they can "curate" the car for when their sister gets married, or to take their mother to church, or whatever, like one day a year and scheduled in advanced. What they contribute builds up a reserve fund in the Scoot that can be used as escrow for insurance and maintenance.
 
 You make it known that Jay-Z's Bonzo Bentley is like a knighthood of rap. Either you just decide -- by fiat -- or maybe you set up some contest. It's possible to hold elections either in the responsibility domain or value domain, perhaps you get nominees from the public, or perhaps it's strictly at your royal whim. Regardless, when you declare a winner -- you throw him scoot with a responsibility characteristic -- the winner must accept[^90] - and he gets to drive the Bentley -- until somebody else comes along a displaces him and takes it. Each new winner accumulates responsibility -- the direct requirement to pay a portion of the upkeep cost -- and some occasional privilege to the Bentley for special occasions. This all can be managed via the protocol; somebody writes an app to manage the scheduling and the collection of dues.
 
@@ -2250,7 +2250,7 @@ Sharing resources is the often the most efficient way to solve a resource proble
 
 It may be the value system itself that creates the opportunity for privileges. Let's say you live in up-scale neighborhood for young professionals, and you've got yourself a Tesla but find yourself working at home and not driving it much. You're an engineer, so you know that the type of motor, electric or gasoline, is only part of the sustainability equation. Another piece is the number of cars on the road and parked in garages idle. It takes a tremendous investment of energy and resources to produce an automobile. The more vehicles manufactured, more roads and infrastructure are constructed. For internal combustion vehicles, more oil wells are drilled. For EVs, each car requires a commitment to more solar or wind farms. There are multiple sustainability consequences for each new car built. Driving where you want when you want is a basic expectation of wealth or even a necessity in some cultures. Is there a way to balance that problem?
 
-Scoot can rent and lease property. You form a Scoot of Transportation (SOT). You lease a dozen EVs as well as a mini-bus and a couple of hybrid pickup trucks. You lease several charging parking spots in buildings scattered throughout the neighborhood, all within five minutes walking distance. You find that with that number of vehicles you can support the needs of a hundred residents. You use software to manage the capacity. One of your scootage introduces a neighbor who has a personal EV but rarely uses it, so you start leasing it from the neighbor on-demand and through experimentation you find that the additional capacity allows you to add twenty more neighbors to the scootage. Holding scoot in your SOT becomes one of the selling points of the neighborhood. You notice that two Tesla are always parked at one of the building's charging spots during the day but gone at night. You introduce yourself to the owners and find one is a delivery guy and the other is an Uber driver. Since most of your scootage drive during the day or early evenings you find that you can increase your support to over two hundred residents by spot leasing capacity from the sleeping professional drivers.
+Scoot can rent and lease property. You form a Scoot of Transportation (SOT). You lease a dozen EVs as well as a mini-bus and a couple of hybrid pickup trucks. You lease several charging parking spots in buildings scattered throughout the neighborhood, all within five minutes walking distance. You find that with that number of vehicles you can support the needs of a hundred residents. You use software to manage the capacity. One of your scootage introduces a neighbor who has a personal EV but rarely uses it, so you start leasing it from the neighbor on-demand. Through experimentation you find that the additional capacity allows you to add twenty more neighbors to the scootage. Holding scoot in your SOT becomes one of the selling points of the neighborhood. You notice that two Tesla are always parked at one of the building's charging spots during the day but gone at night. You introduce yourself to the owners and find one is a delivery guy and the other is an Uber driver. Since most of your scootage drive during the day or early evenings you find that you can increase your support to over two hundred residents by spot leasing capacity from the sleeping professional drivers.
 
 For the drivers in your neighborhood, it's a win-win. They initially must stake into the SOT with a substantial commitment, but the ongoing responsibility commitment is proportional to their usage dynamically calculated based on relative demand and administered by Scoot protocol. It's a shared resource. Each user is pledge and a responsible individual. SOTs require a dynamically scalable insurance scheme, meaning participants must be responsible and legal drivers. It is a public good for those who live in neighborhood. As the scootage grows the overall cost per mile falls, access to the SOT becomes a key driver of value in the neighborhood. Your association with other staking networks expands, and after a few years, it's possible for one of your scootage to travel all over the world and find an EV car or best available alternative for hourly use, at only a marginally higher proportional commitment than it would have cost at your local SOT.
 
@@ -2260,7 +2260,7 @@ What's more, your collected data shows that what your neighborhood values is the
 
 This works if the system is real; if it really is a way to measure responsibility. People who leave their trash and don't make sure the charger is latched-- or worse -- get arrested using a SOT vehicle to commit a crime -- could get you kicked out of the Scoot and the responsibility domain. It's a privilege. A privilege earned by commitment to a shared value system. That shared value might simply be affordable and sustainable transportation for your neighborhood.
 
-You're an innovative scooter who expands his vision beyond a neighborhood radius, to say the broad sprawl of an urban city like Houston. You collect '67 Cadillacs, the most valuable one you give to your third wife, and had it painted pink with Hello Kitty trim. She dumps you when your Transylvania Meta Crypto fortune is staked and suddenly gushes, and you got out just seconds too late. She leaves you the Cadillac. You are inspired by your sister, who'd once guilt tripped you about your car collection, while she puttered around Houston in a Prius with her three daughters. One day, having an epiphany to the futility of sustainability, she breaks into your house, takes your keys, and drives Hello Kitty, top down, daughters seat-beltless in the back, all in Hello Kitty outfits. She's arrested. You realize your sister is just on the edge of something. It's a good thing, because taking care young nieces is hard and expensive and choosing the unemployment option in the same crypto currency you bet your life savings on wasn't good planning, with sister away for twenty to life for child endangerment.
+You're an innovative scooter who expands his vision beyond a neighborhood radius, to say the broad sprawl of a city like Houston. You collect '67 Cadillacs, the most valuable one you give to your third wife, and had it painted pink with Hello Kitty trim. She dumps you when your Transylvania Meta Crypto fortune is staked and suddenly gushes, and you got out just seconds too late. She leaves you the Cadillac. You are inspired by your sister, who'd once guilt tripped you about your car collection, while she puttered around Houston in a Prius with her three daughters. One day, having an epiphany to the futility of sustainability, she breaks into your house, takes your keys, and drives Hello Kitty, top down, daughters seat-beltless in the back, all in Hello Kitty outfits. She's arrested. You realize your sister is just on the edge of something. It's a good thing, because taking care young nieces is hard and expensive and choosing the unemployment option in the same crypto currency you bet your life savings on wasn't good planning, with sister away for twenty to life for child endangerment.
 
 Your sister was on front end of a trend of girls that had grown up in the 90s and 2000s with the badass moms driving SUVs, minivans, and Cadillacs. Usually on the third kid but sometimes all it took was one, they'd feel the need to burn some gas, even if it cost \$46.60 a gallon. Nobody makes gasoline cars, and private cars of any kind cost more than a house because of the overall reduction of demand due the success of SOTs. Your ten Cadillacs become very valuable. Turns out moms all around the country want to drive around and burn some gas in a Hello Kitty Cadillac. Pretty soon, you're nationwide, except in California and Vermont, where you're wanted for crimes against humanity.
 
@@ -2380,13 +2380,13 @@ There will be an onramp to the Scoot process. Pledges are real people and will b
 
 This is easily accomplished in some countries; commercial enterprises scale up secure workforces all the time. It is much more difficult and costly to setup in poorer countries. We will try to rollout globally where invited. This will be a step-by-step roll out, where we staff one office in each country until we make complete circuit, and then stepping by relative population sizes of the countries. This creates a backlog of value in the queue for the wealthy or crypto-crazy countries.
 
-There is a way for the wealthy to exert the privilege of being wealthy. There are privileges in this value system, as agreed to in the social contract with the billionaires. They can turn property into public good. There is a property-queue in the system. This will be a sorted queue where the most valuable property is processed first. Bill Gates wants to scoot his Da Vinci notebooks, he goes straight to front like a gangster, no waiting in line. Wants to meet the engineer on his way out, though, he should be prepared to kick it, engineer works on his (or her or their) own schedule.
+There is a way for the wealthy to exert the privilege of being wealthy. There are privileges in this value system, as agreed to in the social contract with the billionaires. They can turn property into public good. There is a property-queue in the system. This will be a sorted queue where the most valuable property is processed first. Bill Gates wants to scoot his Da Vinci notebooks, he goes straight to the front like a gangster, no waiting in line. Wants to meet the engineer on his way out, though, he should be prepared to kick it, engineer works on his (or her or their) own schedule.
 
 The property-queue is justified, it is a permanent, one-way act, releasing a piece of property to humanity. It is a validation of the system. It's either an act of faith, or that's just how gangsters roll, throw one down, do the world a solid. Either way, humanity will take it.
 
 Bill got the wealth, but there's still a line, globally. Billionaires can skip the line to get in to see the Foundation man, make sure all his paperwork is straight, drink some coffee in the lounge while the lawyers is shuffling paper, but the actual act of scooting is part of a negotiated protocol, with all kind of formality. He can't just cut in that line, the other people in line would notice, since it's an open protocol. Wait, what's up? Oh, it's the dude in the front of the line from Somalia, who wrote a paper on Da Vinci's notebook when he was student and was trying to start a Scoot based on the notebooks, from an engineer's perspective. Hey, Bill, that dude says you're his staker. You ever been to Somalia? Right on, you guys should meet. They meet and Bill is like, I love this guy, he loves Leonardo more than I do, and if I let him be the scoot trustee, I won't have to have to talk to all the museum people about where the notebooks go on exhibition, he can talk the museum people. I'll have all this free time, maybe I'll go back to billionaire's school and rewrite the textbook for the next generation of billionaires. Oh, yeah, the next generation billionaires don't read. Heck, guess I'll go find another disease to eradicate.
 
-The people in the line get it. Somalia dude was holding a place in line for Bill, that's cool, long as Bill don't hold up the line, geek out, asking them what hash algorithm they using and all that.
+The people in the line get it. Somalia dude was holding a place in line for Bill. That's cool, long as Bill don't hold up the line, geek out, asking them what hash algorithm they using and all that.
 
 ##### Fee Schedules
 
@@ -2440,9 +2440,9 @@ The popular are elected in a single election and serve a term of three years.
 
 ### Term Limits
 
-No pledge shall hold the same board seat for more than one consecutive term. A popular trustee may seek election for a as a continental or engineer as their term is expiring, or vice versa.
+No pledge shall hold the same board seat for more than one consecutive term. A popular trustee may seek election as a continental or engineer as their term is expiring, or vice versa.
 
-Non-consecutive terms are allowed.
+Non-consecutive terms are permitted.
 
 ## Ethical Standards
 
@@ -2468,7 +2468,7 @@ Rather the making value judgement on content, the protocol shall implement shuns
 
 ### Shunning
 
-The metric protocol shall have a method of shunning. In the protocol, shunning is a voluntary action by pledges, where they stake a formal shun and reject transactions from the shunned scoot or pledges. This will reduce the number of nodes available to process transactions for a scoot, increasing transaction processing time or preventing it altogether.
+The metric protocol shall have a method of shunning. In the protocol, shunning is a voluntary action by pledges, where they stake a formal shun and reject transactions from the shunned Scoot. This will reduce the number of nodes available to process transactions for a scoot, increasing transaction processing time or preventing it altogether.
 
 The charter should address how shuns are created. A board shun should take a unanimous vote by the board and prevent The Foundation from processing transaction for the Scoot. A consensus shun would take a minimum number of pledges to stake.
 
@@ -2690,7 +2690,7 @@ We are saying to pharmaceutical people that we expect you to behave ethically an
 
 Blame is useless unless you use it to fix the problem. If you can diagnose with a measurement of value that is equitable, we can solve real problems.
 
-In sports, when you lose, you go home and figure out how to get better. Sometimes it works, sometimes it doesn't, sometimes it's luck, other times it's who you hire and draft and what values those people represent. In Houston, you take your medicine and own it. There is another approach. You go home and blame your teammates, or the officials, or call the other team cheaters, or demand a trade. Both strategies have been known to work, though I believe sports karma favors the first approach.[^100] [^101]
+In sports, when you lose, you go home and figure out how to get better. Sometimes it works, sometimes it doesn't, sometimes it's luck, other times it's who you hire and draft and what values those people represent. In Houston, you take your medicine and own it. There is another approach. You go home and blame your teammates, or the officials, or call the other team cheaters, or demand a trade. Both strategies have been known to work, though I believe sports karma favors the first approach.[^100] [^101] [^102]
 
 I call my engineering approach *recursive integration*. In digital systems design, this means that when you improve one part of the core system, you need to go back and reevaluate how the rest of the system works and then repeat whole process again.
 
@@ -2700,7 +2700,7 @@ When my daughter and I were discussing the causes of conflict in 2020, we had on
 
 Now I realize that the real way to measure value is not our fortune in life to be born American, Nigerian, Chinese, or Vietnamese or white or black, but the real fortune we all share, is to be born with all the accumulated value of the ideas of all who came before us, because that wealth is available to everybody on the planet. This leverage is something we all benefit from, and it should scale to much higher levels if we can value our potential. If Elon Musk gets his way and connects every person on the planet, this accumulated value is within reach of every child born.
 
-The reason Mark Twain's satire *The Connecticut Yankee in King Arthur's Court*[^102] is so powerful and funny is because it's a simple theme, shared by Isaac Asimov's *Foundation*. We might have great technology and cool toys but we keep repeating the same historical mistakes because we believe we are somehow more advanced than mankind just a few generations before.
+The reason Mark Twain's satire *The Connecticut Yankee in King Arthur's Court*[^103] is so powerful and funny is because it's a simple theme, shared by Isaac Asimov's *Foundation*. We might have great technology and cool toys but we keep repeating the same historical mistakes because we believe we are somehow more advanced than mankind just a few generations before.
 
 History is accumulated value. We stand on the shoulder of giants. History is cumulative, but there are bumps in the road.
 
@@ -2730,7 +2730,7 @@ I grew up around baseball, but it never really took when I was young. I saw *Phi
 
 One common adage of parenthood is, "you don't know how good you got it." I like to bring this up when talking to my kids about the general suckage of the pandemic, and I know I'm right. The pandemic lockdowns would have sucked way worse for young people in the 1980s.
 
-I remember I was about twelve or thirteen and I was bitching to my grandpa about my summer job, working for my Uncle Clay. Uncle Clay drove around Clear Lake in a hatchback towing a trailer, mowing lawns for astronauts. Uncle Clay did this on his four days off from working in a chemical refinery, having retired as a Chief Master Sergeant from the Air Force. In the summer, it was exactly like being in a sauna, but it wasn't like I was cutting the grass with a machete, my uncle had riding mowers and top-end gear. I'd mow as fast as I could, but it didn't get me out of the heat, because no matter how fast I'd mow, Uncle Clay had to stop and talk to somebody for twenty minutes. He was probably talking to Neil Armstrong or Buzz Aldrin, or even more likely, their wives, but I was too stupefied from the broiled brains to know it, even if he told me. By 10 a.m. every day I was praying for rain, and prayers worked about half the time. I guess I'm semi-holy.
+I remember I was about twelve or thirteen and I was bitching to my grandpa about my summer job, working for my Uncle Clay. Uncle Clay drove around Clear Lake in a hatchback towing a trailer, mowing lawns for astronauts. Uncle Clay did this on his four days off from working in a chemical refinery, having retired from the Air Force. In the summer, it was exactly like being in a sauna, but it wasn't like I was cutting the grass with a machete, my uncle had riding mowers and top-end gear. I'd mow as fast as I could, but it didn't get me out of the heat, because no matter how fast I'd mow, Uncle Clay had to stop and talk to somebody for twenty minutes. He was probably talking to Neil Armstrong or Buzz Aldrin, or even more likely, their wives, but I was too stupefied from the broiled brains to know it, even if he told me. By 10 a.m. every day I was praying for rain, and prayers worked about half the time. I guess I'm semi-holy.
 
 "I picked cotton when I was your age," my grandpa said.
 
@@ -2758,7 +2758,7 @@ That all changed during the 2017 post season. When I watched José Altuve bat, I
 
 When José is at bat, and the game is on the line, just close your eyes for a moment and imagine. I promise you, something good is going to happen.
 
-My grandpa died in April of 2005. He'd watched the Astros during their entire existence faithfully, yet never got to see them go to the World Series. In October of 2005, the Astros went to the World Series for the first time, where they ended the 86-year *Curse of The Black Sox* -- the greatest myth in baseball. *Say Ain't So, Joe.*[^103] The Astros were swept by the Chicago White Sox, the team that once drafted my grandfather.
+My grandpa died in April of 2005. He'd watched the Astros during their entire existence faithfully, yet never got to see them go to the World Series. In October of 2005, the Astros went to the World Series for the first time, where they ended the 86-year *Curse of The Black Sox* -- the greatest myth in baseball. *Say Ain't So, Joe.*[^104] The Astros were swept by the Chicago White Sox, the team that once drafted my grandfather.
 
 I regret my grandpa never got to see the Astros in the World Series. What I really wish is that he'd gotten to see José Altuve play. I think we could have enjoyed being on the same wavelength and watching a genius at work. I fondly remember watching Rockets games with him. We both knew what was going to happen -- *The Dream* was going to dominate, every time he touched the ball. I never got to enjoy a baseball game in the same way with him. We never aligned our dreams or our delusions on baseball, but we did on *The Dream*. That was nice.
 
@@ -2800,13 +2800,13 @@ This is the metric of genius. This is what we will measure.
 
 ## Canada
 
-Canada, I'm not exactly talking forgiveness here, but a permanent cease fire. I like Canada. It's a beautiful country, the people are nice, and I've always enjoyed visiting. I've been civil, I haven't smacked down any of modern-day Canadian heroes. It was challenging, as there are so many easy targets.[^104]
+Canada, I'm not exactly talking forgiveness here, but a permanent cease fire. I like Canada. It's a beautiful country, the people are nice, and I've always enjoyed visiting. I've been civil, I haven't smacked down any of modern-day Canadian heroes. It was challenging, as there are so many easy targets.[^105]
 
 You stole *The Dream* from Houston, but that was a long time ago, and he came back home.
 
 Canada, I'll make you a deal. I'll lay off the Canadian trash-talk, all you got to do is send George Springer back home, we really miss him. I know he went there voluntarily, but he's young, he can always come back home, just like Olajuwon.
 
-George, *Whataburger* will give you some gravy to go with your fries, all you got do I ask. Only explanation I could think of.[^105]
+George, *Whataburger* will give you some gravy to go with your fries, all you got do I ask. Only explanation I could think of.[^106]
 
 ## Yankees
 
@@ -2840,7 +2840,7 @@ Keep on booin' Dodgers fans, it only adds to the legend.
 
 There's no *Curse of the Altuve.* José is a nice guy. When he hears the boos, he has nothing but compassion for the poor, downtrodden fans of the Yankees and Dodgers.
 
-Instead, I cast the *Curse of the Asterisk*. The curse is simple. How long it lasts, depends how long those fans keep on *living like they ain't got no mamas*.[^106]
+Instead, I cast the *Curse of the Asterisk*. The curse is simple. How long it lasts, depends how long those fans keep on *living like they ain't got no mamas*.[^107]
 
 The *Curse of the Asterisk* is directed at the fans at who feign to value the Dodgers and the Yankees, who booed the greatest baseball player of all time and were rude around my mother. It doesn't affect how many games the Yankees and the Dodgers may win, how many series they might advance, or even how many rings they wear.
 
@@ -2868,7 +2868,7 @@ There is one common value that Americans share, and we willingly share this valu
 
 It is this value that gives me the righteousness to state, genius belongs to humanity.
 
-Let's say I'm at a dinner party with a bunch of fancy artsy people.[^107] Some rich dirtbag makes mention he's got a Picasso hidden away at his ski-chalet in Aspen, and only people who get to look at it are the other rich scumbags he invites on his ski trips. My response would be "*Should I bow or curtsey now, your worshipfulness?*"
+Let's say I'm at a dinner party with a bunch of fancy artsy people.[^108] Some rich dirtbag makes mention he's got a Picasso hidden away at his ski-chalet in Aspen, and only people who get to look at it are the other rich scumbags he invites on his ski trips. My response would be "*Should I bow or curtsey now, your worshipfulness?*"
 
 While I fully concede to the rich their wealth gives them access to private jets, yachts, and adventure flights into shallow outer space, I won't concede that they have the right to keep works of genius from me or my children. That's too much like blood royalty.
 
@@ -2878,7 +2878,7 @@ Through the lens of history, we see that basic principle was hypocritical in pra
 
 A failure of the American Revolution, and all the revolutions that followed, was that we said to the king, "*We don't need you*," but "*We still need your gold*." And that is why we, as a nation, could rectify slavery, genocide, economic imperialism, and decade after decade of bloody industrial savagery with the idealism of liberty and freedom. All men are created equal, but from the day he is born, we value a man's worth by the king's gold. We might have hacked the actual gold out of the algorithm, but it is still the king's gold be it fiat or crypto.
 
-Hindsight is not perfect vision. I am not trying to fault the founders. I can't fathom how my folks survived childhood in Texas without air-conditioning, much less what a bunch of farmers and merchants in colonial American had to deal with. I feel an opportunity was missed that was right there before their eyes. The very first amendment to our Bill of Rights says what we value is freedom of speech.[^108] This has been interpreted from the beginning as freedom of expression, which is certainly what genius and vanity is all about. We as a people, demand this of our government, meaning we value it, and King George did not. Yet the founders choose to continue to trade and collect taxes using the king's gold.
+Hindsight is not perfect vision. I am not trying to fault the founders. I can't fathom how my folks survived childhood in Texas without air-conditioning, much less what a bunch of farmers and merchants in colonial American had to deal with. I feel an opportunity was missed that was right there before their eyes. The very first amendment to our Bill of Rights says what we value is freedom of speech.[^109] This has been interpreted from the beginning as freedom of expression, which is what genius and vanity is all about. We as a people, demand this of our government, meaning we value it, and King George did not. Yet the founders choose to continue to trade and collect taxes using the king's gold.
 
 I believe mankind can learn to survive without greed.
 
@@ -2898,7 +2898,7 @@ Super-efficient robots that are powered by green energy.
 
 Don't believe me? Ask Elon Musk. How else are we going to colonize Mars?
 
-I like the shows *Deadliest Catch* and *Ice Road Truckers*. These are docuseries about two of the most dangerous jobs in North American, though from a historical statistical perspective, relatively tame jobs. Living on Mars, full time, as an engineer or scientist or even just the cook, indoors most of the time, will be like a mashup of those two shows. That's right, burnt up, alcoholic thrice divorced Canadian and American geezers driving big rigs in laps on a frozen lake while their sons and grandsons try to drop crab pots off the trailer into holes blown into the ice by the brother who is literally[^109] riding "shotgun." Take that for social-satirical-tragedy *Squid Games*!
+I like the shows *Deadliest Catch* and *Ice Road Truckers*. These are docuseries about two of the most dangerous jobs in North American, though from a historical statistical perspective, relatively tame jobs. Living on Mars, full time, as an engineer or scientist or even just the cook, indoors most of the time, will be like a mashup of those two shows. That's right, burnt up, alcoholic thrice divorced Canadian and American geezers driving big rigs in laps on a frozen lake while their sons and grandsons try to drop crab pots off the trailer into holes blown into the ice by the brother who is literally[^110] riding "shotgun." Take that for social-satirical-tragedy *Squid Games*!
 
 That's the risk level for the people in the caves on Mars who watch robots remotely. Even though the Mars colony will be an international effort, in a throwback homage to America's 1969 landing on the moon, they'll have a lottery just like the U.S Federal government had in 1969.
 
@@ -2908,7 +2908,7 @@ That's the risk level for the people in the caves on Mars who watch robots remot
 
 *And there's no one there to raise them,*
 
-*If you did.*[^110]
+*If you did.*[^111]
 
 The lottery winners get to put on a suit, go outside and go check the robots. The ones that make it back get a veggie burger, Mars fries, a powdered milkshake, a three-week course of anti-radiation meds, and the end of their contribution to the gene pool.
 
@@ -2922,13 +2922,13 @@ I think that's what all these crazy tweets are about. I know Mr. Musk reads scie
 
 I don't know if those crazy doge-tweets have a hidden message. Perhaps the Second Foundation on Trantor has used mental science to take control of Elon Musk's brain and send out these bizarre messages. Fully deciphered, I think the messages would be something like this: *If you take the value system that you use on Earth to space, you will take war to space*.
 
-This is my plan. Stake The Foundation with a large amount of existing currency. Scoot physical artwork, because the legal ramifications of owning and being responsible for property are well understood. Convince people to remember their heroes as a way of quantifying their own personal values. Get the geniuses of today to open source everything. Make the world a better place by having currency backed by the only treasure we have -- our imaginations.
+This is my plan. Stake The Foundation with commitments of appreciation and imagination. Convince people to remember their heroes as a way of quantifying their own personal values. Get the geniuses of today to open source everything. Make the world a better place by having currency backed by the only treasure we have -- our dreams.
 
 *You could see from behind, you could redefine*
 
 *The game as we know it, one dream at a time*
 
-*I\'m American dreamin\'*[^111]
+*I\'m American dreamin\'*[^112]
 
 ## No Small Genius
 
@@ -2956,7 +2956,7 @@ He shows me a picture on his phone of his grandfather and grandmother, laughing 
 
 I'll laugh and shake my head. What can I say, we were all filthy idiots, laughing it up in an unsustainable world.
 
-"Yo, old man, why you care about rebounding so much? My curry[^112] never misses?"
+"Yo, old man, why you care about rebounding so much? My curry[^113] never misses?"
 
 "Kid, let me tell you about the Worm. Back in the 1980s when I was a kid, the Korean peninsula was divided into two countries. There was this kid from Texas, just like us, who didn't have much, but he had a dream \...."
 
@@ -2966,7 +2966,7 @@ I'll laugh and shake my head. What can I say, we were all filthy idiots, laughin
 
 *Instead of spreading love we\'re spreading animosity*
 
-*Lack of understanding, leading lives away from unity*[^113]
+*Lack of understanding, leading lives away from unity*[^114]
 
 # Acknowledgements
 
@@ -3104,9 +3104,9 @@ Hi LBJ, I appreciate the question. Did you know that the first President from th
 
 I'm guessing by your question you are a child of the late eighties or nineties. It's understandable that your worldview is shaped by the media of that time. The internet hadn't been fully commercialized, so television and the movies were the primary medium for marketing. Both are broadcast mediums and thus they needed a symbol that could reach into the souls of the greatest number of children and the pocketbooks of their parents. Michael Jordan was an almost ideal choice, as he was charismatic, flashy and was a great basketball player. Of course, you wanted to *Be Like Mike*.
 
-Today, we live in a better world. The internet has made targeted marketing possible. Google James Harden's stats once in your life, and you'll be forever followed across the internet with Taco Bell and Beats Headphones ads. If you google insurance rates, Chris Paul will haunt you like Bruce Willis. In the 21^st^ century, children can be whomever they want to be, as long as whomever they want to be has a way to extract dollars from the pockets of their parents. This explains why they'll never be a "greater" basketball player than Michael Jordan. It's not about rings, it's about marketing impressions. Too bad for guys like Kobe and Steph Curry who are also great and got the rings to prove it.
+Today, we live in a better world. The internet has made targeted marketing possible. Google James Harden's stats once in your life, and you'll be forever followed across the internet with Taco Bell and Beats Headphones ads. If you Google insurance rates, Chris Paul will haunt you like Bruce Willis. In the 21^st^ century, children can be whomever they want to be, as long as whomever they want to be has a way to extract dollars from the pockets of their parents. This explains why they'll never be a "greater" basketball player than Michael Jordan. It's not about rings, it's about marketing impressions. Too bad for guys like Kobe and Steph Curry who are also great and got the rings to prove it.
 
-Let's not get off track. I was an adult in the nineties who could appreciate actual basketball, and while Mike was fun to watch, Hakeem was the genius. Hakeem Olajuwon innovated from the moment he stepped on the court, dominating both the NCAA and NBA. You start looking at Olajuwon's post ups and shakes, you're looking at Bonham level rhythms that are absolutely unguardable, played back in slow-motion, you see them as choreographed and perfectly executed. On defense, there's no comparison. Michael Jordan is a great defender for a guard, he's number three in career steals. You know who is number nine? Hakeem Olajuwon, the only center on the list. How many blocked shots Michael Jordan got?[^114] Mike was a thief; Hakeem was a stopper. He played D the Houston way, any way that that got the job done, blocks, steals, or sometime just intimidation. The kind of intimidation that makes you want to go play baseball.
+Let's not get off track. I was an adult in the nineties who could appreciate actual basketball, and while Mike was fun to watch, Hakeem was the genius. Hakeem Olajuwon innovated from the moment he stepped on the court, dominating both the NCAA and NBA. You start looking at Olajuwon's post ups and shakes, you're looking at Bonham level rhythms that are absolutely unguardable, played back in slow-motion, you see them as choreographed and perfectly executed. On defense, there's no comparison. Michael Jordan is a great defender for a guard, he's number three in career steals. You know who is number nine? Hakeem Olajuwon, the only center on the list. How many blocked shots Michael Jordan got?[^115] Mike was a thief; Hakeem was a stopper. He played D the Houston way, any way that that got the job done, blocks, steals, or sometime just intimidation. The kind of intimidation that makes you want to go play baseball.
 
 Let's not bother with the statistics or the analysis of their competition or any of that. If we were talking about LeBron versus Michael, Michael versus Kareem or Russel or Wilt or Bird or Magic or Jerry or almost anybody else, we could talk until the end of time and never come to a consensus. Those guys were different ages and the rules changed and all that nonsense.
 
@@ -3144,7 +3144,7 @@ Good luck LBJ, and to the Lakers or the Clippers, whomever your Los Angeles team
 
 For the Clippers, I'd hire a grumpy old man to scowl at Kawhi during the playoffs. This causes his blood to turn to ice and he transforms into a basketball robot. It's difficult, because it's hard for any old man to scowl properly when he has the privilege of watching NBA playoff basketball from the sidelines. It is Hollywood, so you should be able find somebody can pull off the act. I'd suggest Mel Gibson.
 
-If you're a Lakers fan, then you're probably a Dodgers fan and I can't help you. How does that work exactly, why would a city claim two teams in the same league unless it was intentionally trying to turn its population against each other? Is Hollywood being intentionally dramatic? I wonder what the theme is? Twain's *Prince and the Pauper* sort of fits, the Clippers star is a robot, robots work in factories, that would make the Clippers the pauper, and it fits my theme of historical irony since The Clippers are owned by the biggest Ballmer billionaire. So that would make the Lakers... royalty?
+If you're a Lakers fan, then you're probably a Dodgers fan and I can't help you. How does that work exactly? Why would a city claim two teams in the same league unless it was intentionally trying to turn its population against each other? Is Hollywood being intentionally dramatic? I wonder what the theme is? Twain's *Prince and the Pauper* sort of fits, the Clippers star is a robot, robots work in factories, that would make the Clippers the pauper, and it fits my theme of historical irony since The Clippers are owned by the biggest Ballmer billionaire. So that would make the Lakers... royalty?
 
 The symbolism is perfect. I finally understand California. LBJ, again, thanks for your question. Evaluating how different people value ideas is the way we can come to a better understanding of each other. That's what Scoot is all about.
 
@@ -3422,13 +3422,13 @@ The main job of the scootage is getting the players to *Believe It*. We have som
 
 The Rockets can expand funding by further scooting. There are 29 other NBA teams, and the Rockets could fund OTRS (On the Road Scoot) where blocks of seats are bought out in advance in these other cities and a lottery or scheduling system is setup for OTR Ambassadors.
 
-These Kerouac Crews[^115], are Scoot that are staked by Scoot(84) to form road crews that follow the Rockets. I'd propose to set these up with shards, with both big chunks and little chucks, so big baller Rockets fans with private jets get to go to a bunch of games, but a fool from the neighborhood hit it on a scratch-off can buy a small shard and get a chance to roll with the big boys. The strength of Rockets-Nation is how we are alike, not how we are different. This is genius integration ideal for one of the most diverse cities on the planet. Diversity is strength. Unity through shared values, even if it's just love of your team. See a game and hit every Landry's restaurant in 26 different cities.[^116]This is serious business and a responsibility because you're judged by your winning percentage. It\'s a measured privilege related to your ability to commit to the team winning.[^117]
+These Kerouac Crews[^116], are Scoot that are staked by Scoot(84) to form road crews that follow the Rockets. I'd propose to set these up with shards, with both big chunks and little chucks, so big baller Rockets fans with private jets get to go to a bunch of games, but a fool from the neighborhood hit it on a scratch-off can buy a small shard and get a chance to roll with the big boys. The strength of Rockets-Nation is how we are alike, not how we are different. This is genius integration ideal for one of the most diverse cities on the planet. Diversity is strength. Unity through shared values, even if it's just love of your team. See a game and hit every Landry's restaurant in 26 different cities.[^117]This is serious business and a responsibility because you're judged by your winning percentage. It\'s a measured privilege related to your ability to commit to the team winning.[^118]
 
 I would implement separate Scoot as small teams, so you can always manage to block off a row or section, 8 to 12 seats. Each crew will be assigned a roster spot. Say KPJ is roster spot #1, that's going to be the hot ticket, people going to bid on that. Every city KPJ goes to, he knows, he can look up before tipoff, his crew is up there. Even roster spot #12, a rookie or a call-up or a free agent just got picked up that morning, he's got him a crew to look out for him. People dying to see him get on the floor and ball. Everywhere Rockets play, they will have that to draw upon.
 
 That player will have no obligation to his crew at all, but we will be there for him. He's a Rocket -- he's the crew's responsibly. As the players grow to appreciate the crews, then the relationship can grow. Perhaps the player has dinner with the crew once a month, or maybe it's just a shootaround, getting loose before practice. No phones, just letting the crew know how it is. We tell him what we saw in games we watched, scouting up who he's going to be facing. It's our responsibility. It's about people who value basketball committing to these young men who can make our dreams come true.
 
-Kerouac Crews invest in dreamers. I'd split these up and have multiple crews, an adult version, and a kids version, funded by the big rollers version, where it's kids who have a favorite player write an essay or film a video, and there's a Scoot election to pick a whole crew of kids for every road game. It's a way for the players to get in touch with the real value leverage they have as sports heroes -- the dreams of children. These kids are on the road for the players, a new crew of screaming kids at each stop. It must be rotating because you can't have kids missing a bunch of school, but in every city there is a bunch of kids there just for that player.
+Kerouac Crews invest in dreamers. I'd split these up and have multiple crews, an adult version, and a kids version, funded by the big rollers. Kids who have a favorite player write an essay or film a video, and there's a Scoot election to pick a whole crew of kids for every road game. It's a way for the players to get in touch with the real value leverage they have as sports heroes -- the dreams of children. These kids are on the road for the players, a new crew of screaming kids at each stop. It must be rotating because you can't have kids missing a bunch of school.
 
 How much positive pressure does it put on these young Rockets to perform at the highest level so that it's always a blow out on the road? A blow-out so everybody on the roster gets a chance to play and hear their crew of kids shout it out when they get a bucket or a rebound. This is a blowout incentive system, no money involved. These men we pick for our heroes are young and their ideas and values are much closer to those kids than they can be to any billionaire owner. The only way any of them got to the show in the first place is because they're winners. We can't let them forget that, even when they lose.
 
@@ -3446,7 +3446,7 @@ Or the breakfast club party in Chengdu or Manilla or wherevera, time of day is a
 
 I got all kinds of ideas. I'm building a dynasty. I'm not giving it all away.
 
-I'm optimizing for the fans and screaming kids. I believe that will have the biggest impact Rockets-Nation can have on the game. You could scoot a team and optimize for high ticket prices and media deals and you can set your currency holding limits very high so you can stockpile cash to fund free agency. You can set it up as an exclusive and limited Scoot, so you have a very small pool of very powerful people who run your Scoot and they do whatever they want or bow to a billionaire king. You just can't sell the team, it doesn't belong to you anymore, and you must conduct your system of governance according to a very flexible protocol. I think the value to community outweighs all else and optimizing on that will lead to the greater glory. As a Scoot of Team, it's a measure of the value you create. Brands can be genius generationally, but positive values are multi-generational and can provide wealth for centuries. They are high value leverage for the future. The heroes we choose are important. Our heroes set the baseline for ourselves, for the standards we must live up to.
+I'm optimizing for the fans and screaming kids. I believe that will have the biggest impact Rockets-Nation can have on the game. You could scoot a team and optimize for high ticket prices and media deals and you can set your currency holding limits very high so you can stockpile cash to fund free agency. You can set it up as an exclusive and limited Scoot, so you have a very small pool of very powerful people who run your Scoot and they do whatever they want or bow to a billionaire king. You just can't sell the team, it doesn't belong to you anymore. You must conduct your system of governance according to a very flexible protocol. I think the value to community outweighs all else and optimizing on that will lead to the greater glory. As a Scoot of Team, it's a measure of the value you create. Brands can be genius generationally, but positive values are multi-generational and can provide wealth for centuries. They are high value leverage for the future. The heroes we choose are important. Our heroes set the baseline for ourselves, for the standards we must live up to.
 
 []{#_Scoot_of_Special .anchor}Houston, we don't need to wait on protocol or funding or testing to get started with building the value. You get your people together and stake a responsibility for an idea, and you decide how you govern yourself. And then just get it done.
 
@@ -3472,23 +3472,23 @@ The SSPE holds title to property while proxying the custody of the property to t
 
 When the originating Scoot fails, the SSPE has responsibility of disposition. The SSPE can't sell the property. It can scrap the property, and the proceeds may be used in the responsibility domain to preserve or support some other property the SSPE holds. It can repurpose the property to other Scoot or to some other legitimate public good.
 
-SSPE are statis organizations for property. I referred to digital statis earlier keeping a scoot-chain contents alive in cold storage for the future as digital stone. SSPE are statis for physical property. SSPEs ensure that property that has been declared a public good remains a public good.
+SSPE are statis organizations for property. I referred to digital statis earlier as keeping a scoot-chain contents alive in cold storage for the future as digital stone. SSPE are statis for physical property. SSPEs ensure that property that has been declared a public good remains a public good.
 
-A clear lesson history has taught us in this millennium is that planes are potential weapons of mass destruction. Giving a plane to humanity is a huge gesture and will strengthen the foundation of The Foundation. Every national government has domain in the ownership and operation of airplanes, as planes can cross borders with ease. SSPE have the job of maintaining compliance in both the legal property domains and the responsibility domain.
+A clear lesson history has taught us in this millennium is that planes are potential weapons of mass destruction. Giving a plane to humanity is a huge gesture and will strengthen The Foundation. Every national government has domain in the ownership and operation of airplanes, as planes can cross borders with ease. SSPE have the job of maintaining compliance in both the legal property domains and the responsibility domain.
 
-The Rockets have a team plane.[^118] This is and expensive property, but useful for the team. Prior to Rockets conversion to Scoot, we could sell the plane to a commercial operator who'd lease it back to the team for most of the plane's expected useful lifetime and use the proceeds to fund the general operation of the organization.
+The Rockets have a team plane.[^119] Prior to Rockets conversion to Scoot, we could sell the plane to a commercial operator who'd lease it back to the team for most of the plane's expected useful lifetime and use the proceeds to fund the general operation of the organization.
 
 It might make sense to Scoot it as property. A SSPE would hold title, the team would continue to use the plane, and when it's reached the end of usefulness for the team, the SSPE could salvage it for parts Alternately, the scoot(84) could recommend that the plane is transferred to a humanitarian Scoot the Rockets SOT was committed to.
 
 It may seem silly, but everything the Rockets buys as a team is property and needs to be accounted for as property never to be sold. SSPE becomes the buyer of all durable goods. Practice balls for NBA teams wear out, and I'm sure the Rockets don't have a guy selling them on Ebay, they probably donate them. The SSPE ensures that they go to an equitable source.
 
-Genuine NBA used practice balls are given away to kids at a middle school. One of the kids sells his ball on Ebay. That is leakage in the system. Is it a problem? Not worth worrying about.
+Genuine NBA practice balls are given away to kids at a middle school. One of the kids sells his ball on Ebay. That is leakage in the system. Is it a problem? Not worth worrying about.
 
 The Rockets have buses in Houston to get the team to and from the airport. The team upgrades to electric buses, so the SSPE must dispose of the old buses. Karl, the SSPE trustee, puts the buses on a ship to India, to be used for some legit humanitarian cause. This is okay. If the buses end up in the hands of Satish, Karl's cousin, who runs a commercial shuttle company in Bangalore, that would be leak and a problem. It is theft of property from the public domain, and it would be indirectly transferring income from the Rockets Scoot to Karl through his cousin.
 
 SSPE must have oversight, from both The Foundation and local governments. Local oversight keeps public value within the community.
 
-Governments are a public good.[^119] Scooted property is not private property. Foundational to the system is the acknowledgement that property is the dominion of existing governments. This is very useful, and the reason we specifically forbid Scoot from "owning" property. It gives us freedom to govern individual ideas the way we want. We can implement our own privileges and responsibilities. In [Scoot of Transportation](#scoot-of-transportation-sot) (SOT), I simplified my example by having the SOT lease Electric Vehicles. These will be high usage vehicles, buying the vehicle might make more economic sense. A SSPE could own the vehicle, and once a vehicle has reached the end of usefulness, the car could go into a pool of spare parts that covers multiple SOTs. A SSPE could effectively become like an Auto Junkyard or a repair/maintenance backend service that covers an entire city's worth of SOT vehicles.
+Governments are a public good.[^120] Scooted property is not private property. Foundational to the system is the acknowledgement that property is the dominion of existing governments. This is very useful, and the reason we specifically forbid Scoot from "owning" property. It gives us freedom to govern individual ideas the way we want. We can implement our own privileges and responsibilities. In [Scoot of Transportation](#scoot-of-transportation-sot) (SOT), I simplified my example by having the SOT lease Electric Vehicles. These will be high usage vehicles, buying the vehicle might make more economic sense. A SSPE could own the vehicle, and once a vehicle has reached the end of usefulness, the car could go into a pool of spare parts that covers multiple SOTs. A SSPE could effectively become like an Auto Junkyard or a repair/maintenance backend service that covers an entire city's worth of SOT vehicles.
 
 The governance of SSPE must include the appropriate oversight from the governments that have domain. For a SOT, a car is going to be a local public good, so oversight by city or county official would be appropriate. I think a plane curated by a SSPE registered in the U.S. would need oversight by the FAA.
 
@@ -3504,7 +3504,7 @@ For the government, it's about designing the guidelines and compliance, day to d
 
 SSPE don't require government participation. SSPE should follow rules that comply and acknowledge the domain of existing government. A SSPE should have at least one pledge as a member who has legal standing in the jurisdiction that has legal domain over the property involved. The trustees should make documented best effort at compliance and consideration of the local "public good" over the needs of the Scoot.
 
-In the early days, local governments may not want to participate. Politicians, lawyers, and bureaucrats will be confused by property that is owned by "everybody" and "nobody." Some will claim The Foundation is a communist plot to make all property communal.
+In the early days, local governments may not want to participate. Politicians, lawyers, and bureaucrats will be confused by property that is owned by "everybody" and "nobody."
 
 SSPE trustees can take matters into their own hands to make sure that their Scoot act as a greater public good. Making some concession to the greater community is a demonstration of trustworthiness. Perhaps a SOT can offer a free membership to a local senior citizen for every ten members it adds. Or a SOT with a large van can loan it out free of charge to a senior home once a week for an outing.
 
@@ -3648,7 +3648,7 @@ Women of the tribe discovered if they put people on both sides of the river, the
 
 When Tot was two hands and a foot of winters, for many days he did not see Little Mama. This had happened many times before, as Little Mama had to look after many young girls in the village and occasionally they required her care through the night. Tot would gather berries in the forest and found many mushrooms and could live for days, but he had no meat, and eating too many mushrooms made him very warm and thirsty, and often the magical little people would appear and chatter at him.
 
-After two hands and a foot of days, Tot began to worry. Late one evening, at a time when no one wanders the forest, and he was unlikely to run into any of the hunters, Tot slowly crept back to the village. When most of the people has gone to sleep, he crept closer to Big Mama's hut. He couldn't see, back in those days they didn't keep fire in individual huts, only in the communal central fire where they entire village would cook, so it was very dark inside the hut. Tot closed his eyes and listened to the breathing. He recognized Little Mama's breaths and slowly crept up to her.
+After two hands and a foot of days, Tot began to worry. Late one evening, at a time when no one wanders the forest, and he was unlikely to run into any of the hunters, Tot slowly crept back to the village. When most of the people has gone to sleep, he crept closer to Big Mama's hut. He couldn't see, back in those days they didn't keep fire in individual huts, only in the communal central fire where they entire village would cook, so it was very dark inside the hut. Tot closed his eyes and listened to the breathing. He recognized Little Mama's snore and slowly crept up to her.
 
 "Mama," he whispered in her ear.
 
@@ -3794,7 +3794,7 @@ Tot handed his mother the torch. She guided them to wall and held it up. There w
 
 "Tail of Tatanka did this. Look here."
 
-They looked at the next section of wall. A woman was flying and laying down a monster dunk, while two large warriors looked on for the sidelines.
+They looked at the next section of wall. A woman was flying and laying down a monster dunk, while two large warriors looked on from the sidelines.
 
 "Look Uncle, the young one is you. The old man is your father. The woman is Big Mama."
 
@@ -3860,7 +3860,7 @@ The second game consisted of several of the hefty players forming a defensive wa
 
 The next day, several hands of Bii-eh-ba warriors took the field and played the games. It was quickly found that both the scrawny and hefty could play either game, though different size warriors tended to fit some roles better than others. Linemen were always hefty, but sometimes hefties could throw a rock. One Bii-eh-ba warrior pointed out, "This is pretty good, cause one of them is good for the winter, when you're banging in to each other, you don't want to overheat. The other one, you're mostly standing around throwing rocks or trying to catch rocks, so not so bad on a hot day." Everybody agreed, that stick-rock was better for the warm months, especially since it was a good one for the road, you didn't need a clay court or a field, you could throw rocks at your brothers in any setting.
 
-The Bii-eh-ba agreed to start training in stick-rock and boar-ball and Hot took the idea back to his father that he should train some of the benchwarmer and shorter guys in some of these new lesser sports, that way they could compare the skill of their warriors to those of their new allies. The Chief agreed. After two winters, the combined warriors of the Bii-eh-ba and Na-Is-mit peacefully conquered many lands to the east and north, and spread these new sports through the Guld Coast and even down into ancient Mexico.
+The Bii-eh-ba agreed to start training in stick-rock and boar-ball and Hot took the idea back to his father that he should train some of the benchwarmer and shorter guys in some of these new lesser sports, that way they could compare the skill of their warriors to those of their new allies. The Chief agreed. After two winters, the combined warriors of the Bii-eh-ba and Na-Is-mit peacefully conquered many lands to the east and north, and spread these new sports through the Gulf Coast and even down into ancient Mexico.
 
 After a few years, Heart of Tatanka II died, and his son, Hot became chief. On his dying bed, the Chief said to his son, "Don't forget the Be-ek-um, my son. Once, their great warrior called my mother, your grandmother, Big Mama, the mother of basketball, a very vile name, I dare not repeat. You must avenge this insult. They have fled south, but they will not escape our vengeance, my son."
 
@@ -3882,7 +3882,7 @@ The other warrior said, "Sorry, we already got a sport. We can play it anywhere,
 
 A bunch of Be-ek-em warriors came out the low brush. They had a boar's bladder and they ran around the wasteland, kicking and guiding the ball with their feet.
 
-Hot said to Stinky Fingers, "Their field is ten times the size of our courts. Tall guys can't be running around like that, constantly for hours. This is the desert. This is was a diet of snake meat and scorpion will to do you."
+Hot said to Stinky Fingers, "Their field is ten times the size of our courts. Tall guys can't be running around like that, constantly for hours. This is the desert. This is what a diet of snake meat and scorpion will to do you."
 
 "How about as warriors?"
 
@@ -3918,7 +3918,7 @@ Those were the last words every uttered by the warrior, for Stinky Fingers grabb
 
 "Little warning next time, Stinky," said Hot.
 
-"No worries, cuz. I got this," Stinky Fingers pulls a bladder from his bag and unties the end, pouring the contents, a dark, runny, gooey and very stinky concoction, over his head. Hot makes a full circle survey, seeing the Be-ek-em warriors approaching them from all sides, outnumbering their contingent by three to one, more than that if you included the second ring, which involved women[^120] and children warriors all holding spears or stones.
+"No worries, cuz. I got this," Stinky Fingers pulls a bladder from his bag and unties the end, pouring the contents, a dark, runny, gooey and very stinky concoction, over his head. Hot makes a full circle survey, seeing the Be-ek-em warriors approaching them from all sides, outnumbering their contingent by three to one, more than that if you included the second ring, which involved women[^121] and children warriors all holding spears or stones.
 
 "People of the Brazos," Stinky Fingers shouts. "What was I when I came from the forest of the magic people."
 
@@ -3938,7 +3938,7 @@ Silence. Stinky Fingers, covered in black goo, steps forward from his line of th
 
 "You can't eat mushrooms. That's where the magic people live. But you're close, because the magic people did bring me the food I ate."
 
-Stinky Fingers was literally[^121] a stone's throw from the strong Be-ek-em warrior holding the large stone over his head, ready to toss it. Close enough so Stinky Fingers could whisper without being heard by the line of warriors on either side.
+Stinky Fingers was literally[^122] a stone's throw from the strong Be-ek-em warrior holding the large stone over his head, ready to toss it. Close enough so Stinky Fingers could whisper without being heard by the line of warriors on either side.
 
 "Hey brother, watch your step there, this heavy brush, you going to step \-\--"
 
@@ -3976,7 +3976,7 @@ The boys turn tail and run as do all the warriors. The Be-ek-em coalesce into a 
 
 The expedition returned to the Brazos as heroes, the celebration lasted for days.
 
-And the empire of Heart and Tail of Tatanka was born. Hot stayed at home on the Brazos, coaching up new ranks of warrior of all shapes and sizes, while Stinky Fingers roamed to the North and East, building an empire through peaceful competition, but sometimes, usually after a mother insult, outright stone age savagery or magic. Stinky Fingers had many sons, and they built leagues that spanned the entire continent, the very first empire, started right here in Texas.
+The empire of Heart and Tail of Tatanka was born. Hot stayed at home on the Brazos, coaching up new ranks of warrior of all shapes and sizes, while Stinky Fingers roamed to the North and East, building an empire through peaceful competition, but sometimes, usually after a mother insult, outright stone age savagery or magic. Stinky Fingers had many sons, and they built leagues that spanned the entire continent, the very first empire, started right here in Texas.
 
 Aren't you lucky?
 
@@ -4022,7 +4022,7 @@ James found Joe on the river at San Felipe where James explained his quest. His 
 
 "What was he studying exactly? You said he was making drawings?"
 
-"I'll show you," Joe said, guiding James to his canoe. They paddled upriver from San Felipe for a day, camped out on the shore, then hiked up along the shore the next day for an hour, where they found the cabin, just like the painting. The cabin was abandoned, and falling apart, but Joe was able to find a shovel. Together they stood on a rise that overlooked both the cabin and the river, matching the painting exactly.
+"I'll show you," Joe said, guiding James to his canoe. They paddled upriver from San Felipe for a day, then hiked up along the banks for an hour, where they found the cabin, just like the painting. The cabin was abandoned, and falling apart, but Joe was able to find a shovel. Together they stood on a rise that overlooked both the cabin and the river, matching the painting exactly.
 
 "You see the flower," Joe said. "That's a bluebonnet. Only flower in the whole picture, like over there, between the trees."
 
@@ -4088,7 +4088,7 @@ He pulled another tube and un-scrolled the painting. It looked a very basic game
 
 "What is most noble sport? You mean cricket?"
 
-"No, fool. It's that last painting, and the whole notebook is filled with sketches.
+"No, fool. It's that last painting, and the whole notebook is filled with sketches."
 
 James pulled the last painting out, it was a reproduction showing Big Mama slamming the ball in the basket. He flipped through the notebook, pages and pages of sketches of basketball plays.
 
@@ -4188,7 +4188,7 @@ James was amazed.
 
 ![A picture containing text Description automatically generated](media/image11.jpeg){width="3.5828062117235344in" height="3.8472222222222223in"}
 
-Figure 7 - sketch of cave drawing from James Naismith\'s notebook
+Figure - sketch of cave drawing from James Naismith\'s notebook
 
 "Yeah, your dad would come up here every day for a few hours, as long as he could take it, smoke builds up pretty quick, and it is hard to see the entire picture at once, so he would take his time, do his doodles, then head out for a breather."
 
@@ -4212,7 +4212,7 @@ They worked their way along the wall for another hour, until the buildup of smok
 
 "Interesting. Doesn't really matter much, does it?"
 
-"Well, if you look in the notebook you'll see some symbols, look like hands? Your father thought those symbols with like the ancients version of math. If he could figure out where the trees were up in the flats, he could translate them into your people's math, so he could know how large to build the building."
+"Well, if you look in the notebook you'll see some symbols, look like hands? Your father thought those symbols with like the ancient's version of math. If he could figure out where the trees were up in the flats, he could translate them into your people's math, so he could know how large to build the building."
 
 "That sounds like the first instance of writing. Unbelievable, the ancient Texans invented writing and mathematics? What kind of building?"
 
@@ -4352,7 +4352,7 @@ Hakeem crouched down and made his way through the narrow passage. At the entranc
 
 The first sketch had a plaque.
 
-> *In 1889, basketball founder James A. Naismith discovered the very first archeological evidence of a civilization that invented sports, art, writing, mathematics, feminism, and fishing on the shores of the Brazos River. These ancient people built a sprawling civilization thousands of years before these innovations were passed on to Eurasia and Africa. Naismith tried to bring his discoveries to academia but was hunted by The Texas Rangers who wanted to keep the secrets of history to themselves. In consultation with industry leaders, it was decided to keep most of the history secret, as it could upset the existing power dynamic. In a last-ditch effort to keep the history secret, the evil Texas Ranger Cordell Walker blew up the caves and this notebook is the only remaining evidence of the location of the true cradle of civilization, in what is now Austin County, Texas, on the shores of the Brazos.*
+> *In 1889, basketball founder James A. Naismith discovered the very first archeological evidence of a civilization that invented sports, art, writing, mathematics, feminism, and fishing on the banks of the Brazos River. These ancient people built a sprawling civilization thousands of years before these innovations were passed on to Eurasia and Africa. Naismith tried to bring his discoveries to academia but was hunted by The Texas Rangers who wanted to keep the secrets of history to themselves. In consultation with industry leaders, it was decided to keep most of the history secret, as it could upset the existing power dynamic. In a last-ditch effort to keep the history secret, the evil Texas Ranger Cordell Walker blew up the caves and this notebook is the only remaining evidence of the location of the true cradle of civilization, in what is now Austin County, Texas, on the shores of the Brazos.*
 
 "This is unbelievable. Michael, basketball, not soccer is the first true sport. And it was invented by the ancient Texans."
 
@@ -4421,7 +4421,7 @@ Hakeem took the notebook and carefully hid it in his jacket pocket.
 
 "I don't know, I figured it was *born under a bad sign* in her language, it's what all the other mamas would say."
 
-With a great deal of effort, Michael slogged through the passageway back into Stern's office, followed by Hakeem. Hakeem turned the painting, and the passageway closed behind him.
+With a great deal of effort, Michael slogged through the passageway back into Stern's office, followed by Hakeem. Hakeem rotated the painting, and the passageway closed behind him.
 
 A few minutes later, Commissioner Stern came back without Sam Bowie. "Thanks for waiting, you guys want to go out to a club or something, or go see a show?"
 
@@ -4500,7 +4500,9 @@ August 2^nd^, 2022
 +-----------+------------+--------+------------------------------------+
 | 1.71      | 4/28/2023  | 1      | ARC                                |
 +-----------+------------+--------+------------------------------------+
-| 2.00      | 4/29/2023  |        | Second Foundation, first printing  |
+| 2.00      | 4/29/2023  | 5      | Second Foundation, first printing  |
++-----------+------------+--------+------------------------------------+
+| 2.03      | 5/25/2023  |        | Copy edits                         |
 +-----------+------------+--------+------------------------------------+
 
 # Chapter Coding 
@@ -4515,7 +4517,7 @@ August 2^nd^, 2022
 
 SECOND FOUNDATION
 
-**Version 2.01**
+**Version 2.03**
 
 ![A group of people wearing helmets Description automatically generated with low confidence](media/image12.jpg){width="4.620138888888889in" height="3.6958333333333333in"}
 
@@ -4543,7 +4545,7 @@ Dick Scobee
 
 *It is my belief that by the manned exploration and exploitation of the potentials of space and the planets, we satisfy a basic need of mankind to explore and probe the unknown, and I simply want to be an integral part of that exploration*.
 
--   **Excerpt from Dick Scobee's NASA interview essay, answering "Why I want to be an astronaut**."[^122]
+-   **Excerpt from Dick Scobee's NASA interview essay, answering "Why I want to be an astronaut**."[^123]
 
 **Integral** -- adjective -- essential to completeness
 
@@ -4551,7 +4553,7 @@ What is the integral component of manned exploration of space and the planets?
 
 One Scobee is the unit that defines that integral. How many integral parts are required?
 
-We stake this Scoot with that mission. To define the integral part of manned spaceflight. I seek others who knew the man to share with me what they think is the integral. I want to know what Colonel Scobee thought.
+We stake this Scoot with that mission. To define the integral of manned spaceflight. I seek others who knew the man to share with me what they think is the integral. I want to know what Colonel Scobee thought.
 
 I'll ask his family.
 
@@ -4559,7 +4561,7 @@ JUNE Scobee RODGERS
 
 # Scoot(23)
 
-In [*Collecting Responsibility*](#_Collecting_Responsibility), I recount a moment of inspiration. I wrote about *Challenger* in terms of a postcard I'd lost. It was a critical breakthrough in my thinking. Later that night it was as if the basketball gods were blessing my idea because Kevin Porter Junior destroyed the Bucks, dropping 50 points. It is a good story, and it happened like I wrote it.[^123]
+In [*Collecting Responsibility*](#_Collecting_Responsibility), I recount a moment of inspiration. I wrote about *Challenger* in terms of a postcard I'd lost. It was a critical breakthrough in my thinking. Later that night it was as if the basketball gods were blessing my idea because Kevin Porter Junior destroyed the Bucks, dropping 50 points. It is a good story, and it happened like I wrote it.[^124]
 
 It wasn't until much later that it hit me; I'd already finished writing the book and realized something even more profound. It's an even better story. This work is a testament to genius, so I'll keep the embellishment down to a Texas minimum.
 
@@ -4567,7 +4569,7 @@ I was curious, I remembered *Challenger* well, one of the few moments in high-sc
 
 After a full year of 6^th^ grade, I'd left my nerd roots behind. I still read science fiction but wasn't hanging out with other nerds who did. Summer after 7^th^ grade was the last run of my suburban rap/breakdance crew. Thankfully, this occurred before digital photography. Home videos of teenagers doing stupid stuff was for rich people. Summer after 8^th^ grade, I was hanging with kids who listened to metal and hated school, friends I'd have through high school. I know I wasn't volunteering to go to a NASA summer camp.
 
-My Uncle Clay, retired Air Force sergeant, had broken the news to me years before. One summer it was, *with your glasses you'll never be a fighter pilot*. Gave it to me raw, then told me how he found out he was colorblind. I think the story was he didn't even know until after he'd already signed up for the Air Force, hoping to become a pilot. The Air Force doctors told him. No jets for Uncle Clay, but he made a career out of military intelligence.
+My Uncle Clay, retired Air Force, had broken the news to me years before. One summer it was, *with your glasses you'll never be a fighter pilot*. Gave it to me raw, then told me how he found out he was colorblind. I think the story was he didn't even know until after he'd already signed up for the Air Force, hoping to become a pilot. The Air Force doctors told him. No jets for Uncle Clay, but he made a career out of military intelligence.
 
 I'd left astronaut dreams behind in grade school, along with the nerds. I wasn't a computer geek. I didn't even like to play video games at home, though the arcade was cool place to hang out. I couldn't understand how I ended up at NASA camp at that age. I asked my mother.
 
@@ -4597,13 +4599,13 @@ He was.
 
 Both.
 
-The tragedy is what stands out in my memory, what happened after. It was only half a year between the camp and the accident, but in a teenager's timeline it might have well been a decade.
+The tragedy is what stands out in my memory, what happened after. It was only half a year between the camp and the accident, but in a teenager's timeline it felt like a decade.
 
-There was a lot of expectation in the news and among Houston schoolteachers about a teacher in space. We were freshmen boys, I'm sure we mocked it. My youngest kid is that same age now, his disdain for teachers matches mine at that age, for the same reason. People are complex, and kids see things through their direct experience until they've experienced more. Raising teenagers sure does change your perspective on being a teenager.
+There was a lot of expectation in the news and among Houston schoolteachers about a teacher in space. We were freshmen boys, I'm sure we mocked it. My youngest kid is that same age now. His disdain for teachers matches mine at that age, for the same reason. People are complex, and kids see things through their direct experience until they've experienced more. Raising teenagers sure does change your perspective on being a teenager.
 
 I have no memory of knowing that Dick Scobee was commander of the teacher-in-space mission ahead of the tragedy. I bet my mom told me and I tuned it out. That day, realizing what it meant after the accident, was sickening. That memory became a stake in my identity. How shallow we can really be.
 
-I can't blame teenagers for their thoughts on teachers and authority. Look how long it took me to realize the true value of this gift from June Scobee.[^124]
+I can't blame teenagers for their thoughts on teachers and authority. Look how long it took me to realize the true value of this gift from June Scobee.[^125]
 
 Her gift was the greatest leverage in real terms anybody has ever given me. I raised a family and provided for them with this gift. I was 51 years old when I realized it. I was 14 when I went to that summer camp. 37 years. I have made an entire life out of what June taught me I could do in a free summer camp.
 
@@ -4621,7 +4623,7 @@ That company was somehow connected to Tony in New Jersey, and it went under. My 
 
 Computers in those days came with a set of manuals, including a BASIC programming manual. Extra books that came with new systems were always around the line and were the one kind of reading material allowed on the floor besides specifications and work orders and schematics. I found that I could teach myself BASIC by figuring out how to collate all the files and print them out and save the lady some time each night. It probably took about a month.
 
-Didn't go like I thought when I unveiled my innovation to the lady. Turns out she liked staying late to turn in the reports so she could get a half-hour overtime pay every day. Plus, complaining about staying late to the young people gave her a way to stay awake all night. My bad. My drummer's mom rescued me, but I was banished to another shift in a negotiated truce.
+Didn't go like I thought when I unveiled my innovation to the lady. Turns out she liked staying late to turn in the reports so she could get a half-hour overtime pay every day. Plus, complaining about staying late to the young people gave her a way to stay awake all night. My drummer's mom rescued me, but I was banished to another shift in a negotiated truce.
 
 After a couple years of this, I found my way into an engineering team. I started doing tech stuff around the lab. I automated some stuff with batch files. An opportunity came up for a programming assignment in C, and my brother had a book about C, so I told them I was qualified. Turns out, I was, thanks to June Scobee.
 
@@ -4641,7 +4643,7 @@ This ability is not the same as being good at math. The math we use in integrati
 
 I don't know how June Scobee identified that I was a good candidate to learn how to code.
 
-I suspect if you ran the same studies to identify kids who'd be good engineers in the 1980s on kids from the 2020's, it would result in a much broader candidate pool. How could it not? We give very young children digital devices to play games with, sometimes before they can talk or walk.
+I suspect if you ran the same studies to identify kids who'd be good engineers in the 1980's on kids from the 2020's, it would result in a much broader candidate pool. How could it not? We give very young children digital devices to play games with, sometimes before they can walk or talk.
 
 It could be some kids are good at games because they have an innate talent, like some kids can learn to juggle. I doubt it. Video games are designed by people who like to play games, so there's a level of insight you can gain from that.
 
@@ -4655,7 +4657,9 @@ Both approaches are good strategies to find a solution, and both are demonstrati
 
 Digital games usually make you go through a lot of work to keep experimenting with a map strategy, so kids with this ability may tend to give up more easily than those who use a more deductive path.
 
-Other kids might just be lucky. Some will have extra-leverage -- they used a cheat code. That's super integrative leverage -- exactly what I do when I Google a solution. That approach is a fair way to study and find kids that could be productive engineers.
+Other kids might just be lucky. Some will have extra-leverage -- they used a cheat code. That's super integrative leverage -- exactly what I do when I Google a solution.
+
+This approach is a fair way to study and find kids that could be productive engineers.
 
 You find these kids, wherever they are, teach them to code in a summer camp, and they will have a valuable and marketable skill that they can use directly in almost any endeavor they choose. More directly, you make sure these kids have opportunity to develop that skill in direct and equitable ways.
 
@@ -4665,13 +4669,13 @@ Learning to code directly changed my life. Thanks, Mom, for banishing me to the 
 
 I remember Dick Scobee as just an ordinary guy with an extraordinarily cool job.
 
-June Scobee didn't come across as ordinary. The correct Texan terminology for June is "sparkplug." She wasn't an ordinary mom and schoolteacher. She was like a live action version of a Jetson's supermom, whose kid would be expected to grow up become a general in the Space Cadets. She expected something of her students.
+June Scobee didn't come across as ordinary. The correct Texas term for June is "sparkplug." She wasn't an ordinary mom and schoolteacher. She was like a live action version of a Jetson's supermom, whose kid would be expected to grow up become a general in the Space Cadets. She expected something of her students.
 
 Thank you, June Scobee Rodgers.
 
 I wonder what the success rate of those kids June taught that summer?
 
-After the accident, June and the families of the crew founded Challenger Center. Challenger Center's mission is a natural extension of STS-51-L's mission -- The Teacher in Space Project.[^125] Challenger Center inspires and educates students in STEM through hands-on lessons that simulate space missions. In the 35 years since Challenger Center opened, they've taught millions of students and enabled hundreds of thousands of teachers.
+After the accident, June and the families of the crew founded Challenger Center. Challenger Center's mission is a natural extension of STS-51-L's mission -- The Teacher in Space Project.[^126] Challenger Center inspires and educates students in STEM through hands-on lessons that simulate space missions. In the 35 years since Challenger Center opened, they've taught millions of students and enabled hundreds of thousands of teachers.
 
 What's the value of June's contribution to our civilization? It's very valuable, but immeasurable with property. You can't put a dollar value on dreams. They have intrinsic value.
 
@@ -4693,7 +4697,7 @@ STEVE FAIRCHILD
 
 I recently had the experience of going full circle in my career, going back to a similar role to where I started. In engineering it is an enlightening experience -- though I imagine that would be true in any career. One of the first things you learn is you weren't nearly as smart as you thought you were way back when.
 
-I was lucky to start my engineering career at Compaq in Houston in the 1990s. In those days Compaq had a mix of electronics industry veterans and young and hard charging engineers, and though I had little experience, I was able to fit in well.
+I was lucky to start my engineering career at Compaq in Houston in the 1990s. In those days Compaq had a mix of electronics industry veterans and hard charging young engineers, and though I had little experience, I was able to fit in well.
 
 The engineer who most influenced my career was Steve Fairchild. As somebody who was on the front lines of a rather competitive battlefield, it is my opinion that Steve was the person most responsible for the success of both SAS and SFF HDDs.
 
@@ -4705,7 +4709,7 @@ We had a plan to port Psuite to some modern 32-bit OS, and my idea was for Windo
 
 I never had the nerve to ask Steve or anybody else what Steve's actual job was, he was a member of the technical staff and knew everything. His role on our team was performance. His role for our software development team was to greenlight the performance of our software.
 
-My approach is always code first, research later. In the early days of our discussion, I had already ported a basic version of Psuite and proven that the performance would be within 1% of our DOS tool. These were spinning HDDs, and even though we were testing the fastest available on the market, they were terribly slow compared to most other subsystems on a server, and I had the general attitude that performance methodology was not a big of deal. My biggest challenge was on the functional side, where we did not have the same visibility to SCSI protocol compliance that we did with our DOS built-in driver. I had the support of my manager with the relative performance, with the caveat, "As long as Steve is okay with it."
+My approach is always code first, research later. In the early days of our discussion, I had already ported a basic version of Psuite and proven that the performance would be within 1% of our DOS tool. These were spinning HDDs, and even though we were testing the fastest available on the market, they were terribly slow compared to most other subsystems on a server, and I had the general attitude that performance methodology was not a big deal. My biggest challenge was on the functional side, where we did not have the same visibility to SCSI protocol compliance that we did with our DOS built-in driver. I had the support of my manager for the relative performance, with the caveat, "As long as Steve is okay with it."
 
 Steve wasn't okay with it. After presenting my 1% data, Steve tore my plan apart, coming up with a list of around ten performance items that I would have to address. I seem to recall that at least half of the list were things that weren't even measurable with our DOS tools, so not only did I have to code these new measurement techniques on Windows, with its rich libraries I could leverage, but then go figure out how to back-port the same techniques to DOS so that I could prove to Steve there was no difference.
 
@@ -4937,50 +4941,52 @@ The Foundation Is Gratitude
 
 [^101]: Final edit, 5/17/2022, sports karma confirmed as a fundamental force of nature.
 
-[^102]: Twain was heavily influenced by Georgism. [Georgism (from Wikipedia)](https://en.wikipedia.org/wiki/Georgism): "is an economic ideology holding that, although people should own the value they produce themselves, the economic rent derived from land -- including from all natural resources, the commons, and urban locations -- should belong equally to all members of society."
+[^102]: 5/14/2023, Mother's Day, karma three-peat
 
-[^103]: If you build it, and name it after a bunch of financial tricksters, then rename after orange juice, he will come. From Venezuela.
+[^103]: Twain was heavily influenced by Georgism. [Georgism (from Wikipedia)](https://en.wikipedia.org/wiki/Georgism): "is an economic ideology holding that, although people should own the value they produce themselves, the economic rent derived from land -- including from all natural resources, the commons, and urban locations -- should belong equally to all members of society."
 
-[^104]: I've not once taken the names of Bieber, Drake or Reynolds in vain. This was perhaps the biggest challenge of all.
+[^104]: If you build it, and name it after a bunch of financial tricksters, then rename after orange juice, he will come. From Venezuela.
 
-[^105]: Mom, if he comes back, it's on you to show George where to eat. Them Connecticut Yankees got sensitive tummies, what I hear.
+[^105]: I've not once taken the names of Bieber, Drake or Reynolds in vain. This was perhaps the biggest challenge of all.
 
-[^106]: *Where is the Love?* by Black Eyed Peas
+[^106]: Mom, if he comes back, it's on you to show George where to eat. Them Connecticut Yankees got sensitive tummies, what I hear.
 
-[^107]: With the swift stroke of a single sentence, the author deftly ensures he is never invited to a dinner party with fancy artsy people.
+[^107]: *Where is the Love?* by Black Eyed Peas
 
-[^108]: The First Amendment covers freedom of religion and speech.
+[^108]: With the swift stroke of a single sentence, the author deftly ensures he is never invited to a dinner party with fancy artsy people.
 
-[^109]: Children, that's literally the proper usage of "literally."
+[^109]: The First Amendment covers freedom of religion and speech.
 
-[^110]: *Rocket Man*, By Elton John
+[^110]: Children, that's literally the proper usage of "literally."
 
-[^111]: *American Dreamin'* by Jay-Z
+[^111]: *Rocket Man*, By Elton John
 
-[^112]: A mid-21^st^ century trend where basketball fans would get together and form Scoot to issue ICO (Initial Clone Offering) where they would mix the DNA from various superstars to create NBA players. Stephan Curry's DNA was present to some extent in almost every clone, so the kids had taken to calling them currys.
+[^112]: *American Dreamin'* by Jay-Z
 
-[^113]: *Where is the Love?* by Black Eyed Peas.
+[^113]: A mid-21^st^ century trend where basketball fans would get together and form Scoot to issue ICO (Initial Clone Offering) where they would mix the DNA from various superstars to create NBA players. Stephan Curry's DNA was present to some extent in almost every clone, so the kids had taken to calling them currys.
 
-[^114]: Jordan had 893 blocks. Olajuwon had 3,830 blocks in his career, the NBA record, 541 more than the next guy on the list.
+[^114]: *Where is the Love?* by Black Eyed Peas.
 
-[^115]: The Houston Rocket redneck contingent that don't want any part of any beatnik nonsense, are welcome to use the alternative naming convention of *On The Road Again Scoot*, with the common nomenclature of *Willy's Gangs*.
+[^115]: Jordan had 893 blocks. Olajuwon had 3,830 blocks in his career, the NBA record, 541 more than the next guy on the list.
 
-[^116]: Landry's got food everywhere. However, in North Carolina, we must get the crew thrown out of any place Mike's ever eaten. Tilman will understand.
+[^116]: The Houston Rocket redneck contingent that don't want any part of any beatnik nonsense, are welcome to use the alternative naming convention of *On The Road Again Scoot*, with the common nomenclature of *Willy's Gangs*.
 
-[^117]: The dreams of children count a hundred times those of adults, but their heartbreaks are a hundred times worse. Luckily the duration of the pain is usually short. Houston kids forgot about you already, James.
+[^117]: Landry's got food everywhere. However, in North Carolina, we must get the crew thrown out of any place Mike's ever eaten. Tilman will understand.
 
-[^118]: I don't know if they own it or have some contractual arrangement with a commercial operator. I'm assuming it's owned by the team in this example.
+[^118]: The dreams of children count a hundred times those of adults, but their heartbreaks are a hundred times worse. Luckily the duration of the pain is usually short. Houston kids forgot about you already, James.
 
-[^119]: I stood staring at a wall for ten minutes contemplating if I should write that sentence. I imagine a future psychohistorian analyzing the past, writing something like this: *We discovered the man's hubris is a cycle that peaks every 110 years. Prior to the digital age, we have very little data, but our best data set begins in the year 1912, where man build an "unsinkable ship" and then in 2022, an engineer designed an digital currency system using the principle that "governments are a public good," which led to the complete collapse of...*
+[^119]: I don't know if they own it or have some contractual arrangement with a commercial operator. I'm assuming it's owned by the team in this example.
 
-[^120]: This happened just north of the Rio Grande so another feminist innovation invented in Texas.
+[^120]: I stood staring at a wall for ten minutes contemplating if I should write that sentence. I imagine a future psychohistorian analyzing the past, writing something like this: *We discovered the man's hubris is a cycle that peaks every 110 years. Prior to the digital age, we have very little data, but our best data set begins in the year 1912, where man build an "unsinkable ship" and then in 2022, an engineer designed an digital currency system using the principle that "governments are a public good," which led to the complete collapse of...*
 
-[^121]: Children, this proves that Texas Historians also know the literal use of "literally."
+[^121]: This happened just north of the Rio Grande so another feminist innovation invented in Texas.
 
-[^122]: Taken from *Silver Linings*, by June Scobee Rodgers
+[^122]: Children, this proves that Texas Historians also know the literal use of "literally."
 
-[^123]: It's Texas History, even though it happened in Colorado. Scoot was in Houston, that's for sure.
+[^123]: Taken from *Silver Linings*, by June Scobee Rodgers
 
-[^124]: I do not know who organized the camp or funded the camp. I want to express my gratitude and acknowledgement that there were people and organizations unknown to me behind the camp. I plan to find out who it was responsible. I know who I'm going to ask.
+[^124]: It's Texas History, even though it happened in Colorado. Scoot was in Houston, that's for sure.
 
-[^125]: https://en.wikipedia.org/wiki/Teacher_in_Space_Project
+[^125]: I do not know who organized the camp or funded the camp. I want to express my gratitude and acknowledgement that there were people and organizations unknown to me behind the camp. I plan to find out who it was responsible. I know who I'm going to ask.
+
+[^126]: https://en.wikipedia.org/wiki/Teacher_in_Space_Project
