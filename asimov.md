@@ -778,9 +778,9 @@ Second Foundation shall only accept a single Revokable Commitment Stake, as spec
 
 ### Staking Codes
 
-![](media/image4.png){width="2.262607174103237in" height="2.3645833333333335in"}
+![](media/image4.png){width="2.639054024496938in" height="2.8259142607174104in"}
 
-https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA97C99A4757AE01
+https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA7B21E4BE596BCD
 
 There are one thousand valid staking codes. Staking codes are used to earn stakes through appreciation or commitment of some content value.
 
@@ -4734,6 +4734,8 @@ This work is dedicated to Steve Fairchild.
 ![A picture containing person, outdoor, tree Description automatically generated](media/image13.jpg){width="2.1666666666666665in" height="2.3958333333333335in"}
 
 Steve Fairchild
+
+***With great responsibility comes great wealth***
 
 *Scoot^2^ is money, y'all!*
 
