@@ -4,7 +4,7 @@
 
 **SECOND FOUNDATION**
 
-**Version 2.04**
+**Version 2.05**
 
 ![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2023 by Brandon Awbrey. This publication may be reproduced in whole form if fairly attributed for any non-commercial purpose. If you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
 
@@ -284,7 +284,7 @@ Scoot is the vessel of this responsibility.
 
 ![](media/image2.png){width="6.383916229221347in" height="4.5289304461942255in"}
 
-Figure 1 - The Foundation - VALUE AND RESPONSIBLITY DOMAINS
+Figure - The Foundation - VALUE AND RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a legacy of genius. Each Scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via methods in the protocol. Holders of scoot have no rights other than the elective governance of the Scoot, but a responsibility -- a pledge -- to increase the appreciation of the subject of the Scoot.
 
@@ -778,9 +778,9 @@ Second Foundation shall only accept a single Revokable Commitment Stake, as spec
 
 ### Staking Codes
 
-![](media/image4.png){width="2.639054024496938in" height="2.8259142607174104in"}
+![](media/image4.png){width="2.7895833333333333in" height="3.2263888888888888in"}
 
-https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA7B21E4BE596BCD
+https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA2188D6A222C4D
 
 There are one thousand valid staking codes. Staking codes are used to earn stakes through appreciation or commitment of some content value.
 
@@ -4188,7 +4188,7 @@ James was amazed.
 
 ![A picture containing text Description automatically generated](media/image11.jpeg){width="3.5828062117235344in" height="3.8472222222222223in"}
 
-Figure 7 - sketch of cave drawing from James Naismith\'s notebook
+Figure - sketch of cave drawing from James Naismith\'s notebook
 
 "Yeah, your dad would come up here every day for a few hours, as long as he could take it, smoke builds up pretty quick, and it is hard to see the entire picture at once, so he would take his time, do his doodles, then head out for a breather."
 
@@ -4519,7 +4519,7 @@ August 2^nd^, 2022
 
 SECOND FOUNDATION
 
-**Version 2.04**
+**Version 2.05**
 
 ![A group of people wearing helmets Description automatically generated with low confidence](media/image12.jpg){width="4.620138888888889in" height="3.6958333333333333in"}
 
