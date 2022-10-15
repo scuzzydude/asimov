@@ -1270,7 +1270,7 @@ A Scorsese film, starring Bruce Willis, Joe Jonas as his grandson, and Matthew M
 
 Cut to Paris. Out of the skies comes a massive parachute drop of troops who quickly and non-violently take over the entire Louvre. It's revealed this is an attack by the military of the rouge province of West Lakerland, led by the warlord General Drogo, played by Samuel L. Jackson with an eye patch. The news reports that France has offended West Lakerland by refusing to buy petrol due to human rights violations.
 
-Bruce Willis is surprised by a Blackhawk appearing over his fishing hole and rushed to an AFB base where he's flown by fighter jet to Washington. Cut to the White House, where President McConaughey is busy on a five-way video conference between the leaders of France, Britain, Italy and Germany.
+Bruce Willis is surprised by a Blackhawk appearing over his fishing hole and rushed to an Air Force base where he's flown by fighter jet to Washington. Cut to the White House, where President McConaughey is busy on a five-way video conference between the leaders of France, Britain, Italy and Germany.
 
 "Excuse me, gentlemen, I've got to leave you to it, we'll get back to you."
 
@@ -1420,7 +1420,7 @@ Tesla shareholders profit (gain wealth) when Tesla sells more vehicles. Tesla mu
 
 With a genius-based wealth system, it's possible to create organizations that can align with both the creation of wealth and the most efficient solutions to problems. Without the government, and without property-based profit.
 
-Corporations are property and thus can be bought and be gifted to mankind. Scoot may not own corporations, but can be responsible for them.
+Corporations are property and thus can be bought and gifted to humanity. Scoot may not own corporations but can be responsible for them.
 
 After the early staking, seeding, and development phase of The Foundation, the only way to receive new mint asimov will be to scoot something. Corporations can't create Scoot. If they have a great product or brand their employees, shareholders or customers may create Scoot as an honor, but the corporations can't profit from this directly. The Foundation will trade scoot at registration, but it'll be a fixed amount. The only way to get a large volume of asimov will be to convert something property-valued into Scoot.
 
@@ -3262,7 +3262,7 @@ The exact definition of a SSPE shall be defined in amendments to The Foundation'
 
 ![](media/image9.png){width="4.620138888888889in" height="3.2776246719160107in"}
 
-Figure - The foundation - responsibility and value domains
+Figure 6 - The foundation - responsibility and value domains
 
 A Scoot is formed as organization of proportional responsibility for a legacy of genius. Each Scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via methods in the protocol. Holders of scoot have no rights other than the elective governance of the Scoot, but a responsibility -- a pledge -- to increase the appreciation of the subject of the Scoot.
 
@@ -4425,7 +4425,7 @@ James was amazed.
 
 ![A picture containing text Description automatically generated](media/image11.jpeg){width="3.5828062117235344in" height="3.8472222222222223in"}
 
-Figure - sketch of cave drawing from James Naismith\'s notebook
+Figure 7 - sketch of cave drawing from James Naismith\'s notebook
 
 "Yeah, your dad would come up here every day for a few hours, as long as he could take it, smoke builds up pretty quick, and it is hard to see the entire picture at once, so he would take his time, do his doodles, then head out for a breather."
 
