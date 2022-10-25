@@ -4,7 +4,7 @@
 
 **SECOND FOUNDATION**
 
-**Version 2.08**
+**Version 2.09**
 
 ![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2023 by Brandon Awbrey. This publication may be reproduced in whole form if fairly attributed for any non-commercial purpose. If you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
 
@@ -1126,9 +1126,9 @@ If that robot were developed by a Scoot, all that revenue would go directly to s
 
 ### Elon Throwdown
 
-As an engineer, I've always been impressed with Tesla and SpaceX. Both are amazing companies, and it seems like Elon Musk has an exceptional appreciation of application engineering, which sometimes requires a higher level of thinking than any fundamental technology. I've been anti-Tesla, the car, out of a different principle.
+As an engineer, I've always been impressed with Tesla and SpaceX. Both are amazing companies, and it seems like Elon Musk has an exceptional appreciation of application engineering, which sometimes requires a higher level of thinking than any fundamental technology. I've been anti-Tesla, the car, on a different principle.
 
-Nikola Tesla was an important engineer and inventor, and some of his most important inventions were alternating current (AC) motors and distribution systems, which are used in most every building in the world. Tesla, the car, uses direct current (DC) motors, which were invented before Nikola Tesla was born. While many own Tesla vehicles, every American, and most people on the planet, have used AC power of some sort in their lifetime. If you used a lamp, a refrigerator, a washing machine, a microwave, or a hair dryer, you've benefited from Mr. Tesla's inventions. Tesla was the first commercially viable electric car, and if you're going to name a company after a genius, you better live up to it. Nikola Tesla's legacy of alternating current has probably done more to increase human lifespan, reduce poverty and disease, and increase prosperity than any innovation before or after.
+Nikola Tesla was an important engineer and inventor, and some of his most important inventions were alternating current (AC) motors and distribution systems. While many own Tesla vehicles, every American, and most people on the planet, have used AC power of some sort in their lifetime. If you used a lamp, a refrigerator, a washing machine, a microwave, or a hair dryer, you've benefited from Mr. Tesla's inventions. Tesla was the first commercially viable electric car, and if you're going to name a company after a genius, you better live up to it. Nikola Tesla's legacy of alternating current has probably done more to increase human lifespan, reduce poverty and disease, and increase prosperity than any innovation before or after.
 
 For me, Tesla's name is now remembered most often as a curse I spit every time one of those silent predators roll up on me while I'm talking a walk.
 
@@ -4741,7 +4741,9 @@ August 2^nd^, 2022
 +-----------+------------+--------+------------------------------------+
 | 2.07      | 11/17/2023 | 0      | Gypsy Friendly edition             |
 +-----------+------------+--------+------------------------------------+
-| 2.08      | 12/6/2023  |        | Copy edits                         |
+| 2.08      | 12/6/2023  | 0      | Copy edits                         |
++-----------+------------+--------+------------------------------------+
+| 2.09      | 12/19/2023 | 0      | Copy edits, corrections            |
 +-----------+------------+--------+------------------------------------+
 
 # Chapter Coding 
@@ -4756,7 +4758,7 @@ August 2^nd^, 2022
 
 SECOND FOUNDATION
 
-**Version 2.08**
+**Version 2.09**
 
 ![A group of people wearing helmets Description automatically generated with low confidence](media/image12.jpg){width="4.620138888888889in" height="3.6958333333333333in"}
 
