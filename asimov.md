@@ -4,7 +4,7 @@
 
 **SECOND FOUNDATION**
 
-**Version 2.10**
+**Version 2.11**
 
 ![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2023 by Brandon Awbrey. This publication may be reproduced in whole form if fairly attributed for any non-commercial purpose. If you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
 
@@ -3252,7 +3252,7 @@ The exact definition of a SSPE shall be defined in amendments to The Foundation'
 
 ![](media/image8.png){width="4.620138888888889in" height="3.2776246719160107in"}
 
-Figure - The foundation - responsibility and value domains
+Figure 6 - The foundation - responsibility and value domains
 
 A Scoot is formed as organization of proportional responsibility for a legacy of genius. Each Scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via methods in the protocol. Holders of scoot have no rights other than the elective governance of the Scoot, but a responsibility -- a pledge -- to increase the appreciation of the subject of the Scoot.
 
@@ -4415,7 +4415,7 @@ James was amazed.
 
 ![A picture containing text Description automatically generated](media/image10.jpeg){width="3.5828062117235344in" height="3.8472222222222223in"}
 
-Figure - sketch of cave drawing from James Naismith\'s notebook
+Figure 7 - sketch of cave drawing from James Naismith\'s notebook
 
 "Yeah, your dad would come up here every day for a few hours, as long as he could take it, smoke builds up pretty quick, and it is hard to see the entire picture at once, so he would take his time, do his doodles, then head out for a breather."
 
@@ -4741,7 +4741,9 @@ August 2^nd^, 2022
 +-----------+------------+--------+------------------------------------+
 | 2.09      | 12/19/2023 | 0      | Copy edits, corrections            |
 +-----------+------------+--------+------------------------------------+
-| 2.10      | 1/21/2023  |        | Copy edits                         |
+| 2.10      | 1/21/2023  | 0      | Copy edits                         |
++-----------+------------+--------+------------------------------------+
+| 2.11      | 3/6/2023   |        |                                    |
 +-----------+------------+--------+------------------------------------+
 
 # Chapter Coding 
@@ -4751,6 +4753,32 @@ August 2^nd^, 2022
 ### Content changes from first edition
 
 ### New content, Second Foundation
+
+***The Book of Scoot***
+
+SECOND FOUNDATION
+
+**Version 2.11**
+
+![A group of people wearing helmets Description automatically generated with low confidence](media/image11.jpg){width="4.620138888888889in" height="3.6958333333333333in"}
+
+NASA FLIGHT CREW STS-51-L
+
+Ellison Onizuka
+
+Christa McAuliffe
+
+Gregory Jarvis
+
+Judith Resnik
+
+Michael Smith
+
+Dick Scobee
+
+Ronald McNair
+
+**The Foundation is Gratitude**
 
 Dick Scobee
 
@@ -4960,55 +4988,9 @@ Steve engrained in me the notion that engineers are responsible for the tools th
 
 This work is dedicated to Steve Fairchild.
 
-![A picture containing person, outdoor, tree Description automatically generated](media/image11.jpg){width="2.1666666666666665in" height="2.3958333333333335in"}
+![A picture containing person, outdoor, tree Description automatically generated](media/image12.jpg){width="2.1666666666666665in" height="2.3958333333333335in"}
 
 Steve Fairchild
-
-*The Foundation is Gratitude*
-
-José Altuve
-
-# Scoot(27)
-
-*What's wrong with the Astros?*
-
-It's a fair question. Lose 52% of your home games the year after winning the World Series, people begin to wonder. Lose all the home games in the ALCS, you wonder if maybe somebody is sending us a message. Maybe we're asking the wrong question.
-
-*What's wrong with Houston?*
-
-For the past five years, the Astros have heard nothing but vile derision on every road trip. Stupid drunk fools shouting obscene curses at players that weren't even on the 2017 team.
-
-The player who got the worst of it never cheated anything but fate. The same guy who has been hearing it from the idiots since he first picked up a bat.
-
-The lament for the broken-hearted Black Sox faithful after the 1919 World Series was, *"Say it ain't so, Joe."*
-
-***We know it ain't so, José.***
-
-Altuve answered the fools the only way that he ever has -- with his bat. As a prospect in Venezuela, undersized and looking younger than his 16 years, Astro's executive Al Pedrique asked him, *"Can you play?"*
-
-***"I'll show you."***
-
-He showed Houston. He was the lone star of hope for four awful losing seasons. Then he showed the world what determination looks like when a team is led by a man who conquers impossible for breakfast, every day of his life.
-
-Altuve's story isn't just a great baseball epic. His is the story for every child that has a dream. Work hard. Listen to your parents. Treat people with respect. Be grateful. Never give up. Don't back down.
-
-Houston has been blessed with our sports heroes. Great stories, great athletes, and even greater men. Do we appreciate it enough?
-
-A losing record at home is a baseball curse. Houston needs to answer for all the garbage Altuve heard on the road. How do you get rid of a baseball curse?
-
-A chant.
-
-***I'll show you.***
-
-A Texas foot-stomping chant that's so loud, the buildings downtown shake.
-
-***He'll show you.***
-
-Every time #27 steps to the plate, Houston will let the world know how much we appreciate the greatest sports hero of all time.
-
-***We'll show you.***
-
-The greatest baseball player in history.
 
 *The Foundation is Gratitude*
 
