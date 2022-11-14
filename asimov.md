@@ -4,7 +4,7 @@
 
 **SECOND FOUNDATION**
 
-**Version 2.12**
+**Version 2.13**
 
 ![enter image description here](media/image1.png){width="0.3333333333333333in" height="0.3333333333333333in"} 2023 by Brandon Awbrey. This publication may be reproduced in whole form if fairly attributed for any non-commercial purpose. If you are using this for commercial purposes, you better make sure that Brandon is getting paid, unless you are Trey Parker and Matt Stone, then you guys can make bank. If you paid me for a printed or eBook form of this book, then thank you. If you paid somebody else, I join you in a curse.
 
@@ -2460,7 +2460,7 @@ I wasn't consciously aware that Apple was making a series based on Asimov's *Fou
 
 My wife, who by summer had turned herself into a genuine crypto mogul, really liked the idea when I explained how it worked. She wanted me to use a pseudonym, like Satoshi Nakamoto or Mark Twain, you know, to avoid embarrassment if this blows up in my face. If you've made it this far, you'll see why that would have been legendary hypocrisy. This concept is based on the premise -- we are what we value. I don't use social media, I don't write reviews or troll people, and I've never tweeted. I have no need for anybody to validate my opinions. I write about my own values. My daughter challenged me, and I told her I believed wealth inequality was a solvable problem. This is my solution.
 
-If I manage to stake this venture and circulate asimov, I stand to gain wealth as I am the first staker and expect to be rewarded for my time investment in the development of the system. I pledge to keep all wealth I accumulate through The Foundation in the responsibility domain for the remainder of my lifetime and pass that responsibility along to people who chose to be responsible for those ideas after I'm gone. Hopefully, this will be my descendants, but they may have other ideas they value. I hope this will become common practice in the genius economy. Instead of generational wealth, we will have generational responsibility.
+If I manage to stake this venture and circulate asimov, I stand to gain wealth as I am the first staker and expect to be rewarded for my time investment in the development of the system. I pledge to keep all wealth I accumulateo i through The Foundation in the responsibility domain for the remainder of my lifetime and pass that responsibility along to people who chose to be responsible for those ideas after I'm gone. Hopefully, this will be my descendants, but they may have other ideas they value. I hope this will become common practice in the genius economy. Instead of generational wealth, we will have generational responsibility.
 
 I do not have much capital I can commit to this venture, but I have something greater that I can stake. It's greater than any property value that Elon Musk or Bill Gates can contribute. I'm not the first. Thomas Jefferson changed the world with it. Jay-Z built an empire with it.
 
@@ -3250,7 +3250,7 @@ The exact definition of a SSPE shall be defined in amendments to The Foundation'
 
 ![](media/image8.png){width="4.620138888888889in" height="3.2776246719160107in"}
 
-Figure 6 - The foundation - responsibility and value domains
+Figure - The foundation - responsibility and value domains
 
 A Scoot is formed as organization of proportional responsibility for a legacy of genius. Each Scoot shall have a charter, clearly stating the purpose and method of governance, which shall be enforceable via methods in the protocol. Holders of scoot have no rights other than the elective governance of the Scoot, but a responsibility -- a pledge -- to increase the appreciation of the subject of the Scoot.
 
@@ -4413,7 +4413,7 @@ James was amazed.
 
 ![A picture containing text Description automatically generated](media/image10.jpeg){width="3.5828062117235344in" height="3.8472222222222223in"}
 
-Figure 7 - sketch of cave drawing from James Naismith\'s notebook
+Figure - sketch of cave drawing from James Naismith\'s notebook
 
 "Yeah, your dad would come up here every day for a few hours, as long as he could take it, smoke builds up pretty quick, and it is hard to see the entire picture at once, so he would take his time, do his doodles, then head out for a breather."
 
@@ -4760,7 +4760,7 @@ August 2^nd^, 2022
 
 SECOND FOUNDATION
 
-**Version 2.1**
+**Version 2.13**
 
 ![A silhouette of a person riding a scooter Description automatically generated](media/image11.png){width="3.0679746281714784in" height="3.0679746281714784in"}
 
@@ -4982,7 +4982,7 @@ When I completed the last item on Steve's list, and I presented the data to Stev
 
 I left Compaq not long after finishing that project to work for Adaptec. During the early days of SAS, I worked very closely with Steve as a customer and he treated me with respect and continued to mentor me, especially when it came to how to deal with my own bosses. After I made a particularly embarrassing and potentially career ending mistake, Steve was gracious and gave me the single best piece of career advice anybody ever gave me. I'll keep that gem to myself for now, but one thing Steve knew was that in computer business, the engineers and not management or marketing held the real power. For Steve, it was more than just an obligation to point out engineering weaknesses and come up with clever solutions. I believe he felt responsible for making well engineered products, and he knew with the right methodology and data, he could always hold marketing and management to account.
 
-Sadly, Steve was a mortal engineer. I don't remember the dates, but it seems like he got sick right around the time HP shipped SAS. I didn't see much of Steve after that, we went out to lunch a few times a year. In the beginning, Steve initiated these lunches. Steve always paid for his own lunch, long before it was HP policy not to accept paid meals from vendors. Somewhere along the way, I got the reputation as one of the few engineers Steve would actually go out to lunch with, so every few months marketing or sales of whatever company I was working for would get the idea that we could make an inside run at some kind of influence or get some information from Steve. I didn't bother with subterfuge with Steve, he would have seen right through it, I would just come right out and tell him what my people were after, and he'd usually say something like, *"I'm not going to tell you that.*" Then we'd have a nice lunch and talk about engineering.
+Sadly, Steve was a mortal engineer. I don't remember the dates, but it seems like he got sick right around the time HP shipped SAS. I didn't see much of Steve after that, we went out to lunch a few times a year. In the beginning, Steve initiated these lunches. Steve always paid for his own lunch, long before it was HP policy not to accept paid meals from vendors. Somewhere along the way, I got the reputation as one of the few engineers Steve would go out to lunch with, so every few months marketing or sales of whatever company I was working for would get the idea that we could make an inside run at some kind of influence or get some information from Steve. I didn't bother with subterfuge with Steve, he would have seen right through it, I would just come right out and tell him what my people were after, and he'd usually say something like, *"I'm not going to tell you that.*" Then we'd have a nice lunch and talk about engineering.
 
 In 2010 I took a job in China. We corresponded a few times via email, Steve was very curious about both life and engineering in China. I came back to the states at the end of 2012, but only saw Steve once, walking very slowly down the hallways of HP. He looked exhausted but took the time to remind me that we needed to catch up and tell him all about China. This never happened. Steve died in 2013.
 
@@ -4997,6 +4997,290 @@ This work is dedicated to Steve Fairchild.
 Steve Fairchild
 
 *The Foundation is Gratitude*
+
+# Contents {#contents .TOC-Heading}
+
+[Intrinsic Value [1](#intrinsic-value)](#intrinsic-value)
+
+[The Foundation [4](#the-foundation)](#the-foundation)
+
+[A Measure of Wealth [5](#a-measure-of-wealth)](#a-measure-of-wealth)
+
+[Guardians of the Public Domain [7](#guardians-of-the-public-domain)](#guardians-of-the-public-domain)
+
+[How it works [11](#how-it-works)](#how-it-works)
+
+[Linux [11](#linux)](#linux)
+
+[Bitcoin [12](#bitcoin)](#bitcoin)
+
+[Social Media [13](#social-media)](#social-media)
+
+[Awbrey Hack [14](#awbrey-hack)](#awbrey-hack)
+
+[Scoot - Dynamically Scalable Responsibility [15](#scoot---dynamically-scalable-responsibility)](#scoot---dynamically-scalable-responsibility)
+
+[The Foundation for the Appreciation of Human Genius [18](#the-foundation-for-the-appreciation-of-human-genius)](#the-foundation-for-the-appreciation-of-human-genius)
+
+[Asimov and Scoot [18](#asimov-and-scoot)](#asimov-and-scoot)
+
+[Scoot Primer [20](#scoot-primer)](#scoot-primer)
+
+[Genius Economy [23](#genius-economy)](#genius-economy)
+
+[Application of Scoot [24](#application-of-scoot)](#application-of-scoot)
+
+[Scoot of Property (SOP) [24](#scoot-of-property-sop)](#scoot-of-property-sop)
+
+[Scoot of Gratitude (SOG) [25](#scoot-of-gratitude-sog)](#scoot-of-gratitude-sog)
+
+[Post-Agency Scoot (PoAS) [34](#post-agency-scoot-poas)](#post-agency-scoot-poas)
+
+[Circulation [36](#circulation)](#circulation)
+
+[Staked [36](#staked)](#staked)
+
+[First Foundation [36](#first-foundation)](#first-foundation)
+
+[Texas Catfish [37](#texas-catfish)](#texas-catfish)
+
+[Second Foundation [40](#second-foundation)](#second-foundation)
+
+[Private Stake [40](#private-stake)](#private-stake)
+
+[Private Staking Period [40](#private-staking-period)](#private-staking-period)
+
+[Distribution [41](#distribution)](#distribution)
+
+[Stakes [42](#stakes)](#stakes)
+
+[Staking Codes [45](#staking-codes)](#staking-codes)
+
+[The Mule [45](#the-mule)](#the-mule)
+
+[Public Staking Period [46](#public-staking-period)](#public-staking-period)
+
+[National Stakes [47](#national-stakes)](#national-stakes)
+
+[Seeding [47](#seeding)](#seeding)
+
+[Development [48](#development)](#development)
+
+[Outreach Faucet [48](#outreach-faucet)](#outreach-faucet)
+
+[Creative enablers [48](#creative-enablers)](#creative-enablers)
+
+[Teachers [49](#teachers)](#teachers)
+
+[Prizes [49](#prizes)](#prizes)
+
+[Museums [49](#museums)](#museums)
+
+[Crusades [51](#crusades)](#crusades)
+
+[Billionaires [53](#billionaires)](#billionaires)
+
+[Billionaire meme [57](#billionaire-meme)](#billionaire-meme)
+
+[Deterministic Mythology [63](#deterministic-mythology)](#deterministic-mythology)
+
+[National Treasure [66](#national-treasure)](#national-treasure)
+
+[Royal Treasure [68](#royal-treasure)](#royal-treasure)
+
+[Amnesty [69](#amnesty)](#amnesty)
+
+[Repatriations and Reparations [69](#repatriations-and-reparations)](#repatriations-and-reparations)
+
+[No Fault [69](#no-fault)](#no-fault)
+
+[Immaterial Genius [70](#immaterial-genius)](#immaterial-genius)
+
+[Agency [72](#agency)](#agency)
+
+[Scoot of Agency (SOA) [74](#scoot-of-agency-soa)](#scoot-of-agency-soa)
+
+[Pre-Agency (PrAS) [76](#pre-agency-pras)](#pre-agency-pras)
+
+[Post-Agency (PoAS) [77](#post-agency-poas)](#post-agency-poas)
+
+[Elon Throwdown [80](#elon-throwdown)](#elon-throwdown)
+
+[Scoot of Collective Genius (SCoG) [89](#scoot-of-collective-genius-scog)](#scoot-of-collective-genius-scog)
+
+[Collective Vanity [90](#collective-vanity)](#collective-vanity)
+
+[Monuments and Nature's Bounty [91](#monuments-and-natures-bounty)](#monuments-and-natures-bounty)
+
+[Diplomacy [92](#diplomacy)](#diplomacy)
+
+[Die Hard 7 -- In a world of the king's gold [94](#die-hard-7-in-a-world-of-the-kings-gold)](#die-hard-7-in-a-world-of-the-kings-gold)
+
+[Die Hard 7 -- Leonardo's Revenge [96](#die-hard-7-leonardos-revenge)](#die-hard-7-leonardos-revenge)
+
+[The Stinger [98](#the-stinger)](#the-stinger)
+
+[Corporate Genius [99](#corporate-genius)](#corporate-genius)
+
+[Genius CYA [102](#genius-cya)](#genius-cya)
+
+[Academic Genius [104](#academic-genius)](#academic-genius)
+
+[Stop Reading, Lars [105](#stop-reading-lars)](#stop-reading-lars)
+
+[Drumland [105](#drumland)](#drumland)
+
+[Open Source Everything [110](#open-source-everything)](#open-source-everything)
+
+[Collecting Responsibility [112](#collecting-responsibility)](#collecting-responsibility)
+
+[Collecting Whatever [124](#collecting-whatever)](#collecting-whatever)
+
+[Instant Karmic Soup Kitchens (IKSK) [125](#instant-karmic-soup-kitchens-iksk)](#instant-karmic-soup-kitchens-iksk)
+
+[Goodbye Season Tickets [132](#goodbye-season-tickets)](#goodbye-season-tickets)
+
+[Incongruence of Values [145](#incongruence-of-values)](#incongruence-of-values)
+
+[Alignment of Values [149](#alignment-of-values)](#alignment-of-values)
+
+[Artificial Scarcity [152](#artificial-scarcity)](#artificial-scarcity)
+
+[Psychohistory [155](#psychohistory)](#psychohistory)
+
+[Scoot of Bling (SOB) [159](#scoot-of-bling-sob)](#scoot-of-bling-sob)
+
+[Scoot of Transportation (SOT) [165](#scoot-of-transportation-sot)](#scoot-of-transportation-sot)
+
+[Governance [170](#governance)](#governance)
+
+[Charter [170](#charter)](#charter)
+
+[Electorates [171](#electorates)](#electorates)
+
+[Responsibility Domain [171](#responsibility-domain-1)](#responsibility-domain-1)
+
+[Value Domain [171](#value-domain-1)](#value-domain-1)
+
+[Election frequency [171](#election-frequency)](#election-frequency)
+
+[The Board of Trustees [172](#the-board-of-trustees)](#the-board-of-trustees)
+
+[Engineer (1) [172](#engineer-1)](#engineer-1)
+
+[Continentals (7) [177](#continentals-7)](#continentals-7)
+
+[Popular (3) [177](#popular-3)](#popular-3)
+
+[Term Limits [178](#term-limits)](#term-limits)
+
+[Ethical Standards [178](#ethical-standards)](#ethical-standards)
+
+[The Line [178](#the-line)](#the-line)
+
+[Shunning [179](#shunning)](#shunning)
+
+[Management [180](#management)](#management)
+
+[Creation [180](#creation)](#creation)
+
+[Security [180](#security)](#security)
+
+[Encyclopedist [180](#encyclopedist)](#encyclopedist)
+
+[Provisional Board [181](#provisional-board)](#provisional-board)
+
+[Origins [183](#origins)](#origins)
+
+[Digital Sainthood [192](#digital-sainthood)](#digital-sainthood)
+
+[Stasis [193](#stasis)](#stasis)
+
+[Genius Antagonism [195](#genius-antagonism)](#genius-antagonism)
+
+[Genius Ancestry [202](#genius-ancestry)](#genius-ancestry)
+
+[Generational Wealth [206](#generational-wealth)](#generational-wealth)
+
+[Truces and Curses [208](#truces-and-curses)](#truces-and-curses)
+
+[Canada [208](#canada)](#canada)
+
+[Yankees [208](#yankees)](#yankees)
+
+[Dodgers [209](#dodgers)](#dodgers)
+
+[The Curse of the Asterisk [211](#the-curse-of-the-asterisk)](#the-curse-of-the-asterisk)
+
+[Ethical Revolution [212](#ethical-revolution)](#ethical-revolution)
+
+[No Small Genius [219](#no-small-genius)](#no-small-genius)
+
+[Acknowledgements [221](#acknowledgements)](#acknowledgements)
+
+[F.A.Q. [223](#f.a.q.)](#f.a.q.)
+
+[Appendix A -- Asimov Distribution Schedule [228](#appendix-a-asimov-distribution-schedule)](#appendix-a-asimov-distribution-schedule)
+
+[Appendix B -- Prime Shards [229](#appendix-b-prime-shards)](#appendix-b-prime-shards)
+
+[Appendix C -- Scoot of Team [231](#appendix-c-scoot-of-team)](#appendix-c-scoot-of-team)
+
+[Kerouac Crews (On the Road Scoot) [232](#kerouac-crews-on-the-road-scoot)](#kerouac-crews-on-the-road-scoot)
+
+[Foreign Outposts [234](#foreign-outposts)](#foreign-outposts)
+
+[Scoot of Whatevera [234](#scoot-of-whatevera)](#scoot-of-whatevera)
+
+[Scoot of Special Purpose Entities (SSPE) [235](#scoot-of-special-purpose-entities-sspe)](#scoot-of-special-purpose-entities-sspe)
+
+[Appendix D -- System Technical Description [241](#appendix-d-system-technical-description)](#appendix-d-system-technical-description)
+
+[Property of Wealth (POW) [243](#property-of-wealth-pow)](#property-of-wealth-pow)
+
+[Scoot Conformance [244](#scoot-conformance)](#scoot-conformance)
+
+[Scootchain [246](#scootchain)](#scootchain)
+
+[Responsibility Tree [246](#responsibility-tree)](#responsibility-tree)
+
+[Scoot Naming System (SNS) [248](#scoot-naming-system-sns)](#scoot-naming-system-sns)
+
+[Scoot Entity [250](#scoot-entity)](#scoot-entity)
+
+[Brandon's First Letter to his Crypto-Advisor [253](#brandons-first-letter-to-his-crypto-advisor)](#brandons-first-letter-to-his-crypto-advisor)
+
+[Appendix E -- A Lesson in Texas History [256](#appendix-e-a-lesson-in-texas-history)](#appendix-e-a-lesson-in-texas-history)
+
+[Texas Prehistory [256](#texas-prehistory)](#texas-prehistory)
+
+[Readings In Texas History [270](#readings-in-texas-history)](#readings-in-texas-history)
+
+[Big Mama [270](#big-mama)](#big-mama)
+
+[Little Mama [276](#little-mama)](#little-mama)
+
+[Stinky Fingers [286](#stinky-fingers)](#stinky-fingers)
+
+[The Canadian [293](#the-canadian)](#the-canadian)
+
+[The Defender of Texas History [306](#the-defender-of-texas-history)](#the-defender-of-texas-history)
+
+[Revision History [316](#revision-history)](#revision-history)
+
+[Chapter Coding [316](#chapter-coding)](#chapter-coding)
+
+[First Edition, unchanged [316](#first-edition-unchanged)](#first-edition-unchanged)
+
+[Content changes from first edition [316](#content-changes-from-first-edition)](#content-changes-from-first-edition)
+
+[New content, Second Foundation [316](#new-content-second-foundation)](#new-content-second-foundation)
+
+[Scoot(1) [319](#scoot1)](#scoot1)
+
+[Scoot(23) [320](#scoot23)](#scoot23)
+
+[Scoot(25) [329](#scoot25)](#scoot25)
 
 [^1]: The Gold Standard died for good in 1976 when I was in kindergarten. In school, I was taught the gold standard. I guess they thought floating currency is too complex to explain to a kid. I guess is it won't be long before they have to teach Elliptic-curve cryptology in the first grade, or else kids won't understand money. This disparity between the understanding of money and its actual function is what we should be trying to solve. Shared values between cultures need to be understood fundamentally, not just agreed to as a formality created by a bunch of economists or coders.
 
