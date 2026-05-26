@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.62**
+**Version 0.63**
 
 **ADVANCED READING COPY**
 
@@ -731,7 +731,7 @@ to humans to protect, preserve and remember this treasure.
 
 Scoot is the vessel for this responsibility.
 
-<img src="media/image2.png" style="width:5.18223in;height:2.91667in" />
+<img src="media/image2.png" style="width:4.03909in;height:2.27328in" />
 
 A Scoot is formed as organization of proportional responsibility for a
 legacy of genius. Each Scoot shall have a charter, clearly stating the
@@ -3091,7 +3091,7 @@ self-driving, energy efficient, emission free bad-ass transportation,
 Tesla’s Colorado Springs Lab would be a great place to start the
 inspiration.
 
-<img src="media/image4.jpeg" style="width:6.50833in;height:8.51667in" />
+<img src="media/image4.jpeg" style="width:3.435in;height:4.49497in" />
 
 2- Tesla Plaque at Memorial Park, Colorado Springs, south side of Pike's
 Peak Avenue, May 2021. Erected by Al Packer #100 Ancient & Honorable
@@ -3113,7 +3113,7 @@ American West, he had a major role on the world stage. From what I can
 tell, the actual site of the laboratory is just north of the plaque in a
 residential block.
 
-<img src="media/image5.jpeg" style="width:5.23333in;height:5in" />
+<img src="media/image5.jpeg" style="width:4.08112in;height:3.89916in" />
 
 Figure 3 - Nikola Tesla's Wardenclyffe wireless station, located in
 Shoreham, New York, seen in 1904
@@ -8320,8 +8320,6 @@ operate with characteristics that qualify them
 ## 
 
 ## 
-
-## Getting there
 
 ### Scoot of Special Purpose Entities
 
