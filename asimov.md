@@ -2,9 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.95**
-
-***ADVANCED READING COPY***
+**Version 0.96**
 
 <img src="media/image1.png" style="width:0.33333in;height:0.33333in"
 alt="enter image description here" /> 2022 by Brandon Awbrey. This
@@ -1082,8 +1080,8 @@ The inverse of the responsibility tree is the hypocrisy tree. Within the
 protocol, there is a method of shunning. Shunning is a way for Scoot and
 pledges to avoid transactions with other Scoot or pledges it has made a
 specific value judgement on. When you join a shun, you are making a
-statement, I refuse to interact with this other individual or Scoot
-because they are specifically bad in the way the shun describes. The
+statement: *I refuse to interact with this other individual or Scoot
+because they are specifically bad in the way the shun describes*. The
 official reference version of the protocol software will not accept
 transaction from an entity you have shunned. This is a choice of
 implementation. Nodes and pledges can earn discounts by processing
@@ -1725,10 +1723,9 @@ goals, the private stake should be returned to the stakers.
 
 The private staking period begins now and lasts until the stake reaches
 a threshold of $100 million in USD equivalents. At that point the
-distribution value will be calculated. The average daily value of the
-stake currency in USD will be used between the time the stake is
-received until mint day. There will be a multiplier for each stake in
-the order it was received.
+distribution value will be calculated. Other staked currencies will be
+converted to a USD value when the distribution is calculated. There will
+be a multiplier for each stake in the order it was received.
 
 Details of the private stake process will be available here:
 <http://www.geniusandvanity.org/stakes/>
@@ -8288,10 +8285,13 @@ Scoot is all about.
 | 10              | Leicester       | Codex                                   | SOP -Leonardo Da Vinci Notebook   |
 | 11              | Armstrong       | Neil                                    | PoAS                              |
 | 12              | Titanic         |                                         |                                   |
-| 13              | Protocol        | Scoot                                   | Open Source Protocol              |
+| 13              | Harden          | James                                   | SOG                               |
 | 14              | Scoot           | of Scoots                               |                                   |
 | 15              | Winslet         | Kate                                    | SOG                               |
+| 16              | RSV             | RSV                                     |                                   |
 | 17              | Awbrey          | Brandon                                 | my open source code and writing   |
+| 18              | Scoot           | Protocol                                | Scoot Protocol                    |
+| 19              | RSV             | RSV                                     |                                   |
 | 21              | Malone          | Moses                                   | SOG                               |
 | 22              | Kerouac         | Jack                                    | SOG                               |
 | 23              | Scobee Rodgers  | June                                    | SOG++                             |
@@ -9925,7 +9925,7 @@ bluebonnet in bloom in August?”
 
 “What’s that?”
 
-“Sports”
+“Sports.”
 
 “Oh, sports? That’s - there is a white man’s word for it, I just can’t
 think of it right now, but there’s a word for it. You are into sports,
@@ -10702,10 +10702,10 @@ Church, who took over the Summit in 2003.
 
 Texas History remains safe in God’s hands.
 
-Hakeem Olajuwon[115] is a historical legend and a defender of Texas
-History. Without his keen eye and ability to completely ignore Michael
-Jordan’s cloak of vanity, we might never have known that Texas was the
-cradle of civilization and birthplace of human genius.
+Hakeem Olajuwon is a historical legend and a defender of Texas History.
+Without his keen eye and ability to completely ignore Michael Jordan’s
+cloak of vanity, we might never have known that Texas was the cradle of
+civilization and birthplace of human genius.
 
 It’s funny how history works and some people just happen to be in the
 right place at the right time. Texas, fortunately, has been home to many
@@ -11142,45 +11142,3 @@ innovation invented in Texas.
 
 [114] Children, this proves that Texas Historians also know the literal
 use of “literally.”
-
-[115] This last footnote may come out of the final edition, but I want
-to make sure early reviewers, as well as Hakeem Olajuwon himself, have a
-chance to read it. My worst fear in this endeavor is that I would offend
-him without explanation. If he is offended, I’ll change the ending.
-
-What Hakeem Olajuwon did was legendary, and I witnessed it and I am
-responsible for the memory. When my kids were young and watching
-cartoons, if I wanted them to know about basketball, you think I could
-show them *Space Jam*? Ridiculous, I’d show them the *Exorcist* first.
-No wonder decades later people of think Michael Jordan is the greatest
-of all time. Bugs Bunny told them so. I thought, for a Texas kid, what
-would be bigger than a blockbuster movie? My youngest son is in seventh
-grade in Colorado, and there’s no Colorado History class. I always
-thought state history was a basic requirement nationwide. Not forgetting
-history is the theme of this book as well as Asimov’s *Foundation*. We
-Texans appreciate our history enough to add the right amount of
-embellishment, so I think this is the ultimate tribute to a true Texas
-hero. Contrasting Hakeem’s humbleness against Jordan’s commercial
-dominance really fits really with the theme of genius and vanity. Our
-legends are always bigger in Texas. Hakeem’s story doesn’t need any
-embellishment, it’s just the way we do things in Texas.
-
-I love Michael Jordan. He kept me in it every year to the end, and I’ve
-never seen such a fierce competitor in any sport. There’s only room for
-one GOAT in my personal value system. I’ll never be like Mike, but I’ll
-always dream like Hakeem.
-
-All my MJ smack is written with love in my heart. As far as comparing
-him to Loki, the trickster, I feel totally justified. Since 1998,
-Jordan’s final shot as a Chicago Bull has probably been broadcast more
-than any play in sports. It’s iconic MJ. I don’t share many values with
-fans of the Utah Jazz, but on this we’re aligned. First, on the
-defensive end, Mike clearly throws Karl Malone to the ground to steal
-the ball, and on the other end, he shoves Byron Russel to the ground to
-get off his shot. MJ’s moment of glory is highlighted by two fouls that
-would have been called on any other player in the league. When it comes
-to legends, we see what we want to see. Mike’s a true American hero, in
-sports, business and life, but he’s a trickster, and I love him for it.
-I was so thrilled when Mike slammed that stake through Utah’s heart. I
-love Mike, but it’s not like I’m going to name a kid after him. My
-personal value system only has room for one GOAT, and he’s *The Dream*.
