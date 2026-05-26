@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.91**
+**Version 0.92**
 
 ***ADVANCED READING COPY***
 
@@ -112,7 +112,7 @@ And bitcoin? Backed by mathematics? Mathematics is a form of genius
 humanity has created collectively through history, it’s as much of an
 abstraction as faith in a government.
 
-Genius and Vanity are timeless.
+Genius and vanity are timeless.
 
 Genius is timeless. I don’t mean to imply that if we put old Leo in a
 time machine and brought him to the year 2022, in a week he’d be rocking
@@ -392,7 +392,7 @@ Man’s genius can be summed as the value of the public domain and the
 current value of all private Intellectual Property. This value is
 equivalent to the cumulative value of all human commerce. From the
 beginning of human history. Unlike most natural resources, genius is
-naturally renewable. When an Electrical Engineer uses Ohm’s law to
+naturally renewable. When an electrical engineer uses Ohm’s law to
 calculate the resistance of a circuit, it does not “use up” some of
 Ohm’s Law. Ohm’s Law retains its value, no matter how many engineers use
 it or what it is used for. You could argue Ohm’s law becomes more
@@ -1074,7 +1074,7 @@ large institutions, board members, and company officers are publicly
 reported, but most holders are publicly anonymous.
 
 The responsibility tree - open or pseudonymous - is very valuable. This
-system works because the more people that are responsible for an idea,
+system works because the more people who are responsible for an idea,
 the more valuable that idea becomes. Furthermore, the more responsible
 people who are responsible for an idea, the more valuable it becomes.
 
@@ -1236,11 +1236,11 @@ formed to be responsible for a piece of property they collectively agree
 should not be property, but part of the public domain. Genius belongs to
 Humanity.
 
-A billionaire owns a Picasso he bought for $1 million, but it is now
-appraised at $10 million. The billionaire forms a Scoot, names himself
-as trustee and mints 1000 scoot. In forming the Scoot, he formally signs
-away title to the painting, gives it freely to humanity, formally ending
-the painting’s existence as property, yet the Scoot retains right of
+A billionaire owns a Picasso he bought for $1 million, now appraised at
+$10 million. The billionaire forms a Scoot, names himself as trustee and
+mints 1000 scoot. In forming the Scoot, he formally signs away title to
+the painting, gives it freely to humanity, formally ending the
+painting’s existence as property, yet the Scoot retains right of
 possession of the painting as custodian. This is a legal paradox, but a
 tactical one. A Scoot can buy property, and it can give away property to
 humanity, but it can never sell properties of wealth.
@@ -1940,7 +1940,7 @@ family.
 
 I’m not proposing defunding museums or scaling back their operations but
 reducing their reliance on private and public funding. Genius can pay
-for itself. Museum principals can Scoot their collections, giving the
+for itself. Museum principals can scoot their collections, giving the
 museum perpetual rights as curator, and sell off some scoot as funding
 is required. I’ve read the Metropolitan Museum of Art’s Collection is
 valued at least $100 Billion, and that contemporary art has an annual
@@ -2247,17 +2247,17 @@ him words to perfectly define what freedom means?
 Henry Ford mastered a process that was duplicated in millions of
 peaceful, commercial, and military applications. This led to prosperity
 throughout the entire world. He might have been the most innovative
-engineer in American history, greater than Tesla himself in real value
-created because his innovation had such broad application.[26] Yet he
-hated Jews and used his wealth to influence others with his hate. In his
-day, he was valued tremendously. In today’s value system, he would be
-canceled. In today’s value system, he would not be a criminal, it’s a
-fundamental right to express your opinion, no matter how stupid. You can
-hate who or what you want. When we talk about moral values, they are
-seen to be individual choices, our own values. Is it ironic, that Henry
-Ford, who hated Jews, invented the fundamental processes that allowed
-American industry to defeat Adolph Hitler, the most powerful antisemite
-in history?
+engineer in American history, greater than Tesla in real value created
+because his innovation had such broad application.[26] Yet he hated Jews
+and used his wealth to influence others with his hate. In his day, he
+was valued tremendously. In today’s value system, he would be canceled.
+In today’s value system, he would not be a criminal, it’s a fundamental
+right to express your opinion, no matter how stupid. You can hate who or
+what you want. When we talk about moral values, they are seen to be
+individual choices, our own values. Is it ironic, that Henry Ford, who
+hated Jews, invented the fundamental processes that allowed American
+industry to defeat Adolph Hitler, the most powerful antisemite in
+history?
 
 In terms of a system, when you see a repeating pattern of conflicts that
 occur at an increasing frequency, this usually represents unbalanced
@@ -3442,7 +3442,8 @@ Shouting in five different languages from the video screens.
 “All right, all right, all right,” the President pushes a button, and
 the screens go blank.
 
-“John McClain, thank you for coming.”  
+“John McClain, thank you for coming.”
+
 “You’re keeping me from the fish, sir.”
 
 “Sorry, old friend. I wouldn’t have picked you except I didn’t have a
@@ -3827,11 +3828,11 @@ political reality. Those are the projects for Scoot.
 Global projects of public good is what Big Oil has sold to much of the
 developing world for decades – despite the obvious corporate and
 geo-political conflicting motivations. Think of the massive public good
-project you could pull off if your motives were genuine across the board
-and aligned only with public good. Organizations that could pull off
-those kinds or massive works of public good at scale around the globe
-would be genius. Coincidently, there’s a bunch of people who know how to
-do things like that in Houston, Texas.
+project you could pull off if your motives were genuine and aligned only
+with public good. Organizations that could pull off those kinds or
+massive works of public good at scale around the globe would be genius.
+Coincidently, there’s a bunch of people who know how to do things like
+that in Houston, Texas.
 
 There is embedded genius in every industry that can be extracted in the
 genius economy. We shouldn’t forget how we got here. The alternative to
@@ -3975,8 +3976,9 @@ sell kitty litter?”
 “Rich scumbags don’t like to go to the store,” I say. “They like making
 us peons do degrading stuff for money.”
 
-> “I can’t keep doing this, dude.”  
-> “You’re quitting?”
+“I can’t keep doing this, dude.”
+
+“You’re quitting?”
 
 “How am I supposed to work on my craft man? What the hell is this, I
 gotta go to work, I ain’t never going to be able to take it to the next
@@ -4019,8 +4021,9 @@ setup your gear, and you rock out whenever you want.”
 Nai pauses the game and looks very serious for a moment, like he has
 indigestion.
 
-> “Studio grade soundproofing, dude.”  
-> “Okay, so how do you make money?”
+“Studio grade soundproofing, dude.”
+
+“Okay, so how do you make money?”
 
 “You don’t need money, that’s my point. You live, chill, and rock out in
 the same place. Instead of being a drummer who delivers liquor, you’re
@@ -4120,7 +4123,7 @@ warned.
 The way forward for Drumland is for musicians just to give away their
 music for free to anybody who wants to hear it. Open Source everything.
 
-You Scoot your work, and you say to world, my craft is not property. You
+You scoot your work, and you say to world, my craft is not property. You
 can have restrictive licensing, so your work gets turned into a jingle
 or soundtrack of a blockbuster movie, you get paid. Streaming services
 or radio want to play it, you get paid. Otherwise, just give it away.
@@ -7020,7 +7023,7 @@ merge or resurrect a scoot-chain can make an offer to take control back
 from the caretaker.
 
 Caretaker pledges can serve as initial stakers for new Scoot. In
-exchange for no-par scoot, the caretaker commits to taking care of the
+exchange for scoot, the caretaker commits to taking care of the
 scoot-chain if it goes into stasis. Some Scoot will do very well, and
 those that appreciate, should be able to cover the storage expense of
 the statis Scoot.
@@ -7246,7 +7249,7 @@ prosperous and equitable civilization. Those ideas will win. The
 Foundation is a system designed for that outcome.
 
 France, Bruce Willis, Kevin Costner, Joe Jonas, Apple TV+, Petrochemical
-Industry, Kawaii Leonard, three-quarters of Metallica, Korea, wine
+Industry, Kawhi Leonard, three-quarters of Metallica, Korea, wine
 collectors, museum people, and most everyone else I made fun off, please
 take it in the proper spirit: Through humor we can appreciate the actual
 value of something.
@@ -10700,6 +10703,12 @@ Remember young Texans, never trust a stranger James, and watch out for
 the dream stealing Canadians. It doesn’t matter if you were born here,
 or just got here just as fast as you could, it’s your duty as a Texan,
 to appreciate and preserve the legacy of our history.
+
+Our heroes are but human.
+
+It is the stories we tell about them that make them genius.
+
+August 2<sup>nd</sup>, 2022
 
 [1] The Gold Standard died for good in 1976 when I was in kindergarten.
 In school, I was taught the gold standard. I guess they thought floating
