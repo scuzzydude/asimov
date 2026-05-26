@@ -4,7 +4,7 @@
 
 **SECOND FOUNDATION**
 
-**Version 1.71**
+**Version 2.00**
 
 <img src="media/image1.png" style="width:0.33333in;height:0.33333in"
 alt="enter image description here" /> 2023 by Brandon Awbrey. This
@@ -18,7 +18,7 @@ else, I join you in a curse.
 Cover Art and Illustrations ©2023 by Jack Awbrey
 
 Lyrics are reprinted by permission, copyrights listed in
-Acknowledgements.
+[Acknowledgements](#acknowledgements).
 
 # 
 
@@ -1922,10 +1922,9 @@ as specified in The Mule chapter.
 
 ### Staking Codes
 
-<img src="media/image4.png" style="width:3.5in;height:1.9375in"
-alt="Qr code Description automatically generated" />
+<img src="media/image4.png" style="width:2.26261in;height:2.36458in" />
 
-https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA5331EEE514E093
+https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA97C99A4757AE01
 
 There are one thousand valid staking codes. Staking codes are used to
 earn stakes through appreciation or commitment of some content value.
@@ -10972,10 +10971,10 @@ August 2<sup>nd</sup>, 2022
 
 <table>
 <colgroup>
+<col style="width: 17%" />
 <col style="width: 18%" />
-<col style="width: 18%" />
-<col style="width: 13%" />
-<col style="width: 49%" />
+<col style="width: 10%" />
+<col style="width: 52%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -11032,6 +11031,12 @@ August 2<sup>nd</sup>, 2022
 <td>1</td>
 <td>ARC</td>
 </tr>
+<tr class="even">
+<td>2.00</td>
+<td>4/29/2023</td>
+<td></td>
+<td>Second Foundation, first printing</td>
+</tr>
 </tbody>
 </table>
 
@@ -11047,7 +11052,7 @@ August 2<sup>nd</sup>, 2022
 
 SECOND FOUNDATION
 
-**Version 1.70**
+**Version 2.00**
 
 <img src="media/image12.jpg" style="width:4.62014in;height:3.69583in"
 alt="A group of people wearing helmets Description automatically generated with low confidence" />
