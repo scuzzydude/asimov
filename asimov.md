@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.98**
+**Version 1.00**
 
 <img src="media/image1.png" style="width:0.33333in;height:0.33333in"
 alt="enter image description here" /> 2022 by Brandon Awbrey. This
@@ -6869,7 +6869,7 @@ that was just the beginning of a very, very bad year.
 
 In human terms, I have nothing but sympathy for James Harden on that
 day, a child of Los Angeles who would have come of age in basketball
-during the time of Kobe and an Laker three-peat, just as I had *The
+during the time of Kobe and a Laker three-peat, just as I had *The
 Dream* when I fell in love with the game. Harden idolized Kobe. A young
 Harden had faced Kobe in his absolute prime. I’ve already recounted the
 day one of my childhood heroes died, a man I had met only once, and it
