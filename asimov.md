@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.71**
+**Version 0.73**
 
 **ADVANCED READING COPY**
 
@@ -742,7 +742,7 @@ Scoot is the vessel for this responsibility.
 
 <img src="media/image2.png" style="width:6.38392in;height:4.52893in" />
 
-Figure 1 - The Foundation - VALUE and RESPONSIBLITY DOMAINS
+Figure - The Foundation - VALUE and RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a
 legacy of genius. Each Scoot shall have a charter, clearly stating the
@@ -821,7 +821,7 @@ The end goal is for the Foundation to hold all scoot of genius and none
 of vanity. This is an impossible task. Genius of today may be vanity of
 the future. In macro-economic terms, it gives us an equivalency. When
 The Foundation is “caught up,” all of the asimov will be circulating,
-and the Foundation should hold in reserve all of scoot of “genius.”
+and the Foundation should hold in reserve only scoot of “genius.”
 
 ### Property of Wealth (POW)
 
@@ -1415,8 +1415,8 @@ creating power from the wind. An engineer gives a technical description
 of how the unfolding mechanism works, and the materials needed to build
 such a radical windmill. Another animation begins, and we see the fore
 and aft towers that serve as the crow’s nest of the ship bloom into
-massive, mile wide carbon fiber parasails that turns *New Titanic* into
-a huge sailboat.
+massive, mile wide carbon fiber parasails that mutates *New Titanic*
+into a huge sailboat.
 
 The next day the geeky billionaire engineer admits on Twitter he’d
 underestimated Zoey’s plan and announces his intention to invest $500
@@ -1486,13 +1486,13 @@ resells the inaugural wedding cruise for $17 billion two weeks later.
 
 The Scoot continues to dilute, people buying in just for a chance to win
 the lottery and become ambassadors. Sleeping in bunkrooms and sharing
-washrooms with strangers for just a chance to reflect in the glory that
-is *Titanic*. By the time Zoey hits sixty, she’s the wealthiest woman in
+washrooms with strangers for a chance to reflect in the glory that is
+*Titanic*. By the time Zoey hits sixty, she’s the wealthiest woman in
 the genius economy, and over 7% of the world’s idea wealth is somehow
 *Titanic* related.
 
-The *New Titanic* voyages, a fairy tale vacation for the romantic, is
-the hottest ticket in town. Everybody has something special in their
+The *New Titanic* voyages, a fairy tale vacation for the romantic, are
+the hottest tickets in town. Everybody has something special in their
 life, if they’re willing to share it with the world, they might end up
 with a free cruise. It’s the floating version of the Hallmark channel,
 with a genuine old-world royal wedding on every voyage.
@@ -1631,7 +1631,7 @@ take on Einstein’s genius. After a few decades, alliances will form, and
 perhaps after fifty years, there are two mainstream Scoot.
 
 Scoot(54132) was formed by a group of mathematicians out of Princeton,
-and through mergers, build a huge scootage, mostly of other
+and through mergers, built a huge scootage, mostly of other
 mathematicians. Their focus is the brilliance in Einstein’s work. They
 are literalist, they believe Einstein’s genius is to be found in the
 papers he wrote and in his equations. They study Einstein’s papers and
@@ -1649,7 +1649,7 @@ In 2079, coincidently two hundred years after Einstein’s birth, an
 obscure physicist named Doug who is a member of the Scoot(102343)
 scootage, discovers a new set of equations, that prove everything that
 Einstein came up with was wrong. Einstein’s equations worked, like
-Newton’s, as mere approximations. A new kind of math is needed to be
+Newton’s, as mere approximations. A new kind of math is needed to
 understand the universe, a kind of mathematics that was beyond the human
 limits of direct comprehension, but Siri was able to figure out in 14
 milliseconds as soon as her 15<sup>th</sup> generation Quantum CPUs were
@@ -1849,7 +1849,7 @@ time of this printing.
 
 The base Scoot protocol will be implemented in C on Linux, and the idea
 will be that most nodes will be in the same data center. I will publish
-the protocol specification as well at this address:
+the details of the protocol here:
 
 <http://www.geniusandvanity.org/scoot_protocol>
 
@@ -2336,7 +2336,8 @@ In statistics terms, what was his wins above replacement? In science
 fiction terms, maybe if there’d been no Jefferson, King George’s son
 Georgie Boy would have fallen in love with an American actress on a
 visit to the colonies and their grand love would have ignited a
-proto-Victorian renaissance that led to an age of fabulousness.
+proto-Victorian renaissance that led to an age of fabulousness. One can
+only imagine what would happen if a commoner and royal got together.
 
 Henry Ford revolutionized more than just the automobile. Engineering
 wasn’t really extended to dealing with labor before Henry Ford.
@@ -2450,8 +2451,8 @@ Here’s where we get *brilliant with my millions, loan out a billion, I
 get back a trillion*
 
 I propose a measurement system and data that shows where legends are
-born. And tales of historical genius as well as hubris and vanity will
-be attributable. It doesn’t matter if The Foundation is involved or not.
+born. Tales of historical genius as well as hubris and vanity will be
+attributable. It doesn’t matter if The Foundation is involved or not.
 The days of guessing how memes turn into legends are over. What we buy
 and sell says everything the future needs to know about who we are right
 now. The Foundation is a way to explicitly measure our values in the
@@ -2469,7 +2470,7 @@ The creators of digital stone will be the last generation to create
 indeterministic mythology. We’ll still have historical legends, but
 they’ll be traceable. We will understand the origins of values, and when
 we do, we’ll be better able to judge if the reasons for those values are
-still valid. That’s the *recursive integration*.
+still valid. That’s *recursive integration*.
 
 I think *South Park* is the perfect chronicle for the last twenty-five
 years of history. If the future looks at all the primary sources and
@@ -2885,12 +2886,12 @@ boat, which may end up being a Scoot of Yacht.[38]
 
 Pre-Agency would be a SOA for a child artist or professional.
 
-The idea is to a Scoot as a responsible entity to protect the young
+The idea is to form a Scoot as a responsible entity to protect the young
 artists and to preserve some of the value they generate as children for
 their future.
 
 This is a complex subject, and intersects with parental rights, so I
-don’t want to speculate beyond the scope of my knowledge. I what I
+don’t want to speculate beyond the scope of my knowledge. What I
 envision is scoot that isn’t tradeable while they are minors but can
 still retain some amount of income to invest in other scoot or projects
 in the future, and that the PrAS would convert to a potentially tradable
@@ -3137,13 +3138,13 @@ potential in the present. These occur while an artist is alive and has
 choices, and there are plenty of rich artists who can afford lawyers to
 pave the way.
 
-Post-Agency Scoot (PoAG) is a different matter. How to create an
+Post-Agency Scoot (PoAS) is a different matter. How to create an
 organization, which may or may not have income, which sole purpose is
 the appreciation of a dead human, after his or her Intellectual Property
 rights have expired, seems like a level of complexity that might take
 decades of legal work when you are paying an army of attorneys by the
-hour. Or you find a real smart one, it might take him a week and a half.
-I believe genius exists in every profession, even the legal one.
+hour. Or you find a real smart one, it might take him an hour. I believe
+genius exists in every profession, even the legal one.
 
 Elon Musk has access to an army of attorneys. When he says jump, they
 say, “*With how many Newtons of force and at what vector, Elon?*”
@@ -3224,8 +3225,8 @@ before or since. His genius is what humanity should appreciate and
 value.
 
 I feel all engineers have a responsibility to grow the appreciation of
-Nikola Tesla’s genius. Those that use his name to sell electric cars
-sure as hell do. [45]
+Nikola Tesla’s extraordinary genius. Those that use his name to sell
+electric cars sure as hell do. [45]
 
 ## Scoot of Collective Genius (SCoG)
 
@@ -3315,7 +3316,7 @@ even a little bit vain.
 
 If a bunch of billionaires get together and want to build a Space
 Elevator, a Scoot of Collective genius (ScOG) would be the way to go. If
-they’re successful, it is genius and they’ll be remembered in history
+they’re successful, it is genius and they’ll be remembered by history
 for freeing humanity from the bondage of gravity. Building something for
 the public good creates value directly. A Space Elevator, owned by
 “humanity at large” could be the most valuable creation man every
@@ -4045,7 +4046,7 @@ headphones on, check him out. You hear the groove you want, you push a
 buzzer.”
 
 “Naw, dude,” says drummer boy, “What if you were recording your demo
-right when the guy buzzes the door.”
+right when the guy buzzes the door?”
 
 “Good point, dude. You hook up the doorbell to the lights, so they just
 flash,” says Lars.
@@ -4126,12 +4127,13 @@ or soundtrack of a blockbuster movie, you get paid. Streaming services
 or radio want to play it, you get paid. Otherwise, just give it away.
 
 You form up with other Scoot in your community, and you establish social
-protocol. A musician just starting out, it’d be understandable if he’d
-trade scoot with anybody that’ll trade. Each scene will develop customs
-of decorum. You get serious about your craft, you only trade scoot with
-other musicians using TPH, but you’ll let people bid your scoot with
-PPH. Somebody makes a big offer, you take a bite. You get enough bites
-and you get a real market value.
+protocol. Trading scoot becomes a trade in the appreciation of songs. A
+musician just starting out, it’d be understandable if he’d trade scoot
+with anybody that’ll trade. Each scene will develop customs of decorum.
+You get serious about your craft, you only trade scoot with other
+musicians using TPH, but you’ll let people bid your scoot with PPH.
+Somebody makes a big offer, you take a bite. You get enough bites and
+you get a real market value.
 
 It may become like a tip. Somebody likes your song, they make an offer
 on your scoot, loose change in the genius wallet, a few isaacs or a
@@ -4800,12 +4802,12 @@ responsibility commitment before the conversion takes effect.
 
 Things start to get busy for Deemo. Deemo can serve a bowl of soup, but
 tends to lollygag when it comes to cleaning up. This is where the OG
-scoot come into play. Initially, the ten originally OGs help. Cleaning
-up, chopping veggies, yelling at the kids to bus their own tables,
-checking Deemo’s math when he calculates the night’s figures. Later, a
-scheduling mechanism is built into the governance system, and it works
-out that maybe once a month an OG has a shift, as they sell off their
-initial and slurped scoot to new stakers.
+scoot come into play. Initially, the ten original OGs help. Cleaning up,
+chopping veggies, yelling at the kids to bus their own tables, checking
+Deemo’s math when he calculates the night’s figures. Later, a scheduling
+mechanism is built into the governance system, and it works out that
+maybe once a month an OG has a shift, as they sell off their initial and
+slurped scoot to new stakers.
 
 Soon enough, for several hours at dinner, the hall is full, serving 300
 people a night. Many families come two or three times a week, and many
@@ -5062,8 +5064,8 @@ basketball might be too much. It is the greatest story in the history of
 sports, and has so many tangents and connections, I don’t want to try to
 condense the glory. When there is a Scoot for the Houston Rockets, that
 story will be my first contribution to the scoot-chain. I’ll spin that
-into legend that will go down in history as the greatest tale of team
-genius in the history of mankind.
+into legend that will go down as the greatest tale of team genius in the
+history of mankind.
 
 Hakeem Olajuwon is not the GOAT because he was the greatest basketball
 player that has ever lived. I concede that to Jordan without argument.
@@ -5558,15 +5560,14 @@ You are your own wealth.
 ## Artificial Scarcity
 
 Cryptocurrency and digital assets create artificial scarcity.
-Cryptography creates this system where if you can keep a secret key
-safe, you can uniquely stamp an item as unique and prove you hold the
-keys to that item. This is a clever trick and useful in securing data.
-It’s artificial. The item itself isn’t scarce. Nothing digital is
-scarce. This is why we get to see what wealthy people had for breakfast
-on the Instagram. Published digitally, it’s more expensive to restrict
-access to data than it is to allow everybody in the world to have it.
-That is the leverage of the internet and having digital devices
-everywhere.
+Cryptography works because if you can keep a secret key safe, you can
+uniquely stamp an item as unique and prove you hold the keys to that
+item. This is a clever trick and useful in securing data. It’s
+artificial. The item itself isn’t scarce. Nothing digital is scarce.
+This is why we get to see what wealthy people had for breakfast on the
+Instagram. Published digitally, it’s more expensive to restrict access
+to data than it is to allow everybody in the world to have it. That is
+the leverage of the internet and having digital devices everywhere.
 
 Capitalism is not an unfair system if everybody starts out with the same
 capital. It’s more like *Monopoly*, there is a handful of good
@@ -5977,10 +5978,10 @@ sharable goods – quality and leveraged value over quantity. Things that
 can be shared. This is the path towards more sustainable life.
 
 Scoot of Bling will form staking networks with other Scoot of Bling. A
-visiting rapper from Korea visits Brooklyn, because he’s in the same
-exclusive staking network as the Bonzo Bentley, he might warrant an
-honor of a pickup – it’s like a royal courtesy – as long as there is a
-special set of wheels waiting next time Jay-Z lands in Seoul.
+rapper from Korea visits Brooklyn, because he’s in the same exclusive
+staking network as the Bonzo Bentley, he might warrant an honor of a
+pickup – it’s like a royal courtesy – as long as there is a special set
+of wheels waiting next time Jay-Z lands in Seoul.
 
 This could lead to all kinds of exclusive luxury. Every genius musician
 needs a boat, but a musician don’t need a boat every day. Scoot of Yacht
@@ -6088,16 +6089,16 @@ Houston. You collect ‘67 Cadillacs, the most valuable one you give to
 your third wife, and had it painted pink with Hello Kitty trim. She
 dumps you when your Transylvania Meta Crypto fortune is staked and
 suddenly gushes, and you got out just seconds too late. She leaves you
-the Cadillac. Inspired by your sister, who’d once guilt tripped you
-about your car collection, while she puttered around Houston in a Prius
-with her three daughters. One day, having an epiphany to the futility of
-sustainability, she breaks into your house, takes your keys, and drives
-Hello Kitty, top down, daughters seat-beltless in the back, all in Hello
-Kitty outfits. She’s arrested. You realize your sister is just on the
-edge of something. It’s a good thing, because taking care young nieces
-is hard and expensive and choosing the unemployment option in the same
-crypto currency you bet your life savings on wasn’t good planning, with
-sister away for twenty to life for child endangerment.
+the Cadillac. You are inspired by your sister, who’d once guilt tripped
+you about your car collection, while she puttered around Houston in a
+Prius with her three daughters. One day, having an epiphany to the
+futility of sustainability, she breaks into your house, takes your keys,
+and drives Hello Kitty, top down, daughters seat-beltless in the back,
+all in Hello Kitty outfits. She’s arrested. You realize your sister is
+just on the edge of something. It’s a good thing, because taking care
+young nieces is hard and expensive and choosing the unemployment option
+in the same crypto currency you bet your life savings on wasn’t good
+planning, with sister away for twenty to life for child endangerment.
 
 Your sister was on front end of a trend of girls that had grown up in
 the 90s and 2000s with the badass moms driving SUVs, minivans, and
@@ -7599,7 +7600,7 @@ boos, he has nothing but compassion for the poor, downtrodden fans of
 the Yankees and Dodgers.
 
 Instead, I cast the *Curse of the Asterisk*. The curse is simple. How
-long it lasts, depends how long those fans *keep on living like they
+long it lasts, depends how long those fans keep on *living like they
 ain’t got no mamas*.[98]
 
 The *Curse of the Asterisk* is directed at the fans at who feign to
@@ -7921,19 +7922,7 @@ kid from Texas, just like us, who didn’t have much, but he had a dream
 
 *Instead of spreading love we're spreading animosity*
 
-*Lack of understanding, leading lives away from unity*
-
-*That's the reason why sometimes I'm feelin' under*
-
-*That's the reason why sometimes I'm feelin' down*
-
-*There's no wonder why sometimes I'm feelin' under*
-
-*Gotta keep my faith alive till love is found*
-
-*And ask yourself*
-
-*Where is the love?*[105]
+*Lack of understanding, leading lives away from unity*[105]
 
 # F.A.Q.
 
@@ -8165,51 +8154,51 @@ Scoot is all about.
 
 # Appendix B – Scoot Naming Reservations
 
-| **Scoot Index** | **Unit**        | **SubUnit**                             | **Notes**                       |
+| **Scoot Index** | **Unit**        | **SubUnit**                             | **Notes**                        |
 |---------|-------------------|------------|---------------------------------|
-| **-2**          | **Stephenson**  | **Neal**                                | **Foundaton mint**              |
-| **-1**          | **Liu**         | **Cixin**                               | **Foundaton mint**              |
-| **0**           | **Asimov**      | **Isaac**                               | **Foundaton mint**              |
-| 1               | Scobee          | Dick                                    | SOG (Scoot of Gratitude)        |
-| 2               | Smith           | Michael                                 | SOG                             |
-| 3               | McNair          | Ronald                                  | SOG                             |
-| 4               | Onizuka         | Ellison                                 | SOG                             |
-| 5               | Resnik          | Judith                                  | SOG                             |
-| 6               | Jarvis          | Gregory                                 | SOG                             |
-| 3               | McAuliffe       | Christa                                 | SOG                             |
-| 8               | Bonham          | John                                    | SOG                             |
-| 9               | Tesla           | Nikola                                  | PoAS - Post Agency Scoot        |
-| 10              | Leicester       | Codex                                   | SOP -Leonardo Da Vinci Notebook |
-| 11              | Armstrong       | Neil                                    | SOG                             |
-| 12              | Titanic         |                                         | SOG - held for "Zoey"           |
-| 13              | Harden          | Kicks                                   | Scoot of Bling                  |
-| 17              | Awbrey          | Brandon                                 | my open source code and writing |
-| 22              | Kerouac         | Jack                                    | SOG                             |
-| 23              | Scoot           | Protocol                                | SOH (Scoot of Hackathon)++      |
-| 27              | Altuve          | José                                    | SOG                             |
-| 31              | Black Eyed Peas |                                         | SOG                             |
-| 34              | Olajuwon        | Hakeem                                  | SOG                             |
-| 35              | Twain           | Mark                                    | PoAS                            |
-| 40              | Lennon          | John                                    | SOG                             |
-| 43              | Jefferson       | Thomas                                  | PoAS                            |
-| 52              | Peart           | Neil                                    | GOCDF                           |
-| 61              | Rodman          | Dennis                                  | SOG                             |
-| 62              | Astros          | Houston                                 | SOT - Scoot of Team             |
-| 63              | Ford            | Henry                                   | PoAS                            |
-| 68              | Led Zeppelin    |                                         | SOG                             |
-| 69              | Jay-Z           |                                         | SOG                             |
-| 74              | Morrisette      | Alanis                                  | GOCDF                           |
-| 75              | Taboo           |                                         | SOG                             |
-| 81              | Beyoncé         |                                         | SOG                             |
-| 84              | Rockets         | Houston                                 | SOT - Scoot of Team             |
-| 88              |                 |                                         |                                 |
-| 94              | Rockets         | 1994                                    | SOG - 1993-1994 Championship    |
-| 95              | Rockets         | 1995                                    | SOG - 1995-1995 Championship    |
-| 97              | South Park      |                                         | SOG                             |
-| 2000            | Porter          | Kevin, Jr                               | SOG                             |
-|                 |                 |                                         |                                 |
-|                 | \*GOCDF         | Get out of Canadian Detention Free card |                                 |
-|                 | ++              | I know that's Jordan's number           |                                 |
+| **-2**          | **Stephenson**  | **Neal**                                | **Foundaton mint**               |
+| **-1**          | **Liu**         | **Cixin**                               | **Foundaton mint**               |
+| **0**           | **Asimov**      | **Isaac**                               | **Foundaton mint**               |
+| 1               | Scobee          | Dick                                    | SOG (Scoot of Gratitude)         |
+| 2               | Smith           | Michael                                 | SOG                              |
+| 3               | McNair          | Ronald                                  | SOG                              |
+| 4               | Onizuka         | Ellison                                 | SOG                              |
+| 5               | Resnik          | Judith                                  | SOG                              |
+| 6               | Jarvis          | Gregory                                 | SOG                              |
+| 7               | McAuliffe       | Christa                                 | SOG                              |
+| 8               | Bonham          | John                                    | SOG                              |
+| 9               | Tesla           | Nikola                                  | PoAS - Post Agency Scoot         |
+| 10              | Leicester       | Codex                                   | SOP - Leonardo Da Vinci Notebook |
+| 11              | Armstrong       | Neil                                    | SOG                              |
+| 12              | Titanic         |                                         | SOG - held for "Zoey"            |
+| 13              | Harden          | Kicks                                   | Scoot of Bling                   |
+| 17              | Awbrey          | Brandon                                 | my open source code and writing  |
+| 22              | Kerouac         | Jack                                    | SOG                              |
+| 23              | Scobee-Rodgers  | June                                    | SOG                              |
+| 27              | Altuve          | José                                    | SOG                              |
+| 31              | Black Eyed Peas |                                         | SOG                              |
+| 34              | Olajuwon        | Hakeem                                  | SOG                              |
+| 35              | Twain           | Mark                                    | PoAS                             |
+| 40              | Lennon          | John                                    | SOG                              |
+| 43              | Jefferson       | Thomas                                  | PoAS                             |
+| 52              | Peart           | Neil                                    | GOCDF                            |
+| 61              | Rodman          | Dennis                                  | SOG                              |
+| 62              | Astros          | Houston                                 | SOT - Scoot of Team              |
+| 63              | Ford            | Henry                                   | PoAS                             |
+| 68              | Led Zeppelin    |                                         | SOG                              |
+| 69              | Jay-Z           |                                         | SOG                              |
+| 74              | Morrisette      | Alanis                                  | GOCDF                            |
+| 75              | Taboo           |                                         | SOG                              |
+| 81              | Beyoncé         |                                         | SOG                              |
+| 84              | Rockets         | Houston                                 | SOT - Scoot of Team              |
+| 88              |                 |                                         |                                  |
+| 94              | Rockets         | 1994                                    | SOG - 1993-1994 Championship     |
+| 95              | Rockets         | 1995                                    | SOG - 1995-1995 Championship     |
+| 97              | South Park      |                                         | SOG                              |
+| 2000            | Porter          | Kevin, Jr                               | SOG                              |
+|                 |                 |                                         |                                  |
+|                 | \*GOCDF         | Get out of Canadian Detention Free card |                                  |
+|                 | ++              | I know that's Jordan's number           |                                  |
 
 # Appendix C – Prime Shards
 
@@ -8816,7 +8805,7 @@ when they felt the tickle of their whiskers.
 
 “How many hands of fish will your daughters catch?”
 
-“Enough for their own children.” That was the way, when the rains didn’t
+“Enough for their own children.” That was the way when the rains didn’t
 come. Mothers and the female children would go to the river for as long
 as it took. Some did not come back, and many died. The chief had sired
 many children in a time of good rains, but he had lost many sisters to
@@ -10050,7 +10039,7 @@ James was amazed.
 <img src="media/image10.jpeg" style="width:3.58281in;height:3.84722in"
 alt="A picture containing text Description automatically generated" />
 
-Figure 7 - sketch of cave drawing from James Naismith's notebook
+Figure - sketch of cave drawing from James Naismith's notebook
 
 “Yeah, your dad would come up here every day for a few hours, as long as
 he could take it, smoke builds up pretty quick, and it is hard to see
@@ -10642,8 +10631,8 @@ cases means “The Noisy Canadian.”
 
 [13] This is Zoey’s thinly veiled allegory, not the author’s. The
 author’s 90’s movie would be *Fight Club.* Wait a minute. Maybe
-*Independence Day*? The *Fresh Prince* killing aliens, what billionaire
-is going to have a problem with that? Unless…
+*Independence Day*? The *Fresh Prince* slapping down aliens, what
+billionaire is going to have a problem with that? Unless…
 
 [14] For anyone reading this who feels an intense need for a
 testosterone injection, stay with me. The smackdown will begin shortly.
@@ -10700,8 +10689,8 @@ be to invent a time machine and switch those two at birth. Rudy will do
 just fine in Louisiana; they talk funny down there. I guess I’d have to
 live with years of Karl Malone sending James Harden home in the
 playoffs, but I think that would be better for my karma than living with
-having Steph Curry done it like five times. I guess I can sort of
-sympathize with James running east.
+having Steph Curry done it five times. I guess I can sort of sympathize
+with James running east.
 
 [29] In 2040, when the population of France has exceeded that of China
 and India combined, I’ll pen a sequel called, *The Dilution of Genius*.
@@ -10767,7 +10756,7 @@ organization is a Scoot waiting to be instantiated.
 [43] Colorado Springs residents on the North side of Memorial Park, I’ll
 take my kickback in cash or bitcoin.
 
-[44] A device Elon Mush is trying to replace in our vehicles with a
+[44] A device Elon Musk is trying to replace in our vehicles with a
 cleaner alternative – fueled by Tesla’s electrical grid.
 
 [45] Gotta make a statement to clarify, E. Half the south thinks those
@@ -10863,7 +10852,7 @@ dirty John Stockton were all selected in the first round.
 [70] From: *Living the Dream: My Life and Basketball* by Hakeem Olajuwon
 and Peter Knboler
 
-[71] The Flying Pig
+[71] Flying Pig
 
 [72] *Forrest Gump* was released June 23<sup>rd</sup>, 1994 – two days
 after *The Dream* won his first championship. Hollywood knows how to
