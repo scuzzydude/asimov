@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.57**
+**Version 0.58**
 
 There are only two true hedges against inflation. History and
 archaeology have proven they’ve both existed for as long as humanity.
@@ -2033,46 +2033,40 @@ viral meme in the head of every billionaire, expressed in words to a
 beat, goes like this: *Imma be brilliant with my millions, loan out a
 billion, I get back a trillion*.[20]
 
-Bill Gates and Warren Buffet started this campaign called *The Giving
-Pledge*, where a whole bunch of well-intentioned billionaires promised
-to give away half their wealth to charitable causes. This is apparently
-because they want to give back – to solve problems for the rest of us.
-This is glorious philanthropy and in no way am I criticizing the
-motivation. Charity by the wealthy and is responsible for so much that
-makes the United States a wonderful place to live and why at almost any
-income level, people can live happy and secure lives. Politicians
-running for election like to point out how little the rich might pay in
-taxes, but they don’t include what the rich give out voluntarily. I
-certainly agree that it would be better to continube money where I
-thought it was most effective, rather than having a government that
-changes hands every two years, and thus changes values every two years,
-decide where it was most effectively spent.
+Bill Gates and Warren Buffet started *The Giving Pledge* campaign, where
+a whole bunch of well-intentioned billionaires promised to give away
+half their wealth to charitable causes. This is apparently because they
+want to give back – to solve problems for the rest of us. This is
+glorious philanthropy and in no way am I criticizing the motivation.
+Charity by the wealthy and is responsible for so much that makes the
+United States a wonderful place to live. Around election time, there is
+a vocal chorus who like to point out how little the rich might pay in
+taxes, but they don’t include what the rich give out voluntarily.
 
 I really believe Bill Gates motivations are pure, because he’s the most
 bad-ass businessman and coder in human history. He’s one of the true
 fathers of the digital age. And indirectly, he fostered the foundation
 of historical clarity. He didn’t need to be the richest guy in the world
 to set his mark on history, and the only professional stain is he was
-accused of being a monopolist. Let me ask you this: What’s worse, being
-an accused monopolist, or a dictator for life? For an American being a
-monopolist is cool, that’s why we play the children’s game called
-*Monopoly*. I don’t know what the hell kind of kid’s games they play in
-Finland.[21]
+accused of being a monopolist. What’s worse, being an accused
+monopolist, or a dictator for life? To Americans monopolist are cool,
+that’s why we play the children’s game called *Monopoly*. I don’t know
+what the hell kind of kid’s games they play in Finland.[21]
 
 I’m not concerned about the motivations. At a systems level, the rich
 give back to achieve a lasting effect. For the good of man or to be
 recognized by history, it doesn’t matter in the wealth equation. It’s
 leverage of their wealth in a historical context. The continued leverage
 of their wealth – be it property or innovation or imagination – adds to
-the wealth created even after they are gone. A measurement of value.
+the wealth of mankind even after they are gone. A measurement of value.
 
 Let’s take two hypothetical billionaires, call them Paul and John.
 
-Paul starts a company and build rockets ships using advanced engineering
-and convinces rich people and governments to send a bunch of commercial
-stuff up in space while making space travel cheaper and more accessible.
-This enables an entire industry of both commercial exploration and space
-tourism. Paul becomes a trillionaire.
+Paul starts a company and builds rockets ships using advanced
+engineering and convinces businesses and governments to send a bunch of
+commercial stuff up in space while making space travel cheaper and more
+accessible. This enables an entire industry of both commercial
+exploration and space tourism. Paul becomes a trillionaire.
 
 John parties with movie stars, goes through rehab six times, sobers up
 around fifty and then uses the few millions he has left to invest in
@@ -2092,14 +2086,13 @@ using the warp drive developed by Jude.
 
 Who will history remember as the greater genius, Paul or John?
 
-One is Henry Ford, one is Thomas Jefferson. Historical clarity? Compare
-the introduction to both men on Wikipedia. Henry Ford – anit-semitic and
-a pacifist. Yet, in reality, his innovation and mastering of efficiency
-in enineeging is what not only defeated Hitler but led to generational
-prosperity leveraged by millions of Americans and that spread throughout
-the world. Thomas Jefferson, was brilliant beyod measure and it takes a
-couple of pages just for the instrudoction. We don’t get to his human
-flaws – that he owned slaves – until much later.
+One is Henry Ford, one is Thomas Jefferson. Compare the introduction to
+both men on Wikipedia. Henry Ford – antisemitic and a pacifist. Yet, his
+mastering of efficiency in manufacturing is what defeated Hitler but led
+to the generational prosperity of hundred millions across the world.
+Thomas Jefferson was brilliant beyond measure, and it there’s quite a
+few paragraphs in the introduction. We don’t get to his human flaws –
+that he owned slaves – until much later.
 
 I think it’s a worthwhile debate. They are two deeply flawed men, but
 how to we judge their flaws relative to the value they created.
@@ -2107,28 +2100,25 @@ how to we judge their flaws relative to the value they created.
 Thomas Jefferson, the man who cut the balls off royalty for good, with
 words both logical and defiant, was a master of men himself. Yet, to his
 brethren in the colonies, his peers, he was admired and respected,
-valued in both respect and property. In today’s values, he was was a
+valued in both respect and property. In today’s values, he was a
 criminal, holding humans hostage and forcing them into labor against
 their will. Is that ironic? Or is it hypocrisy? Or – was Jeffersons own
 internal struggle what gave him the will to stand up against the king
-himself? I think that would be dramatic, and since I get all most of my
-history from historical fiction series on the television, worth a
-miniseries.
+himself?
 
 Henry Ford mastered a process that was duplicated in millions of
-applications peaceful, commercial and military. This led direclty to
-prosperity throughout the entire world. He might have been the most
-innovative engineer in American history, greater than Tesla himself in
-real value create because his innovation had such broad application.[22]
-Yet he hated Jews and used his wealth the power to influence many. In
-his day, he was valued tremendously. In today’s value system, he would
-be canceled for sure. Yet, in today’s value system, he would not be a
-criminal, it’s a fundamental right to express your views you can hate
-who or what you want. When we talk about moral values, they are seen to
-be individual choices, our own values. Is it ironic, that Henry Ford,
-who hated Jews, invented the fundamental processes that allowed American
-industry to defeat Adolph Hitler, the most powerful anti-semite in
-History?
+peaceful, commercial and military applications. This led to prosperity
+throughout the entire world. He might have been the most innovative
+engineer in American history, greater than Tesla himself in real value
+create because his innovation had such broad application.[22] Yet he
+hated Jews and used his wealth the power to influence others. In his
+day, he was valued tremendously. In today’s value system, he would be
+canceled. Yet, in today’s value system, he would not be a criminal, it’s
+a fundamental right to express your views you can hate who or what you
+want. When we talk about moral values, they are seen to be individual
+choices, our own values. Is it ironic, that Henry Ford, who hated Jews,
+invented the fundamental processes that allowed American industry to
+defeat Adolph Hitler, the most powerful anti-semite in History?
 
 ….Irony – circular logic --- Regressive Integration, Karmic Integration
 applied to social systems….
@@ -2136,115 +2126,123 @@ applied to social systems….
 In terms of a system, when you see a repeating pattern of conflicts that
 occur at an increasing frequency, this usually represents unbalanced
 resources. To fix it, you break the entire process apart and rebalance
-them. You build cars, and you notices that it takes one man four minutes
-to put four tires on a car, and that his stage of the assembly is where
-the production back up starts. You figure out, you can have four men put
-a tire each, and since they don’t have to move around the car, it takes
-only 40 seconds. You not only cleared a blockage, but you sped up the
-process by efficienty of movement.
+them. You build cars, and you notice that it takes one tire-installer
+four minutes to put four tires on a car, and that his stage of the
+assembly is where the production back up starts. You figure out, you can
+have four tire-installers put on a tire each, and since they don’t have
+to move around the car, it takes only 40 seconds. You not only cleared a
+blockage, but you sped up the process by efficiency of motion.
 
-I call this process applied to engineered systems Recursive Integration,
-which really only means that systems are dynamic – any time you change
-one part of the system, you need to apply the breakdown to the entire
-system and rebalance again. In engineering, it must re-measure all parts
-of the system, but also re-examine the tools you use to measure. The
-benefit this constant rexamining of your methodology should lead to easy
-solutions. The measurement, the changing patterns, point you to the
-source of your constraints. Replace 1 man 4 man on the assuembly line.
+I call this process applied to engineered systems Recursive Integration.
+Most systems are dynamic – any time you change one part of the system,
+you need to apply the breakdown to the entire system and rebalance
+again. In engineering, it must re-measure all parts of the system, but
+also re-examine the tools you use to measure. The benefit this constant
+reexamining of your methodology should lead to easy solutions. The
+measurement, the changing patterns, point you to the source of your
+constraints. Replace 1 tire-installer with 4 tire-installers on the
+assembly line. It’s exactly the same if you were to replace 1
+tire-installer robot with 4 tire-installer robots. Replace 1 CPU with 4
+CPUs.
 
 Applied to human systems, perhaps we should call this Karmic
-Integration. We call it hypocrisy or irony, but what it is to me is a
-recursive pattern that I know how to debug. What it means, is there is a
-problem in the system and we need to fix it. The first step of problem
-solving is diagnosing the problem. To do that, you must have the right
-tools to measure.
+Integration. We call it hypocrisy or irony. As an engineer a recursive
+pattern that I know how to debug. The first step of problem solving is
+diagnosing the problem. To do that, you must have the right tools to
+measure.
 
 Wealth is what you are worth, and we measure that by a metric of
 property. Clearly, property is not represented of your worth to the rest
 of humanity. Genius value is what you are worth to the future.
 
-We can have scholarly debates about who was a greater creater of human
-value, Jefferson or Ford, and despite having a bunch of acadmecs write
+We can have scholarly debates about who was a greater creator of human
+value, Jefferson or Ford, and despite having a bunch of academics write
 papers about it, it’s can never be any more scientific than the constant
-GOAT debute we hear on spots radio, Jorand or Lebron? In fact, it would
-be lest scienctifc, because the NBA got stats – data is the fuel of
-system designs.
+GOAT debate we hear on spots radio, Jordan or Lebron while leaving out
+the true geniuses of Kobe and *The Dream*. In fact, it would be lest
+scientific, because the NBA got stats – data is the fuel of system
+designs.
 
-Historian’s much weigh the value of a historical figure against the
-values of his time. We just don’t have the data for Jefferson or Ford.
-It’s not that we don’t have data – we have plenty of data, especially
-about Ford. That data was based on how they valued property. Jefferson’s
-valuation of property was fundamently flawed, and was measured with the
-king’s gold. Desipte having expelled the king, and despite the
-rectiviatinon of a bloody civil war, Henry Ford build a commercial
-empire using his innovation but measured that value using the same
-king’s gold. And yet, despite his innovation lifting the prospects of
-poor but hardworking people globally, the distribution of wealth didn’t
-equalize, because it was the owners of the machines and factories that
-benefited the most, not the people who knew how to operate the machine
-and factories.
+Historians weigh the values of a historical figure against the values of
+his time. It’s not that we don’t have data – we have plenty of data,
+especially about Ford. That data was based on how they valued property.
+Jefferson’s valuation of property was fundamentally flawed and was
+measured with the king’s gold. Desipte having expelled the king, and
+despite the rectiviatinon of a bloody civil war, Henry Ford build a
+commercial empire using his innovation but measured that value using the
+same king’s gold. And yet, despite his innovation lifting the prospects
+of poor but hardworking people globally, the distribution of wealth
+didn’t equalize, because it was the owners of the machines and factories
+that benefited the most, not the people who knew how to operate the
+machine and factories.
 
 Did Jefferson need to own land and slaves to have value? Of course not.
 He was a writer and a thinker, but he lived in a time where most people
-were poor, couldn’t read, and candles were expensive. Did Ford
+were poor, couldn’t read, and candles were expensive. Did Ford need to
+vocalize his personal views, fully aware that millions of people looked
+up to him as a man of great value judgement? Certainly, his value would
+be appreciated by many more people had he chosen to hold his opinion
+silent, and learn to expand his point of view.
 
 Henry Ford and Thomas Jefferson both created tremendous value.
 
-Thomas Jefferson authored the blueprint for the true global revolution
-and the overthrow of all feudal powers. Revolution took off like
-lighting and the feudal powers were gone or nuetured in but two hundred
-years, after being the status quo of civilization since the dawn of
-civilization. Yet the end of feudal powers didn’t in end of inequality
-in real human terms, only in legal terms. What would the world look like
-today with Jefferson? In statistics terms, wins above replacement. In
-science fiction terms, maybe if there’d been no Jefferson, King George’s
-son Georgie Boy would have fallen in love with an American actress on a
-visit to the colonies and their grand love would have ignited a
-pro-Victorian renaissance that led to a of fabulousness that results in
-grand utopia of elegance, sort of like Neal Stephenson’s Diamond Age.
+Thomas Jefferson authored the blueprint for the true global revolution.
+Revolution burned like wildfire and the feudal powers were gone or
+nuetured in two hundred years. Only two hundred years, after being the
+status quo of governance since the dawn of civilization. Yet the end of
+feudal powers didn’t end inequality in real human terms, only in legal
+terms. What would the world look like today without Jefferson? In
+statistics terms, wins above replacement. In science fiction terms,
+maybe if there’d been no Jefferson, King George’s son Georgie Boy would
+have fallen in love with an American actress on a visit to the colonies
+and their grand love would have ignited a pro-Victorian renaissance that
+led to a of fabulousness that results in grand utopia of elegance, sort
+of like Neal Stephenson’s *Diamond Age*.
 
 Henry Ford revolutionized more than just the automobile. Engineering
 wasn’t really extended to dealing with labor before Henry Ford.
-Generally, in urban evnirnomnts, If you were a skilled at some facet of
+Generally, in urban environments, if you were a skilled at some facet of
 industry, you were good and fast because if you weren’t somebody was
-going to be the shit out of you and take your job and you and your
-family were going to starve. Pretty brutal life, but I don’t think
-that’s an overdramatization. Henry Ford equalized a system of labor. He
-made it so that it didn’t really require much education, or much skill,
-or much intelligence, that in a large system, there would be a place
-where you might fit, as long as you were willing to work hard and learn
-how to do at least one thing well, you could earn a good living. He
-broke down a system in integrated it using equalization of ability. If
-you were too fast for your job that meant you could move up. That
-motivated you. The old way, the truth was, it rewarded those who were
-willing to beat the shit out of somebody to take their job. Pretty good
-historical drama value, but in terms of real value, Henry Ford changed
-the world.
+going to beat you down and take your job and your family was going to
+starve. Brutal life, but I don’t think that’s an overdramatization.
+Henry Ford equalized a system of labor. He made it so that it didn’t
+really require much education, or much skill, or much intelligence, that
+in a large system, there would be a place where you might fit, as long
+as you were willing to work hard and learn how to do at least one thing
+well, you could earn a good living. He broke down a system in integrated
+it using equalization of ability. If you were too fast for your job that
+meant you could move up. That motivated you. The old way rewarded those
+who were willing to hurt somebody to take a job. Pretty good historical
+drama value, but in terms of real value, Henry Ford changed the world.
 
-Back to our hyptoctecal Billionaires. Of course, future humanity will
-value billionaire John more than Paul, and they’ll use the values of
-ideas because the value of property isn’t realivate to anything anymore
-sense the stars are limitedless. It don’t matter that he was a both a
-dead-beat dad and a kidnapper of his own son, as well as a betrayer of a
-friend, he had bigger dreams with more value for us all.
+Back to our hypothetical billionaires. Future humanity will value
+billionaire John more than Paul, and they’ll use the values of ideas
+because the value of property isn’t relative to anything anymore. The
+starts and property are infinite. It won’t matter that he was a both a
+dead-beat dad and a kidnapper of his own son, as well a backstabbing
+dream usurping friend, he had the vision that created more value for all
+of humanity.
 
-But Scoot ain’t like that. Scoot is like Paul and John with George and
-Ringo and started a Scoot for the United Federation of Plantes, and did
-a reunion tour and tricked all the rich people and celebrites into
+Scoot ain’t like that. Scoot is like Paul and John with George and Ringo
+and started a Scoot for the United Federation of Planets and did a
+reunion tour and tricked all the rich people and celebrities into
 converting all their property wealth into the development of a
-sustainable path to the stars. John and Paul share custory of Jude’s
-kid’s Vera, Chuck and Dave.[23]
+sustainable path to the stars. John and Paul share custody of Jude’s
+kid’s Vera, Chuck and Dave while Jude’s off testing the warp drive.[23]
 
-Digital stone means digital clarity. History will remember – we will
-have the data – how our value judgesments effects values changes through
-history. It’s a real measure of wealth in human terms. Not how much
-property one was able to able to acruire with the societal value you
-created. But how much positive value you created directly by the ideas
-you value. It’s a measure of your personal wealth – you’re worth. All
-men are created equal, it’s what they do with their lives that is their
-worth. Or more accurately, men are worth what women think they’ve done
-with their lives. Approaching dangerous territory here, perhaps a
-different approach.
+Digital stone means digital clarity. The Foundation – the sum of the
+scoot-chains, the metaphorical *Encyclopedia Galactica*, is the measure
+of our values as they change over time. The future will know how our
+value judgments effects values changes in society. It’s a real measure
+of wealth in human terms. Not how much property one was able to able to
+acquire with the societal value you created. Rather, how much positive
+value you created directly by the ideas you were responsible for. It’s a
+measure of your personal wealth. What you are worth in your own personal
+measure of value. All men are created equal, it’s what they do with
+their lives that is their worth. Or more accurately, men are worth what
+women think they’ve done with their lives.
+
+Approaching dangerous territory here, perhaps a different approach.
 
 ### Deterministic Mythology 
 
@@ -10074,20 +10072,18 @@ the *Squid Games* franchise.
 
 [22] I wish we had the data to determine who created the greatest
 fundamental value for humanity, Ford or Tesla. Fundamentally, Ford did
-basic integration, which when applied to industrial or informational
-systems has so many applications, its pretty fundamental to every part
-of entinggerring – breaking down a process and balancing it. This is
-basic systems design. And Tesla, who was pretty much, hey, here’s this
-magic stuff nobody really understand and can fry your brains if you your
-crazy math is a little off, but even though nobody really understands it
-we an harness it use it for air-conditioning and make Houston habiltal.
-This, fundamently is how chips work at the analog level. Team Nikola is
-the genius for me, but I work on an assembly line (figuratively, in
-engineering terams).
+basic integration, which is foundational to every branch of engineering
+– breaking down a process and balancing it. It is fundamental to systems
+design. And Tesla, who was like, hey, here’s this magic stuff nobody
+really understands it and it can fry your brains if you your crazy math
+is a little off. Hey, we don’t have to understand it to harness it use
+it for air-conditioning and make Houston habitable. You can guess who
+has my vote.
 
-[23] I may have borrowed elements of this interlude from an upublished
-screenplay written by a certain carrot eating entrupernesr in the late
-70s. Rumor is he sold it to John
+[23] I may have borrowed elements of this interlude from an unpublished
+screenplay written by a certain carrot eating entrepreneur in the late
+70s. Rumor is he sold it to John Lennon and used the proceeds to finance
+a technology startup.
 
 [24] Emminen forgive me for paraphrasing and cutting your verse short,
 but it’s a hard rule for me, as an engineer, never to mention the word
