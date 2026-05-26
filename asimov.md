@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.75**
+**Version 0.76**
 
 **ADVANCED READING COPY**
 
@@ -153,7 +153,7 @@ Sometimes, it can be ugly and bloody.
 
 What if we could turn history into money? Would we still forget?
 
-## A Measure of Wealth
+# A Measure of Wealth
 
 The goal of this project is to change the way we value wealth. Wealth is
 currently based on the exchange of property. Property is inequitably
@@ -5732,7 +5732,7 @@ That would put the 2032 price target of asimov at 2.52 Q / 1T = $2,520
 USD per asimov.
 
 | **Description**                     | **Calculation**   | **Billions (USD)** |
-|--------------------------------------|------------------|----------------|
+|------------------------------------|---------------------|---------------|
 | Gross World Product (GWP) 1990-2020 |                   | $2,600,000         |
 | Estimated GWP 2021-2030             |                   | $1,000,000         |
 | Cumulative GWP 1990-2030            |                   | $3,600,000         |
@@ -7504,7 +7504,7 @@ This is the metric of genius. This is what we will measure.
 
 # Truces and Curses
 
-## Canada
+Canada
 
 Canada, I’m not exactly talking forgiveness here, but a permanent cease
 fire. I like Canada. It’s a beautiful country, the people are nice, and
@@ -8126,33 +8126,33 @@ Scoot is all about.
 
 # Appendix A – Asimov Distribution Schedule
 
-|                            | Asimov  | 1,000,000,000,000             |         |     |                   |      |
-|--------------|----------|------------------|----|-------|---------------|-------|
-|                            | Group   |                               |         |     |                   |      |
-| Group                      | Percent | Tranche                       | Percent |     | Asimov            | Year |
-| Reserve Stake              | 1.00%   | Private Stake                 | 0.50%   |     | 5,000,000,000     | 1    |
-|                            |         | Public Stake                  | 0.50%   |     | 5,000,000,000     | 1    |
-| National Stakes            | 10.00%  | National Stakes               | 10.00%  |     | 100,000,000,000   | TBD  |
-| Seeding                    | 1.00%   | Seeding                       | 1.00%   |     | 10,000,000,000    | 1    |
-| Development                | 1.00%   | Development                   | 1.00%   |     | 10,000,000,000    | 1    |
-| Outreach Faucet            | 1.00%   | Professionals                 | 0.50%   |     | 5,000,000,000     | 1    |
-|                            |         | Educators                     | 0.50%   |     | 5,000,000,000     | 1    |
-| Engineers Reserve          | 1.00%   | Engineers Reserve             | 1.00%   |     | 10,000,000,000    | 1    |
-| Genius and Vanity (GAV-D0) | 10.00%  | Initial disbursement (..2030) | 10.00%  |     | 100,000,000,000   | 1    |
-| GAV-D1                     | 9.00%   | Decade 1 (2031)               | 9.00%   |     | 90,000,000,000    | 10   |
-| GAV-D2                     | 5.00%   | Decade 2 (2041)               | 5.00%   |     | 50,000,000,000    | 20   |
-| GAV-D3                     | 4.00%   | Decade 3 (2051)               | 4.00%   |     | 40,000,000,000    | 30   |
-| GAV-D4                     | 3.00%   | Decade 4 (2061)               | 3.00%   |     | 30,000,000,000    | 40   |
-| GAV-D5                     | 2.00%   | Decade 5 (2071)               | 2.00%   |     | 20,000,000,000    | 50   |
-| GAV-D6                     | 1.00%   | Decade 6 (2081)               | 1.00%   |     | 10,000,000,000    | 60   |
-| GAV-D7                     | 1.00%   | Decade 7 (2091)               | 1.00%   |     | 10,000,000,000    | 70   |
-| GAV-C2                     | 50.00%  | Century 2                     | 50.00%  |     | 500,000,000,000   | 100  |
-| TOTALS                     | 100.00% |                               | 100.00% |     | 1,000,000,000,000 |      |
+|                            | Asimov  | 1,000,000,000,000             |         |                   |      |
+|---------------|---------|------------------|---------|----------------|------|
+|                            | Group   |                               |         |                   |      |
+| Group                      | Percent | Tranche                       | Percent | asimov (Mega)     | Year |
+| Reserve Stake              | 1.00%   | Private Stake                 | 0.50%   | 5,000,000,000     | 1    |
+|                            |         | Public Stake                  | 0.50%   | 5,000,000,000     | 1    |
+| National Stakes            | 10.00%  | National Stakes               | 10.00%  | 100,000,000,000   | TBD  |
+| Seeding                    | 1.00%   | Seeding                       | 1.00%   | 10,000,000,000    | 1    |
+| Development                | 1.00%   | Development                   | 1.00%   | 10,000,000,000    | 1    |
+| Outreach Faucet            | 1.00%   | Professionals                 | 0.50%   | 5,000,000,000     | 1    |
+|                            |         | Educators                     | 0.50%   | 5,000,000,000     | 1    |
+| Engineers Reserve          | 1.00%   | Engineers Reserve             | 1.00%   | 10,000,000,000    | 1    |
+| Genius and Vanity (GAV-D0) | 10.00%  | Initial disbursement (..2030) | 10.00%  | 100,000,000,000   | 1    |
+| GAV-D1                     | 9.00%   | Decade 1 (2031)               | 9.00%   | 90,000,000,000    | 10   |
+| GAV-D2                     | 5.00%   | Decade 2 (2041)               | 5.00%   | 50,000,000,000    | 20   |
+| GAV-D3                     | 4.00%   | Decade 3 (2051)               | 4.00%   | 40,000,000,000    | 30   |
+| GAV-D4                     | 3.00%   | Decade 4 (2061)               | 3.00%   | 30,000,000,000    | 40   |
+| GAV-D5                     | 2.00%   | Decade 5 (2071)               | 2.00%   | 20,000,000,000    | 50   |
+| GAV-D6                     | 1.00%   | Decade 6 (2081)               | 1.00%   | 10,000,000,000    | 60   |
+| GAV-D7                     | 1.00%   | Decade 7 (2091)               | 1.00%   | 10,000,000,000    | 70   |
+| GAV-C2                     | 50.00%  | Century 2                     | 50.00%  | 500,000,000,000   | 100  |
+| TOTALS                     | 100.00% |                               | 100.00% | 1,000,000,000,000 |      |
 
 # Appendix B – Scoot Naming Reservations
 
 | **Scoot Index** | **Unit**        | **SubUnit**                             | **Notes**                       |
-|--------|-------------------|------------|---------------------------------|
+|-----------|------------------|-------------|-------------------------------|
 | **-2**          | **Stephenson**  | **Neal**                                | **Foundation mint**             |
 | **-1**          | **Liu**         | **Cixin**                               | **Foundation mint**             |
 | **0**           | **Asimov**      | **Isaac**                               | **Foundation mint**             |
@@ -8243,7 +8243,7 @@ wide range of tools to design specific governance aligned with their
 mission.
 
 | <span id="_Appendix_E_–" class="anchor"></span>**Prime Index** | **First Prime** | **Total Shards** | **First Prime Percentage** |
-|--------------|---------------|--------------------|------------------------|
+|---------------|--------------|----------------------|----------------------|
 | 1                                                              | 2               | 2                | 50.0000                    |
 | 2                                                              | 3               | 8                | 33.3333                    |
 | 3                                                              | 5               | 26               | 20.0000                    |
@@ -8451,7 +8451,7 @@ building the value. You get your people together and stake a
 responsibility for an idea, and you decide how you govern yourself. And
 then just get it done.
 
-### Scoot of Special Purpose Entities
+Scoot of Special Purpose Entities
 
 In Houston, when you blow one, if you’re a real Texan by birth or by
 choice, you own it and take your medicine. Then, you do your best to
@@ -8675,8 +8675,6 @@ weapon.*
 voice. Sit back, relax, and read, and hear the narration in a slow, but
 tangy twang. A voice that has a meditative effect on one’s soul, able to
 convince one that even driving grandpa’s car is cool.*
-
-## Big Mama, Little Mama and Stinky Fingers
 
 ### Big Mama
 
