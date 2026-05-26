@@ -1916,9 +1916,9 @@ as specified in The Mule chapter.
 
 ### Staking Codes
 
-<img src="media/image4.png" style="width:2.26261in;height:2.36458in" />
+<img src="media/image4.png" style="width:2.63905in;height:2.82591in" />
 
-https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA97C99A4757AE01
+https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA7B21E4BE596BCD
 
 There are one thousand valid staking codes. Staking codes are used to
 earn stakes through appreciation or commitment of some content value.
@@ -11598,6 +11598,8 @@ This work is dedicated to Steve Fairchild.
 alt="A picture containing person, outdoor, tree Description automatically generated" />
 
 Steve Fairchild
+
+***With great responsibility comes great wealth***
 
 *Scoot<sup>2</sup> is money, y’all!*
 
