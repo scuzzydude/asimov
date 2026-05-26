@@ -3054,7 +3054,7 @@ You know who else once lived and did some intense thinking in Colorado
 Springs? Uh, huh. Mister Tesla. And you know what else he did? He built
 a lab.
 
-<img src="media/image3.jpeg" style="width:6.3in;height:4.75833in" />
+<img src="media/image3.jpeg" style="width:4.32199in;height:3.26436in" />
 
 1 - Nikola Tesla sitting in his Colorado Springs laboratory next to his
 huge "magnifying transmitter" Tesla coil which is producing 22 foot
