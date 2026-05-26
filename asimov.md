@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.21**
+**Version 0.22**
 
 There are only two true hedges against inflation. Recorded history and
 archaeology have proven they’ve both existed for as long as humanity.
@@ -122,7 +122,7 @@ Toyota Center, we all know that is the house *The Dream* built.
 
 In Isaac Asimov’s *Foundation* series, a scientist named Hari Seldon
 uses advanced mathematics to predict the future and foresees the
-collapse of the Galactic Empire. His calculation shows him the collapse
+collapse of the Galactic Empire. His calculation reveals the collapse
 will last 30,000 years. He convinces the emperor that if he forms a
 Foundation to create the *Encyclopedia Galactica*, a complete collection
 of all human knowledge, and protects by hiding it away on a planet in a
@@ -137,9 +137,9 @@ thousands of years in the future. His genius turned dreams into reality
 In *Foundation*, Asimov reminds us that history always repeats itself
 and humans always forget history. Ask any crypto-crazy what he remembers
 about the years 2000 and 2008? If he says Lakers and Celtics, he gets a
-gold star but maybe he should think about cashing out. Unfortunately,
-worse things than NBA re-runs and financial corrections happen when
-humans forget history. Sometimes, it can be ugly and bloody.
+gold star but maybe he should think about getting out of Doge.
+Unfortunately, worse things than NBA re-runs and financial corrections
+happen when humans forget history. Sometimes, it can be ugly and bloody.
 
 What if we could turn history into money? Would we still forget?
 
@@ -891,15 +891,15 @@ reserved for the outreach faucet.
 ### Art Professionals
 
 The Foundation will exchange **asimov** for registration and training as
-**scootees**. Participants in the **responsibility domain** need a human
-entry point, and the existing network of Art professionals is the
-fastest way. Art professionals will be trained in the procedures of
-creating scoot. The foundation will stay out of the revenue side of it,
-but the expectation is the Initial Scoot Offerings (ISOs) will pay art
-professionals either a fee in fiat, or a portion of the ISO. Art
-Professionals trading their commission of **scoot** will create a
-liquidity pool of **scoot**, even when the trustee and initial holders
-have no wish to sell their interests.
+**participants in the responsibility domain**. Participants in the
+**responsibility domain** need a human entry point, and the existing
+network of Art professionals is the fastest way. Art professionals will
+be trained in the procedures of creating scoot. The Foundation will stay
+out of the revenue side of it, but the expectation is the Initial Scoot
+Offerings (ISOs) will pay art professionals either a fee in fiat, or a
+portion of the ISO. Art Professionals trading their commission of
+**scoot** will create a liquidity pool of **scoot**, even when the
+trustee and initial holders have no wish to sell their interests.
 
 It seems like this would also be a great way for galleries and dealers
 to reach out to their existing network of clients and artists and use
@@ -997,17 +997,17 @@ wealth, and few of them work. The bloody means usually only works out
 well for the distributors. Often, the distributors then become the
 wealthy.
 
-The usual peaceful means is through regressive taxation. This doomed to
-failure. It’s not because of the billionaires. If you’re a billionaire,
-do you care if your income tax is 39% or 59% or 75%? Probably not. Most
-of your wealth is likely to be assets, and you decide the time and means
-to turn that into income. Billionaires might cry about capital gains
-taxes or inheritance taxes, but hey, you’re a billionaire, and I guess
-you have that in common with the rest of us, we all need something to
-cry about.
+The usual peaceful means is through regressive taxation. This is doomed
+to failure. It’s not because of the billionaires. If you’re a
+billionaire, do you care if your income tax is 39% or 59% or 75%?
+Probably not. Most of your wealth is likely to be assets, and you decide
+the time and means to turn that into income. Billionaires might cry
+about capital gains taxes or inheritance taxes, but hey, you’re a
+billionaire, and I guess you have that in common with the rest of us, we
+all need something to cry about.
 
 The problem is the millionaires, who in our prosperous world, are
-plentiful. While they can afford to pay more taxes and live nice and
+bountiful. While they can afford to pay more taxes and live nice and
 comfortable lives, giving a large portion of your income to government
 is a major obstacle to becoming a billionaire. And while we have legions
 of congresspeople who will publicly curse the billionaires and their
@@ -1038,14 +1038,14 @@ that the rich can get away with anything has been around about as long
 as vanity. We can blame the rich, but they get away with it because the
 rest of us are susceptible to greed as well.
 
-I want you to understand, I’m not talking about any billionaire in
-particular. That would be stupid of me, I love billionaires
-individually, and can happily name the specific ones I love the most in
-exchange for a fee. It is more of the billionaire archetype, in the
-comic book version of a billionaire I’m referring to, in the ethical
-struggle between the wealthy the rest of humanity. It doesn’t matter who
-you imagine, pick your favorite archetypical billionaire and use him. My
-daughter informs me that it has to be a him.
+I’m not talking about any particular billionaire. That would be stupid
+of me, I love billionaires individually, and can happily name the
+specific ones I love the most in exchange for a fee. It is more of the
+billionaire archetype, in the comic book version of a billionaire I’m
+referring to, in the ethical struggle between the wealthy the rest of
+humanity. It doesn’t matter who you imagine, pick your favorite
+archetypical billionaire and use him. My daughter informs me that it has
+to be a him.
 
 In this line of thinking, wealth equates to power, and we measure the
 power in terms of a currency. Forbes makes a list of the richest people
@@ -1082,10 +1082,9 @@ to society, they deserve some privilege, because they provide greater
 societal leverage than the average person. But we what are we valuing?
 If we find ways to value responsibility, then the exchange because
 something the masses can accept. If you derive your wealth from some
-abstraction that is say, harmful to children, be it some insidious form
-of marketing or just like, you know, addictive substances, then you are
-harmful to genius. That’s the problem with the king’s gold. Profit does
-not always align with values that are good for human society.
+abstraction that is say, harmful to children, then you are harmful to
+genius. That’s the problem with the king’s gold. Profit does not always
+align with values that are good for human society.
 
 For many centuries, the social contract that kept the masses from
 devouring the rich was called royalty. You were born royal, or the king
@@ -1097,8 +1096,8 @@ figured out those royal idiots were not very special. Or more likely, in
 Texas old-lady speak of, “He’s special,” with a wink and a nod.
 
 Why will the rich consent to this exchange? Someone, most likely their
-children, will inform them what happened the last go round where
-societies primed for social change intersected with a very high level of
+children, will inform them what happened the last go round where a
+society primed for social change intersected with a very high level of
 income inequality between the superrich and the masses. No, I’m not
 talking about Occupy Wall Street. The part of history I’m talking about
 was way less fun.
@@ -1127,8 +1126,8 @@ social contract. Forgotten by the history of genius. We’re good, as long
 as you participated in the responsibility trade, if only in vanity. We
 captured the digitized version on the scoot-chain, not lost forever,
 just not properly appreciated. Next time, just have some lickable
-Picasso wallpaper made, no one expects your llama to live in a barn, for
-heaven’s sake, your grandpa was a billionaire.
+Picasso wallpaper made, no one expects your llama to live in a barn,
+your grandpa was a billionaire.
 
 Art lovers, the billionaires are going to fund a new renaissance in the
 arts in exchange for a social contract with the masses not to repeat the
@@ -1162,7 +1161,7 @@ his homemade flavor for prog-rock while screeching out your driveway.
 Well, not everybody.
 
 There you have it, The Art of the Deal. I read a book about deal-making
-with billionaires back when I was young, so trust me, I know what I’m
+with billionaires back when I was a teen, so trust me, I know what I’m
 talking about.
 
 Everybody wins. No blood. And it’s all done on a blockchain, so there’s
@@ -1175,16 +1174,16 @@ of her faculty members talking about seeing a minor masterpiece at a
 party at the home of a local alumni businessman who is a big donor. The
 student starts a crusade of fellow student wishing to implore the
 businessman to scoot his painting. The crusade negotiates an agreement
-between the businessman, acting as the **scootee**, and the University,
-acting as the curator. The painting is displayed in a special hallway in
-at the University named after the alumnus, and everybody is happy. The
-scooter allows for the **scootee** to recall possession temporarily with
-notice. Once every few months, when the businessman needs to entertain
-fancy people from overseas, the painting is swapped back to the
-businessman’s home. Everybody is happy, especially the businessman,
-because now that it is a liquid investment, he feels he can take higher
-leveraged positions in his business dealings. Rainbows and Unicorns for
-everybody.
+between the businessman, acting as the **scoot trustee**, and the
+University, acting as the curator. The painting is displayed in a
+special hallway in at the University named after the alumnus, and
+everybody is happy. The scooter allows for the **trustee** to recall
+possession temporarily with notice. Once every few months, when the
+businessman needs to entertain fancy people from overseas, the painting
+is swapped back to the businessman’s home. Everybody is happy,
+especially the businessman, because now that it is a liquid investment,
+he feels he can take higher leveraged positions in his business
+dealings. Rainbows and Unicorns for everybody.
 
 Or it could get ugly. Maybe some big money royal prince of an oil rich
 nation is holding a major masterpiece nobody has seen in years, the only
@@ -1236,9 +1235,10 @@ will have been redistributed to the people of the world. As for the
 already wealthy French, they’ll hold onto their scoot and continue to
 thrive off the appreciation of Italian Renaissance masters.
 Diplomatically, a good play for the government, as it retains possession
-of the contents of the Louvre. Not so great for Wesley, Jean-Luc’s
-offspring. Jean-Luc spent all his share of the national treasure on
-hookers, blow and Earl Grey tea. Nothing left to pass on to Wesley.
+of the contents of the Louvre – a major driver of tourism. Not so great
+for Wesley, Jean-Luc’s offspring. Jean-Luc spent all his share of the
+national treasure on hookers, blow and Earl Grey tea. Nothing left to
+pass on to Wesley.
 
 Is there a better way? What if you scooted the Louvre and issued a
 single scoot to each baby born as a citizen of France.[16] Once, the
@@ -1251,7 +1251,8 @@ possible. You could tie it to a national health care system or life
 insurance. There could be a popular movement to hold your national
 treasure as long as possible for the pure genius appreciation factor.
 Maybe the national treasure funds funeral expenses for those who manage
-a life of pure appreciation.[17]
+a life of pure appreciation.[17] This scoot-chain would also serve as a
+national registery and replace need for a census of citizens.
 
 I suspect the more likely path for those countries with a nostalgia for
 runaway inflation would be for the government just to scoot National
@@ -1264,13 +1265,13 @@ complete idiot.
 ### Royal Treasure
 
 In a modern world, it is sort of ridiculous to have a royal family in a
-functioning democracy, but hey, the British can do what they want, and
-they gave us Led Zeppelin, so I’ll give some advice as a return.
-Americans, we’re here to help.
+functioning democracy, but hey, the British can do what they want. But
+since they gave us Led Zeppelin, so I’ll give some advice as a return.
+Americans, we’re always grateful and here to help.
 
 First, you could divide up all the royal estates and castles and
 historical monuments and castles, all the jewelry and art that you
-consider not the property of the Queen herself but belongs to the
+consider not the property of the Queen herself but belonging to the
 British people. While you’re doing this inventory, you can return all
 the artwork stolen from the colonies. Make a National Treasure from this
 inventory.
@@ -1284,8 +1285,8 @@ people who want to be responsible for the royal family. There are plenty
 of Americans who prefer the Windsors to the Kardashians, so you could
 open the scoot globally. When the SOC runs out of money, the Queen must
 start signing autographs or collecting speaking fees, or the scoot could
-be diluted with another sale. Maybe Parliament is charged £100 each time
-the PM stops by for tea.
+be diluted with another sale. Maybe Parliament is charged £1000 each
+time the PM stops by for tea.
 
 In any case, the Crown can exist as long there are people willing to be
 responsible for it. It’s a scoot of the *Crown* so maybe the current
@@ -1293,7 +1294,8 @@ monarch serves as the **scootee** and has the duty to preserve the
 history of genius of the kings and queens of England. Many of them did
 some great things. If you’ve watched the historically accurate
 docu-series *The Tudors*, you would know King Henry VIII was the
-inventor of the modern-day divorce industry.
+inventor of the modern-day divorce industry. Maybe awarding a knighthood
+becomes like the Nobel prize for barristers.
 
 ## Amnesty
 
@@ -1948,7 +1950,7 @@ I think Nikola Tesla should have been awarded the Nobel Peace Prize.
 <img src="media/image5.jpg" style="width:6.5in;height:4.18056in"
 alt="Chart, line chart Description automatically generated" />
 
-Figure 4 - Life expectancy 1870-2019 from
+Figure - Life expectancy 1870-2019 from
 https://ourworldindata.org/life-expectancy#twice-as-long-life-expectancy-around-the-world
 
 The chart above shows from 1890, the year of the first commercial
@@ -3018,7 +3020,7 @@ early, choose a random teammate, and sprinkled a little dream dust on
 their uniform before the game.
 
 The Rockets won game 7 of the finals at home and brought the city of
-Houston it’s first major sports championship. We Believed It. It was
+Houston its first major sports championship. We Believed It. It was
 true.
 
 What came next? It’s a travesty of history, that the Rockets
@@ -3097,7 +3099,8 @@ created for the city, exclusive of the Rocket’s bottom line? Yeah, if
 were me, Hakeem would still be on a roster. If were my team – my city’s
 team – Hakeem would still start, take that jump ball and sit down at the
 first whistle. When I needed a win, he’d be out there in the last minute
-as well.
+as well. Supermax, for life, for a minute a game. That’s what it’s worth
+to me.
 
 *The Dream* forgave the Rocket’s before I did. He played very little in
 Toronto and retired before the next season. The Rockets retired his
@@ -3170,6 +3173,16 @@ really, it was a story too good to be true. That’s right, I’m
 equivocating trading Hakeem Olajuwon to Toronto with trading Forrest
 Gump. Or Rocky. *The Dream’s* story was true!
 
+I thought the Rocket’s management was stupid to trade Olajuwon, but the
+end result was a huge increase in real value of the Rocket’s “brand” and
+valuation. By drafting Yao – a direct result of trading Olajuwon the
+year before – the Rocket’s went from a team popular on the Gulf Coast
+and all over Africa, to the number one team in the most populous nation
+in the world. Yao retired in 2011 but afterward the Rockets remained the
+most popular franchise in China up until the day Morey tweeted. Morey
+threw away the tremendous franchise value grained by trading Hakeem
+Olajuwon. Good luck with that kind of value judgement, Philly.
+
 Still bitter? Yes, apparently. And that’s my point. I’m one fan. I place
 tremendous value on this small but very positive piece of history that
 touched my life. I appreciate it enough to write about it, but to
@@ -3193,7 +3206,8 @@ affordability for your fanbase and independence from public subsidies.
 
 For some billionaires, at least. Ballmer, best stick to property-based
 investment scheme, seems like your man either needs a grumpy old man
-yelling at him, or the sprit of Toronto radio to unleash his inner G.
+yelling at him, or the sprit of Toronto radio to unleash his inner
+G.[39]
 
 This is essentially the ownership model of the Green Bay Packer’s –
 without the ownership, just the responsibility. The Packers operate as a
@@ -3201,7 +3215,21 @@ non-profit, so it is not really an investment either. With scoot, a
 pledge would be able to extract the full genius value of a team and pass
 that along to the next generation of fans.
 
-The value of a team is much greater than that value of the business.
+The value of a team is much greater than that value of the business. It
+is a uniting force that crosses cultures and borders and language and
+generations. Teams, or at least the good ones, have more valuable as a
+global public good than as a private business. With Scoot,
+responsibility for a public good can become a liquid measure of wealth.
+A Scoot that’s value could multiply exponentially from just an
+insiporational dream of a boy or a girl from anywhere in the world. It’s
+been done. Proven system that works. It can even work in Dallas – if you
+know, give them the exact blueprint.
+
+Put a real human value on that. With this system, you can. See Appendix
+D for a way to implement this.
+
+Tillman, I’ll take the seats next to *The Dream* while we work out the
+details.
 
 ## Incongruence of Values
 
@@ -3232,16 +3260,16 @@ would be more comfortable, he’d probably get dozens of opinions from
 specialist from all over the world, but medicine is limited. Rich or
 not, we’re all human. We age and circumstances beyond the influence of
 money cause us to get sick, and we all eventually die. Modern medicine
-can work wonders, but its rare that money can save a life in the United
-States. Sure, there might be some rare diseases with experimental
+can work wonders, but it is rare that money can save a life in the
+United States. Sure, there might be some rare diseases with experimental
 medicine only Bill Gates can afford, but how likely is it his family
 would be hit with something like that? Pretty random. No, more likely is
 heart-disease, cancer, stroke or accident – things we can prevent but
 not cure.
 
 Sierra Leone is a different story. One out of twenty children born do
-not survive their first year of life. One of out ten do not survive the
-first five. One out of seventeen women die giving birth.[39] Average
+not survive their first year of life. One of ten do not survive the
+first five. One out of seventeen women die giving birth.[40] Average
 life expectancy is fifty-seven years. There is one doctor per 20,000
 people. The leading cause of death is malaria, which is both preventable
 and treatable. Simply put, money can buy life in Sierra Leone.
@@ -3344,7 +3372,7 @@ children to have better lives than we do. In today’s value society, that
 means in most terms that they have more property than you do. This in
 engineering terms leads to a resource constraint, because at the heart
 of most conflict is limited resources. However, if you change the way we
-value wealth to responsibility, societial and family goals can be more
+value wealth to responsibility, societal and family goals can be more
 aligned.
 
 The beauty of this value system is that is immediate generational
@@ -3408,7 +3436,7 @@ ethos of this moment in history. I quote a rose of Indiana:
 >
 > *I must be losing my mind, “Are you blind?”*
 >
-> *I’ve seen it all a million times.*[40]
+> *I’ve seen it all a million times.*[41]
 
 With money, taking it back to the start is not fixing the implementation
 with clever technology. It’s not reproducing the excess of Wall Street
@@ -3418,26 +3446,23 @@ DeFi-cyrpto hackers.
 Going back to the start means fixing the fundamental problem. The value
 of money. What it represents.
 
-Wealth as property versus creation of value should drive a fundamentaly
+Wealth as property versus creation of value should drive a fundamental
 shift in behavior of society to a more sustainable form. Marketing will
 probably cynically assure a consumer driven customer base that people,
-and especially Americans, will always be driven by matericalist
-concerns, and they may be right. I honestly don’t know. Depends. You
-could take a survery, and ask most of the world, “You wanna be like
-Mike,” or “Dream, Like Hakeem.” And you’d probably get your answer. I’ll
-just have my wealth measured differently.
+and especially Americans, will always be driven by materialist concerns,
+and they may be right. I honestly don’t know. Depends. You could take a
+survey, and ask most of the world, “You wanna be like Mike,” or “Dream,
+Like Hakeem.” And you’d have your answer. I’ll just have my wealth
+measured differently.
 
-But here’s the thing. It’s a lot more fun and the value is immensily
-better, when you got different heros for different crews. It’s a
-competition, but a good one. And with scoot, you can bet on your heroes
-directly, cut out the middle man. You become responsible, you’re making
-a value judgement on something you are passionate about. Aprreaction
-directly creates a linear increase of value in property. The
-exponintional of appreciation on genius is potentially infinte. You’re
-making your direct log entry in the history book – this is the scoot
-chain. This has your name on it.
+It won’t be for everybody. You invest in your heroes, your heart will be
+broken. Some parts of history may be better forgotten. Until recently
+the investment not to forget was much higher. Now, it costs just as a
+little to remember the losers as the winners. That’s why we leave it to
+individuals to decide, what are you responsible for remembering.
 
-It’s cutting out the middle man.
+Everybody should have something they are passionate about that can
+directly lead to wealth. This is what Scoot is.
 
 ## Psychohistory
 
@@ -3449,7 +3474,7 @@ unpredictable, such as a pandemics, or wars, or natural disaster, or
 mutants with mind control. Both sciences are noble in their purpose.
 Economics, to find a conflict free allocation of resources in a group of
 humans. And psychohistory, to get the galaxy on a sustainable and
-conflict free path.
+conflict free path of prosperity.
 
 Pandemics might change how humans value health care for a period of
 time, and economics can adjust to this be biasing the relative weight of
@@ -3462,7 +3487,7 @@ days.
 The real problem in economics is more complicated. When you measure
 things in dollars, you have to use it as fraction. Dollars per pound of
 rice. Dollars per barrel of oil. Dollars per acre of farmland. Dollars
-per item for a manufactured good. How about a song? Well, they do try to
+per item for a manufactured good. How about a song? They do try to
 measure these things. A Gold Single in the United States sold 500,000
 units. And you could measure revenue per song. Neither reflect the real
 value of a song to humankind. The Houston Rocket’s merchandise sales in
@@ -3498,12 +3523,13 @@ like writing or fire, compounds in value over time as humans find new
 applications for each innovation.
 
 One Trillion Asimov represents the sum of human genius. I have outlined
-a Distribution Schedule in Appendix B. To summarize, it’ll take about
-200 years to distribute all the Asimov. Per plan, if The Foundation has
-succeeded in acquiring all the scoot of genius and hold zero scoot of
-vanity, one trillion asimov should be equivalent to the cumulative sum
-of human genius up to that point in time. This gives us another
-equivalence.
+a Distribution Schedule in [Appendix
+B](#appendix-b-asimov-distribution-schedule). To summarize, it’ll take
+about 200 years to distribute all the Asimov. Per plan, if The
+Foundation has succeeded in acquiring all the scoot of genius and hold
+zero scoot of vanity, one trillion asimov should be equivalent to the
+cumulative sum of human genius up to that point in time. This gives us
+another equivalence.
 
 Agriculture equals just 3.5% of the world economy, industry 25% and the
 rest is services. How much of this economy is a direct result of the
@@ -3533,7 +3559,7 @@ each other – and start over with efficient governments and a proper
 value system for the fundamentals of innovation, sustenance, health and
 property?
 
-I put all the figure into my psychohistory calculator[41] and see that
+I put all the figure into my psychohistory calculator[42] and see that
 10% of the asimov’s value in ten years’ time would be equivalent to $260
 Trillion, enough to pay off those national debts four times over – if
 they can all agree to stop debt spending.
@@ -3584,6 +3610,22 @@ free from national influence. In most organization, this is truly
 impossible, but by limiting the scope to the appreciation of Human
 Genius, we can avoid corruption.
 
+This is an idealistic enterprise to create a value system that is better
+for humanity. It governance should be open and limited in scope, and
+held to the highest ethical standards – as they apply to this work and
+very limited scope.
+
+Keeping the Scoot pure is of paramount importance. It does not own
+property, and can not pass income to its holders. It’s not an investment
+in property. It is an investment of responsibility. Governments don’t
+know how to tax that. The Foundation should have no opinion in regards
+how this new measurement of wealth is taxed. There is an argument to be
+made that it is a direct investment in a public good and should not be
+taxed, as this public good is a public responsibility – it is called the
+public domain. Let the rich and their lawyers make that fight. The
+Foundation’s role is the measurement, not the application, of the
+wealth.
+
 ## Electorates
 
 A method of elections shall be built into the metric protocol.
@@ -3592,13 +3634,13 @@ A method of elections shall be built into the metric protocol.
 
 #### Scootoro 
 
-The **scootoro** is the sum of all **scootees.** Each **scooter** shall
-define the method of voting by its scootage in selection of the
-scootoro. Representative voting means the elected scooter votes their
-own will. Common voting meaning each member of the scootage has one
-vote, regardless of their proportional holdings of scoot. Proportional
-voting means one vote per scoot held, and fractional votes for holders
-of fractional scoot.
+The **scootoro** is all of the scoot trustees**.** Each **scoot
+charter** shall define the method of voting by its scootage in selection
+of the scootoro. Representative voting means the elected scooter votes
+their own will. Common voting meaning each member of the scootage has
+one vote, regardless of their proportional holdings of scoot.
+Proportional voting means one vote per scoot held, and fractional votes
+for holders of fractional scoot.
 
 #### Scootara
 
@@ -3633,7 +3675,7 @@ leftover from the disbursement schedule. The engineer’s reserve may be
 used in cases of emergency or crisis, and is passed on to the next
 elected engineer.
 
-The engineer is elected by the scootara for a term of ten years.[42] An
+The engineer is elected by the scootara for a term of ten years.[43] An
 emergency election is held if the engineer cannot complete his term, for
 the remainder of the term (decade).
 
@@ -3732,10 +3774,10 @@ processing transaction for the scoot. A consensus shun would take a
 minimum number of pledges signing a virtual petition.
 
 Shunning could be political. All scoot based in a country making war on
-its neighbor could be shunned. This could prevent the the warmongers
-from profiting off seized works of genius. On the downside, it could
-lock out the passivist citizens of the invading country from cashing out
-their scoot responsibilities and escaping to somewhere more civilized.
+its neighbor could be shunned. This could prevent the warmongers from
+profiting off seized works of genius. On the downside, it could lock out
+the passivist citizens of the invading country from cashing out their
+scoot responsibilities and fleeing to somewhere more civilized.
 
 Shunning could also be used to create virtual scoot domains, separating
 the mainstream from the stuff we want to keep away from children. Some
@@ -3969,7 +4011,7 @@ all Texans.
 It is this value that gives me moral righteous to state, Genius belongs
 to Humanity.
 
-Let’s say I’m at a dinner party with a bunch of fancy artsy people.[43]
+Let’s say I’m at a dinner party with a bunch of fancy artsy people.[44]
 And some rich dirtbag makes mention he’s got a Picasso hidden away at
 his ski-chalet in Aspen, and only the few other rich dirtbags invited on
 his ski trip ever get to see it. My response would be “Should I bow or
@@ -4004,7 +4046,7 @@ I can’t fathom how my parents survived childhood in Texas without
 air-conditioning, much less what a bunch of farmers and merchants in
 colonial American had to deal with. I do feel an opportunity was missed
 that was right there before their eyes. The very first amendment to our
-Bill of Rights says what we value is the freedom of speech.[44] This has
+Bill of Rights says what we value is the freedom of speech.[45] This has
 been interpreted from the beginning as freedom of expression, which is
 certainly what genius and vanity is all about. We as a people, demand
 this of our government, meaning we value it, and King George did not.
@@ -4151,7 +4193,7 @@ was filthy.”
 
 I’ll laugh and shake my head. What can I say, we were filthy idiots.
 
-“Yo, old man, why you care about rebounding so much? My curry[45] never
+“Yo, old man, why you care about rebounding so much? My curry[46] never
 misses?”
 
 “Kid, let me tell you about the Worm. Back when I was a kid, the Korean
@@ -4197,6 +4239,8 @@ share decentralized redundancy of the scoot-chain.
 | TOTALS                     | 100.00%      |                                       | 100.00% | 1,000,000,000,000 |      |
 
 # Appendix C – Scoot Naming Reservations
+
+# Appendix D – Scoot of Team
 
 [1] Intervention from the government with fiat. Cypto hasn’t been able
 to keep its value through a pregnancy, much less a generation.
@@ -4371,23 +4415,32 @@ dirty John Stockton were all selected in the first round.
 [38] Or better yet, “Hey Shaq, you the one giving Nick Anderson free
 throw lessons?”
 
-[39] For reference, the ratios in the United States are 1 of 200 for
+[39] Canada, dethroning the Warriors went a long ways to forgiveness,
+but that trade had two partners. After you got yours, I heard a lot of
+basketball talk about who the greatest Raptor of all time was, and I
+knew what they meant. But the technical answer to who was the greatest
+player to ever wear a Raptors uniform has a very precise answer that is
+very clear. Oh, you guys thought we were called H-town because H is for
+Houston like kindergarten. Cute, yeah. We’re stupid people in Texas.
+H-Town.
+
+[40] For reference, the ratios in the United States are 1 of 200 for
 infants, 1 of 153 for age-five, and 1 of 5,263 for maternal mortality.
 Life expectancy is 78 years and there is a doctor for every 370 people.
 
-[40] From *Paradise City* by Slash, Axl Rose, Izzy Stradlin, Duff
+[41] From *Paradise City* by Slash, Axl Rose, Izzy Stradlin, Duff
 McKagan and Steven Adler
 
-[41] Atomic powered, like all the gadgets in Asimov’s Foundation.
+[42] Atomic powered, like all the gadgets in Asimov’s Foundation.
 
-[42]
+[43]
 
-[43] In one swift stroke, the author ensures he is never invited to a
+[44] In one swift stroke, the author ensures he is never invited to a
 dinner party with fancy artsy people.
 
-[44] The First Amendment covers freedom of religion and speech.
+[45] The First Amendment covers freedom of religion and speech.
 
-[45] A mid-21<sup>st</sup> century trend where basketball fans would get
+[46] A mid-21<sup>st</sup> century trend where basketball fans would get
 together and issue and ICO (Initial Clone Offering) where they would mix
 the DNA from various superstars to create NBA players. Stephan Curry’s
 DNA was present to some extend in almost every clone, so the kids had
