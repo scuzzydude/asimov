@@ -4,7 +4,7 @@
 
 **SECOND FOUNDATION**
 
-**Version 2.04**
+**Version 2.05**
 
 <img src="media/image1.png" style="width:0.33333in;height:0.33333in"
 alt="enter image description here" /> 2023 by Brandon Awbrey. This
@@ -741,7 +741,7 @@ Scoot is the vessel of this responsibility.
 
 <img src="media/image2.png" style="width:6.38392in;height:4.52893in" />
 
-Figure 1 - The Foundation - VALUE AND RESPONSIBLITY DOMAINS
+Figure - The Foundation - VALUE AND RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a
 legacy of genius. Each Scoot shall have a charter, clearly stating the
@@ -1912,9 +1912,9 @@ as specified in The Mule chapter.
 
 ### Staking Codes
 
-<img src="media/image4.png" style="width:2.63905in;height:2.82591in" />
+<img src="media/image4.png" style="width:2.78958in;height:3.22639in" />
 
-https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA7B21E4BE596BCD
+https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA2188D6A222C4D
 
 There are one thousand valid staking codes. Staking codes are used to
 earn stakes through appreciation or commitment of some content value.
@@ -10410,7 +10410,7 @@ James was amazed.
 <img src="media/image11.jpeg" style="width:3.58281in;height:3.84722in"
 alt="A picture containing text Description automatically generated" />
 
-Figure 7 - sketch of cave drawing from James Naismith's notebook
+Figure - sketch of cave drawing from James Naismith's notebook
 
 “Yeah, your dad would come up here every day for a few hours, as long as
 he could take it, smoke builds up pretty quick, and it is hard to see
@@ -11059,7 +11059,7 @@ August 2<sup>nd</sup>, 2022
 
 SECOND FOUNDATION
 
-**Version 2.04**
+**Version 2.05**
 
 <img src="media/image12.jpg" style="width:4.62014in;height:3.69583in"
 alt="A group of people wearing helmets Description automatically generated with low confidence" />
