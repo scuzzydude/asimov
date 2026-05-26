@@ -2,9 +2,9 @@
 
 **a post-harden rockets cathartic**
 
-**SECOND FOUNDATION EDITION**
+**SECOND FOUNDATION**
 
-**Version 1.63**
+**Version 1.65**
 
 <img src="media/image1.png" style="width:0.33333in;height:0.33333in"
 alt="enter image description here" /> 2022 by Brandon Awbrey. This
@@ -844,59 +844,14 @@ handed out to kids who visit the Louvre is not.
 The New York Yankees baseball team is a Property of Wealth. A Yankee
 ball cap is not.
 
-A first edition of Mark Twain’s *Adventures of Huckleberry Finn* is a
-Property of Wealth. A paperback copy you picked up at the thrift shop is
-not.
+A first edition printing of Mark Twain’s *Adventures of Huckleberry
+Finn* is a Property of Wealth. A paperback copy you picked up at the
+thrift shop is not.
 
-Here’s where it gets complicated. A Scoot may earn income. A good
-business idea – an enterprise that sells material goods, may be
-instantiated as a Scoot. A Scoot doesn’t have owners, so any profit
-stays with the Scoot and goes towards further appreciation of the
-original idea. Many non-profit organizations use this model.
-
-Frank’s Bikes makes basic low-cost bicycles and sells them through the
-developing world. Frank instantiates this idea as a Scoot, and in his
-charter, he limits the markup of the bicycles to 10%. Labor costs are
-kept low because final assembly is done by local labor, who are members
-of his scootage. Frank expands throughout the world, selling millions of
-bicycles. Frank’s supply chain is global, and he keeps cost low by
-buying in very large quantities and giving his suppliers many months of
-lead time. Under normal circumstances, Frank wouldn’t consider his
-inventory of raw materials a property of wealth, as they all directly go
-towards the appreciation of his Scoot – low-cost green transportation
-for people that need it. A series of natural disasters and labor
-disputes interrupt the supply of rubber, just after Frank took delivery
-of an entire shipload of tires and innertubes that under normal
-circumstances would last him an entire year. For-profit bicycle makers
-offer Frank up to five times his cost for the rubber – this would allow
-Frank to effectively subsidize the cost of the rest of the materials and
-allow Frank’s Bikes to sell the bikes for the cost of the labor alone.
-Because it’s used for arbitrage, the rubber becomes a property of
-wealth, and despite the appreciation of the original idea, it would not
-be allowed.
-
-This might seem like accounting frivolity, but it’s essential to the
-working of the system. Scoot wealth is NOT property wealth. You can sell
-things, but what you are selling is the human value added to raw
-materials. Property of wealth that enters the responsibility domain must
-remain there, as it becomes a foundational baseline of the system.
-
-In the United States, separating Scoot from any property assures that
-under current law, the Scoot is not a security. The Scoot is responsible
-for assets that are a public good and will never be sold. This is
-***not*** a trick to evade securities law, but the foundation of the
-system. Ideas in the responsibility domain are not property.
-
-A goal of The Foundation should be to define this in clear legal terms
-in so the Scoot can be self-governed outside of existing property law.
-In the short-term, I’ve specified that Scoot selling goods should
-operate as non-profit legal entity. In addition, in later chapters I
-describe a device called SSPE that maintains the separation of property
-from Scoot.
-
-I encourage smaller players in Scoot to concentrate on ways to fulfil
-their mission without involving property. In the pure digital realm,
-this should be easy.
+Ultimately, determining what is Property of Wealth and what is just
+property is the responsibility of the trustee and the scootage. Keeping
+“property” out of the responsibility domain is the responsibility of
+that domain. It is a good term for that reason.
 
 ### Scoot Conformance
 
@@ -1116,7 +1071,7 @@ text-based lookup of Scoot. Searching on “Asimov” will always yield
 scoot(0) as the first entry. There could be dozens or thousands of other
 entries, listed by market value in asimov. The naming convention for
 human subject based Scoot shall be scoot(FirstName.LastName) or
-(SubUnit.Unit). Formally, asimov should be Scoot(Issac.Asimov) but since
+(SubUnit.Unit). Formally, asimov should be Scoot(Isaac.Asimov) but since
 it’s a special case, “asimov” alone will always refer to scoot(0).
 
 During the initial rollout of the protocol, The Foundation may sell
@@ -1683,69 +1638,257 @@ and asimov will be circulated.
 “Well, there are a bunch of stakes laying around, we might as well give
 it a try.”
 
-### Staking
+## First Foundation
 
-Staking is how the protocol processes transactions. The Scoot protocol
+In the first edition, I proposed staking The Foundation with $100
+million in currency or property. Pledges would stake funds in exchange
+for asimov, with the funds held for 10 years, after which the stakers
+would have the choice to keep their asimov or return it and receive
+their original funding back. The staking scheme was designed so that
+many smaller stakes would be equalized through the capture of Whales –
+big pledges. The equalization was justified because that’s the point of
+this project – an equitable value system.
+
+I felt that putting $100 million at risk would strengthen the commitment
+to the idea that the trade in asimov and scoot is not trade in property,
+and thus cannot be a security or a commodity. Furthermore, by putting
+the money of Whales at risk, we’d also shift the legal burden of the
+defense of this assertion to the Whales who could either afford a legal
+defense or wouldn’t care.
+
+There were some issues with the plan. I wanted stakes to have no
+minimum, knowing the early small stakes would be equalized into a higher
+value. This creates a burden on the organization, as returning many
+small commitments would be costly after 10 years. I side-stepped this
+with fine print, stating that stakes under $10 would not be returned.
+This seemed practical, yet inequitable – especially since we are
+actively seeking participation from the poorest regions of the world,
+where $10 might be the very valuable.
+
+The Foundation’s cryptocurrency consultant pointed out that if The
+Foundation staked asimov in exchange for currency or any other property,
+we would be exposed to possible SEC scrutiny, ala SEC vs Ripple
+Labs.[19] I’d considered this all along, and welcome scrutiny from
+regulators, as trade in asimov is trade in responsibility, and thus not
+a security. The consultant made the case that while I may be right, many
+wonderful hopes and dreams that are perfectly legal and just have been
+crushed under the massive weight of a legitimate legal defense. The
+Foundation does not depend on the private stake in any way for funding,
+so why poke a pig in the eye?
+
+I also found some difficulty in explaining why the system excluded
+property, yet I proposed staking it with property-based currencies I
+specifically assert have no intrinsic value. Recursive Integration
+applied to human systems requires that we recurse upon hypocrisy, and
+thus we propose Second Foundation.
+
+### Texas Catfish
+
+It’s funny how things work out. When I was a child in the 1970s, I’d
+stay with my grandparents, and a favorite thing was country drives. My
+grandpa grew up in Texas, and seemed to know about every hill, farm,
+crossroad and stream in Austin, Waller and Washington counties.
+
+He'd tell me stories, mostly stories he’d heard as a kid – before the
+internet, before television, and before anybody he knew could afford a
+radio. He knew Texas History firsthand, wrote some of it himself. The
+Indian stories were the best, of course, if you were a little twerp.
+Savage and brutal and sad. In his childhood, he’d still seen nomadic
+Indian bands pass through town or at the train station.
+
+Austin County is full of rolling green “hills” – or what I thought were
+hills back then, until I saw the real hills of California and elsewhere.
+There were these hillocks that would protrude here and there in contrast
+to the gentle rise of central Texas. Many of these were Indian Burial
+mounds – or so I was told.
+
+I remember I was a little older, probably 10 or 11 years old, a
+smart-ass, and Grandpa pointed out a mound that had a story attached to
+it. He pulled off the road and told it. Supposedly, an entire village of
+peaceful Indians were slaughtered by marauding Comanches.
+
+“The Comanches killed everybody. And then buried everybody? Why would
+they do that?”
+
+Grandpa turned to look at me, contemplating what level of explanation I
+was ready for. He knew I’d caught him. Everything I knew about Comanches
+I’d learned from him, and they didn’t seem like the type of warriors
+who’d destroy a village and then clean up afterwards.
+
+“Well, I guess it didn’t happen that way exactly. Probably some of the
+tribe went on a fishing trip, and when they came back, the village was
+destroyed. They probably buried all their kin.”
+
+“But you said nobody even knew the name of that tribe, because they were
+all wiped out. Every last soul, brave, woman and child. That’s what you
+said.”
+
+“Well, that’s the thing about history, you never know all the facts
+unless you were there yourself,” Grandpa said.
+
+“Then how can it be history, if you don’t know all the facts?”
+
+“Well,” Grandpa said. “When it’s history, the facts is usually what
+makes the best story.”
+
+I looked away from the paltry knoll, which rose about ten feet above the
+surrounding prairie. Over to the left, about 100 yards away, was a
+rectangular pond.
+
+“I think that farmer used a bulldozer to dig out his fish tank and put
+the dirt in that pile.”
+
+Grandpa lit a cigarette, took a hit, and blew smoke.
+
+“You know, I think you might be right. That mound I was thinking of is
+up the road a bit, closer to Hempstead. There’s so much history around
+here, hard to keep track.”
+
+*…Grandpa inidant burial, Brazo River Catfish….Pretty fish on the east
+size (smart ones), Texas History, Alamo people aren’t smart leads to
+some ugly bottom feeders…Chasing whales up a river of mud, property
+out….*
+
+*…Keep Property … deci-asimov == dime ….*
+
+*…End up with commitment story leading to the Brazos/Catfish story…. My
+new house …old stomping grounds…*
+
+## Second Foundation
+
+We will stake The Foundation with ideas.
+
+The staking of The Foundation is fully recursive and will serve as a
+template for staking of all Scoot.
+
+### Private Staking Period
+
+The Private Staking period has begun and will last until the
+distribution factor is calculated and asimov is distributed to the
+pledges.
+
+The calculation of the distribution factor will require a unanimous
+ratification of the board.
+
+Trading will only be validated in the responsibility domain, meaning
+during the private staking period, asimov and scoot exist in a closed
+system, exclusive of currency of any kind. During the private staking
+period, asimov can only be considered a metric of the value of the
+inter-exchange of scoot.
+
+### Stakes
+
+The Foundation will support four kinds of stakes. Appreciation stakes,
+which are the appreciation of an idea. Content stakes, which are content
+entries on scoot-chains. And Foundation stakes, which create new Scoot.
+Second Foundation stakes exclude all property. Second Foundation stakes
+and are the free ideas of humans.
+
+#### Appreciation Stakes
+
+Appreciation stakes are a survey of the existing landscape of Scoot,
+where potential pledges can anonymously allocate subunits of asimov to
+stake the ideas or heroes they appreciate. Once the private stake is
+settled, and a distribution factors calculated, anonymous users must
+either choose to become pledges and have full access to the staked
+Scoot, or accept only the asimov.
+
+#### Content Stakes
+
+Content stakes are pseuedoymous, meaning The Foundation will have
+verified, to the best of it’s ability, that the entryies come from a
+real human who is reachable through normal communication channels.
+Creators of contents stakes must be validated at pledges, in person,
+before any actual trading of Scoot occurs.
+
+#### Foundational Stakes
+
+Foundation stakes are a commitment of asimov to a Scoot, and are held
+for a period of time specified in a Scoot genesis block. Foundation
+stakes
+
+#### Commitment Stakes (or conversion….???)
+
+### Staking Codes
+
+<img src="media/image4.png" style="width:3.5in;height:1.9375in"
+alt="Qr code Description automatically generated" />
+
+Figure – v1.63 Staking code
+
+https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA5331EEE514E093
+
+### MULE
+
+**wiwi**
+
+#### (Bill Gates…or something funny)
+
+Funny leadin, from catfish, recursive
+
+### ~~Staking~~
+
+~~Staking is how the protocol processes transactions. The Scoot protocol
 will use a Proof-of-Stake mechanism, where to trade a scoot, a scoot of
 equal or greater value is encumbered on the chain until a new block is
 validated. Nodes creating the transactions will be rewarded for
-processing them, as will the stakers who provide the encumbered scoot.
+processing them, as will the stakers who provide the encumbered scoot.~~
 
-Staking is also how a Scoot can be formed in human terms. Registration
+~~Staking is also how a Scoot can be formed in human terms. Registration
 fees will be assessed relative to the size of the initial stake and the
 number of stakers. The more people you have behind your idea, the
-cheaper it will be to enter the responsibility domain.
+cheaper it will be to enter the responsibility domain.~~
 
-We will stake asimov – The Foundation’s scoot – in the same manner. I
+~~We will stake asimov – The Foundation’s scoot – in the same manner. I
 will attempt to collect $100 million and use it as the foundational
 stake. This money will not be used for anything. It will sit in a bank
 for ten years. We will issue asimov in exchange for the stake, but the
 private stakers can exchange their asimov back for the original currency
 of their stake at the end of the ten-year period. If we fail to build
 The Foundation, all of the private stake will be returned to the
-stakers.
+stakers.~~
 
-### Reserve Stake
+### ~~Reserve Stake~~
 
-By staking The Foundation, we establish relative value before issuing
+~~By staking The Foundation, we establish relative value before issuing
 asimov for seeding and development. Development of this system will
 require time, work, and sacrifice from many idealistic people who desire
-a better world. There should be a large stake behind them.
+a better world. There should be a large stake behind them.~~
 
-1% of total asimov will be issued for staking.
+~~1% of total asimov will be issued for staking.~~
 
-#### Private staking period
+#### ~~Private staking period~~
 
-The purpose of the private stake is to provide a backing reserve in fiat
-and cryptocurrencies[19] for asimov as a currency. The private stake
-will not be touched, and conditions where the stake would be used or
-burned should be outlined in amendments to the charter. There should be
-a long probationary period, and if The Foundation does NOT meet certain
-goals, the private stake should be returned to the stakers.
+~~The purpose of the private stake is to provide a backing reserve in
+fiat and cryptocurrencies~~[20] ~~for asimov as a currency. The private
+stake will not be touched, and conditions where the stake would be used
+or burned should be outlined in amendments to the charter. There should
+be a long probationary period, and if The Foundation does NOT meet
+certain goals, the private stake should be returned to the stakers.~~
 
-The private staking period begins now and lasts until the stake reaches
-a threshold of $100 million in USD equivalents. At that point the
-distribution value will be calculated. Other staked currencies will be
-converted to a USD value when the distribution is calculated. There will
-be a multiplier for each stake in the order it was received.
+~~The private staking period begins now and lasts until the stake
+reaches a threshold of $100 million in USD equivalents. At that point
+the distribution value will be calculated. Other staked currencies will
+be converted to a USD value when the distribution is calculated. There
+will be a multiplier for each stake in the order it was received.~~
 
-Details of the private stake process will be available here:
-<http://www.geniusandvanity.org/stakes/>
+~~Details of the private stake process will be available here:
+<http://www.geniusandvanity.org/stakes/>~~
 
-Members of the private stake will write the charter and elect the *pro
-tempore* trustees.
+~~Members of the private stake will write the charter and elect the *pro
+tempore* trustees.~~
 
-Staking will occur before the protocol is active, so initial asimov will
-be allocated and the splits will be communicated to the stakers before
-the public staking period. Private stakes will remain anonymous to the
-public unless the staker makes it public. Since the initial distribution
-will be in the value domain, they may remain anonymous by selling their
-stake as asimov. Alternatively, they can take full responsibility and
-trade this asimov in the responsibility domain.
+~~Staking will occur before the protocol is active, so initial asimov
+will be allocated and the splits will be communicated to the stakers
+before the public staking period. Private stakes will remain anonymous
+to the public unless the staker makes it public. Since the initial
+distribution will be in the value domain, they may remain anonymous by
+selling their stake as asimov. Alternatively, they can take full
+responsibility and trade this asimov in the responsibility domain.~~
 
-The distribution value of asimov will be established as the USD value of
-private stake divided by 5 billion. If the stake comes in at exactly
-$100 million, the distribution value will be $0.02.
+~~The distribution value of asimov will be established as the USD value
+of private stake divided by 5 billion. If the stake comes in at exactly
+$100 million, the distribution value will be $0.02.~~
 
 #### Public staking period
 
@@ -2025,7 +2168,7 @@ obstacle to becoming a billionaire. We have legions of congresspeople
 who will publicly curse the billionaires and their excesses. They got
 elected with the help of millionaires in their local districts. This
 unholy union between the wealthy and the elected is how loopholes are
-born.[20]
+born.[21]
 
 What we value today is the king’s gold – Property and Assets. The goal
 is to convince the billionaires that it’s not the king’s gold that is
@@ -2046,7 +2189,7 @@ political system, school admission and any social system we have in
 place. If you’re rich enough, you can do whatever you want. That’s the
 perception. Occasionally, usually around election time, we put a few
 billionaires in jail or publicly shame them, just to prove justice is
-blind.[21] The perception that the rich can get away with anything has
+blind.[22] The perception that the rich can get away with anything has
 been around as long as vanity. We can blame the rich, but they only get
 away with it because the rest of us are susceptible to greed as well.
 
@@ -2097,7 +2240,7 @@ figured out those noble idiots were not very special. More likely,
 Why will the rich consent to this exchange? Someone, most likely their
 children, will inform them what happened the last go round where a
 society primed for social change intersected with a very high level of
-wealth inequality.[22] I’m not talking about Occupy Wall Street. The
+wealth inequality.[23] I’m not talking about Occupy Wall Street. The
 part of history I’m referring to was way less fun.
 
 Maybe I’m being hyperbolic, but here’s what I know: People get angry at
@@ -2169,7 +2312,7 @@ less paperwork.
 I’m confident some billionaires will consent to this. There is a viral
 meme in the head of every billionaire, expressed as words to a beat,
 goes like this: *Imma be brilliant with my millions, loan out a billion,
-I get back a trillion*.[23]
+I get back a trillion*.[24]
 
 Bill Gates and Warren Buffet started *The Giving Pledge* campaign, where
 a bunch of well-intentioned billionaires promised to give away half
@@ -2182,14 +2325,14 @@ of those who like to point out how little the rich might pay in taxes,
 but they don’t include what the rich give out voluntarily.
 
 I really believe Bill Gates’s motivations are pure because he’s the most
-badass businessman and coder in human history.[24] He’s one of the true
+badass businessman and coder in human history.[25] He’s one of the true
 fathers of the digital age. Indirectly, he has fostered the foundation
 of historical clarity. He didn’t need to be the richest guy in the world
 to set his mark on history, and his only professional stain is he was
 accused of being a monopolist. What’s worse, being an accused
 monopolist, or a dictator for life? To Americans, monopolist are cool,
 that’s why we play the children’s game called *Monopoly*. I don’t know
-what the hell kind of kid’s games they play in Finland.[25]
+what the hell kind of kid’s games they play in Finland.[26]
 
 I’m not concerned about the motivations. At a systems level, the rich
 give back to achieve a lasting effect. For the good of man or to be
@@ -2247,7 +2390,7 @@ Henry Ford mastered a process that was duplicated in millions of
 peaceful, commercial, and military applications. This led to prosperity
 throughout the entire world. He might have been the most innovative
 engineer in American history, greater than Tesla in real value created
-because his innovation had such broad application.[26] Yet he hated Jews
+because his innovation had such broad application.[27] Yet he hated Jews
 and used his wealth to influence others with his hate. In his day, he
 was valued tremendously. In today’s value system, he would be canceled.
 In today’s value system, he would not be a criminal, it’s a fundamental
@@ -2366,7 +2509,7 @@ Ringo and start a Scoot for *The United Federation of Planets*. They do
 a reunion tour and trick all the rich people and celebrities into
 converting all their property wealth into the development of a
 sustainable path to the stars. John and Paul share custody of Jude’s
-kids; Vera, Chuck and Dave while Jude is off testing the warp drive.[27]
+kids; Vera, Chuck and Dave while Jude is off testing the warp drive.[28]
 
 Digital stone means digital clarity. The Foundation – the sum of the
 scoot-chains, the metaphorical *Encyclopedia Galactica*, is the measure
@@ -2528,7 +2671,7 @@ governments. The Louvre and all the art inside, including Da Vinci’s
 describing it is that the people of France, collectively, have chosen to
 be responsible for the appreciation of the works of genius housed in The
 Louvre for the rest of humanity. There’s a single French word for that
-last sentence, and it’s *Ironique*.[28]
+last sentence, and it’s *Ironique*.[29]
 
 The currency value of the contents of the Louvre is estimated to be over
 $100 billion. Others say it’s priceless. Let me ask you this, what’s the
@@ -2554,16 +2697,16 @@ Jean-Luc spent his share of the national treasure on hookers, blow and
 Earl Grey tea. Nothing left to pass on to Wesley.
 
 Is there a better way? What if you scooted the Louvre and issued a
-single scoot to each baby born as a citizen of France?[29] Once the baby
+single scoot to each baby born as a citizen of France?[30] Once the baby
 reaches adulthood, he can trade the scoot or hold it – totally
 voluntary. Once the citizen dies, the assigned scoot ceases to exists,
-no matter who holds it.[30] You’ve got an arbitrage marketplace not only
+no matter who holds it.[31] You’ve got an arbitrage marketplace not only
 of appreciating genius but also of promoting cultural tourism and
 keeping citizens healthy (or at least alive) for as long as possible.
 You could tie it to a national health care system or life insurance.
 There could be a popular movement to hold your national treasure for the
 pure genius appreciation factor. Maybe the national treasure funds
-funeral expenses for those who manage a life of pure appreciation.[31]
+funeral expenses for those who manage a life of pure appreciation.[32]
 This scoot-chain would also serve as a national registry and replace
 need for a census of citizens.
 
@@ -2577,37 +2720,31 @@ ever elect a complete idiot.
 
 ### Royal Treasure
 
-In this modern world, it is ridiculous to have a royal family in a
-functioning democracy, but hey, the British can do what they want. They
-gave us Led Zeppelin; I’ll give some advice in return. Americans, we’re
-always grateful and here to help.
+**/\***
 
-First, you divide up all the royal estates, castles, jewelry, and art
-that you consider not the property of the Queen herself but belonging to
-the British people. While you’re doing this inventory, you can return
-all the artwork stolen from the colonies. Make a National Treasure from
-this inventory.[32]
+**Historical_Rewrite_Redaction:**
 
-#### Scoot of the Crown (SOC)
+**Authorization Hast :#706F6F7273706172656861727279**
 
-Take everything that is leftover, the personal residences of the Queen
-and her offspring, the summer homes, her personal jewelry, diamond
-encrusted pooper-scooper, and create a Scoot of Crown (SOC). The ISO
-will be tendered to the British people who want to be responsible for
-the royal family. There are plenty of Americans who prefer the Windsor
-to the Kardashian, so you could open the Scoot globally. When the SOC
-runs out of money, the Queen must start signing autographs or collecting
-speaking fees, or the scoot could be diluted with another sale. Maybe
-Parliament is charged £1000 each time the PM stops by for tea.
+**Encyclopedist Handle:hakeemala17 – PID(80201042921)**
 
-In any case, the Crown can exist as long there are people willing to be
-responsible for it. It’s a scoot of the *Crown* so maybe the current
-monarch serves as the scoot trustee and has the duty to preserve the
-history of genius of the kings and queens of England. Many of them did
-some great things. If you’ve watched the historically accurate
-docuseries *The Tudors*, you would know King Henry VIII was the inventor
-of the modern-day divorce industry. Maybe awarding a knighthood becomes
-the Nobel prize for divorce lawyers.
+**Date:09/08/2522**
+
+**Rewrite Boundary: 01/21/1963**
+
+**Justification:**
+
+The British Monarchy was well on it’s way to destroying itself and
+didn’t need 21<sup>st</sup> century American help. Sometimes it’s better
+if you let the kids clean up their own mess, Psychohistory has proven,
+using both post and pre-Foundation methodology, that Americans like to
+take credit for a lot of things would have happened anyway. Charles
+III’s peaceful abdication to the Elba Khanate was written in historical
+stone the moment HBO told Stringer Bell to lose the accent. Let the
+British hold on to their triumphs in history, without Elizabeth II, no
+Zeppelin. Those silly third millennials did a few things right.
+
+**\*/**
 
 ## Amnesty
 
@@ -3030,9 +3167,9 @@ You know who else once lived and did some intense thinking in Colorado
 Springs? Uh, huh. Mister Tesla. And you know what else he did? He built
 a lab.
 
-<img src="media/image4.jpeg" style="width:4.32199in;height:3.26436in" />
+<img src="media/image5.jpeg" style="width:4.32199in;height:3.26436in" />
 
-2 - Nikola Tesla sitting in his Colorado Springs laboratory next to his
+3 - Nikola Tesla sitting in his Colorado Springs laboratory next to his
 huge "magnifying transmitter" Tesla coil which is producing 22 foot
 bolts of electricity. 1901.
 
@@ -3064,9 +3201,9 @@ self-driving, energy efficient, emission free bad-ass transportation,
 Tesla’s Colorado Springs Lab would be a great place to start the
 inspiration.
 
-<img src="media/image5.jpeg" style="width:3.435in;height:4.49497in" />
+<img src="media/image6.jpeg" style="width:3.435in;height:4.49497in" />
 
-3- Tesla Plaque at Memorial Park, Colorado Springs, south side of Pike's
+4- Tesla Plaque at Memorial Park, Colorado Springs, south side of Pike's
 Peak Avenue, May 2021. Erected by Al Packer #100 Ancient & Honorable
 Order of E Clampus Vitus, June 2017.
 
@@ -3086,9 +3223,9 @@ American West, he had a major role on the world stage. From what I can
 tell, the actual site of the laboratory is just north of the plaque in a
 residential block.
 
-<img src="media/image6.jpeg" style="width:4.08112in;height:3.89916in" />
+<img src="media/image7.jpeg" style="width:4.08112in;height:3.89916in" />
 
-Figure 4 - Nikola Tesla's Wardenclyffe wireless station, located in
+Figure 5 - Nikola Tesla's Wardenclyffe wireless station, located in
 Shoreham, New York, seen in 1904
 
 There are museums dedicated to Nikola Tesla. There is one called the
@@ -3163,10 +3300,10 @@ robotics and even what would later become atomic physics.
 
 I think Nikola Tesla should have been awarded the Nobel Peace Prize.
 
-<img src="media/image7.jpeg" style="width:4.61842in;height:2.97237in"
+<img src="media/image8.jpeg" style="width:4.61842in;height:2.97237in"
 alt="Chart, line chart Description automatically generated" />
 
-Figure 5 - Life expectancy 1870-2019 from
+Figure 6 - Life expectancy 1870-2019 from
 https://ourworldindata.org/life-expectancy#twice-as-long-life-expectancy-around-the-world
 
 The chart above shows from 1890, the year of the first commercial
@@ -3613,13 +3750,6 @@ over Paris in a Blackhawk. As they jump out of the Blackhawk, they
 scream in unison, “We’ll never fly commercial!”
 
 ### The Stinger
-
-What was the point of this venture into cinema? I’m hoping that if my
-exposition annoys the wrong billionaire and gets me fired from my job,
-one of these cinematic geniuses will take pity on me and hire me to
-write a screenplay. Or maybe McConaughey can hire me to develop his
-gubernatorial campaign platform. I’ve got a great driving record,
-perhaps I could be Joe Jonas’s chauffeur?
 
 Throughout the Cold War, the United States and the Soviet Union had all
 kinds of cultural exchanges, and in both fiction and reality they were
@@ -4363,10 +4493,10 @@ and into the soul of Kevin Porter. But I didn’t. Porter stepped up big
 because he did what stars do when they’ve had a bad game and been talked
 about in the media. He played ball.
 
-<img src="media/image8.jpeg" style="width:4.275in;height:5.35in"
+<img src="media/image9.jpeg" style="width:4.275in;height:5.35in"
 alt="A person in a uniform holding a baseball bat Description automatically generated with low confidence" />
 
-Figure 6 - June 2014 Sport's Illustrated Cover
+Figure 7 - June 2014 Sport's Illustrated Cover
 
 You might wonder, where am I taking this? Am I casting some voodoo spell
 of writing reality? Perhaps. Don’t believe stuff like that works? I
@@ -4393,7 +4523,7 @@ MLB suspended some managers and took away some draft picks, yet the
 Astros retained the title much to the consternation of sore losers
 everywhere.[59]
 
-<img src="media/image9.jpeg" style="width:4.575in;height:5in" />
+<img src="media/image10.jpeg" style="width:4.575in;height:5in" />
 
 While passing through LAX before the pandemic, I had one of the happiest
 moments of my life when I passed a guy wearing the shirt above. He was
@@ -8384,7 +8514,7 @@ wide range of tools to design specific governance aligned with their
 mission.
 
 | <span id="_Appendix_E_–" class="anchor"></span>**Prime Index** | **First Prime** | **Total Shards** | **First Prime Percentage** |
-|---------------|--------------|----------------------|----------------------|
+|---------------|--------------|----------------------|---------------------|
 | 1                                                              | 2               | 2                | 50.0000                    |
 | 2                                                              | 3               | 8                | 33.3333                    |
 | 3                                                              | 5               | 26               | 20.0000                    |
@@ -10174,7 +10304,7 @@ James was amazed.
 
 “It’s exactly like the drawings and the painting.”
 
-<img src="media/image10.jpeg" style="width:3.58281in;height:3.84722in"
+<img src="media/image11.jpeg" style="width:3.58281in;height:3.84722in"
 alt="A picture containing text Description automatically generated" />
 
 Figure - sketch of cave drawing from James Naismith's notebook
@@ -10664,7 +10794,7 @@ speech, Bush the younger urged caution.
 
 “Did they insult anybody’s momma?” Bush asked.
 
-The crowed hushed and whispers rang throughout the halls of the Texas
+The crowd hushed and whispers rang throughout the halls of the Texas
 Capitol. Lawmakers in the pocket of the petrochemical industry were
 mesmerized by visions of having a Texan in Washington who sounded like a
 Texan. Lawmakers on the other side of the aisle were just mesmerized by
@@ -10729,273 +10859,600 @@ Rocket Man, out
 
 August 2<sup>nd</sup>, 2022
 
-# Table of Contents
-
-[Intrinsic Value [1](#intrinsic-value)](#intrinsic-value)
-
-[The Foundation [3](#the-foundation)](#the-foundation)
-
-[A Measure of Wealth [4](#a-measure-of-wealth)](#a-measure-of-wealth)
-
-[Guardians of the Public Domain
-[6](#guardians-of-the-public-domain)](#guardians-of-the-public-domain)
-
-[How it works [9](#how-it-works)](#how-it-works)
-
-[Linux [10](#linux)](#linux)
-
-[Bitcoin [11](#bitcoin)](#bitcoin)
-
-[Social Media [11](#social-media)](#social-media)
-
-[Awbrey Hack [12](#awbrey-hack)](#awbrey-hack)
-
-[Scoot - Dynamically Scalable Responsibility
-[13](#scoot---dynamically-scalable-responsibility)](#scoot---dynamically-scalable-responsibility)
-
-[The Foundation for the Appreciation of Human Genius
-[15](#the-foundation-for-the-appreciation-of-human-genius)](#the-foundation-for-the-appreciation-of-human-genius)
-
-[Asimov and Scoot [15](#asimov-and-scoot)](#asimov-and-scoot)
-
-[Property of Wealth (POW)
-[19](#property-of-wealth-pow)](#property-of-wealth-pow)
-
-[Scoot Conformance [21](#scoot-conformance)](#scoot-conformance)
-
-[Scoot-chain [23](#scoot-chain)](#scoot-chain)
-
-[Responsibility Tree [23](#responsibility-tree)](#responsibility-tree)
-
-[Scoot Naming System (SNS)
-[25](#scoot-naming-system-sns)](#scoot-naming-system-sns)
-
-[Scoot Entity [26](#scoot-entity)](#scoot-entity)
-
-[Application of Scoot
-[27](#application-of-scoot)](#application-of-scoot)
-
-[Scoot of Property (SOP)
-[27](#scoot-of-property-sop)](#scoot-of-property-sop)
-
-[Scoot of Gratitude (SOG)
-[29](#scoot-of-gratitude-sog)](#scoot-of-gratitude-sog)
-
-[Post-Agency Scoot (PoAS)
-[36](#post-agency-scoot-poas)](#post-agency-scoot-poas)
-
-[Circulation [38](#circulation)](#circulation)
-
-[Staked [38](#staked)](#staked)
-
-[Staking [38](#staking)](#staking)
-
-[Reserve Stake [38](#reserve-stake)](#reserve-stake)
-
-[National Stakes [40](#national-stakes)](#national-stakes)
-
-[Seeding [41](#seeding)](#seeding)
-
-[Development [41](#development)](#development)
-
-[Outreach Faucet [42](#outreach-faucet)](#outreach-faucet)
-
-[Creative enablers [42](#creative-enablers)](#creative-enablers)
-
-[Teachers [42](#teachers)](#teachers)
-
-[Prizes [42](#prizes)](#prizes)
-
-[Museums [43](#museums)](#museums)
-
-[Crusades [44](#crusades)](#crusades)
-
-[Billionaires [45](#billionaires)](#billionaires)
-
-[Billionaire meme [49](#billionaire-meme)](#billionaire-meme)
-
-[Deterministic Mythology
-[54](#deterministic-mythology)](#deterministic-mythology)
-
-[National Treasure [57](#national-treasure)](#national-treasure)
-
-[Royal Treasure [58](#royal-treasure)](#royal-treasure)
-
-[Amnesty [59](#amnesty)](#amnesty)
-
-[Repatriations and Reparations
-[59](#repatriations-and-reparations)](#repatriations-and-reparations)
-
-[No Fault [59](#no-fault)](#no-fault)
-
-[Immaterial Genius [60](#immaterial-genius)](#immaterial-genius)
-
-[Agency [62](#agency)](#agency)
-
-[Scoot of Agency (SOA) [64](#scoot-of-agency-soa)](#scoot-of-agency-soa)
-
-[Pre-Agency (PrAS) [66](#pre-agency-pras)](#pre-agency-pras)
-
-[Post-Agency (PoAS) [66](#post-agency-poas)](#post-agency-poas)
-
-[Elon Throwdown [68](#elon-throwdown)](#elon-throwdown)
-
-[Scoot of Collective Genius (SCoG)
-[77](#scoot-of-collective-genius-scog)](#scoot-of-collective-genius-scog)
-
-[Collective Vanity [78](#collective-vanity)](#collective-vanity)
-
-[Monuments and Nature’s Bounty
-[79](#monuments-and-natures-bounty)](#monuments-and-natures-bounty)
-
-[Diplomacy [80](#diplomacy)](#diplomacy)
-
-[Die Hard 7 – In a world of the king’s gold
-[81](#die-hard-7-in-a-world-of-the-kings-gold)](#die-hard-7-in-a-world-of-the-kings-gold)
-
-[Die Hard 7 – Leonardo’s Revenge
-[83](#die-hard-7-leonardos-revenge)](#die-hard-7-leonardos-revenge)
-
-[The Stinger [84](#the-stinger)](#the-stinger)
-
-[Corporate Genius [85](#corporate-genius)](#corporate-genius)
-
-[Genius CYA [88](#genius-cya)](#genius-cya)
-
-[Academic Genius [90](#academic-genius)](#academic-genius)
-
-[Stop Reading, Lars [90](#stop-reading-lars)](#stop-reading-lars)
-
-[Drumland [91](#drumland)](#drumland)
-
-[Open Source Everything
-[95](#open-source-everything)](#open-source-everything)
-
-[Collecting Responsibility
-[96](#collecting-responsibility)](#collecting-responsibility)
-
-[Collecting Whatever [106](#collecting-whatever)](#collecting-whatever)
-
-[Instant Karmic Soup Kitchens
-[107](#instant-karmic-soup-kitchens)](#instant-karmic-soup-kitchens)
-
-[Goodbye Season Tickets
-[113](#goodbye-season-tickets)](#goodbye-season-tickets)
-
-[Incongruence of Values
-[124](#incongruence-of-values)](#incongruence-of-values)
-
-[Alignment of Values [127](#alignment-of-values)](#alignment-of-values)
-
-[Artificial Scarcity [129](#artificial-scarcity)](#artificial-scarcity)
-
-[Psychohistory [131](#psychohistory)](#psychohistory)
-
-[Scoot of Bling (SOB) [135](#scoot-of-bling-sob)](#scoot-of-bling-sob)
-
-[Scoot of Transportation (SOT)
-[140](#scoot-of-transportation-sot)](#scoot-of-transportation-sot)
-
-[Governance [144](#governance)](#governance)
-
-[Charter [144](#charter)](#charter)
-
-[Electorates [145](#electorates)](#electorates)
-
-[Responsibility Domain
-[145](#responsibility-domain)](#responsibility-domain)
-
-[Value Domain [145](#value-domain)](#value-domain)
-
-[The Board of Trustees
-[146](#the-board-of-trustees)](#the-board-of-trustees)
-
-[Engineer (1) [146](#engineer-1)](#engineer-1)
-
-[Continentals (7) [150](#continentals-7)](#continentals-7)
-
-[Popular (3) [150](#popular-3)](#popular-3)
-
-[Ethical Standards [151](#ethical-standards)](#ethical-standards)
-
-[The Line [151](#the-line)](#the-line)
-
-[Shunning [152](#shunning)](#shunning)
-
-[Management [152](#management)](#management)
-
-[Creation [152](#creation)](#creation)
-
-[Security [153](#security)](#security)
-
-[Encyclopedist [153](#encyclopedist)](#encyclopedist)
-
-[Origins [154](#origins)](#origins)
-
-[Digital Sainthood [161](#digital-sainthood)](#digital-sainthood)
-
-[Stasis [162](#stasis)](#stasis)
-
-[Genius Antagonism [163](#genius-antagonism)](#genius-antagonism)
-
-[Genius Ancestry [168](#genius-ancestry)](#genius-ancestry)
-
-[Generational Wealth [171](#generational-wealth)](#generational-wealth)
-
-[Truces and Curses [173](#truces-and-curses)](#truces-and-curses)
-
-[Canada [173](#canada)](#canada)
-
-[Yankees [173](#yankees)](#yankees)
-
-[Dodgers [174](#dodgers)](#dodgers)
-
-[The Curse of the Asterisk
-[175](#the-curse-of-the-asterisk)](#the-curse-of-the-asterisk)
-
-[Ethical Revolution [176](#ethical-revolution)](#ethical-revolution)
-
-[No Small Genius [182](#no-small-genius)](#no-small-genius)
-
-[Acknowledgements [184](#acknowledgements)](#acknowledgements)
-
-[F.A.Q. [186](#f.a.q.)](#f.a.q.)
-
-[Appendix A – Asimov Distribution Schedule
-[191](#appendix-a-asimov-distribution-schedule)](#appendix-a-asimov-distribution-schedule)
-
-[Appendix B – Scoot Naming Reservations
-[192](#appendix-b-scoot-naming-reservations)](#appendix-b-scoot-naming-reservations)
-
-[Appendix C – Prime Shards
-[195](#appendix-c-prime-shards)](#appendix-c-prime-shards)
-
-[Appendix D – Scoot of Team
-[197](#appendix-d-scoot-of-team)](#appendix-d-scoot-of-team)
-
-[Kerouac Crews (On the Road Scoot)
-[198](#kerouac-crews-on-the-road-scoot)](#kerouac-crews-on-the-road-scoot)
-
-[Foreign Outposts [200](#foreign-outposts)](#foreign-outposts)
-
-[Scoot of Whatevera [200](#scoot-of-whatevera)](#scoot-of-whatevera)
-
-[Scoot of Special Purpose Entities (SSPE)
-[201](#scoot-of-special-purpose-entities-sspe)](#scoot-of-special-purpose-entities-sspe)
-
-[Appendix E – A Lesson in Texas History
-[206](#appendix-e-a-lesson-in-texas-history)](#appendix-e-a-lesson-in-texas-history)
-
-[Big Mama [206](#big-mama)](#big-mama)
-
-[Little Mama [211](#little-mama)](#little-mama)
-
-[Stinky Fingers [219](#stinky-fingers)](#stinky-fingers)
-
-[The Canadian [226](#the-canadian)](#the-canadian)
-
-[The Defender of Texas History
-[236](#the-defender-of-texas-history)](#the-defender-of-texas-history)
+# Revision History
+
+<table>
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 18%" />
+<col style="width: 13%" />
+<col style="width: 49%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Revision</th>
+<th>Date</th>
+<th>Copies</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0.00-0.68</td>
+<td>4/29/2021</td>
+<td></td>
+<td>Ouroboros</td>
+</tr>
+<tr class="even">
+<td>0.69-0.99</td>
+<td></td>
+<td></td>
+<td>Review Copies</td>
+</tr>
+<tr class="odd">
+<td>1.00</td>
+<td>8/2/2022</td>
+<td></td>
+<td>First Publication</td>
+</tr>
+<tr class="even">
+<td><ol>
+<li></li>
+</ol>
+<p>1.04</p></td>
+<td><p>8/3/2022-</p>
+<p>2/14/2023</p></td>
+<td></td>
+<td>Copy Edits, First Edition</td>
+</tr>
+<tr class="odd">
+<td>1.63</td>
+<td>3/3/2023</td>
+<td></td>
+<td>Second Foundation</td>
+</tr>
+</tbody>
+</table>
+
+***The Book of Scoot***
+
+SECOND FOUNDATION
+
+**Version 0.63**
+
+<img src="media/image1.png" style="width:0.33333in;height:0.33333in"
+alt="enter image description here" /> 2023 by Brandon Awbrey. This
+publication may be reproduced in whole form if fairly attributed for any
+non-commercial purpose. If you are using this for commercial purposes,
+you better make sure that Brandon is getting paid, unless you are Trey
+Parker and Matt Stone, then you guys can make bank. If you paid me for a
+printed or eBook form of this book, then thank you. If you paid somebody
+else, I join you in a curse.
+
+Cover Art and Illustrations ©2023 by Jack Awbrey
+
+The Foundation is Gratitude
+
+Scoot is money, y’all!
+
+Dick Scobee
+
+### Scoot(1)
+
+*It is my belief that by the manned exploration and exploitation of the
+potentials of space and the planets, we satisfy a basic need of mankind
+to explore and probe the unknown, and I simply want to be an integral
+part of that exploration*.
+
+-   **Excerpt from Dick Scobee’s NASA interview essay, answering “Why I
+    want to be an astronaut**.”[115]
+
+**Integral** – adjective – essential to completeness
+
+What is the integral component of manned exploration of space and the
+planets?
+
+One Scobee shall be the definition of that. An integral part of manned
+space flight? How many integral parts are required? Is it one, or are
+there many? Perhaps there shall be seven.
+
+We stake this Scoot with that mission. To define One Scobee as an
+integral part of manned spaceflight. I seek others who knew the man to
+share with me what they think. I want to know what Colonel Scobee
+thought after returning from space.
+
+JUNE Scobee RODGERS
+
+### Scoot(23)
+
+*Padawan Satoshi nervously asked his master, “Why call it Scoot?”*
+
+*“Oh, that’s easy,” the master said. “They wanted to use Scobee, for
+genius or hero. They needed something people outside Houston or Seattle
+could relate to. Everybody that knows anything worth knowing knows
+basketball genius, so….”*
+
+*“Scoot is money,” Satoshi said.*
+
+*“Scoot is money, y’all!”*
+
+In my book ***asimov***, I recount a moment of inspiration in the
+chapter ***Collecting Responsibility***. I wrote about **Challenger** in
+terms of a postcard I’d lost. It was a critical breakthrough in my
+thinking. Later that night it was as if the basketball gods were
+blessing my idea because Kevin Porter destroyed the Bucks, dropping 50
+points. That was a pretty good story, and it really happened like I
+wrote it.
+
+It wasn’t until much later that it hit me; I’d already finished the book
+and realized something even more profound. It’s an even better story. I
+mean this as a testament to genius, so I’ll keep the embellishment down
+to a bare minimum.
+
+I’d been curious, I remembered Challenger well, one of the few moments
+in high-school I can see clearly through the cobwebs of time. I also
+remember who I was, what I was like, and there was some incongruity. How
+did my mom get me to a NASA nerd camp when I was fourteen?
+
+After a full year of 6<sup>th</sup> grade, I’d left my nerd roots
+behind. I still read science fiction but sure wasn’t hanging out with
+other people who did. Summer after 7<sup>th</sup> grade was the last run
+of my suburban rap/breakdance crew. Thankfully, this occurred before
+digital photography and videos of teenagers doing stupid stuff was
+reserved for rich people. Summer after 8<sup>th</sup> grade, I know I
+wasn’t volunteering to go to a NASA summer camp.
+
+My Uncle Clay, Air Force badass, had broken the news to me years before.
+One summer it was, *with your glasses you’ll never be a fighter pilot*.
+Gave it to me raw, then told me how he found out he was colorblind. I
+think the story was he didn’t even know until after he’d already signed
+up for the Air Force, hoping to become a pilot. Probably the Air Force
+doctors told him. No fast jets for Uncle Clay, but he made a career out
+of military intelligence. The tangents I could take with that…
+
+I’d left astronaut dreams behind in grade school, along with the nerds.
+I wasn’t a computer geek. I didn’t even like to play video games at
+home, though the arcade was cool place to hang out. I couldn’t
+understand how I ended up at NASA camp at that age. I asked my mother.
+
+“You got picked because you were good at math,” my mom said.
+
+“Oh really,” I say, not sure why that would have made a difference.
+
+“Did you have to pay?”
+
+“Oh, no,” said my mom. “You went because it was free.”
+
+And then I got it. I get along with my mom great now, but as a teenager
+if there was a way to get me far away from her and it was free, she
+first in line. My mom could walk into a supermarket in the 80s with a
+box of coupons and walk out with two carts of groceries and $50 cash in
+rebates.
+
+She’d camp out like it was for concert tickets, to get rid of me for a
+few weeks in the summer. I can see my teen-self would have made peace
+with the fact, it’s all the way in Clear Lake, far away from where
+anybody might know me where I lived in Cypress.
+
+I had no interest in computers at all. As a kid, I’d wanted to be an
+astronaut, but as a teenager, no way. I don’t remember much about the
+camp. I remember the engineers were the dudes in short-sleeve collared
+shirts who’d chain smoke and wore bad glasses.
+
+I do remember learning to code on the Apple IIs. Only time I ever used
+Apple anything until I got an iPhone 30 years later. It wasn’t even a
+real programming language, but this educational language called Logo
+that drew pictures on a screen. I don’t really remember them teaching us
+much, but they must have. I don’t remember if June was even part of the
+programming class, but she was part of our day. We toured Mission
+Control and other parts of NASA, and there were lectures from different
+engineers and specialists.
+
+While we were in some lecture scenario, I remember June talking about
+science fiction and ethics and the ***Laws of Robotics***. I never read
+Asimov’s robot novels, I’d gone straight to *Foundation*, since my Uncle
+Clay had told me was the best Asimov. I might have mouthed off something
+to that effect.
+
+I remember meeting Colonel Scobee, it might have been on the last day of
+camp. I hope I was respectful. I remember thinking, he looks like
+somebody’s dad, not a badass pilot.
+
+He was.
+
+Both.
+
+The tragedy is what stands out in my memory, what happened after. There
+was a lot of expectation in the news and among Houston schoolteachers
+about a teacher in space. We were freshmen boys, I’m sure we mocked it.
+I have no memory of knowing that Dick Scobee was commander ahead of the
+tragedy. That day, realizing it after the fact, was sickening. That
+memory became a stake in my identity. How shallow we can really be.
+
+This is where the story diverges from what most teachers would want.
+
+I had no interest in technology in high school. I read a lot and was
+smart and could figure things out. I didn’t like being forced to learn
+what I thought was basic stuff. In retrospect, the skills I’d learned to
+that point, going to elementary and middle schools in Cy-Fair ISD
+prepared me very well for the life I’ve had. Long before the internet, I
+had the capacity to figure out what I needed to know and the skills to
+find the answers. I could read, I could write, and I could do math and
+basic algebra, and that has served me well though my life.
+
+After 11<sup>th</sup> grade we found a loophole, and me and my friend
+dropped out of High School, took the GED and enrolled at University of
+Houston. Neither of us took to college any more than high school, but
+since we weren’t 18 yet, it was an acceptable compromise for our
+parents. The next year, we both took off for Los Angeles. I pursued
+music and writing for a few years, doing a variety of odd jobs to
+support myself.
+
+I knew what a PC was but never used one. In fact, rather than buy a
+computer, I spent a few hundred bucks on an integrated word-processor
+with a printer. I had zero interest in technology or engineering, I was
+writing about what I wanted to write about.
+
+I had a bunch of food and retail jobs, delivery driver, bank teller,
+liquor store, gas station attendant. In 1992 I was working for a redneck
+in Waller delivering horse trailers, when my gypsy friend set me up with
+an air-conditioned job repairing laptop computers. I ordered parts and
+kept the operation moving along and learned how to put laptop computers
+together. The secret, I learned, was that if you put a laptop back
+together and have an even amount of screws leftover, you did something
+wrong.
+
+That company was somehow connected to Tony in New Jersey, and it went
+under. My drummer’s mom worked at Compaq Computer on the night shift
+assembly line and used some insider voodoo to get me a temp job under
+her general protection. We worked on a Printed Circuit Board (PCB)
+manufacturing line, we made huge motherboards for servers. It was an
+air-conditioned job and I learned several roles rapidly, but none used
+computer skills. Late at night, you had to stay awake or risk instant
+termination if you were spotted dozing by a supervisor. It was very
+difficult as the line was often stalled for hours at a time due to
+changeovers or supply chain issues. There was one lady who did stuff on
+the computer. She’d open reports and print them, then collate them
+manually and then print out another report, which she would give to the
+boss. You couldn’t read books on the assembly line even if there was
+nothing to do. I quickly figured out the best thing to do was look busy
+when there was nothing to do or somebody would make me do something I
+didn’t want to do.
+
+Computers in those days came with a set of manuals, including a BASIC
+programming manual. I found that I could teach myself BASIC by figuring
+out how to collate all the files and print them out and save the lady
+some time each night. It probably took about a month.
+
+Didn’t go like I thought when I unveiled my innovation to the lady.
+Turns out she liked staying late to turn in the reports so she could get
+a half-hour overtime pay every day. Plus, complaining about staying late
+to the young people gave her a way to stay awake all night. My bad.
+
+After a couple years of this, I found my way into an engineering team. I
+started doing tech stuff around the lab. I automated some stuff with
+batch files and BASIC programming. An opportunity came up for a
+programming assignment in C, and my brother had a book about C, so I
+told them I was qualified. Turns out, I was, thanks to June Scobee.
+
+From that path on, my career through digital logic has been smooth
+sailing. The basic skill I learned back in 1985 was all I needed. I call
+that integrative thinking, the ability to break down problems into
+smaller pieces, and solve the pieces. It’s a common skill, used in all
+industries, with or without code.
+
+The more you do it, the better you get at it. The real power is your
+ability to use code as a tool to apply even greater leverage. That’s
+just looking at real world problems the same way as you solve code
+problems. It doesn’t take four years of high school and multiple years
+in university to learn those skills. It takes identification of natural
+potential a little directed and opportunistic on the job training.
+Generations raised on digital logic are naturally more adaptive to
+integrative thinking because that is how software works.
+
+I remember I’d been programming in C++ for about two years when I
+finally got some real training in a class we took at Compaq. My mentor,
+who was a C programmer only, but light years beyond me in engineering
+terms, was sitting next to me struggling with some examples in C++ which
+was new to him. I remember him watching me do some trick on the command
+line in Windows that was illegal in Unix and him pointing that out and I
+felt so smug.
+
+That memory is truth. How leveraged by the past we are. My bag of tricks
+in programing was like a cheat code in a game to him. He’d had to solve
+all these puzzles himself, through incredible hours of focused thought.
+Every time I ran into a difficult programming problem – even in 1998 –
+all I had to do was write the problem clearly in English in type it into
+a search engine and I’d come up with at least a hundred ways somebody
+had solved the same problem.
+
+Leverage is the prime component of any engineering task. Digital
+leverage is the most powerful tool man has every created. That is
+because all engineering is digital engineering. Good engineers in every
+field are the ones that use software as a tool. Engineers are
+responsible for the tools they use. That’s the most valuable engineering
+lesson. The sooner engineers understand that basic toolset, the more
+effective engineers they will be. All industries are potential
+innovation frontiers for young people trained to use digital tools.
+
+Not everybody has it. It’s not the same as being good at math. The math
+we use in integrative thinking is very simple. I do think it can be
+identified through testing and evaluation.
+
+Tick-tack-toe theory….
+
+Learning to code changed my life directly. So, thanks, mom for sending
+me to the free NASA nerd camp.
+
+I remember Dick Scobee as just an ordinary guy with an extraordinarily
+cool job. June Scobee didn’t come across as ordinary. The correct Texan
+terminology for June “sparkplug.” She was no ordinary mom and
+schoolteacher. She was like a live action version of a Jetson’s
+supermom, whose kid would be expected to grow up become a general in the
+Space Cadets. She expected something of her students. I bet we did
+better than average, statistically, as a group.
+
+Thank you, June Scobee-Rodgers.
+
+I wonder what the success rate of those kids was June Scobee taught that
+summer, and the prior summers? And then how many lives did she touch the
+Challenger Centers. What was that value created by all those children?
+
+\<Working on Implementation Plan now….Trying to do some camp/afterschool
+with middle schoolers\>
+
+….Converation with WCB about the timelyness of gratitude, and the
+fallacy of trying to figure out how to implement a camp for
+middle-schoolers without seeking the guidance of the one person I
+actually know who knows how to do it…
+
+*I wrote Collecting Responsibility just after the events that I
+describe. I thought the story was perfect, it really followed my thought
+process, and the 50 point night to stamp it into memory was icing on the
+case. The inside joke here, for non-fairweather Rockets fans, is that
+Kevin Porter, Jr nickname was “Scoot.” I’d known that only a few week,
+Kevin was acquired but the season as well as everything else in the
+world in early 2021 was distburbing, to put it mildly. I’d like Kevin’s
+game, but I didn’t have much vested interest in any of the players
+before that night, they team had blown up along with everything else in
+that winter.*
+
+*Kevin, like Colonel Scobee, is from Seattle. He’s a leftie, like James
+Harden, who he replaced in my hero pantheon. He dealt with a lot of
+tragedy in his life, and had a number of misteps in his early adulthood,
+but since that night, he’s been my hero.*
+
+STEVE FAIRCHILD
+
+### Scoot(25)
+
+I recently had the experience of going full circle in my career, going
+back to a similar role to where I started. In engineering it is an
+enlightening experience – though I imagine that would be true in any
+career. One of the first things you learn is you weren’t nearly as smart
+as you thought you were way back when.
+
+I was lucky to start my engineering career at Compaq in Houston in the
+1990s. In those days Compaq had a mix of electronics industry veterans
+and young and hard charging engineers, and though I had little
+experience, I was able to fit in well.
+
+The engineer who most influenced my career was Steve Fairchild. As
+somebody who was on the front lines of a rather competitive battlefield,
+it is my opinion that Steve was the person most responsible for the
+success of both SAS and SFF HDDs.
+
+Back in those days, I didn’t think so fondly of Steve. He was big, loud
+and could be intimidating. My relationship with Steve was all business,
+I never got to know him outside of work, but I imagine in real life he
+was giant teddy bear. While he was unmerciful in his engineering
+criticism, it was all about the engineering, never personal or
+vindictive. I have watched Steve cut down both vendors and peers in
+exactly the fewest words possible and without any room for rebuttable.
+You did not act like you knew what you were talking about around Steve
+unless you knew what you were talking about.
+
+Our team was responsible for qualification of SCSI HDDs, and my role was
+programming the Big-Real Mode DOS utility we used for testing, Psuite.
+Sometime around 1998, I ported Psuite from Compaq’s internal SCSI driver
+library to Adaptec’s CHIM library. In a rush to get their chip into
+production, I had been required to spend weeks in California helping
+Adaptec debug their chip with my software. It wasn’t a lot of fun for me
+or for Adaptec, as it consisted mostly of me waiting on them to deliver
+some code to test and debug.
+
+We had a plan to port Psuite to some modern 32-bit OS, and my idea was
+for Windows. My key selling point was vendors had to have Windows SCSI
+drivers, so we wouldn’t need to do any babysitting, we could just give
+them the Windows Psuite application and they could debug their own
+drivers without my direct help. My own motivation was: there wasn’t much
+career potential programming on DOS and the other alternatives were too
+specialized, but there was plenty of work programming on Windows. Linux
+was too immature and had even bigger technical challenges to overcome
+than Windows.
+
+I never had the nerve to ask Steve or anybody else what Steve’s actual
+job was, he was a member of the technical staff and knew everything. His
+role on our team was performance. His role for our software development
+team was to greenlight the performance of our software.
+
+My approach is always code first, research later. In the early days of
+our discussion, I had already ported a basic version of Psuite and
+proven that the performance would be within 1% of our DOS tool. These
+were spinning HDDs, and even though we were testing the fastest
+available on the market, they were terribly slow compared to most other
+subsystems on a server, and I had the general attitude that performance
+methodology was not a big of deal. My biggest challenge was on the
+functional side, where we did not have the same visibility to SCSI
+protocol compliance that we did with our DOS built-in driver. I had the
+support of my manager with the relative performance, with the caveat,
+“As long as Steve is okay with it.”
+
+Steve wasn’t okay with it. After presenting my 1% data, Steve tore my
+plan apart, coming up with a list of around ten performance items that I
+would have to address. I seem to recall that at least half of the list
+were things that weren’t even measurable with our DOS tools, so not only
+did I have to code these new measurement techniques on Windows, with its
+rich libraries I could leverage, but then go figure out how to back-port
+the same techniques to DOS so that I could prove to Steve there was no
+difference.
+
+This went on for months. We’d have these weekly meetings, where I’d want
+to talk about all the really clever coding I done to move forward on the
+functional side, and Steve would tell me I’m wasting my time until I’d
+finished the methodology tasks he’d created for me. It bugged me,
+because 90% of the problems we worked on were functional error recovery
+problems, and Psuite was clearly the best tool in the industry for that.
+Hard Drives are and were always slow, and it did not matter what
+software tool you used to measure them, they’d still be slow.
+
+I remember after one particularly brutal meeting, I’d gone back to my
+office to reconsider what Steve had said about my data, and thought I’d
+caught him in a mistake. I took my printout to his office, and within
+about 30 seconds, he’d completely turned me around. Not only did I
+misinterpret my own data, I hadn’t even been asking the right questions.
+Before I could escape, Steve had me sit down, where he proceeded to draw
+a diagram on paper and lecture me for an hour, when all I wanted to do
+was go back to my office and cry. I know the subject was system level
+performance, and I know what Steve was trying to convey was that
+methodology was the most important part of measurement, the numbers
+themselves didn’t matter. I think he was trying to make me feel better
+about doing all this work that had absolutely no relevance to the
+current technology but might one day help him with whatever he was
+working on. I didn’t feel better about it. Boy, do I wish I’d paid
+attention, would have saved me a lot of trouble down the road.
+
+When I completed the last item on Steve’s list, and I presented the data
+to Steve in our team meeting. He said, “What are you going to do about
+aborts?” No, “Good job, man.” or “You were right all along, I should
+have never doubted you,” but what are you going to do now about the real
+problem I was keeping you from working on all along? By this point, I’d
+had to complete so much code to validate Steve’s requests, the project
+was pretty much done, except for the hardest part. Steve was no help for
+me there. Apparently, he’d taught himself the Windows Storage Stack
+fast-path by having a young engineer do a bunch of seemingly useless
+experiments for him. He had no idea how the error path worked – that was
+for mortal engineers.
+
+I left Compaq not long after finishing that project to work for Adaptec.
+During the early days of SAS, I worked very closely with Steve as a
+customer and he treated me with respect and continued to mentor me,
+especially when it came to how to deal with my own bosses. After I made
+a particularly embarrassing and potentially career ending mistake, Steve
+was gracious and gave me the single best piece of career advice anybody
+ever gave me. I’ll keep that gem to myself for now, but one thing Steve
+knew was that in computer business, the engineers and not management or
+marketing held the real power. For Steve, it was more than just an
+obligation to point out engineering weaknesses and come up with clever
+solutions. I believe he felt responsible for making well engineered
+products, and he knew with the right methodology and data, he could
+always hold marketing and management to account.
+
+Sadly, Steve was a mortal engineer. I don’t remember the dates, but it
+seems like he got sick right around the time HP shipped SAS. I didn’t
+see much of Steve after that, we went out to lunch a few times a year.
+In the beginning Steve initiated these lunches. Steve always paid for
+his own lunch, long before it was HP policy not to accept paid meals
+from vendors. Somewhere along the way, I got the reputation as one of
+the few engineers Steve would actually go out to lunch with, so every
+few months marketing or sales of whatever company I was working for
+would get the idea that we could make an inside run at some kind of
+influence or get some information from Steve. I didn’t bother with
+subterfuge with Steve, he would have seen right through it, I would just
+come right out and tell him what my people were after, and he’d usually
+say something like, “I’m not going to tell you that.” Then we’d have a
+nice lunch and talk about engineering.
+
+In 2010 I took a job in China. We corresponded a few times via email,
+Steve was very curious about both life and engineering in China. I came
+back to the states at the end of 2012, but only saw Steve once, walking
+very slowly down the hallways of HP. He looked exhausted but took the
+time to remind me that we needed to catch up and tell him all about
+China. This never happened. Steve died in 2013.
+
+I’ve had a very successful career, and for the most part, I’ve been able
+to do the kind of engineering I think Steve would be proud of. I never
+got to tell him what he meant to me when he was alive, but as I’ve grown
+older I think about him more and more. Every time I smell some weak
+engineering from marketing, or management, or other engineers, I ask
+myself, “What would Steve say?”
+
+Steve engrained in me the notion that engineers are responsible for the
+tools they use. And Steve said to me, “The methodology is the most
+important thing.” The industry lost a legendary engineer when we lost
+Steve. He was the best engineer I’ve ever worked with.
+
+This work is dedicated to Steve Fairchild.
+
+ELIZABETH II
+
+### Scoot(26)
+
+*….timing with the Curse of Asterisk and promotion on Sept
+9<sup>th</sup> (She died the night before) and faux guilt that I might
+have caused here death…. But the truth is her reign gave us majestic
+creativity and that is what the other great monarchs are remembered for
+as well (The Bard and the Virgin…)*
+
+<img src="media/image12.jpeg" style="width:4.43662in;height:5.74167in"
+alt="Text, letter Description automatically generated" />
+
+Hakeem OLAJUWON
+
+### Scoot(34)
+
+….Every kid should have a hero…. Dream camp….
+
+KEVIN COSTNER
+
+### Scoot(55)
+
+<img src="media/image13.png" style="width:3.93476in;height:3.55833in" />
+
+Figure - Cover Letter Attached to book sent to KEVIN COSTNER on
+7/14/2022 (Package was returned to sender)
+
+How Recursive Can You Get??......Yellowstone…
+
+JAY-Z
+
+### Scoot(69)
+
+THE 1994-1995 NBA CHAMPIONSHIP RUN
+
+The Greatest Story In History of Sports
+
+### Scoot(95)
+
+<img src="media/image14.jpg" style="width:4.62014in;height:5.97917in"
+alt="Text, letter Description automatically generated" />
+
+<img src="media/image15.jpeg" style="width:4.62014in;height:5.97917in"
+alt="Text, letter Description automatically generated" />
+
+<img src="media/image16.jpeg" style="width:4.62014in;height:5.97917in"
+alt="Text, letter Description automatically generated" />
+
+<img src="media/image17.jpeg" style="width:4.62014in;height:5.97917in"
+alt="Text, letter Description automatically generated" />
+
+TITANIC REDUX
+
+El Grande Recursivo Enchilada
+
+### 
+
+### Scoot(XX)
+
+*On high seas, did Crooked Beard spread his disease,*
+
+*People diverse sang his theme from port to port,*
+
+*Songs of wealth and the end of poverty,*
+
+*His plunder was spread with great diversity,*
+
+*“You can steal what belongs to everybody!”*
 
 [1] The Gold Standard died for good in 1976 when I was in kindergarten.
 In school, I was taught the gold standard. I guess they thought floating
@@ -11061,25 +11518,27 @@ idea what that banshee was wailing about.
 [18] This movie had much better streaming numbers than the competing
 biopic, *Tesla in Love*, which was *way* freakier.
 
-[19] Or Rockets season tickets.
+[19] https://www.investopedia.com/sec-vs-ripple-6743752
 
-[20] There’s a joke here about congresspeople and other types of holes,
+[20] Or Rockets season tickets.
+
+[21] There’s a joke here about congresspeople and other types of holes,
 but in case history is watching us, let’s keep this PG-13.
 
-[21] She may be blind but she can smell a billionaire a mile away.
+[22] She may be blind but she can smell a billionaire a mile away.
 
-[22] As well as a pandemic, and the end of a very costly war.
+[23] As well as a pandemic, and the end of a very costly war.
 
-[23] From *Imma be* by The Black-Eyed Peas
+[24] From *Imma be* by The Black-Eyed Peas
 
-[24] For those of you who think I should be praising another pioneer of
+[25] For those of you who think I should be praising another pioneer of
 the digital age, I’ve got two words for you: Justin Long. Apple, no
 coming back from that. I’m a PC forever now.
 
-[25] The Finns might want to ally with the South Koreans and get in on
+[26] The Finns might want to ally with the South Koreans and get in on
 the *Squid Games* franchise.
 
-[26] I wish we had the data to determine who created the greatest
+[27] I wish we had the data to determine who created the greatest
 fundamental value for humanity, Ford or Tesla. Fundamentally, Ford did
 basic integration, which is foundational to every branch of engineering
 – breaking down a process and balancing it. It is fundamental to systems
@@ -11089,12 +11548,12 @@ off. Hey, we don’t have to understand it to harness it use it for
 air-conditioning and make Houston habitable. You can guess who has my
 vote.
 
-[27] I may have borrowed elements of this interlude from an unpublished
+[28] I may have borrowed elements of this interlude from an unpublished
 screenplay written by a certain carrot eating entrepreneur in the late
 70s. Rumor is he sold it to John Lennon and used the proceeds to finance
 a technology startup.
 
-[28] Or so I was told by a Canadian. France, you can take any complaints
+[29] Or so I was told by a Canadian. France, you can take any complaints
 about this chapter up with Canada directly. I don’t have any problems
 with the French. Rudy Gobert is like a Karl Malone who likes to lose to
 the Rockets in the playoffs. All good. The goal of my Rockets Scoot will
@@ -11105,18 +11564,15 @@ playoffs, but I think that would be better for my karma than living with
 having Steph Curry done it five times. I guess I can sort of sympathize
 with James running east.
 
-[29] In 2040, when the population of France has exceeded that of China
+[30] In 2040, when the population of France has exceeded that of China
 and India combined, I’ll pen a sequel called, *The Dilution of Genius*.
 
-[30] Scoot may be fractionalized unit, like bitcoin, or serialized whole
+[31] Scoot may be fractionalized unit, like bitcoin, or serialized whole
 units or shards. The serialization could be used as national identity
 number, like Social Security.
 
-[31] There’s a crime movie to be had here, where a hitman and a
+[32] There’s a crime movie to be had here, where a hitman and a
 mortician are in cahoots to create steady supply of dead art lovers.
-
-[32] I describe how architectural genius might be handled in Monuments
-section.
 
 [33] Drafted the same year, I would argue that *The Dream*, who played
 in the more competitive Western conference, was the more dominant player
@@ -11413,3 +11869,5 @@ innovation invented in Texas.
 
 [114] Children, this proves that Texas Historians also know the literal
 use of “literally.”
+
+[115] Taken from *Silver Linings*, by June Scobee Rodgers
