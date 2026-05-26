@@ -4562,7 +4562,7 @@ and into the soul of Kevin Porter. But I didn’t. Porter stepped up big
 because he did what stars do when they’ve had a bad game and been talked
 about in the media. He played ball.
 
-<img src="media/image9.jpeg" style="width:4.275in;height:5.35in"
+<img src="media/image9.jpeg" style="width:4.14182in;height:5.18333in"
 alt="A person in a uniform holding a baseball bat Description automatically generated with low confidence" />
 
 Figure 6 - June 2014 Sport's Illustrated Cover
@@ -7240,11 +7240,10 @@ ability to examine the ideas we forgot.
 
 ## Stasis
 
-Scoot would be considered in statis when active governance has ceased.
-This may be because none of the scootage wants the responsibility of
-trustee, or there have been no trades or scoot-chain activity for some
-period, or no staking networks exists to process transactions for the
-Scoot.
+Scoot is considered in statis when active governance has ceased. This
+may be because none of the scootage wants the responsibility of trustee,
+or there have been no trades or scoot-chain activity for some period, or
+no staking networks exists to process transactions for the Scoot.
 
 If the Foundation is a holder of the scoot, it will maintain scoot-chain
 in statis. By definition, a Scoot in statis doesn’t have much genius
@@ -7296,7 +7295,8 @@ realized that most of my audience didn’t have the benefit of learning
 Texas History in middle school like I did, and wouldn’t understand, that
 sports are the greatest genius invention of mankind, and were invented
 in Texas, just like art, writing, mathematics, and feminism. I’ve
-reprinted the important lesson in [Appendix E](#_Appendix_E_–).
+reprinted the important lesson in [Appendix
+E](#appendix-e-a-lesson-in-texas-history).
 
 In 1894 Mark Twain and Nikola Tesla were dining at Delmonico’s in New
 York City, when a banker and a railroad man from Houston stopped by
@@ -7324,7 +7324,7 @@ accumulated knowledge of all those that came before us, but these
 mechanical, electrical, and digital devices that would have empowered
 those in the past. We should worry about how history should judge us,
 with this immense power, yet we still live in a stratified society based
-on material-wealth.
+on material wealth.
 
 I think sports antagonism is the perfect metaphor for what The
 Foundation is trying to emulate in the world of all ideas, including
@@ -7332,12 +7332,12 @@ sports.
 
 I may sports-hate Los Angeles and New York fans, but I do not blame
 them. How could I? Sports loyalty is a birthright or fostered in
-childhood. If I meet somebody who grew up in Dallas or San Antonio who
-is a Rockets fan, I’d admire them for their fine appreciation of genius,
-but I ain’t letting them park my car.
+childhood. If I meet a Rockets fan who grew up in Dallas or San Antonio,
+I’d admire them for their fine appreciation of genius, but I ain’t
+letting them park my car.
 
 Blame is not wrong. It’s right to blame responsible parties. Measuring
-responsibility it the hard part.
+responsibility is the hard part.
 
 In recent years, there’s been a lot of blame cast at pharmaceutical
 companies for high prices that put lifesaving medicine out of reach of
@@ -7345,10 +7345,12 @@ poor people and much of the developing world. *Pharma Bro*[99] didn’t
 help with the industry’s self-defense. I think blaming boards,
 executives, researchers and even Pharma douchebags is avoiding real
 responsibility. The truth is, every investor in every pharmaceutical
-company is making the choice; I’m going to invest my money, protected by
+company is making a choice; I’m going to invest my money, protected by
 limited liability, in a company that develops medicine and measures its
 success by the accumulation of property, a scare resource not available
-equitably to all people. It’s a choice. They are responsible.
+equitably to all people.
+
+It’s a choice. They are responsible.
 
 What that really means is we are all responsible. Anybody who has a
 401(k) or a retirement plan that owns any broad mutual funds is likely
@@ -7363,7 +7365,8 @@ the highest value reward.
 
 Blame is useless unless you use it to fix the problem. If you can
 diagnose with a measurement of value that is equitable, we can solve
-real problems.  
+real problems.
+
 In sports, when you lose, you go home and figure out how to get better.
 Sometimes it works, sometimes it doesn’t, sometimes it’s luck, other
 times it’s who you hire and draft and what values those people
@@ -7396,7 +7399,7 @@ born American. I’ve worked hard all my life. I have always tried to make
 the most of that fortune, and so has she.
 
 Now I realize that the real way to measure value is not our fortune in
-life to be born American, Nigerian, Chinese or Vietnamese or white or
+life to be born American, Nigerian, Chinese, or Vietnamese or white or
 black, but the real fortune we all share, is to be born with all the
 accumulated value of the ideas of all who came before us, because that
 wealth is available to everybody on the planet. This leverage is
@@ -8485,7 +8488,7 @@ Scoot is all about.
 |                            | Asimov  | 1,000,000,000,000             |         |                   |      |
 |---------------|---------|------------------|---------|----------------|------|
 |                            | Group   |                               |         |                   |      |
-| Group                      | Percent | Tranche                       | Percent | asimov (Mega)     | Year |
+| Group                      | Percent | Tranche                       | Percent | asimov            | Year |
 | Reserve Stake              | 1.00%   | Private Stake                 | 0.50%   | 5,000,000,000     | 1    |
 |                            |         | Public Stake                  | 0.50%   | 5,000,000,000     | 1    |
 | National Stakes            | 10.00%  | National Stakes               | 10.00%  | 100,000,000,000   | TBD  |
@@ -8597,7 +8600,7 @@ There are only 2 shards possible, the first is worth 50.00% and the
 second is worth 33.33% of the total responsibility. The remainder,
 16.66% would be tiebreaker by trustee.
 
-The second index is more useful. It has eight shards
+The second index is more useful. It has eight shards.
 
 $$\frac{1}{3} + \frac{1}{5} + \frac{1}{7} + \frac{1}{11} + \frac{1}{13} + \frac{1}{17} + \frac{1}{19} + \frac{1}{23} = .998956$$
 
@@ -8621,24 +8624,24 @@ With fractional, serialized, and prime sharded scoot, each trustee has a
 wide range of tools to design specific governance aligned with their
 mission.
 
-| <span id="_Appendix_E_–" class="anchor"></span>**Prime Index** | **First Prime** | **Total Shards** | **First Prime Percentage** |
+| **Prime Index** | **First Prime** | **Total Shards** | **First Prime Percentage** |
 |---------------|--------------|----------------------|---------------------|
-| 1                                                              | 2               | 2                | 50.0000                    |
-| 2                                                              | 3               | 8                | 33.3333                    |
-| 3                                                              | 5               | 26               | 20.0000                    |
-| 4                                                              | 7               | 65               | 14.2857                    |
-| 5                                                              | 11              | 143              | 9.0909                     |
-| 10                                                             | 29              | 1,391            | 3.4483                     |
-| 15                                                             | 47              | 4,977            | 2.1277                     |
-| 20                                                             | 71              | 12,278           | 1.4085                     |
-| 30                                                             | 113             | 44,101           | 0.8850                     |
-| 40                                                             | 173             | 107,364          | 0.5780                     |
-| 50                                                             | 229             | 213,261          | 0.4367                     |
-| 75                                                             | 379             | 738,477          | 0.2639                     |
-| 100                                                            | 541             | 1,773,035        | 0.1848                     |
-| 250                                                            | 1,583           | 28,088,072       | 0.0632                     |
-| 500                                                            | 3,571           | 188,706,189      | 0.0280                     |
-| 1000                                                           | 7,919           | 241,815,743      | 0.0126                     |
+| 1               | 2               | 2                | 50.0000                    |
+| 2               | 3               | 8                | 33.3333                    |
+| 3               | 5               | 26               | 20.0000                    |
+| 4               | 7               | 65               | 14.2857                    |
+| 5               | 11              | 143              | 9.0909                     |
+| 10              | 29              | 1,391            | 3.4483                     |
+| 15              | 47              | 4,977            | 2.1277                     |
+| 20              | 71              | 12,278           | 1.4085                     |
+| 30              | 113             | 44,101           | 0.8850                     |
+| 40              | 173             | 107,364          | 0.5780                     |
+| 50              | 229             | 213,261          | 0.4367                     |
+| 75              | 379             | 738,477          | 0.2639                     |
+| 100             | 541             | 1,773,035        | 0.1848                     |
+| 250             | 1,583           | 28,088,072       | 0.0632                     |
+| 500             | 3,571           | 188,706,189      | 0.0280                     |
+| 1000            | 7,919           | 241,815,743      | 0.0126                     |
 
 # Appendix D – Scoot of Team
 
@@ -10050,7 +10053,7 @@ the land of ice and snow.
 ### The Canadian
 
 One of the first rules of historical research that every good Texan
-needs to know is; Question your sources. You might ask yourself, how do
+needs to know is: Question your sources. You might ask yourself, how do
 we know about the origins of the Brazos empire, but not about the fall?
 
 That’s a very good question. The answer is in the story.
@@ -11000,8 +11003,8 @@ August 2<sup>nd</sup>, 2022
 <tr class="odd">
 <td>1.00</td>
 <td>8/2/2022</td>
-<td></td>
-<td>First Publication</td>
+<td>122</td>
+<td>First Edition</td>
 </tr>
 <tr class="even">
 <td><ol>
@@ -11433,11 +11436,6 @@ I know who I’m going to ask for help.
 
 Thank you, June.
 
-<img src="media/image13.jpg" style="width:3.44518in;height:4.34052in"
-alt="A picture containing person, posing, blue, work-clothing Description automatically generated" />
-
-June Scobee Rodgers
-
 STEVE FAIRCHILD
 
 # Scoot(25)
@@ -11600,7 +11598,7 @@ Steve. He was the best engineer I’ve ever worked with.
 
 This work is dedicated to Steve Fairchild.
 
-<img src="media/image14.jpg" style="width:2.16667in;height:2.39583in"
+<img src="media/image13.jpg" style="width:2.16667in;height:2.39583in"
 alt="A picture containing person, outdoor, tree Description automatically generated" />
 
 Steve Fairchild
