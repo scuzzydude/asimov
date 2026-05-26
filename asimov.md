@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.58**
+**Version 0.59**
 
 There are only two true hedges against inflation. History and
 archaeology have proven they’ve both existed for as long as humanity.
@@ -766,7 +766,7 @@ the staking, seeding and development stages, as described in the
 only issue genesis asimov in exchange for scoot. A total of one trillion
 asimov will be minted and disbursed over 200 years according to the
 distribution schedule outlined in [Appendix
-B](#appendix-b-asimov-distribution-schedule).
+B](#appendix-a-asimov-distribution-schedule).
 
 After a Scoot is legally formed, it may participate in responsibility
 domain by registering the Scoot’s address. The Foundation shall charge a
@@ -1568,10 +1568,10 @@ it a try.”
 
 ### Reserve Stake
 
-By staking the asimov early, we establish real world value for before
-issuing for seeding and development. Development of this system will
-require time, work, and sacrifice from many idealistic people who desire
-a better world. There should be a large stake behind them.
+By staking The Foundation, we establish relative value for before
+issuing asimov for seeding and development. Development of this system
+will require time, work, and sacrifice from many idealistic people who
+desire a better world. There should be a large stake behind them.
 
 1% of total asimov will be issued for staking.
 
@@ -2028,10 +2028,10 @@ less paperwork.
 
 ### Billionaire meme
 
-I’m confident the smart billionaires will consent to this. There is a
-viral meme in the head of every billionaire, expressed in words to a
-beat, goes like this: *Imma be brilliant with my millions, loan out a
-billion, I get back a trillion*.[20]
+I’m confident some billionaires will consent to this. There is a viral
+meme in the head of every billionaire, expressed as words to a beat,
+goes like this: *Imma be brilliant with my millions, loan out a billion,
+I get back a trillion*.[20]
 
 Bill Gates and Warren Buffet started *The Giving Pledge* campaign, where
 a whole bunch of well-intentioned billionaires promised to give away
@@ -2040,15 +2040,15 @@ want to give back – to solve problems for the rest of us. This is
 glorious philanthropy and in no way am I criticizing the motivation.
 Charity by the wealthy and is responsible for so much that makes the
 United States a wonderful place to live. Around election time, there is
-a vocal chorus who like to point out how little the rich might pay in
-taxes, but they don’t include what the rich give out voluntarily.
+a vocal chorus of those who like to point out how little the rich might
+pay in taxes, but they don’t include what the rich give out voluntarily.
 
-I really believe Bill Gates motivations are pure, because he’s the most
-bad-ass businessman and coder in human history. He’s one of the true
-fathers of the digital age. And indirectly, he fostered the foundation
-of historical clarity. He didn’t need to be the richest guy in the world
-to set his mark on history, and the only professional stain is he was
-accused of being a monopolist. What’s worse, being an accused
+I really believe Bill Gates’s motivations are pure, because he’s the
+most bad-ass businessman and coder in human history. He’s one of the
+true fathers of the digital age. Indirectly, he has already fostered the
+foundation of historical clarity. He didn’t need to be the richest guy
+in the world to set his mark on history, and the only professional stain
+is he was accused of being a monopolist. What’s worse, being an accused
 monopolist, or a dictator for life? To Americans monopolist are cool,
 that’s why we play the children’s game called *Monopoly*. I don’t know
 what the hell kind of kid’s games they play in Finland.[21]
@@ -2074,12 +2074,12 @@ what was originally a hacker-yoga cult. John leverages his fleeting
 billionaire credibility into a reality-show sponsored moon trip for him
 and his yokers. The hackers crack the security of moon base *Eleanor,*
 and stage a non-violent coup. All moon dwellers are allowed to leave but
-only about ten percent voluntarily return to earth. The one hostage not
+only about ten percent voluntarily return to Earth. The one hostage not
 allowed to leave was Jude, Paul’s adopted and John’s biological son, who
 was on moon base *Eleanor* as part of 3<sup>rd</sup> grade field trip.
 There’s nothing anybody can do, since John holds the ultimate high
 ground over all the terrestrial powers*.* He unites with space dwellers
-across the moon and tourist stations and forms The United Federation of
+across the moon and in orbit and founds The United Federation of
 Planets. This organization is responsible to go to where no man has gone
 before. Within two generations, The Federation colonizes the stars, all
 using the warp drive developed by Jude.
@@ -2087,38 +2087,39 @@ using the warp drive developed by Jude.
 Who will history remember as the greater genius, Paul or John?
 
 One is Henry Ford, one is Thomas Jefferson. Compare the introduction to
-both men on Wikipedia. Henry Ford – antisemitic and a pacifist. Yet, his
-mastering of efficiency in manufacturing is what defeated Hitler but led
-to the generational prosperity of hundred millions across the world.
-Thomas Jefferson was brilliant beyond measure, and it there’s quite a
-few paragraphs in the introduction. We don’t get to his human flaws –
-that he owned slaves – until much later.
+both these men on Wikipedia. Henry Ford – antisemitic and a pacifist.
+Yet, his mastering of efficiency in manufacturing is what defeated
+Hitler and led to generational prosperity for hundred millions across
+the world. Thomas Jefferson was brilliant beyond measure, and it there
+are quite a few paragraphs in his introduction. We don’t get to his
+human flaws – that he owned slaves – until much later.
 
-I think it’s a worthwhile debate. They are two deeply flawed men, but
-how to we judge their flaws relative to the value they created.
+I think it’s a worthwhile debate. They are two deeply flawed men. How do
+we judge their flaws relative to the value they created?
 
-Thomas Jefferson, the man who cut the balls off royalty for good, with
-words both logical and defiant, was a master of men himself. Yet, to his
+Thomas Jefferson, the man who castrated royalty for good, with words
+both logical and defiant, was a master of men himself. Yet, to his
 brethren in the colonies, his peers, he was admired and respected,
 valued in both respect and property. In today’s values, he was a
-criminal, holding humans hostage and forcing them into labor against
-their will. Is that ironic? Or is it hypocrisy? Or – was Jeffersons own
-internal struggle what gave him the will to stand up against the king
-himself?
+criminal, holding people hostage and forcing them into labor against
+their will. Is that ironic? Or is it hypocrisy? Or – was Jefferson’s own
+internal struggle what gave him words to perfectly define what freedom
+means?
 
 Henry Ford mastered a process that was duplicated in millions of
 peaceful, commercial and military applications. This led to prosperity
 throughout the entire world. He might have been the most innovative
 engineer in American history, greater than Tesla himself in real value
 create because his innovation had such broad application.[22] Yet he
-hated Jews and used his wealth the power to influence others. In his
-day, he was valued tremendously. In today’s value system, he would be
-canceled. Yet, in today’s value system, he would not be a criminal, it’s
-a fundamental right to express your views you can hate who or what you
-want. When we talk about moral values, they are seen to be individual
-choices, our own values. Is it ironic, that Henry Ford, who hated Jews,
-invented the fundamental processes that allowed American industry to
-defeat Adolph Hitler, the most powerful anti-semite in History?
+hated Jews and used his wealth the power to influence others with his
+views. In his day, he was valued tremendously. In today’s value system,
+he would be canceled. Yet, in today’s value system, he would not be a
+criminal, it’s a fundamental right to express your opinion, no matter
+how stupid. You can hate who or what you want. When we talk about moral
+values, they are seen to be individual choices, our own values. Is it
+ironic, that Henry Ford, who hated Jews, invented the fundamental
+processes that allowed American industry to defeat Adolph Hitler, the
+most powerful antisemite in History?
 
 ….Irony – circular logic --- Regressive Integration, Karmic Integration
 applied to social systems….
@@ -2127,16 +2128,16 @@ In terms of a system, when you see a repeating pattern of conflicts that
 occur at an increasing frequency, this usually represents unbalanced
 resources. To fix it, you break the entire process apart and rebalance
 them. You build cars, and you notice that it takes one tire-installer
-four minutes to put four tires on a car, and that his stage of the
-assembly is where the production back up starts. You figure out, you can
-have four tire-installers put on a tire each, and since they don’t have
-to move around the car, it takes only 40 seconds. You not only cleared a
+four minutes to put four tires on a car, and that stage of the assembly
+is where the production back up starts. You figure out, you can have
+four tire-installers put on a tire each, and since they don’t have to
+move around the car, it takes only 40 seconds. You not only cleared a
 blockage, but you sped up the process by efficiency of motion.
 
 I call this process applied to engineered systems Recursive Integration.
 Most systems are dynamic – any time you change one part of the system,
 you need to apply the breakdown to the entire system and rebalance
-again. In engineering, it must re-measure all parts of the system, but
+again. In engineering, you must re-measure all parts of the system, but
 also re-examine the tools you use to measure. The benefit this constant
 reexamining of your methodology should lead to easy solutions. The
 measurement, the changing patterns, point you to the source of your
@@ -2146,14 +2147,14 @@ tire-installer robot with 4 tire-installer robots. Replace 1 CPU with 4
 CPUs.
 
 Applied to human systems, perhaps we should call this Karmic
-Integration. We call it hypocrisy or irony. As an engineer a recursive
-pattern that I know how to debug. The first step of problem solving is
-diagnosing the problem. To do that, you must have the right tools to
-measure.
+Integration. We call it hypocrisy or irony. As an engineer, a recursive
+pattern is something I know how to debug. The first step of problem
+solving is diagnosing the problem. To do that, you must have the right
+tools to measure.
 
 Wealth is what you are worth, and we measure that by a metric of
-property. Clearly, property is not represented of your worth to the rest
-of humanity. Genius value is what you are worth to the future.
+property. Clearly, property does not represent your worth to the rest of
+humanity. Genius value is what you are worth to the future.
 
 We can have scholarly debates about who was a greater creator of human
 value, Jefferson or Ford, and despite having a bunch of academics write
@@ -2167,14 +2168,14 @@ Historians weigh the values of a historical figure against the values of
 his time. It’s not that we don’t have data – we have plenty of data,
 especially about Ford. That data was based on how they valued property.
 Jefferson’s valuation of property was fundamentally flawed and was
-measured with the king’s gold. Desipte having expelled the king, and
-despite the rectiviatinon of a bloody civil war, Henry Ford build a
-commercial empire using his innovation but measured that value using the
-same king’s gold. And yet, despite his innovation lifting the prospects
-of poor but hardworking people globally, the distribution of wealth
-didn’t equalize, because it was the owners of the machines and factories
-that benefited the most, not the people who knew how to operate the
-machine and factories.
+measured with the king’s gold. Despite having expelled the king, and
+despite the rectification of a bloody civil war, Henry Ford built a
+commercial empire using with own innovation but measured that value
+using the same king’s gold. And yet, despite his innovation lifting the
+prospects of poor but hardworking people globally, the distribution of
+wealth didn’t equalize, because it was the owners of the machines and
+factories – the property - that benefited the most, not the people who
+knew how to operate the machine and factories.
 
 Did Jefferson need to own land and slaves to have value? Of course not.
 He was a writer and a thinker, but he lived in a time where most people
@@ -2182,50 +2183,53 @@ were poor, couldn’t read, and candles were expensive. Did Ford need to
 vocalize his personal views, fully aware that millions of people looked
 up to him as a man of great value judgement? Certainly, his value would
 be appreciated by many more people had he chosen to hold his opinion
-silent, and learn to expand his point of view.
+silent and learn to expand his point of view. Ideas are multiplicative,
+in both positive and negative directions. There is no doubt Henry Ford
+was a brilliant man. What ideas were possible if he’d opened his mind?
 
 Henry Ford and Thomas Jefferson both created tremendous value.
 
 Thomas Jefferson authored the blueprint for the true global revolution.
 Revolution burned like wildfire and the feudal powers were gone or
-nuetured in two hundred years. Only two hundred years, after being the
-status quo of governance since the dawn of civilization. Yet the end of
-feudal powers didn’t end inequality in real human terms, only in legal
-terms. What would the world look like today without Jefferson? In
-statistics terms, wins above replacement. In science fiction terms,
-maybe if there’d been no Jefferson, King George’s son Georgie Boy would
-have fallen in love with an American actress on a visit to the colonies
-and their grand love would have ignited a pro-Victorian renaissance that
-led to a of fabulousness that results in grand utopia of elegance, sort
-of like Neal Stephenson’s *Diamond Age*.
+sterilized in two hundred years. It only took two hundred years - after
+being the status quo of governance since the dawn of civilization. Yet
+the end of feudal powers didn’t end inequality in real human terms, only
+in legal terms. What would the world look like today without Jefferson?
+In statistics terms, what was his wins above replacement? In science
+fiction terms, maybe if there’d been no Jefferson, King George’s son
+Georgie Boy would have fallen in love with an American actress on a
+visit to the colonies and their grand love would have ignited a
+proto-Victorian renaissance that led to an age of fabulousness, that
+ultimately resulted in grand utopia of elegance, sort of like Neal
+Stephenson’s *Diamond Age*.
 
 Henry Ford revolutionized more than just the automobile. Engineering
 wasn’t really extended to dealing with labor before Henry Ford.
 Generally, in urban environments, if you were a skilled at some facet of
-industry, you were good and fast because if you weren’t somebody was
+industry, you were good and fast because if you weren’t, somebody was
 going to beat you down and take your job and your family was going to
 starve. Brutal life, but I don’t think that’s an overdramatization.
 Henry Ford equalized a system of labor. He made it so that it didn’t
-really require much education, or much skill, or much intelligence, that
-in a large system, there would be a place where you might fit, as long
-as you were willing to work hard and learn how to do at least one thing
-well, you could earn a good living. He broke down a system in integrated
-it using equalization of ability. If you were too fast for your job that
-meant you could move up. That motivated you. The old way rewarded those
-who were willing to hurt somebody to take a job. Pretty good historical
-drama value, but in terms of real value, Henry Ford changed the world.
+really require much education, or much skill, or much intelligence, in a
+large system, there would be a place where you might fit. If you were
+willing to work hard and learn how to do at least one thing well, you
+could earn a good living. He broke down a system and integrated it using
+equalization of ability. If you were too fast for your job that meant
+you could move up. That motivated you. The old way rewarded those who
+were willing to hurt somebody to take a job. In terms of real value,
+Henry Ford changed the world.
 
 Back to our hypothetical billionaires. Future humanity will value
 billionaire John more than Paul, and they’ll use the values of ideas
 because the value of property isn’t relative to anything anymore. The
-starts and property are infinite. It won’t matter that he was a both a
-dead-beat dad and a kidnapper of his own son, as well a backstabbing
-dream usurping friend, he had the vision that created more value for all
-of humanity.
+stars, and thus property, are infinite. It won’t matter that he was a
+both a dead-beat dad and a kidnapper of his own son, as well as a
+backstabbing dream usurping friend, he had the vision that created more
+value for all of humanity.
 
-Scoot ain’t like that. Scoot is like Paul and John with George and Ringo
-and started a Scoot for the United Federation of Planets and did a
-reunion tour and tricked all the rich people and celebrities into
+Scoot ain’t like that. Scoot is like Paul and John get with George and
+Ringo and started a Scoot for the United Federation of Planets. They do
+a reunion tour and trick all the rich people and celebrities into
 converting all their property wealth into the development of a
 sustainable path to the stars. John and Paul share custody of Jude’s
 kid’s Vera, Chuck and Dave while Jude’s off testing the warp drive.[23]
@@ -2246,64 +2250,62 @@ Approaching dangerous territory here, perhaps a different approach.
 
 ### Deterministic Mythology 
 
-So really, who should we value in history? What values should we strive
-to measure? It’s an important question, but it’s a measure of real value
-to humanity at large. A place in history. A legend.
+Who should we value in history? What values should we strive to measure?
 
-Techno-billioans got rich using data, so they understand the presistance
-of data. This is where the meme comes in. *Imma be brilliant with my
-millions, loan out a billion, I get back a trillion.*
+Techno-billionaires got rich using data, so they understand the
+presistance of data. This is where the meme comes in. *Imma be brilliant
+with my millions, loan out a billion, I get back a trillion.*
 
-History is a study that looks at two types of data. Primary sources,
-such as writing or archives of Instnagram posts and tweets, or you Tube
-videos. The further back in history you go, the harder it is to
-interpret these kinds of sources. Changes in language are one problem,
-but the real problem is context. When you a writer or a content creator
-of time, you usually consider your audience someone of your time.
+The study of history looks at two types of data. Primary sources, such
+as writing, Instragram posts, tweets, TikToks and YouTubes. The further
+back in history you go, the harder it is to interpret these kinds of
+sources. Changes in language are one problem, but the real problem is
+context.
 
-The other kind of context is artificats, or indirect sources.
+The other kind of context is artifacts, or indirect sources.
 Circumstantial evidence. This is where history merges into science and
-imagination is more powerful than knowelege. We read into circumnstance
-what we want to read in to it. We have no idea of real context, of how
+imagination is more powerful than knowledge. We read into circumstance
+what we want to read into it. We have no idea of real context, of how
 they valued anything, especially property.
 
 Order tends to lead to chaos. History tends to repeat itself. The chaos
-equalizer of history so far is that despite living longer and having
+equalizer of history so far, is that despite living longer and having
 more time with our parents and grandparents, we continue to make the
-same type of historical mistakes over and over again. The problem is
-innovation itself, and the lack of historical contexst of value. In
-Jefferson’s time, his way of life, and the way of life of his
-grandparents, was not very different. They lived shorter lives, but had
-stronger real connection to their parents way of life. I compare that to
-my life – my prosperous easy life of typing code into a keyboard and
+same type of historical mistakes, generations after generation. The root
+cause is innovation itself, and the lack of historical contexts of
+value. In Jefferson’s time, his way of life, and the way of life of his
+grandparents, was not very different. They lived shorter lives but had
+stronger real connection to their parent’s way of life. I compare that
+to my life – my prosperous easy life of typing code into a keyboard and
 getting paid for it – is so different from the lives of my grandparents.
-In terms of efficienty and easy of live, my grandfather’s life was
+In terms of efficiency and easy of live, my grandfather’s life was
 closer to Jefferson than it was to mine. And my children? What magic to
-read anything to listen to anything to watch anything you want wherever
-you want whenever you want. To have endless treasures of data with
-various levels of factuality at your disposal at an instant, for their
-entire lives?
+it is to read, listen, and to watch anything you want wherever you want
+whenever you want. To have endless treasures of data with various levels
+of factuality at your disposal at an instant. My children have had that
+in some form their entire life.
 
-So there are two sets of data we are currently creating for the future.
-The artifacts – the digital debris of our daily lives – will persist in
-perputiuity. The future shall have no shortage of data to try to
-interprest, despite the constant acceleration of innovation skewing the
-context of their interpretation further. The commonality of this data is
-it’s measured relative to property. Perhaps that should be the pledge of
-the tech-giants, “We are keeping your data safe for history.”
+We are creating two sets of data for the future. The artifacts – the
+digital debris of our daily lives – will persist in perpetuity. The
+future shall have no shortage of data to try to interpret, despite the
+constant acceleration of innovation skewing the context of their
+interpretation further. The commonality of this data is it’s measured
+relative to property.
 
-The future will also have a multittue of primary source material to
+The future will also have a multitude of primary source material to
 understand us. Sure, some people will write books, but a lot more will
-tweet their random thoughts or take post photos of their breakfast. The
-can use retweets and likes as a measurement of real value.
+tweet their random thoughts or post photos of their breakfast. I’m
+perfectly happy with South Park being the official chronicle of my life
+as an adult. Not sure if everyone else will agree, especially Tom
+Cruise.
 
 Or we can have a measurement of real value, and provide the future with
 valuable data of how we value our ideas in our time, but how those
-values we’re passed onto future generations. These values – this is The
+values we’re passed onto future generations. These values are The
 Foundation’s responsibility tree. The future will be able to trace
 wealth created and how it grew and changed hand through time, what ideas
 that wealth fostered, and the value of those ideas created. This is the
-data that is the wealth of man, the true treasure of man kind.
+data that is the wealth of man, the true treasure of mankind.
 
 And that will be wonderful, for if the future spots inefficiencies of
 values, bad ideas that keep repeating themselves, cycles of vanity where
@@ -2325,10 +2327,56 @@ value in the present – for the future.
 It's also a way to value the past. That means that today – the present,
 are the last creators of undeterminisc mythology. It is our
 responsibility to measure of values realteve to all that have come
-before us, and we are creating a permannt record – digital stone – for
+before us, and we are creating a permanent record – digital stone – for
 the future of mankind. The past is well charted territory in the past
 millenum, but what isn’t yet recorded is what that history means to us
-now. Relative to
+now.
+
+It means the creators of digital stone are the last generation to create
+undertminstic mythology. We’ll still have historical myths, but they’ll
+be traceable. New ideas, new values sets, they’ll have a trace.
+
+I think South Park is the perfect chronicle for the last twenty five
+years of history. Because if they future looks at all the primary
+sources and tries to figure out what the hell we were thinking, they
+will South Park will be the only way they’ll be able to frame it.
+Through the eyes of children, you understand the world, just like Huck
+Finn. How else can we understand the abusrd.
+
+Tom Cruise, and perhaps others would prefer a different chronicle, and
+that is their right. This is why we have a measure of value. Historical
+chrionciles meause. They can use their own measure for the source
+material, but they will have a fair value of how we in our time measured
+it.
+
+Future historians are a super large job market that creates a negative
+value trap on society, these people who just sit around all day long and
+watch YouTube videos and TikToks from the 20s trying to understand our
+ideas and motivations. In the future, telling your mom your’re going to
+be a histoirian is equivalent to saying don’t clean out your rome,
+you’ll be sticking around for awhile. Come to think of it, that’s what
+telling your mom you’re going to be a historian means now. Talk about a
+zero accountability professions, we keep making the same mistiakes and
+they get to write the same story over and over.
+
+Or we can tell them, this is what it was like, really, this is how we
+measure. We laugh it ourselves too, and then we fixed it and found
+something else to laugh about. That’s that way it should be.
+
+We get to say what present maeans to us now. And we get to say what the
+past means to us.
+
+It means no more excuses. There’s an accounting. In this time, we had a
+chance to review all the ideas of man, and place value on them, and
+remember them. We create digital stone of what was important to
+remember, so that we could make sure mistaken paths in the genealogy of
+ideas were blocked systematically, so that we could progress as a
+peaceful civilization as rapidy as we have progressed in tehcnloglogy.
+
+This is a histiroical responsibility. I chance to set right a lot of
+wrongs, and make the world a better place.
+
+In this system, histirocal responsbiley represents historical wealth.
 
 ### Recursive History
 
@@ -2339,6 +2387,75 @@ application of basic engineering principle, and self-respecting
 techno-billionare should understand. They rest of y’all can skip ahead
 if you’d like. The truth is, it’s really no more complicated than the
 innovation of adding tire installers on the assembly line.
+
+Ironies of history are not limited scope of decades. They happen all the
+time, in different scopes. Masters Parker and Stone have turned
+observation of these in recent of events of the time into a narrative
+mash-up of masterpiece theater, and they do it on a weekly basis. If I
+could some up their grand thesis, it would be, “Through the eyes of
+children, adult society is ridicuoulous.” Exactly like *Huck Finn*,
+these two are the direct genius heirs of Mark Twain.
+
+I make this point, because I’m trying to get the billionaire’s
+attention, because there is a verse in the meme that is only thought
+silently, altogether, it goes; *brilliant with my millions, loan out a
+billion, I get back a trillion, before I’m dead.*
+
+The data will be immediately valuable, and it’s what will give
+billionaires the leverage of trillionaires.
+
+When debugging a system, we use dimensions of data. If you can debug a
+system with a single dimension, it’s usually a pretty simple system. For
+instance, if you measured the amount of time it took for each stage of
+automobile assembly time before fixing the bottleneck, you’d probably
+measure that all stages were slow, because the line would be constantly
+backed up at the tire-installation. However, if you measured the “single
+unit” latency of each stage of the system, you’d get different data.
+This would involve of clearing the assembly line, and building only one
+car, using a stopwatch at each stage. Then you’d measure all the stages
+were under forty seconds, the backup is the tire-installation which
+takes over a minute. This isn’t a hyptotherical – people who invest
+millionas in assembly lines don’t like stop the assembly line so
+engineers can measure things, but sometimes that’s all it takes.
+
+In historical terms, we only have one dimension of deterministic
+data[25], and that is value measured in terms of property. Everything
+else, the written word, photographs, paintings, songs, is always subject
+to interpretation, and isn’t engineering data.
+
+The truth is we are creating too many artifacts that are uniteruptable
+to the future. Historical Drama set design will be a breeze, an AI will
+be able to do that. Understanding our values based on media, news or
+even written prose will be imposible.
+
+Take the value of a song. I remember as a middle-schooler one thing I
+spend money on was blank-cassette tapes. I couldn’t afford to buy many
+tapes of full-albumns, and in most cases, didn’t want to listen to a
+bunch of lame songs when I only really wanted to hear one or two. There
+were several methods of doing this. You could sit by your boombox and
+patiently wait for a song you wanted to come on and the radio and hit
+‘record.’ If you had a fancy boombox with dual tapes, you could find a
+buddy with the album and tape the sounds you wanted from him. Or if
+you’re buddy had cool parents and an LP you could record from vinyl. It
+was a terrific investment of both money and time, but worth it, because
+I valued the songs I wanted to listen to very highly.
+
+Versus my daughter, for less than today’s equivalent of a single
+blank-cassestte, she can listen to any song she wants by any artists as
+much as she wants for a month.
+
+Are the songs I listened to worth more than the songs she listened to?
+Of course they are, even then I mostly listened to Led Zeppelin, and as
+much as I like her turns, come on. Objectively, in terms of engineering,
+no. Measured in terms of dollars, of course my songs were worth more in
+dollars. That expense, either on a store-bought almbum, or as a boombox
+prirate, was much greater in relative terms than what she spends. You
+couldn’t use “plays” either. Snce I was limited to the few songs that I
+had recorded or bought, I tended to play them often than she does,
+though I have listend to *Picture to Burn* just about as many times as
+some of Zeppelin back-cuts. Both measures are one dimentionsals, using
+that data can to equivalate the value of a songs to people just thirty
+years apart.
 
 Recursive algorithms are one of the most use tools we have in
 programming. Typically, it’s use in situations where you want to break
@@ -2407,7 +2524,7 @@ governments. The Louvre and all the art inside, including Da Vinci’s
 describing it is that the people of France, collectively, have chosen to
 be responsible for the appreciation of the works of genius housed in The
 Louvre for the rest of humanity. There’s a single French word for that
-last sentence, and it’s *Ironique*.[25]
+last sentence, and it’s *Ironique*.[26]
 
 The currency value of the contents of the Louvre is estimated to be over
 $100 billion. Others say it’s priceless. Let me ask you this, what’s the
@@ -2433,16 +2550,16 @@ Jean-Luc’s offspring. Jean-Luc spent his share of the national treasure
 on hookers, blow and Earl Grey tea. Nothing left to pass on to Wesley.
 
 Is there a better way? What if you scooted the Louvre and issued a
-single scoot to each baby born as a citizen of France?[26] Once the baby
+single scoot to each baby born as a citizen of France?[27] Once the baby
 reaches adulthood, he can trade the scoot or hold it – totally
 voluntary. Once the citizen dies, the assigned scoot ceases to exists,
-no matter who holds it.[27] You’ve got an arbitrage marketplace not only
+no matter who holds it.[28] You’ve got an arbitrage marketplace not only
 of appreciating genius but also of promoting cultural tourism and
 keeping citizens healthy (or at least alive) for as long as possible.
 You could tie it to a national health care system or life insurance.
 There could be a popular movement to hold your national treasure for the
 pure genius appreciation factor. Maybe the national treasure funds
-funeral expenses for those who manage a life of pure appreciation.[28]
+funeral expenses for those who manage a life of pure appreciation.[29]
 This scoot-chain would also serve as a national registry and replace
 need for a census of citizens.
 
@@ -2465,7 +2582,7 @@ First, you divide up all the royal estates, castles, jewelry, and art
 that you consider not the property of the Queen herself but belonging to
 the British people. While you’re doing this inventory, you can return
 all the artwork stolen from the colonies. Make a National Treasure from
-this inventory.[29]
+this inventory.[30]
 
 #### Scoot of the Crown (SOC)
 
@@ -2484,9 +2601,9 @@ responsible for it. It’s a scoot of the *Crown* so maybe the current
 monarch serves as the scoot trustee and has the duty to preserve the
 history of genius of the kings and queens of England. Many of them did
 some great things. If you’ve watched the historically accurate
-docu-series *The Tudors*, you would know King Henry VIII was the
-inventor of the modern-day divorce industry. Maybe awarding a knighthood
-becomes like the Nobel prize for divorce lawyers.
+docuseries *The Tudors*, you would know King Henry VIII was the inventor
+of the modern-day divorce industry. Maybe awarding a knighthood becomes
+the Nobel prize for divorce lawyers.
 
 ## Amnesty
 
@@ -2530,7 +2647,7 @@ in stolen artwork will be barred from the responsibility domain forever.
 In Basketball, there is a consensus that Michael Jordan is the greatest
 of all time (GOAT). I have a dissenting opinion and think that the GOAT
 is the only other player to win MVP and Defensive Player of the Year in
-the same year who was picked ahead of Jordan in the 1984 NBA draft.[30]
+the same year who was picked ahead of Jordan in the 1984 NBA draft.[31]
 Others will argue that Bill Russell, Kareem Abdul-Jabbar, Kobe Bryant or
 Lebron James is the GOAT. Basketball, like most sports, has statistics
 for every facet of the game, it’s not an argument that can be easily won
@@ -2541,7 +2658,7 @@ it, and probably always will.
 
 The simple explanation is that those who believe Michael Jordan is the
 GOAT value vanity, while the enlightened few, like myself and all of
-Nigeria, value basketball genius.[31] If I were a billionaire, I might
+Nigeria, value basketball genius.[32] If I were a billionaire, I might
 spend it all building an amusement park called *Dreamland* with rides
 with names like *Bamboozled* and *The Dream Shake*, and a full 3-D first
 person immersion of all of Olajuwon’s greatest blocks and dunks against
@@ -2550,7 +2667,7 @@ is the GOAT, *Dreamland* would be an act of vanity. Nobody elected me
 the arbiter of basketball genius, it would be vain for me build this
 monstrosity. Also, very American. Since it would be in Houston, it would
 be bigger than Disney World, as everything is bigger in Texas. Mike and
-Mickey, imagine what twenty years of subsidizing[32] destination
+Mickey, imagine what twenty years of subsidizing[33] destination
 vacations for the families of the world will do for that GOAT consensus.
 
 Consensus does not make genius. There is no consensus is to what makes a
@@ -2562,7 +2679,7 @@ that Leonardo Da Vinci was one of the greatest artists who ever lived.
 In music, there is John Bonham.
 
 John Bonham, the drummer for the Led Zeppelin, is almost universally
-recognized as the greatest drummer in history.[33] I feel that is
+recognized as the greatest drummer in history.[34] I feel that is
 selling Bonham short. John Bonham is almost certainly the greatest
 musician who ever lived. Since recorded music is barely a hundred years
 old, it is hard to disprove.
@@ -2585,7 +2702,7 @@ if humanity lost the value of John Bonham’s genius.
 ### Agency
 
 With physical artwork the basis of scoot is straight-forward. The
-**scootage** is responsible for the preservation of an artist’s physical
+scootage is responsible for the preservation of an artist’s physical
 expression of genius. Around artwork, it’s easy to build and accumulate
 the historical record of both the artist and the artifact on the
 scoot-chain. It’s also quite clear what the responsibilities are –
@@ -2628,44 +2745,45 @@ legacy of genius back in the early nineties. The force would have a
 telephone conversation with Kevin, the part we could hear would be like
 this:
 
-> “You know Kev, you do well when you’re wearing a uniform, really, any
+> *“You know Kev, you do well when you’re wearing a uniform, really, any
 > sort of uniform. Or playing a dumb cowboy. Or a dumbass farmer. Mad
-> Max on jet-skis isn’t really your thing, and Gibson’s got the accent.”
+> Max on jet-skis isn’t really your thing, and Gibson’s got the
+> accent.”*
 >
-> “Kevin, reality check, that wasn’t an accent.”
+> *“Kevin, reality check, that wasn’t an accent.”*
 >
-> “No Kev, Mel Gibson is actually crazy. You’ve seen *Lethal Weapon*.
-> You can’t fake that stuff. Trust me, as a benevolent force, just wait
-> a few years, the whole world will know that’s real crazy. Stay in your
-> lane. I’m thinking, *Field of Dreams, Shoeless Joe’s Revenge*. Liotta,
+> *“No Kev, Mel Gibson is actually crazy. You’ve seen Lethal Weapon. You
+> can’t fake that stuff. Trust me, as a benevolent force, just wait a
+> few years, the whole world will know that’s real crazy. Stay in your
+> lane. I’m thinking, Field of Dreams, Shoeless Joe’s Revenge. Liotta,
 > he’s stuck over there with you in Iowa, and so now he wants to go back
 > to the MLB. Now you’re his dumbass farmer agent, you get the Majors to
 > give Shoeless Joe a pass for all the cheating, and the White Sox go to
 > the World Series, and you’re like still a dumbass farmer at the end,
-> with your family and the corn and the voices. Women will love it.”
+> with your family and the corn and the voices. Women will love it.”*
 >
-> “They beat the Astros.”
+> *“They beat the Astros.”*
 >
-> “I know, I know, but it’ll make more sense in the future looking
-> backwards.”
+> *“I know, I know, but it’ll make more sense in the future looking
+> backwards.”*
 >
-> “No, Kev, wearing a mailman’s uniform wouldn’t make it work. I’m not
-> getting through to you.”
+> *“No, Kev, wearing a mailman’s uniform wouldn’t make it work. I’m not
+> getting through to you.”*
 >
-> “I’ll just be blunt, Kev. No audience is ever going to buy you as any
+> *“I’ll just be blunt, Kev. No audience is ever going to buy you as any
 > kind of post-Apocalyptic hero. You wouldn’t last five minutes if the
-> world ended. You’re the good-looking dumbass farmer, it’s like you’d
-> have a target on your back. People are only scared of you if you bring
-> Sean Connery along, and I can’t see him on a jet-ski.”
+> world ended. You’re the good-looking dumbass farmer. You’d have a
+> target on your back. People are only scared of you if you bring Sean
+> Connery along.”*
 >
-> “No Kev, you can’t do a *Field of Dreams* with basketball. Nobody is
-> going to buy that either.”
+> *“No Kev, you can’t do a Field of Dreams with basketball. Nobody is
+> going to buy that either.”*
 >
-> “He is like a dumbass farmer. But he’s 6’9” and only sounds like a
-> dumbass. People can tell the difference.”
+> *“He is like a dumbass farmer. But he’s 6’9” and only sounds like a
+> dumbass. People can tell the difference.”*
 >
-> “Now we’re talking. You’re a dumbass drunk golfer, with the girl from
-> *Lethal Weapon*. Genius!”
+> *“Now we’re talking. You’re a dumbass drunk golfer, with the girl from
+> Lethal Weapon. Genius!”*
 
 To avoid future *Waterworld* like travesties, is there a way we can
 balance income in the present against legacy of genius and reward both
@@ -2674,7 +2792,7 @@ the artists and the agent?
 ### Scoot of Agency (SOA)
 
 A Scoot of Agency (SOA) would work like this. A Scoot is minted with a
-creative artist and the scoot trustee hires an agent.[34] This could be
+creative artist and the scoot trustee hires an agent.[35] This could be
 at the sole discretion of the trustee or an elective process by the
 scootage. The SOA receives twice the standard agent’s percentage of an
 artist’s income – so for the example, 20%. The exact percentage doesn’t
@@ -2791,8 +2909,8 @@ proportional conversion and dilution of PrAS-scoot to SOA-scoot. They
 might issue token amounts of scoot in arbitrary manner. They may decide,
 all those adults were in it for their own interests and lock them all
 out. A mentor they thought was scoot worthy at seven years old might
-turn out to be a real creep. The **responsibility tree** is discernable
-from the scoot-chain, may be hidden but should be shareable.[35] How an
+turn out to be a real creep. The responsibility tree is discernable from
+the scoot-chain, may be hidden but should be shareable.[36] How an
 artist treats those who helped them without any financial incentive to
 do so is a reflection on their character and their potential genius.
 
@@ -2864,7 +2982,7 @@ digital record can – and should – last forever.
 Since it’s a digital record, the preservation method is the scoot-chain
 protocol. It’s built in and immutable. You can improve upon a digital
 capture of an expression of genius, but the original will also always be
-kept.[36]
+kept.[37]
 
 How does this apply? Let’s think about music. One advantage most
 musicians at the end of the last millennium had over those at the
@@ -2939,9 +3057,9 @@ For me, Tesla’s name is now remembered most often as a curse I spit
 every time one of those silent predators roll up on me while I’m talking
 a walk.
 
-Here’s the thing. From all accounts, Nikola Tesla was as brilliant,
-weird, wild and whacked out as Elon Musk. You can understand why Mr.
-Musk would want to name his car company after Nikola Tesla.
+From all accounts, Nikola Tesla was as brilliant, weird, wild and
+whacked out as Elon Musk. You can understand why Mr. Musk would want to
+name his car company after Nikola Tesla.
 
 Despite being a Houston Rockets fan first, a Texan second, and an
 American third, I have been living in Colorado Springs in the shadow of
@@ -2959,18 +3077,14 @@ huge "magnifying transmitter" Tesla coil which is producing 22 foot
 bolts of electricity. 1901.
 
 This is what Tesla lab in Colorado Springs looked like. If you were a
-child in the early years of the twentieth century with any interest at
-all in science or how the world works, can you imagine anything more
-inspiring than the picture above? As a kid in Houston, I visited the
-Johnson Space Center many times and the rockets and the control room
-were inspiring as hell, though with all honestly, the engineers I saw
-with their pocket protectors and bad glasses hanging out in the smoking
-area didn’t inspire me at all to become an engineer. Can you imagine the
-awe kids must have felt, seeing with their own eyes a photograph of an
-engineer and his ability to control the forces of nature? How many of
-those kids grew up to be engineers that changed the world during WWII
-and the years that followed? How many of them went on to invent the
-transistor or work at NASA? I bet it was more than a few.
+child in the early years of the twentieth century with any interest
+science or how the world works, can you imagine anything more inspiring
+than the picture above? Can you imagine the awe kids must have felt,
+seeing with their own eyes a photograph of an engineer and his ability
+to control the forces of nature? How many of those kids grew up to be
+engineers that changed the world during WWII and the years that
+followed? How many of them went on to invent the transistor or work at
+NASA? I bet it was more than a few.
 
 Electricity powers everything we do. Kids today intuitively understand
 how software and digital devices function as applications of technology.
@@ -2997,17 +3111,17 @@ Peak Avenue, May 2021. Erected by Al Packer #100 Ancient & Honorable
 Order of E Clampus Vitus, June 2017.
 
 The picture above shows a plaque at near the site of Tesla’s Colorado
-Springs laboratory. That’s all there is. Tesla was quite the inventor
-and a wild and crazy guy, he was not the businessman that Mr. Musk is.
-Turns out while he made some of his most significant discoveries the
-year he ran his lab in Colorado Springs, he didn’t pay his electricity
-bill. The citizens of the Springs were quite fed up with him, having
-already blown up a dynamo at the power station with his experiments. The
-lab was torn down, and the contents sold at auction.
+Springs laboratory. That’s all there is. While Tesla was a genius and a
+wild and crazy guy, he was not the businessman that Mr. Musk is. Turns
+out while he made some of his most significant discoveries the year he
+ran his lab in Colorado Springs, he didn’t pay his electricity bill. The
+citizens of the Springs were quite fed up with him, having already blown
+up a dynamo at the power station with his experiments. The lab was torn
+down, and the contents sold at auction.
 
-The plaque above was erected by the *Al Packer*[37] *Chapter of E
+The plaque above was erected by the *Al Packer*[38] *Chapter of E
 Clampus Vitus*, an organization dedicated to the preservation of the
-heritage of the American West.[38] Nikola Tesla had a minor role in the
+heritage of the American West.[39] Nikola Tesla had a minor role in the
 American West, he had a major role on the world stage. From what I can
 tell, the actual site of the laboratory is just north of the plaque in a
 residential block.
@@ -3033,10 +3147,10 @@ Belgrade. This is appropriate, his family had the right to dispose of
 his property and Serbia certainly has every right to be proud of their
 native son. However, Nikola Tesla was a proud naturalized citizen on the
 United States. The H-1B visa should be called the Tesla visa – there is
-no better model immigrant engineer than Nikola Tesla.
+no better model immigrant engineer than Nikola Tesla.[40]
 
-Now, before I throwdown my challenge, I need to admit my own hypocrisy.
-I have been known to name things after geniuses, without any expectation
+Before I throwdown my challenge, I need to admit my own hypocrisy. I
+have been known to name things after geniuses, without any expectation
 that my creations live up to that level. It’s more about inspiration
 that name of a genius confers. Tesla the car does inspire, and maybe the
 inspiration of genius is more important than the facts. However, in the
@@ -3072,20 +3186,20 @@ I believe genius exists in every profession, even the legal one.
 Elon Musk has access to an army of attorneys. When he says jump, they
 say, “With how many Newtons of force and at what vector, Elon?”
 
-That is my challenge, for Elon Musk to create a Post-Agency Scoot for
-Nikola Tesla.[39] Maybe this becomes a wrapper organization around the
+That is my challenge, for Elon Musk to fund a Post-Agency Scoot for
+Nikola Tesla.[41] Maybe this becomes a wrapper organization around the
 existing museums, and I hope that it would re-create Tesla’s Colorado
-Springs Lab as a learning center for children.[40]
+Springs Lab as a learning center for children.[42]
 
-I think that this **Scoot** should award the Tesla Prize. The Tesla
-prize should go to the greatest engineering accomplishment of the year
-that benefits humanity in the spirt of Nikola Tesla.
+I think that this Scoot should award the Tesla Prize. The Tesla prize
+should go to the greatest engineering accomplishment of the year that
+benefits humanity in the spirt of Nikola Tesla.
 
 There were rumors that both Edison and Tesla were up for the Nobel prize
 in physics, but because of their feud, the Nobel committee declined to
 award it to either man. Besides his alternating current work, which was
 truly monumental, Tesla was a pioneer in radio, X-Rays, automation,
-robotic and even what would later become atomic physics.
+robotics and even what would later become atomic physics.
 
 I think Nikola Tesla should have been awarded the Nobel Peace Prize.
 
@@ -3098,9 +3212,9 @@ https://ourworldindata.org/life-expectancy#twice-as-long-life-expectancy-around-
 The chart above shows from 1890, the year of the first commercial
 application of Tesla’s AC inventions, to 1990 life expectancy in the US
 rose from 45.2 to 75.2 years, an increase of 66%. It’s noteworthy that
-in 1890, The United States was already one of the most advanced
-countries in the industrial age, and a life expectancy of 45 years was
-much higher than the world average of around 30 years. In that same time
+in 1890, The United States was already one of the properous countries in
+the industrial age. The U.S. had a life expectancy of 45 years was much
+higher than the world average of around 30 years. In that same time
 period, the World average doubled – 100%. Modern medicine wants to take
 most of the credit for that, with lower rates of infant mortality,
 higher standards for hygiene and care, and broader access to doctors
@@ -3109,27 +3223,26 @@ of credit.
 
 Let me ask you this - What’s the success rate of Caesarian sections by
 candlelight? How often do anesthesiologists just wing it without using
-heart and respiratory monitors?
+heart and respiratory monitors? How effective are growing cultures at
+room temperature by candlelight?
 
-I don’t think medicine in the primary driver in the worldwide increase
+I don’t think medicine is the primary driver in the worldwide increase
 in longevity. As an American with employer paid health insurance, I’ve
 seen a lot of doctors in my life, but I’m guessing that’s not true for
 most of the billions on this planet.
 
-Between alternating current and the internal combustion engine – which
-Elon Musk is trying to replace with cleaner more efficient alternatives
-– no other inventions have done so much to reduce the raw physical
-burden of everyday work that mankind must perform to feed and shelter
-himself and his family. Difficult, strenuous, backbreaking physical
-exertion just to provide subsistence. Work that shortens lives through
-both risk and wear. Not only that, for all you animal lovers, these
-inventions have exponentially reduced man’s dependence on beasts of
-burden.
+Between alternating current and the internal combustion engine[43] no
+other inventions have done so much to reduce the raw physical burden of
+everyday work that mankind must perform to feed and shelter itself.
+Difficult, strenuous, backbreaking physical exertion just to provide
+subsistence. Work that shortens lives through both risk and wear. Not
+only that, for all you animal lovers, these inventions have
+exponentially reduced man’s dependence on beasts of burden.
 
 Nikola Tesla stood on the shoulders of giants before him, a tower of
-innovation and imagination dating back to ancient Greece. An argument
-can be made that an electrification of the world was inevitable. Edison
-was promoting a DC scheme, and other inventors were working on AC
+innovation and imagination dating back to ancients. An argument can be
+made that an electrification of the world was inevitable. Edison was
+promoting a DC scheme, and other inventors were working on AC
 innovations during the same time period as Tesla. Nikola Tesla single
 handedly invented an entire system of both generation, distribution and
 locomotion using alternating current. There’s been improvement and
@@ -3276,7 +3389,7 @@ want it.
 
 However, I draw the line at Parks and Natural Wonders – Nature’s bounty.
 Yosemite, Pike’s Peak, Niagara Falls, The Grand Canyon, and the Hallowed
-Grounds of Lakewood Church in Houston, Texas[41].
+Grounds of Lakewood Church in Houston, Texas[44].
 
 I believe that once Scoot is well established as a system of valuing
 responsibility, a similar system could be set up for Nature’s Bounty.
@@ -3399,10 +3512,10 @@ for oil. Paintings, John. French Paintings.”
 to his headquarters.
 
 Bruce and his grandson pull an all-nighter watching a geek use
-sophisticated software to go through assault scenarios they could run to
-destroy Drogo or force him out of the Louvre. Drogo has gas masks and
-chemical suits and armored vehicles and a thousand troops. Joe Jonas has
-a large die-hard team of over a hundred bad-asses, and they usually can
+sophisticated software going through assault scenarios they could run to
+destroy Drogo or force him out of the Louvre. Drogo has gas masks,
+chemical suits, armored vehicles and a thousand troops. Joe Jonas has a
+large die-hard team of over a hundred bad-asses, and they usually can
 take on odds of at least fifty to one, but nobody has ever asked them
 not to damage the contents of a building before. They run it through,
 and the best scenario they can come up with is 20 to 30 casualties.
@@ -3454,8 +3567,8 @@ war over art!”
 
 Cut to election day, where McConaughey is reelected in a landslide.
 Standing next to him while he makes his victory speech is Bruce Willis
-and Joe Jonas, and just off to the side, like Anakin at the end of
-*Return of the Jedi*, the ghost of Leonardo.
+and Joe Jonas. Just off to the side, like the Ben, Yoda and Anakin at
+the end of *Return of the Jedi*, the ghost of Leonardo.
 
 In Paris, Samuel L. Jackson watches the victory speech with tears in his
 single eye. He lays down his arms.
@@ -3587,11 +3700,11 @@ There is no direct role for a brokerage, but there is for a broker.
 There’s no role for a bank, but there is for a banker. No role for a
 marketing firm, but there is for marketeers, advertisers, and public
 relations people. For every specialty in the business world, there is a
-role in the responsibly domain. And lawyers, lawyers will box score a
-double-double in a dual threat economy. Mark Twain said, “If it’s good
-for the lawyers, better get a cushion.” I take that to be old-timey talk
-for, if they if the lawyers be making bank, you can just kick it and
-chill.
+role in the responsibly domain. And lawyers - lawyers will record a
+double-double in the box score of a dual threat economy. Mark Twain
+said, “If it’s good for the lawyers, better get a cushion.” I take that
+to be old-timey talk for, if the lawyers be making bank, you can just
+kick it and chill.
 
 Companies whose is primary value contribution to the economy is
 intellectual property or process ingenuity may thrive in a new economy.
@@ -3600,12 +3713,13 @@ goods or the sell the fruits of the earth – you must innovate to
 compete.
 
 There is a role for the corporation in the genius economy. Maybe
-corporate overlords and drones transform themselves into the experienced
-and disciplined samurai warriors, plying their trade as gig workers in
-the genius economy. Or maybe the corporate structures transform into an
-analog of the coaching staff of team sports – they play a strategic game
-and put teams of pledges to work together towards a common purpose in
-the responsibility domain, but do not take the field themselves.
+corporate overlords and their drones transform themselves into the
+experienced and disciplined samurai warriors, plying their trade as gig
+workers in the genius economy. Or maybe the corporate structures
+transform into an analog of the coaching staff of team sports – they
+play a strategic game and put teams of pledges to work together towards
+a common purpose in the responsibility domain, but do not take the field
+themselves.
 
 I don’t think corporate American will feel threatened by this idea. If
 they do, they can blame James Harden. If I’d been watching winning
@@ -3629,7 +3743,7 @@ personal network has. This is the crossover generation, because while
 they might understand the value of networked systems, and they like
 green cars and the saving the planet, they also like to buy a lot of
 cheap stuff and buying newer better stuff when the cheap stuff gets
-old.[42] That’s not sustainable either.
+old.[45] That’s not sustainable either.
 
 I’m not a tree hugger nor a climate denier, or an alarmist of any kind.
 I think about sustainability in engineering terms, the most efficient
@@ -3648,7 +3762,7 @@ sustainable world.
 However, it’s not the most sustainable solution. The most sustainable
 solution is driving less and taking public transportation more.
 *“Tesla’s mission is to accelerate the world’s transition to sustainable
-energy.”* [43] Replacing gasoline powered automobiles with electrically
+energy.”* [46] Replacing gasoline powered automobiles with electrically
 powered vehicles is a leap forward in accelerating the transition to
 sustainable energy. In parts of the world where people love and can
 afford cars – The United States and Texas especially – this might be the
@@ -3667,18 +3781,18 @@ campaign sell.
 Tesla shareholders profit (gain wealth) when Tesla sells more vehicles.
 Tesla must take the fruits of nature and turn them into vehicles, at a
 tremendous investment of property, power, and labor. From engineering
-perspective are better ways to accelerate the transition to sustainable
-energy. Tesla is probably making the most practically efficient
-compromise between shareholders and the engineering.
+perspective there are better ways to accelerate the transition to
+sustainable energy. Tesla is probably making the most practically
+efficient compromise between shareholders and the engineering.
 
 With a genius-based wealth system, it’s possible to create organizations
 that can align with both the creation of wealth and the most efficient
 solutions to problems. Without the government, and without
 property-based profit.
 
-Corporations are property and thus can be bought and be given away to
-collectively to mankind. Scoot may not own corporations, but they can be
-responsible for them.
+Corporations are property and thus can be bought and be given to
+mankind. Scoot may not own corporations, but they can be responsible for
+them.
 
 After the early staking, seeding and development phase of The
 Foundation, the only way to receive new mint asimov will be to scoot
@@ -3692,8 +3806,8 @@ something property-valued into Scoot.
 In this way, corporations can continue to exist in the genius economy.
 They can align their mission with the most efficient solutions instead
 of the most efficient compromises. Instead of the goal being shareholder
-profit, it becomes shareholder wealth based on success of truly
-idealistic missions.
+profit, it becomes pledge wealth based on success of truly idealistic
+missions.
 
 ### Genius CYA
 
@@ -3731,8 +3845,8 @@ feral, strips down to her hemp undies, and bites poor Matthew on the
 shoulder. Rather than hide from it, Matthew is a good Texan and “takes
 his medicine,” which in this case, means a whole course of Sheryl’s all
 natural “rabies cure.” Due to the extreme nature of that procedure, it
-can only be shown on Oil & Gas TV+. Big oil is coming for you, *Squid
-Games*.[44]
+can only be watched on Oil & Gas TV+. Big oil is coming for you, *Squid
+Games*.[47]
 
 I believe there is a place in a sustainable economy for every industry.
 Instead of considering what products industries make, they need only
@@ -3760,18 +3874,20 @@ to big oil was Americans never straying five miles from home and a large
 proportion of the population executing jobs of back-breaking manual
 labor. You want to imagine a science fiction world where we produced
 today’s energy intensive lifestyle using only beasts of burden, as we
-did before the internal combustion engine? I can’t tell you if it would
-be a good story, but I can tell you it would stink.[45]
+did before big oil and gas? I can’t tell you if it would be a good
+story, but I can tell you it would stink.[48]
 
 Big Oil shouldn’t wait for history to write her story. She should write
 it herself.
 
 ## Academic Genius
 
-Okay, all you brainiacs, here’s your chance. You finally have a platform
-to directly measure how much more important writing a paper about the
-subclassification of salamander species in Northern California is than
-Beyonce’s latest song. Go ahead, give it a try.
+Okay, all you brainiacs, here’s your chance.
+
+You finally have a platform to directly measure how much more important
+writing a paper about the subclassification of salamander species in
+Northern California is than Beyonce’s latest song. Go ahead, give it a
+try.
 
 Oh, you academics don’t care about value, it’s the pursuit itself that
 is valuable. Okay, measure that.
@@ -3802,12 +3918,15 @@ measure their efforts to change that valuation.
 If academics really believe in what they’re doing, they’d want to put
 their wealth in academics. I’m wondering how many anti-establishment
 professors in Boulder own stock in the Fortune 500? It’s better for your
-academic karma to eat your own dog food.
+academic karma to eat your own dog food. Businesspeople have always
+invested their wealth in what they believe in, more businesses. It’s
+only hypocrisy if there isn’t a viable alternative solution. With Scoot,
+you have an alternative.
 
 There’s also the work for hire aspect. Every billionaire who has read an
-Issacson biography is going to want to be a Da Vinci, Einstein or Jobs
-scoot trustee, you can actually go read all the source material and come
-up with some angle of appreciation that’s new.
+Isaacson biography is going to want to be a Da Vinci, Einstein or Jobs
+scoot trustee. Acadmeics can read all the source material and come up
+with some angle of appreciation that’s new.
 
 My approach would be to apply an engineering technique I call recursive
 integration. In digital design, each design cycle, you really need to go
@@ -3818,37 +3937,37 @@ assumptions and methodology, you’ll find easy opportunities for further
 optimizations and integrations.
 
 Applied to academics, that’s the surest path to genius appreciation. You
-go back and really look at what those genius that came before you did
-and try to think the same thoughts they had, but with the knowledge and
-technology you have today. The digital tools we use daily to measure and
-calculate would have been absolute magic to those great geniuses just a
-hundred years before. If Einstein had a computer and learned to code,
-he’d be slinging it and bringing it.
+go back and really look at what the geniuses of history and try to think
+the same thoughts they had, but with the knowledge and technology you
+have today. The digital tools we use daily to measure and calculate
+would have been absolute magic to those great geniuses just a hundred
+years before. If Einstein had a computer and learned to code, he’d be
+slinging it and bringing it.
 
 For academics, no matter what the field, looking back is the way of the
 future, it’s where all the value came from. This will be a gold rush,
-and the academics got a monopoly on the shovels. They either add to the
+and academia has a monopoly on the shovels. They either add to the
 appreciation or create some inspired new genius.
 
 ## Stop Reading, Lars
 
 In 2000, when Saint Fanning unified the world in peace by blessing
-broke-ass twentysomethings with free music with his invention of the
+broke-ass twentysomethings with free music through his invention of the
 file sharing program, Napster, he ran head-first into a brick wall of
 corporate resistance. Music labels didn’t yet understand a broadband
-digital world and were terrified of losing the $10 getting for their
-shrink-wrapped pieces of plastic property.
+digital world and were terrified of losing the $10 they were getting for
+their shrink-wrapped pieces of plastic property.
 
 It wasn’t NSYNC, Brittney Spears or Celine Dion who was chosen by the
 corporate overlords as a champion, but Lars Ulrich, the drummer for
 Metallica. Yes, the hard rocking anti-heroes of the working man who gave
-us “*Master of Puppets*” were just corporate shills. Lars was under the
+us *Master of Puppets* were just corporate shills. Lars was under the
 mistaken impression that the way to measure a musician’s value is by how
-much property they can by accumulate by exchanging music for property.
+much property they can accumulate by exchanging music for property.
 
 Twenty years later, I pay Amazon $10 a month to listen to whatever I
-want, including Metallica, if I’m the mood for some corporate rock. Lars
-Ulrich is still filthy rich. The music didn’t die.
+want. This includes Metallica, when I’m the mood for some corporate
+rock. Lars Ulrich is still filthy rich. The music didn’t die.
 
 Lars, if you’re reading this, please stop now. This next part is going
 to blow your mind.
@@ -3864,8 +3983,8 @@ formerly broke-ass have a little payback.
 
 ### Drumland
 
-Isn’t it ironic[46], coming from a drummer? If you’re a *prima
-donna*[47] vocalist who has infected an entire generation with an
+Isn’t it ironic[49], coming from a drummer? If you’re a *prima
+donna*[50] vocalist who has infected an entire generation with an
 earworm, Napster might have had you worrying about bouncing them checks,
 but a drummer? Drummers – real drummers – play for alcohol. WTF, Lars?
 
@@ -3909,7 +4028,7 @@ have been Lars Ulrich, slumming it, doing his corporate market research.
 “Nai, why didn’t show up for work?”
 
 “Hey man, I’m off on Tuesdays and Thursdays. I told you last month when
-you were making the schedule”
+you were making the schedule.”
 
 “It’s Wednesday.”
 
@@ -3925,8 +4044,8 @@ way they look at you, it’s degrading, and disgusting.”
 “Yeah, I know,” I say, pulling out a twenty from my pocket, “I just got
 this from that scumbag on Carman Crest. Poor me, I feel so degraded.”
 
-“That dude is the worst man,” Nai says, “He asked me to change his kitty
-litter last time I was up there.”
+“That dude is the worst, man,” Nai says, “He asked me to change his
+kitty litter last time I was up there.”
 
 “Didya?”
 
@@ -4057,10 +4176,9 @@ Nai smiles. “You’re all right, Texas. Let me find a shirt. Natty!”
 
 ## Open Source Everything
 
-I never discussed Drumland with the big boss. I was young, and didn’t
-have the vision that Nai had. I was in management, and I’d read books
-about business by billionaires, and I thought I really understood what
-the world valued.
+I never discussed Drumland with the big boss. I was young and didn’t
+Nai’s vision. I was in management, and I’d read books about business by
+billionaires, and I thought I really understood what the world valued.
 
 It wasn’t just drummers. I’d heard variations of the same theme from
 guitarists and bassists. You wouldn’t hear anything like that from
@@ -4076,10 +4194,10 @@ warned.
 The way forward for Drumland is for musicians just to give away their
 music for free to anybody who wants to hear it. Open Source everything.
 
-You Scoot your work, and you say to world, my work is not property. You
+You Scoot your work, and you say to world, my craft is not property. You
 can have restrictive licensing, so your work gets turned into a jingle
-or gets on the soundtrack of a blockbuster movie, you get paid.
-Otherwise, just give it away.
+or soundtrack of a blockbuster movie, you get paid. Otherwise, just give
+it away.
 
 You form up with other Scoot in your community, and you establish social
 protocol. A musician just starting out, it’d be understandable if he’d
@@ -4089,33 +4207,30 @@ other musicians using TPH, but you’ll let people bid your scoot with
 PPH. Somebody makes a big offer, you take a bite. You get enough bites
 and you get a real market value.
 
-For Open Source it may become like a tip. Somebody likes your song, they
-make an offer on your scoot, loose change in the genius wallet, a few
-isaacs or may a Scoot of some other singer the musician should check
-out. It’s sort of like an open guitar case on the sidewalk, tossing
-something – anything – shows your appreciation, somebody lays down a
-quarter, somebody throws down a Grant, it’s all good. However, when
-somebody with some actual credibility throws down, things change.
-Beyonce lays down a full asimov on you, it would be disrespectful to the
-queen for somebody to offer less. Eventually, you set a low bid and your
-tunes get real play, eventually you stop diluting and see how that
-drives up the valuation.
+It may become like a tip. Somebody likes your song, they make an offer
+on your scoot, loose change in the genius wallet, a few isaacs or may a
+Scoot of some other singer the musician should check out. It’s sort of
+like an open guitar case on the sidewalk, tossing something – anything –
+shows your appreciation, somebody lays down a quarter, somebody throws
+down a Grant, it’s all good. However, when somebody with some actual
+credibility throws down, things change. Beyonce lays down a full asimov
+on you, it would be disrespectful to the queen for somebody to offer
+less. Eventually, you set a low bid and your tunes get real play.
 
 Once that happens, then we have Drumland. A place for musicians to live
-and jam. You create Drumland as a Scoot, and it commits to drummers that
-have established some value and looks to be able create more in the
-future. You’re smart, you see that live human drummers are a vanishing
-commodity, you become the genius economy version of a slumlord. Drummers
-won’t mind. You’ll be filthy and groovy, at least until the Bonzo droids
-take over.
+and jam. You create Drumland as a Scoot, and it commits – stakes -
+drummers that have established some value. You’re smart, you see that
+live human drummers are a vanishing commodity, you become the genius
+economy version of a slumlord. Drummers won’t mind. You’ll be filthy and
+groovy, at least until the Bonzo droids take over.
 
 This is a leap of faith, but social media has already led the way. You
 don’t have to monetize content to create value. The appreciation of your
 craft is direct value. You can keep your work in the responsibility
 domain separate from your property needs. You sell scoot when you must,
 but more likely, you’ll get a job and deliver kitty litter to
-property-rich scumbags. That scumbag is somebody in the biz, maybe you
-ask for tip in scoot instead of filthy-property money.
+property-rich scumbags. That scumbag is somebody who likes a beat, maybe
+you ask for tip in scoot instead of filthy-property money.
 
 I think we will see a comeback in patronage as the property rich devise
 ways to become genius rich on the cheap. Instead of Tech Incubators like
@@ -4183,18 +4298,18 @@ of the way to snap selfies apparently has a dissonant effect on my Zen.
 This is not to imply I don’t believe there is something special. There
 must be.
 
-For my last birthday, my brother gave me a basketball signed by Hakeem
-Olajuwon. I’m not a collector, I’m a travel light kind of guy, but it
-was very thoughtful gift, and I was quite surprised and grateful. I took
-that ball out of the glass case, and a feeling swept through me. I felt
-like I had just carried my team as a 6<sup>th</sup> seed, on the road
-through the Western Conference battleground of the Mailman’s Jazz, Sir
-Charles’s Suns, and the pretender MVP’s Spurs, making every MVP voter
-cringe at the ridiculousness of their selection. I’d just faced a young
-and arrogant Orlando Magic team in the finals and sent the goofy young
-villain Shaquille O’Neil and his pack of dwarves back home to Disney in
-four games straight, a sweep and championship repeat, leading to coach
-Tomjanovich’s celebratory declaration for the ages, “Don’t ever
+For my fiftieth birthday, my brother gave me a basketball signed by
+Hakeem Olajuwon. I’m not a collector, I’m a travel light kind of guy,
+but it was very thoughtful gift, and I was quite surprised and grateful.
+I took that ball out of the glass case, and a feeling swept through me.
+I felt like I had just carried my team as a 6<sup>th</sup> seed, on the
+road through the Western Conference battleground of the Mailman’s Jazz,
+Sir Charles’s Suns, and the pretender MVP’s Spurs, making every MVP
+voter cringe at the ridiculousness of their selection. I’d just faced a
+young and arrogant Orlando Magic team in the finals and sent the goofy
+young villain, Shaquille O’Neil and his pack of dwarves back home to
+Disney in four games straight, a sweep and championship repeat, leading
+to coach Tomjanovich’s celebratory declaration for the ages, “Don’t ever
 underestimate the heart of a champion.” This changed Houston’s tagline
 of “Choke City” to “Clutch City” forever.
 
@@ -4222,7 +4337,7 @@ Colonel Scobee was gracious enough to sign it for me.
 On January 28, 1986 Dick Scobee, along with six fellow astronauts,
 including civilian school teacher Christa McAuliffe, were killed when
 *Challenger* exploded 41 seconds after liftoff. It was the “where were
-you when JFK was shot,” moment for my generation. I was a freshman in
+you when JFK was shot?” moment for my generation. I was a freshman in
 high school. I was stunned. It was the first time America had lost
 astronauts during a flight. Class was subdued, teachers were shocked. We
 crowded around the TVs that had already been wheeled out for us to watch
@@ -4271,7 +4386,7 @@ alive.
 
 Throughout history, the basis of money has been gold. Throughout
 history, gold’s value has primarily been ornamental, and no matter how
-you twist it, that value is vanity.[48] The jewelry industry wants us to
+you twist it, that value is vanity.[51] The jewelry industry wants us to
 believe the more you spend on gold, the more you love someone, and we
 all know that is ridiculous. It is always vanity, and I think the right
 amount of vanity is good for both individuals and for society. Vanity is
@@ -4333,7 +4448,7 @@ the last 43 games. For Rockets fans it was absolute hell. I’m thinking,
 hey little brother, thanks for the gift. He’d tricked me into
 objectifying *The Dream*, and perhaps that was the greatest sin against
 the basketball gods. I got home and watched the game, the Rockets versus
-the Bucks, heavyweight of the East.[49] I watched, like I watched every
+the Bucks, heavyweight of the East.[52] I watched, like I watched every
 game of the losing streak, doing my penance, now with the even heavier
 heart after realizing my sin.
 
@@ -4388,7 +4503,7 @@ eternally be the 2017 World Series Champs.
 Yes, there is more to the story. There was a sign-stealing scandal and
 MLB suspended some managers and took away some draft picks, yet the
 Astros retained the title much to the consternation of sore losers
-everywhere.[50]
+everywhere.[53]
 
 <img src="media/image7.jpg" style="width:4.57292in;height:5in" />
 
@@ -4512,12 +4627,12 @@ to *Tom Sawyer* on a loop, eyes pried open ala *A Clockwork Orange* and
 forced to watch curling. And while I’m a peace-loving person, imagine
 there’s no war and all that, if I happen to cross paths with John
 Stockton down at the Wal-Mart, I might have to stick my leg out for an
-old man trip, it would be a bit of instant karmic justice.[51]
+old man trip, it would be a bit of instant karmic justice.[54]
 
 Here’s what isn’t going to happen.
 
 The Mayor of Los Angeles is not going send a mechanized brigade of
-troops to Houston and surround Minute Maid park and forcibly take a
+troops to Houston, surround Minute Maid park and forcibly take a
 shirt-less Jose Altuve hostage. New York City is not going shell
 downtown Houston with nerve gas and send a squad of SEALs to replace
 *The Dream’s* statue in front of the house he built with a statue of
@@ -4564,65 +4679,64 @@ their creations on the foody scootage in hopes of appreciation of the
 chef’s scoot.
 
 Maybe you’re a Kerouac fanatic and you start a Scoot and build out a
-cool writer’s retreat on the California Coast near Big Sur and you have
-these cottages, where wanna be beatnik writers come and drink, and
-smoke, and pop Benzedrine and stay up all night pretending they like
-Jazz, and write through to the dawn on manual typewriters on long rolls
-paper, just like old Jack did with *On The Road*. Would that be a genius
-way to remember Jack Kerouac? Don’t know, when half the scootage dies
-early of cirrhosis, lung cancer or psychosis I don’t think their
-children will appreciate Kerouac’s genius, I think they’ll probably
-think something like this, “What the hell am I going to do with this
-long ass scroll, did these fools think Jack Kerouac was an idiot
-couldn’t operate a Mac?”
+cool writers retreat on the California Coast near Big Sur. You have
+cottages, where wannabe beatnik writers come and drink, and smoke, and
+pop Benzedrine, stay up all night, pretending they like Jazz, and type
+until dawn on manual typewriters on long rolls paper, just like old Jack
+did with *On The Road*. Would that be a genius way to remember Jack
+Kerouac? Don’t know. When half the scootage dies early of cirrhosis,
+lung cancer or psychosis, I don’t think their children will appreciate
+Kerouac’s genius. I think they’ll probably think something like this,
+“What the hell am I going to do with this long ass scrolls, did these
+old fools think Jack Kerouac was an idiot who couldn’t operate a Mac?”
 
 The ways to appreciate genius are as numerous as genius itself.
 
-If you’re willing to be responsible for your passion and pass along to
-future generations, it can be Scoot. Your responsibility is what is
+If you’re willing to be responsible for your passion and pass it along
+to future generations, it can be Scoot. Your responsibility is what is
 valuable. The more people share a passion, and more importantly, a
 responsibility for that passion, the higher the shared value.
 
 ## Instant Karmic Soup Kitchens
 
-In every culture, food can be genius. Eating good food that tastes good
-makes life more enjoyable. There is an art to preparing food that we
-generally associate with wealth. Appreaciating good food is something
-for the rich, because the rest of us can’t afford to eat out every meal.
+In every culture, food can be genius. Eating nutritious food that tastes
+good makes life more enjoyable. There is an art to preparing food that
+we generally associate with wealth. Appreciating good food is something
+for the wealthy, because the rest of us can’t afford to eat out every
+meal.
 
-The alternative, cooking at home can be both nutroius and fulfilling,
+The alternative, cooking at home can be both nutritious and fulfilling,
 and while the economic expense is lower, in terms of sustainability,
 it’s not very efficient.
 
 From a systems point of view, neither eating out or cooking at home are
 efficient systems.
 
-A restaurant measures it’s value by how much food they sell. Resutarnts
-profit my buying food at a lower cost than the consumer can buy it and
+A restaurant measures it’s value by how much food they sell. Restaurants
+profit by buying food at a lower cost than the consumer can buy it and
 then selling it for more than it costs to prepare and serve it. They
 have computer and human systems in their kitchens that allow them to
-prepare food both faster and at a lower cost than one could do so at
-home. You may be able to prepare a resuturant quality steak at home, but
-you can’t buy steak at the volume and store and cook it at the
+prepare food both faster and at a lower cost than one could do at home.
+You may be able to prepare a restaurant quality steak at home, but you
+can’t buy steak at the same volume and store and cook it at the
 efficiency of a restaurant. More importantly, smart systems allow
-restuarants to predict and order their raw materials at volumes and
-costs are very cost efficient.
+restaurants to predict and order their raw materials at volumes and
+costs are very cost-efficient with less waste.
 
 Cooking at home suffers from scale. Buying food at affordable volumes is
-not difficult, especially if you have a vehicle, storing it is not
-difficult, especially if you have a deep-freeze in your garage,
-preparing it isn’t hard, as long as you have big oven, a range and a
-microwave. Washing up isn’t hard especially if you have a dishwashing
-machine. It’s not hard at all, especially if you have a dishwasher. The
+not difficult, especially if you have a vehicle. Storing it is not
+difficult, especially if you have a deep-freeze in your garage.
+Preparing it isn’t hard if you have big oven, a range, and a microwave.
+Washing up isn’t hard especially if you have a dishwashing machine. The
 problem with all these scenarios is they stress the sustainability
 equation. All these appliances solve problems, as a system – feeding
-people nurtrious food in their homes, but they all do it in the most
+people nutritious food in their homes, but they all do it in the most
 inefficient way. Yet we consider them valuable to the places we live – a
 home without a kitchen is a base standard of property wealth.
 
-Imainge you wanted to cook a pot of soup for your family. The most
+Imagine you wanted to cook a pot of soup for your family. The most
 efficient solution at home is to cook enough for a big pot, which will
-last more than one meal. So you put the leftovers in the fridge, next
+last more than one meal. You put the leftovers in the fridge, the next
 day, you either heat up the whole pot, or put individual bowls in the
 microwave.
 
@@ -4631,43 +4745,211 @@ for some amount of time. Then you used more energy to cool half the soup
 overnight, and then put half the energy of the day before to heat it
 again.
 
-It doesn’t end their. You drove your car to the grocery, which required
+It doesn’t end there. You drove your car to the grocery, which required
 energy. Most of your ingredients – even the produce – are packaged with
-materal that took energy to produce and immediately become a waste
-burden as soon as you get home and unpackage the food.
+material that took energy to produce and immediately become a waste
+burden as soon as you get home and unpackaged the food.
 
-Now compare that to a pot of soup at an restaurant kitchen. You make a
-much bigger pot from ingredenents that come in much bigger sizes along
-with all the other food in a big truck. You cook it once, and keep it
+Now compare that to a pot of soup at a restaurant kitchen. You make a
+much bigger pot from ingredients that come in much bigger sizes along
+with all the other food in a big truck. You cook it once and keep it
 warm as it is served. When it looks like you’re about to run out, you
 cook another one. The reheating cost goes away, and the cooking cost is
 lower because you’re cooking more at once. There is some packaging
-waste, but it’s lower in propoertion to the total bowls served. You wash
-dishes with a commercial size washing matchine, using water heated by an
-efficient very large water heater, and any leftovers are refreigerated
-in larger and more effiennt cooler that the one you have at home.
+waste, but it’s lower in proportion to the total bowls served. You wash
+dishes with a commercial size washing machine, using water heated by a
+large efficient water heater, and any leftovers are refrigerated in
+larger efficient cooler that the one you have at home.
 
-The genius economy version of a resutrant is a Scoot of Kitchen. This
-would be an enterprise that serves food to it’s scootage at a
-sustainable tradeoff. How this is governed and operated can be wide a
-varied.
+The genius economy version of a restaurant is a Scoot of Kitchen (SOK).
+A SOK is an enterprise that serves food to its scootage at a sustainable
+tradeoff. How this is governed and operated can be widely a varied. A
+SOK could serve a variety of meals, or a specific specialty.
 
-It might be a neighrbood hood kitchen where the responsibility for
-cooking the food rotates among neighboors, and the trustee might act as
-the bulk buyer for all the cooks. This would give the neighbookr and
-constantly changing selection and variety. This would promote stronger
-communities, you would think, though not necessarily in the way you
-might think. You might choose
+It can be genius; a neighborhood kitchen where working people commit to
+creating a safe place for families to eat their meals at the lowest cost
+while contributing positively to the sustainability equation. It can be
+vanity; a clubhouse in a wealthy neighborhood that serves steak and
+lobster, and the children are punished if they use the wrong salad fork.
 
-….for soot of bar….how do measure success…alcoholic
+It might be a neighborhood kitchen where the responsibility for cooking
+the food rotates among neighbors, and the trustee might act as the bulk
+buyer for all the cooks. This would give the kitchen a constantly
+changing selection and variety. This would promote stronger communities,
+line of communications between neighbors, and hopefully less crime and
+conflict. If the food is good and there is enough for everyone. A bad
+SOK trustee could start a crime wave.
+
+Or it could be a chain. A Pizza kitchen that covers a neighborhood, and
+where families can send their teenagers to learn to work and be
+responsible and permanently cure their pizza addiction through
+oversaturation. A taco truck that follows a large construction crew. A
+sit-down date restaurant you can reserve.
+
+Kitchens are enterprises, they can earn income. You could have a fancy
+sit-down date resutrant with a scootage. Members of the scootage pay
+like any other kitchen, though a shared resource might need a
+prioritization method, and that certainly can be a priledge of wealth.
+And it can take paying customers, and earn income. What it can’t do is
+use that income to subsidize the costs of the scootage – that would be
+passing income indirectly to the scootage. Paying customers have to be
+proportional to the actual costs. This is a dynamically changing
+equation, so there a lot of room for argument, but it’s self-governing
+and the scootage is responsible and accountable.
+
+Here's how I’ll manage my SOK, *Instant Karmic Soup Kitchen*. I’d open a
+neighborhood kitchen. It’d start out with about ten pledges in the
+neighborhood are committed not only to eating but being responsible for
+a kitchen. We all stake some asimov and issue 100,000 genesis
+scoot(IKSK). We find a large community event hall that is empty most
+weeknights and work out a leasing agreement. With a little refurbishment
+and upgrade of some appliances, we have a hall that can serve about 100
+people, in five minutes walking distance of 1000 residents, and within
+short driving distance of 5000 more. The stakers divide up the costs of
+the initial refurbishment.
+
+There’s this guy, Deemo, who was recently downsized from his corporate
+job in Pennsylvania due to changes in the value ecosystem. He’s managed
+organizations and is some kind of statistical wizard with property-based
+values but has no relevant experience in the genius economy. Deemo has
+never cooked for a living, but we think he’s got the skills to manage a
+kitchen. He looks like he knows how to eat, and appearances are vital,
+even in the genius economy. We hire him as trustee, which we instantly
+regret, because he includes all kinds of statistic-based incentives in
+his contract based on the meeting criteria in various dimensions of
+measured data.
+
+We open the doors, having only advertised through signage at the hall
+and location and Foundation based marketing. We serve four or five soups
+a night at dinner time, along with a salad bar, fresh bread, fruit, and
+healthy drinks. Initially, we just hand out bowls of soup as people
+visit, explaining how Scoot works and what the kitchen does. Buy in to
+the scoot is 1000 scoot(IKSK). There is 100K issued genesis scoot, so
+that serves 100 people at 1000 each. These genesis scoot are flagged
+with the characteristic ‘OG’.
+
+The problem is not everybody is a pledge. This is the early days of The
+Foundation, so there probably won’t be many pledges in the neighborhood.
+We get a few people to buy-in and agree to terms in asimov for the
+exchange with the existing stakers.
+
+IKSK is a shared resource, but the scootage is not expected to eat soup
+every night.
+
+There are fixed costs, such as the rent, Deemo’s salary, electricity,
+insurance. And there are variable costs, specifically, the food. There
+is also the cost of placing all these hedge bets in the value domain so
+that we can pay Deemo’s incentives if he hits his goals.
+
+The way we manage the fixed costs is divide the total costs by the total
+number of scoot outstanding, and each holder of scoot is responsible for
+their share.
+
+The variable costs are handled like this. We take the previous weeks
+cost per meal, and for each meal served, the scoot holder[55] is issued
+an additional scoot for that cost. This is essentially pricing the scoot
+in the asimov equivalent of the cost of a bowl of soup. It dilutes the
+scoot in favor of those who eat a lot of soup. Those who eat the most
+also incur a higher proportion of the fixed costs as they consume more
+soup, this is appropriate.
+
+Two problems. It’s intentionally not easy to become a pledge, at least
+not in the early days. This is a designed in feature of the system – we
+want to equalize wealth globally and geographically. Secondly, to
+optimize efficiency of our Kitchen, we need to maximize usage of both
+the hall, the kitchen and Deemo. You can’t just pay a guy to sit on a
+bench.[56]
+
+Scoot of Kitchen may earn income. We start offering meals for cash, this
+immediately doubles our volume, reducing food costs because we can buy
+at greater volumes. We are offering soup for dollars. When we are
+issuing scoot for asimov and dividing the costs evenly over the past
+week, it’s a simple calculation, shared proportional responsibility for
+the total costs. If one pledge is abusing the system, eating a large
+proportion of the most expensive items, the scootage can grant Deemo
+dictatorial powers and he can manage it. When you are charging customers
+for a meal, it’s not about governance but choice and there is an
+expectation of an exchange of value.
+
+This is where these kinds of scoot will run into trouble because income
+can not be transferred to the scootage, even as subsidization. This is
+fraudulent within the rules of The Foundation. On the other hand, it’s
+hard to calculate if you serve cross-domain with any variety at all. For
+example, you might order produce and meat weekly, and the costs are easy
+to calculate, but dry goods and spice get ordered monthly or over many
+weeks and random intervals. A price spike to the cash customers the week
+after you order dry goods and spices would essentially be a
+subsidization.
+
+The ideal is that all efficiency gains are proportional to those who are
+responsible for that efficiency.
+
+I will manage this problem by issuing virtual scoot. Virtual scoot are
+earned just like the scoot(IKSK), it would probably work exactly like a
+loyalty card as a store or restaurant. Customers that aren’t pledges
+earn the equivalent of virtual scoot they would have earned if they’d
+been pledges. These virtual scoots are convertible into actual scoot
+once that person becomes a pledge, though it might require a
+‘back-payment’ calculation of dues, or some service commitment before
+the conversion takes effect.
+
+Things start to get busy for Deemo. Deemo can serve a bowl of soup, but
+tends to lollygag when it comes to cleaning up. This is where the OG
+scoot come into play. Initially, the ten originally OGs help. Cleaning
+up, chopping veggies, yelling at the kids to bus their own tables,
+checking Deemo’s math when he calculates the night’s figures. Later, a
+scheduling mechanism is built into the governance system, and it works
+out that maybe once a month an OG has a shift.
+
+Soon enough, for several hours at dinner, the hall is full, serving 300
+people a night. Many families come two or three times a week, and many
+parents who work nights send their kids to have a good meal in a safe
+environment. Deemo uses his advanced business degree to calculate that
+the only way to optimize efficiency further without rushing people
+through their meals is to start serving lunch. It’s mostly a residual
+area, but it’s Houston, so there is industrial concern, probably a
+petrochemical plant, as well as an office park within a mile, and
+post-pandemic there are many home workers. Rather than renegotiate
+Deemo’s contract to include overtime, we hire a second cook, as well as
+some teenagers to help. Within a few months, IKSK costs per bowl are
+reduced to a level that is affordable to eat daily for all the families
+in the area. It’s not rare to find a line of people lining up outside
+the hall.
+
+This is where the privileges come in. You basically have a hierarchy of
+the OGs, the scootage and the virtual scootage and the property
+customers. In our system, we have privilege with our wealth. Those most
+responsible get the most privilege. Because table space is limited, you
+might have a reservation system, and OGs and their families get
+priority. OGs might get to go to the front of the line. You could also
+vote the OGs, who created a public good, are relieved from fixed-cost
+dues. OGs might have veto power over Deemo’s menu choices. Any kind of
+priority system could favor manner in anyway the scootage decides – it’s
+an open system. It's fair that those that are responsible for a public
+good get priority over those who don’t contribute.
+
+What I envision is a staking network of kitchens. SOK could negotiate
+exchange programs with each other. Not only do they process each other’s
+transactions – and thus earn fees from The Foundation – they can
+exchange their scootage. Not up for soup five nights a week, *Instant
+Karmic Soup Kitchen’s* staking network include *Taco Truck Chuck’s*.
+That’s all I need to survive.
+
+Preparing food is something that takes a lot of time and energy. Some
+people like to do if for themselves, because they’re good at it and they
+enjoy it. Some families consider it a duty. Others cook for themselves
+because that’s all they can afford. Ironic, since the most cost and
+energy efficient way to eat is for people who are good at it and enjoy
+it to cook for many people at once. SOK is an optimal solution for that.
+There will still be restaurants, and there will still be home cooking.
 
 ## Goodbye Season Tickets
 
-I was sort of hoping with the whole Rockets theme and all, I might write
-myself into a sweet set of season tickets. That bit about the kitchens
-and restaurants certainly didn’t help my case. I’ve got one last play,
-sort of a go for broke, knockout punch. In Houston, we call this kind of
-play *The Kiss of Death*.
+I was hoping with the whole Rockets theme, I might write myself into a
+sweet set of season tickets. That bit about the kitchens and restaurants
+certainly didn’t help my case. I’ve got one last play, sort of a go for
+broke, knockout punch. In Houston, we call this kind of play *The Kiss
+of Death*.
 
 In October of 2020, Daryl Morey, the innovative General Manager of the
 Houston Rockets, quit. Two months later two MVP superstars had run away,
@@ -4701,34 +4983,34 @@ In the 2002, Chinese superstar Yao Ming became the second international
 player selected by the Rockets with the number one draft pick. It was
 like a Disney sequel, two dominant centers, both heroes in their home
 countries. Yao Ming was China’s first NBA superstar, and because of
-this, The Rockets became China’s team.
+this, the Rockets became China’s team.
 
 When I’d meet a Chinese Rockets fan, the lack of communication was
 almost beneficial, because I had to keep things superficial, or risk
-becoming a meme on Chinese social media - American broke down in tears
-in the streets of Chengdu, moaning about Rockets.
+becoming a meme on Chinese social media. American broke down in tears in
+the streets of Chengdu, moaning about Rockets.
 
 My valuation of the Rockets didn’t change when Daryl Morey tweeted in
 2019. Nor did it change when the Rockets blew two chances to take out
 the Golden State Warriors in 2018 and 2019. It didn’t change when they
 traded Russell Westbrook or Chris Paul. It probably went up a couple
-points when they traded James Harden. My appreciation of the Rockets has
-wavered only once. Oh, and it crashed hard, worse than crypto in
+buckets when they traded James Harden. My appreciation of the Rockets
+has wavered only once. Oh, and it crashed hard, worse than crypto in
 twenty-one, way worse.
 
 On August 2<sup>nd</sup>, 2001, The Houston Rockets traded Hakeem
 Olajuwon to the Toronto Raptors for draft picks. On that day, my
 personal valuation fell to the level of betrayal. Yao Ming, innocent in
 all this, was still in China. The Rockets became dumpster divers, only
-winning 28 games, and then lucking into the #1 pick, which they used to
-draft Yao.
+winning 28 games, winning the lottery for the first draft pick, which
+they used to draft Yao.
 
 This wasn’t Hollywood, where you could make a Showtime sequel by
 replacing Kareem/Magic with Shaq/Kobe or Lebron/Lebrow and still pull in
 the same box office. This was Houston, Texas, where real people worked
-real jobs and produced valuable product.[52] You don’t just run back the
+real jobs and produced valuable product.[57] You don’t just run back the
 formula, replace your foreign-born big-man with a dominant big-man from
-another country.[53] Rockets basketball wasn’t formulistic, it was a
+another country.[58] Rockets basketball wasn’t formulistic, it was a
 dream driven by the most creative big-man to ever play the game.
 
 For eleven years, I did not follow the Rockets. That was a big loss for
@@ -4741,7 +5023,7 @@ fabric of the city. Often, it’s because they represent some fundamental
 characteristic of the city they play for. For example, here in Texas, we
 have San Antonio, whose archetype hero seems to be a grumpy old man. And
 Dallas, whose foundational principle seems to be, let’s try to be just
-like Houston.[54]
+like Houston.[59]
 
 In Houston, we have two fundamental archetypes for our heroes. The
 first, the ultra-hero, with the superpowers of moral strength, absolute
@@ -4751,7 +5033,7 @@ lucky enough to watch one this past summer. It was another athletic big
 man with Nigerian roots who wore the number 34 on his jersey. I was
 happy when Giannis Antetokounmpo celebrated his championship victory in
 Milwaukee in July. Not nearly as happy as when Kevin Porter dropped
-fifty on the Bucks in April.[55]
+fifty on the Bucks in April.[60]
 
 Hakeem Olajuwon would be a hero in any city. You cannot write better
 legendary mythology than his actual story.
@@ -4761,7 +5043,7 @@ played soccer growing up. Tall, he played goalie, but was nimble and
 athletic enough to get out and run the field. In high school, he picked
 up a basketball for the first time, within months was on the national
 team. An American scout arranged a visa and invitation for him to visit
-colleges in America, and his parents dug into their life savings to pay
+colleges in the U.S., and his parents dug into their life savings to pay
 for his airfare. Hakeem arrived at JFK in New York during winter, took
 one step outside to catch a taxi, and realized he had zero desire to
 live in a cold place. He went back inside the airport and changed his
@@ -4784,7 +5066,7 @@ the draft, knowing the Houston Rockets had a 50% chance of landing the
 first pick.
 
 And they did. Hakeem Olajuwon was the first pick of the 1984 draft, the
-most talented draft in NBA history.[56] Hakeem joined second year player
+most talented draft in NBA history.[61] Hakeem joined second year player
 Ralph Sampson to form the Twin Towers. Two years later, Hakeem and Ralph
 took the Rockets to the NBA Finals against the Boston Celtics, were they
 lost in six games.
@@ -4797,26 +5079,26 @@ Rockets finally got back on track, losing a heartbreaking second round
 series to Seattle in 1993.
 
 The 1993-1994 season started out with a record-breaking winning streak.
-Coach Rudy has finally had a plan that those of us who had been watching
-Hakeem play for half their lives thought was obvious. The plan was to
-give the rock to *Dream* and be ready to hit a shot. There was not one
-single defender in the NBA who could stop *The Dream* one-on-one.
-Nobody. When he got the ball down in the post, he demanded a double or
-triple team. It wasn’t like today’s NBA when a double team means waving
-your arms in your opponent’s face, if you were going to help defend
-Olajuwon, you had to commit, set your feet, get your balance, and put
-your body on the line. That always left one or two Rockets wide open.
-The rest of the team was fully bought into the concept, Hakeem didn’t
-need a side-kick star, everybody on the team was expected to step up
-when they were open and hit their shots. They did. It was a workingman’s
-professionalism, what’s expected of you if you grew up in Houston.
-You’re an NBA shooter, you been taking thousands of shots a day since
-you were a kid, you get a wide-open look in a game, you hit that. Hakeem
-didn’t hold the ball, he beat his defenders or found you and you hit it.
-That doesn’t work, you get the ball back to Hakeem and try again. The
-defense was equally simple. You stick to your man like glue, but he
-beats you, you funnel him towards *The Dream*, he’ll block that shot or
-force the guy to kick it out.
+Coach Rudy had a plan that those of us who had been watching Hakeem play
+for half their lives thought was obvious. The plan was to give the rock
+to *Dream* and be ready to hit a shot. There was not one single defender
+in the NBA who could stop *The Dream* one-on-one. Nobody. When he got
+the ball down in the post, he demanded a double or triple team. It
+wasn’t like today’s NBA when a double team means waving your arms in
+your opponent’s face. If you were going to help defend against Olajuwon,
+you had to commit, set your feet, get your balance, and put your body on
+the line. That always left one or two Rockets wide open. The rest of the
+team was fully bought into the concept. Hakeem didn’t need a side-kick
+star, everybody on the team was expected to step up when they were open
+and hit their shots. They did. It was a workingman’s professionalism,
+what’s expected of you if you grew up in Houston. You’re an NBA shooter,
+you been taking thousands of shots a day since you were a kid, you get a
+wide-open look in a game, you hit that. Hakeem didn’t hold the ball, he
+beat his defenders or found you and you hit it. That doesn’t work, you
+get the ball back to Hakeem and try again. The defense was equally
+simple. You stick to your man like glue, but he beats you, you funnel
+him towards *The Dream*, he’ll block that shot or force the guy to kick
+it out.
 
 It was the best regular season the Rockets ever had. They won 58 games,
 and with Jordon playing baseball, Olajuwon was the clear-cut favorite
@@ -4841,7 +5123,7 @@ lost my mind when the Game 5 broadcast was interrupted to follow
 coverage of the O.J. Simpson Bronco chase. The Rockets were down 3-2 for
 the final two games in Houston. In game six, facing elimination, Hakeem
 had the greatest block in NBA history, preventing John Starks from
-hitting a game winning shot at the buzzer.[57]
+hitting a game winning shot at the buzzer.[62]
 
 Everybody stepped up. Hakeem didn’t have a sidekick; he had a team of
 heroes. Kevin, you should have done your market research, there was
@@ -4994,7 +5276,7 @@ highly paid professional who worked for a billionaire. Maybe he tweeted
 without thinking about the implications. Let’s imagine for a moment
 there was kid from Hong Kong, who came to the US to study at the
 University of Houston in the 1980s, and of course fell in love with
-basketball and The Rockets. He goes back to Hong Kong, starts some
+basketball and the Rockets. He goes back to Hong Kong, starts some
 business, and become wealthy. He becomes the “Rockets Billionaire”
 because he always wears Rockets colors on game day and is known to have
 breakfast club parties with employees and friends to watch the Rockets.
@@ -5022,7 +5304,7 @@ anyone in China cares what this American jackass who couldn’t manage a
 championship in eight years with the greatest offensive player in a
 generation on his roster. Daryl maybe you should have kept your opinions
 to yourself and considered the offensive wisdom from ancient philosopher
-飞猪[58]. *“I don’t think any system where you let one player just
+飞猪[63]. *“I don’t think any system where you let one player just
 dribble and shoot EVERY SINGLE TIME…I don’t think that works.”*
 
 Daryl’s tweet was a tremendous waste of value.
@@ -5032,7 +5314,7 @@ as Rocket fans all over the world, were values shared between peoples,
 and not between nations. Sports are civil relations between peoples, not
 ideologies or governments. They are the public’s domain. If you don’t
 understand that, I suggest you watch one of the great historical movies
-about Sino-American relations, *Forrest Gump*[59]. Starring Tom Hanks,
+about Sino-American relations, *Forrest Gump*[64]. Starring Tom Hanks,
 who also played an astronaut in *Apollo 13*. Tom Hanks - historical
 accuracy. Tom Hanks, who said, *“There’s no cryin’ in baseball.”*
 
@@ -5056,8 +5338,8 @@ tremendous value on this small but very positive piece of history that
 touched my life. I appreciate it enough to write about it, but to
 increase that value of that appreciation, all I really need do is share
 it. You multiply that across the fanbase, it’s worth more than the $2
-billion appraised value of The Rocket’s franchise. The Rocket’s
-franchise is property.
+billion appraised value of The Rocket’s franchise. The Rockets franchise
+is property.
 
 A Scoot could be formed, The Rockets declared genius, and the property
 title could be released to humanity. I don’t think this would
@@ -5069,7 +5351,7 @@ Clutch City.
 The value of a great team goes beyond property. If you’re a Rockets fan,
 I don’t care where you came from, what color skin you have, what
 language you speak, who you sleep with, what religion you practice, who
-you voted for, or what you had for breakfast.[60] I don’t care about
+you voted for, or what you had for breakfast.[65] I don’t care about
 that. If you’re a Rockets fan, you’re my friend. How valuable is that?
 
 Billionaires don’t have to worry. It would take a lot a lot of genius
@@ -5082,7 +5364,7 @@ themselves as genius billionaires.
 For some billionaires, at least. Ballmer, best stick to a property-based
 investment scheme, seems like your star either needs a grumpy old man
 scowling at him, or the spirit of Toronto radio to unleash his inner
-G.[61]
+G.[66]
 
 What I’m suggesting is essentially the ownership model of the Green Bay
 Packers – without the ownership, just the responsibility. The Packers
@@ -5102,7 +5384,7 @@ works. It can even work in Dallas – if you give them the exact
 blueprint.
 
 Put a real human value on that. With this system, you can. See [Appendix
-D](#appendix-d-scoot-of-team) for a way to implement this.
+D](#appendix-c-scoot-of-team) for a way to implement this.
 
 Tillman Fertitta can be the benevolent dictator of Rockets-nation, just
 like Linus in Linuxland. We’ll find the right kind of hero that will
@@ -5111,7 +5393,7 @@ dream - and we’ll lead a championship parade down the road of global
 peace. Let them other billionaires fly their rocket ships, a native son
 who knows how to eat is going show the world how a Texas genius
 billionaire rolls. In Houston mythology, Hakeem is our Forrest, and
-Tillman is our Bubba.[62]
+Tillman is our Bubba.[67]
 
 Tillman, I’ll take the seats next to *The Dream* while we work out the
 details.
@@ -5148,13 +5430,13 @@ money cause us to get sick, and we all eventually die. Modern medicine
 can work wonders, but it is rare that money alone can save a life in the
 United States. There might be some rare diseases with experimental
 medicine only Bill Gates can afford, but how likely is it his family
-would be hit with something like that? Pretty random. No, more likely is
-heart-disease, cancer, stroke or an accident – things we can prevent but
-not cure.
+would be hit with something like that? Pretty random. No, a more likely
+cause is heart-disease, cancer, stroke or an accident – things we can
+prevent but not cure.
 
 Sierra Leone is a different story. One out of twenty children born do
 not survive their first year of life. One of ten do not survive the
-first five. One out of seventeen women die giving birth.[63] Average
+first five. One out of seventeen women die giving birth.[68] Average
 life expectancy is fifty-seven years. There is one doctor for every
 20,000 people. The leading cause of death is malaria, which is both
 preventable and treatable. Simply put, money can buy life in Sierra
@@ -5179,18 +5461,18 @@ countries. Why? Because the underlying measurement is property, and the
 unit of measure is controlled by governments based on economic concepts
 that use equivalence of value.
 
-Economists are not stupid.[64] They are aware that something that is
+Economists are not stupid.[69] They are aware that something that is
 worth $50,000 – a new Mercedes – is less valuable in real terms than
-something like heart surgery for a forty-year-old man that also costs
-$50,000. In economic terms, they’d calculate the earning potential of
-the man’s expected lifetime after the surgery, the ability to pay for
-his children’s education and the economic advantage they’d gain and give
-you some dollar value, probably in the millions. So essentially, heart
+something like a $50,000 heart surgery for a forty-year-old man. In
+economic terms, they’d calculate the earning potential of the man’s
+expected lifetime after the surgery, the ability to pay for his
+children’s education and the economic advantage they’d gain and give you
+some dollar value, probably in the millions. So essentially, heart
 surgery is an economic investment for the man, his family and for
 society. This is a common argument for universal health care. When the
 choice is surgery or a car, the answer is easy.
 
-In Asimov’s Foundation, the science to predict the future is called
+In Asimov’s *Foundation*, the science to predict the future is called
 psychohistory. Psychohistory could not predict individual events in the
 future, but general trends. Through statistics, psychohistory could
 predict the direction of the future. It’s the science of mob psychology
@@ -5215,19 +5497,27 @@ pandemic, dramatically changes the ratio of people making decisions
 primarily based on their family’s health.
 
 Is it feasible to provide a reasonable level of health care to every
-human on the planet? Of course this is possible. Is it economically
+human on the planet? Of course, this is possible. Is it economically
 feasible? That’s the wrong question. The right question is, how do we
 value health care so that its availability is equitable across the
 population?
 
 The valuation of responsibility makes a lot of sense in health care.
 That’s exactly what a doctor does. They are taking responsibility for
-your health – your life essentially. For that you exchange currency.
-That goes for all participants in the medical field, from nurses and
-hospitals to laboratories and drug companies. We trust these people to
-be responsible, and they are regulated to ensure that we should be able
-to trust them. Using a system based on property for health care belies
-the actual value of that care.
+your health – your life essentially. You exchange currency for that
+responsibility. That goes for all participants in the medical field,
+from nurses and hospitals to laboratories and drug companies. We trust
+these people to be responsible, and they are regulated to ensure that we
+should be able to trust them. Using a system based on property for
+health care belies the actual value of that care. This is why we must
+use insurance to equivocate that cost across a large population, to
+equalize some of that real cost across a broader population, because we
+must pay those costs in measurements of property. I can say with some
+satirical-certainly that most lawyers and politicians are in it for the
+money, I won’t say that about health care workers. It takes time and
+dedication and tolerance for a lot of gross stuff, most really care.
+That means they are responsible people at heart. That’s genius valuable,
+not vanity.
 
 I’m not suggesting that scoot or asimov is appropriate for health care.
 They’re not. I’m suggesting that we have currencies for congruent
@@ -5294,8 +5584,8 @@ of the public domain, and the proportional value additions to this
 public treasure, measured by responsibility of humans dedicated to
 preserving this knowledge.
 
-It has to be a global organization, but it also has to be open to avoid
-conflict. It has to be pure – responsibility as a value system has great
+It has to be a global organization. It also has to be open to avoid
+conflict. It must be pure – responsibility as a value system has great
 utility, if successful, you can apply it to other social systems.
 
 I’m sure much of the world will be skeptical, especially coming from an
@@ -5317,7 +5607,7 @@ ethos of this moment in history. I quote a rose of Indiana:
 >
 > *I must be losing my mind, “Are you blind?”*
 >
-> *I’ve seen it all a million times.*[65]
+> *I’ve seen it all a million times.*[70]
 
 With money, taking it back to the start is not fixing the implementation
 with clever technology. It’s not reproducing the excess of Wall Street
@@ -5354,7 +5644,7 @@ You are your own wealth.
 
 ## Artificial Scarcity
 
-Crypto currency and digital assets create artificial scarcity.
+Cryptocurrency and digital assets create artificial scarcity.
 Cryptography creates this system where if you can keep a secret key
 safe, you can uniquely stamp an item as unique and prove you hold the
 keys to that item. This is a clever trick and useful in securing data.
@@ -5373,16 +5663,16 @@ with more capital, your odds are much, much better.
 
 The Foundation believes that the power of imagination is distributed
 throughout mankind equally. There are two schools of thought about how
-that works out. One, that every human ever born has within his or
-herself some ability add tremendous value to the common good of mankind
-in their lifespan, and societies aligned to developing that genius will
-be more prosperous and equitable. Two, it’s a sort of DNA lottery,
-there’s a code be unlocked and if we want to proceed down a really
-freaky science fiction type path, we’ll decode the secret to genius and
-every baby born will have an allotted slate of genius positive
-characteristics as long as parents sign over at least 15% of the child’s
-future income to the corporate overlord. Or you could do it the old
-fashion way and produce little corporate worker drones.
+that works out. One, that every human ever born has within themselves
+some ability to add tremendous value to the common good of mankind in
+their lifespan. Societies aligned to developing that genius will be more
+prosperous and equitable. Two, it’s a sort of DNA lottery, there’s a
+code be unlocked and if we want to proceed down a really freaky science
+fiction type path, we’ll decode the secret to genius and every baby born
+will have an allotted slate of genius positive characteristics as long
+as parents sign over at least 15% of the child’s future income to the
+corporate overlord. Or you could do it the old fashion way and produce
+little corporate worker drones.
 
 Using genius and vanity as a valuation system will give us the data to
 determine which one of these two futures is coming. I’m pretty sure of
@@ -5420,8 +5710,8 @@ the value of the public domain. It is the public domain, explicitly not
 property, so corporations and governments do not have a stake. It’s the
 public’s domain. The Foundation is not exerting rights to the public
 domain, only the measurement of what is in the domain. Not exclusively,
-I welcome all competitors to this attempt at limited democracy and will
-happily point out any attempt to create unfair systems. As long as The
+I welcome all competitors to this attempt at equalization and will
+happily point out any attempt to create unfair systems. If The
 Foundation can be open and above corruption, obey all local laws, avoid
 any participation in national or local politics, and limit its scope to
 a value system of equality, it can succeed.
@@ -5438,6 +5728,8 @@ some sci-fi about a property-less communal society, but they
 foundational legal and civil systems we have in place depend on it.
 It’ll take decades for a society to transform away from property-based
 wealth.
+
+That’s a good thing. I got a mortgage.
 
 ## Psychohistory
 
@@ -5500,7 +5792,7 @@ innovation.
 
 One Trillion Asimov represents the sum of human genius. I have outlined
 a Distribution Schedule in [Appendix
-B](#appendix-b-asimov-distribution-schedule). To summarize, it’ll take
+B](#appendix-a-asimov-distribution-schedule). To summarize, it’ll take
 about 200 years to distribute all the asimov. Per plan, if The
 Foundation has succeeded in acquiring all the scoot of genius and hold
 zero scoot of vanity, one trillion asimov should be equivalent to the
@@ -5536,7 +5828,7 @@ trying to kill each other – and start over with efficient governments
 and a proper value system for the fundamentals of innovation,
 sustenance, health and property?
 
-I put all the figures into my psychohistory calculator[66] and see that
+I put all the figures into my psychohistory calculator[71] and see that
 10% of asimov’s value in ten years time would be equivalent to $260
 Trillion USD, enough to pay off those national debts four times over –
 if they can all agree to stop debt spending, which will be much easier
@@ -5569,7 +5861,7 @@ you left, you told us there was another chosen one, like a backup plan.”
 “Didn’t work out. Tried to get him on to align with the plan, but all he
 wanted to do was dribble, dribble, dribble.”
 
-## Scoot of Bling (SOB)[67]
+## Scoot of Bling (SOB)[72]
 
 In the billionaires sections, I talked about the privileges of wealth.
 This is where we define them. The privileges of genius wealth are
@@ -5584,13 +5876,13 @@ The problem before me was, how to make wealth more equitable while at
 the same time replacing the property-based vanity wealth that’s so much
 fun. There’s a simple solution that solves another problem, how to
 replace the geo-flex of the East Coast West Coast rap rivalry, without
-out all the murder.[68]
+out all the murder.[73]
 
 There’s are a reason the Peas song goes *Up inside the club or in your
 Bentley*. Apl.de.ap is cool, he wants to save the planet, but it can’t
 be *Up inside the club or in your Tesla*. You can’t flex something you
-can’t hear coming.[69] You can’t flex a tax credit – that’s like an-anti
-flex because rich people and royalty don’t pay taxes, come on now.
+can’t hear coming.[74] You can’t flex a tax credit – that’s like an-anti
+flex because rich people and royalty don’t pay taxes. Come on, now.
 
 Bentleys are rare, made on a faraway magical island where once upon a
 time if you were a king and your wife didn’t bear you a male heir, you
@@ -5603,7 +5895,7 @@ collected works of Sir Eric Cartman.
 Wealth privilege is a must have in any functional value system. Despite
 two worldwide waves of revolutions directly reactive to inequality and
 class systems, we still have a problem with wealth inequality in a world
-that is fantastically prospepous in global sum and remains so with each
+that is fantastically prosperous in global sum and remains so with each
 succussive generation having more bountiful and peaceful lives. Yet
 despite this we retain a high level of global inequality as our
 consumption expands faster than our total available sustainable
@@ -5624,8 +5916,8 @@ to keep his vain men satisfied, as they measured the value of their
 conquest in gold. The real hero Vikings valued something more than gold,
 and it had a purer, almost magical value. And thus Ragnar, after losing
 his mind in France, gave up all possessions and walked the earth, and
-then would go on to become legendary, extracting vengeance beyore dying
-a martyrs death a pit of snakes. And that value, of the legend, was
+then would go on to become legendary, extracting vengeance before dying
+a martyrs death in a pit of snakes. And that value, of the legend, was
 valuable beyond measure and was true generational wealth, as all the
 sons of Ragnar, even the stupid and lame, became legends themselves.
 
@@ -5650,7 +5942,7 @@ about your shared value system? And even if McKnight turns out to be a
 choir boy, you have any idea what it would cost to pay insurance, taxes
 and maintenance on a Bentley? Social media indentured servitude at best,
 at worst, the kid would be out driving Bentley Uber every time Flo calls
-for an installment. How’s that going to look for Jay-Z chosen one. It’s
+for an installment. How’s that going to look for Jay-Z chosen one? It’s
 a crime of necessity, because as a musician, Jay-Z gives you a Bentley,
 you can’t not drive it, that’s like a golden ticket for potential
 generational musical wealth. Whatever it takes.
@@ -5665,7 +5957,7 @@ Breaks*. Legend is he ran over a goat on the way and stopped at the
 farm, knocked at the door, apologized profusely to the stunned farmer,
 and handed over a briefcase with over £100,000 and then helped the
 farmer bury the goat. The legend is unclear in regard to if the
-briefcase belonged to Bonham or Princess Margaret.[70]
+briefcase belonged to Bonham or Princess Margaret.[75]
 
 So you ride this hypothetical bad-boy Bentley with the ultimate pedigree
 around Brooklyn, sometime on your own, sometimes with your boys,
@@ -5684,66 +5976,66 @@ rap. Either you just decide – by fiat – or maybe you set up some
 contest. It’s possible to hold elections either in the responsibility
 domain or value domain, perhaps you get nominees from the public, or
 perhaps it’s strictly at your royal whim. Regardless, when you declare a
-winner – you throw him scoot with a responsilbity characteristics – the
-winner must accept[71] - and he gets to drive the Bentley – until
+winner – you throw him scoot with a responsibility characteristic – the
+winner must accept[76] - and he gets to drive the Bentley – until
 somebody else comes along a displaces him and takes it. Each new winner
 accumulates responsibility – the direct requirement to pay a portion of
-the upkeep cost – and some occasional prvilidge to the Bentley for
-special occasions. This all can be managed via the protocol, somebody
-writes an app to managed the scheduling and the collection of
-responsibly.
+the upkeep cost – and some occasional privilege to the Bentley for
+special occasions. This all can be managed via the protocol; somebody
+writes an app to managed the scheduling and the collection of dues.
 
-Now maybe Jay-Z becomes the car share king of New York, Scooting
-everyone of his vehicles, as you can only flex one at a time. The
-Bentley is special, it’s for muscisiona that can flow, but maybe you
-start handing out Scoot of Bling to people you come across in everyday
-life. Maybe a waiteress really impresses you with her hard work,
-attention to detail, and professionalism, and a proximity app on your
-phone alerts you that the waitress is a pledge, so they next morning,
-start of her shift, one of your people show up at the restaurant with
-keys to a Mercedes. The waitress gets to drive it for a few months, but
-a waitress can’t afford that kind responsibility in perpututy, so you
-don’t lay that characteristic on her scoot. Ten years later, when she’s
-out of school and a big time lawyer, she petitions you to lay the
-responsibility characteristic on her, and she contriubes, paying it
-forward.
+Now maybe Jay-Z becomes the car share king of New York, Scooting every
+one of his vehicles, as you can only flex one at a time. The Bentley is
+special, it’s for those who can flow, but maybe you start handing out
+Scoot of Bling to people you come across in everyday life. Maybe a
+waitress really impresses you with her hard work, attention to detail,
+and professionalism, and a proximity app on your phone alerts you that
+the waitress is a pledge, so they next morning, start of her shift, one
+of your people show up at the restaurant with keys to a Mercedes. The
+waitress gets to drive it for a few months, but a waitress can’t afford
+that kind responsibility in perpetuity, so you don’t lay that
+characteristic on her scoot. Ten years later, when she’s out of school
+and a big time lawyer, she petitions you to lay the responsibility
+characteristic on her, and she contributes, paying it forward.
 
 So basically, you can expand your car collection, share the rides
 responsibly, and avoid the perputual upkeep cost. Are their downsides?
-Yeah, if you find yourself broke, you can’t cash these cars in for cach.
-They’re scooted – they belong to humanity – just curated by you. That’s
-the thing – if it’s really bling – a privilege of wealth – then you’re
-not going to worry about that. You’re Jay-Z – you don’t liquidate value,
-you create value.
+Yeah, if you find yourself broke, you can’t cash them in. They’re
+scooted – they belong to humanity – just curated by you. That’s the
+thing – if it’s really bling – a privilege of wealth – then you’re not
+going to worry about that. You’re Jay-Z – you don’t liquidate value, you
+create value.
 
 I will describe in exact methodology we’ll use to insure property that
-become Scoot stays in the public domain, but the resonsiblity for it can
-be managed for as long as there are people willing to be responsible.
-Will it take generations or centuries for that special Bentley to
-maintain it’s value? Unknown, but that’s how we measure genius. That’s
-why I suggested he draft off Bonham and Princess Margaret – a way to
-hedge your genius bet of true genius and true blood royalty.
+become Scoot stays in the public domain, but the responsibility for it
+can be managed for as long as there are people willing to be
+responsible. Will it take generations or centuries for that special
+Bentley to maintain its value? Unknown, but that’s how we measure
+genius. That’s why I suggested he draft off Bonham and Princess Margaret
+– a way to hedge your own genius bet along with true genius and true
+blood royalty.
 
 In Appendix D I describe Scoot of Special Purpose Entities (SSPE) which
 are designed to ensure that property that is turned to genius wealth
-remains in the public domain. It’s easy to see that scoot of Blling this
+remains in the public domain. It’s easy to see that scoot of Bling this
 could be a instrument for fraud and perhaps tax evasion and that would
 undermine the system. SSPE work as statis for the physical property
 curated by Scoot. They’ll repurpose said property in a system that
 ensures that it’s demise is a benefit to the public good.
 
-So what happens when Jay-Z moves on? It depends. He can leave control of
+What happens when Jay-Z moves on? It depends. He can leave control of
 the scoot to his heirs, and they can be the arbiters of what kind of
 sounds are the legacy of his Bonzo Bentley, or it can be arbitrated by
-the Scoot itself. It’s fair to expect that the holders of Bonzo Bentley
-Scoot – people who contributed to the responsilibty for what it
+the Scoot itself. It’s fair to expect that the holders of the Bonzo
+Bentley Scoot – people who contributed to the responsibility for what it
 respresetns – would want to continue the tradition as a tribute of
-somebody that’s value helped their lives.
+somebody who contributed value to their own lives. It becomes genius
+royalty, passed on for generations, as long we remember the flow.
 
 The value of this scoot is a privilege bestowed by a genius upon
 recognition of some other genius – specific to their shared value
 system. The Bentley becomes valuable because of the value of Jay-Z
-genius. It’s value is a direct reflection of Jay-Z lasting value to
+genius. It’s value is a direct reflection of Jay-Z’s lasting value to
 humanity at large.
 
 How this is managed as generational wealth is a choice. Children may
@@ -5755,14 +6047,14 @@ There are many befefits of transferring ownership of property into
 shared custotidanship for a public good. For one, it changed the wealth
 flex from the flaunting of valuable property to the flexing of your gift
 of value to the public good. In the case I described, it directly
-converts Jay-Z immense but finite wealth in the property-domain into his
+converts Jay-Z immense but finite wealth in the property-domain into
 immense and perhaps infinite wealth in the genius domain. The small
 commitment of wealth would strengthen the foundation of the system –
 that genius and not property is the real treasure of humanity. Changing
-the wealth flex for the most wealthy into will have trickle down effect,
-so that the wealth flex moves away from investment in consuamable goods
-into durable goods – quality and leveraged value over quantity. This is
-the path towards more sustainable life.
+the wealth flex for the most wealthy will have trickle down effect, so
+that the wealth flex moves away from investment in consumable goods into
+durable goods – quality and leveraged value over quantity. This is the
+path towards more sustainable life.
 
 Scoot of Bling will form staking networks with other Scoot of Bling. A
 visiting rapper from Korea visits Brooklyn, because he’s in the same
@@ -5770,100 +6062,104 @@ exclusive staking network as the Bonzo Bentley, he might warrant an
 honor of a pickup – it’s like a royal courtesy – as long as there is a
 special set of wheels waiting next time Jay-Z lands in Seoul.
 
-You can see how this could lead to all kinds of exclusive luxurity.
-Every genius musician needs a boat, but a musician don’t need a boat
-every day. Scoot of Yacht is the way to go. Same goes with homes in
-Italy, or the Riveria or in Manhatten or Tokyo. Instead of AirBnB, it’s
-a network of places to stay connected by a shared value systems.
+You can see how this could lead to all kinds of exclusive luxury. Every
+genius musician needs a boat, but a musician don’t need a boat every
+day. Scoot of Yacht is the way to go. Same goes with homes in Italy, or
+the Rivera or in Manhattan or Tokyo. Instead of AirBnB, it’s a network
+of places to stay connected by shared value systems.
 
-Exclusivity is fine with a public good admintiered because the property
-involved can only be coverted to genius wealth one time. The Bentley –
-without it’s association with Jay-Z genius – is just an expensive car
+Exclusivity is fine with a public good administrated because the
+property involved can only be converted to genius wealth one time. It’s
+exclusive as long as it has value, but it can never be sold. The Bentley
+– without its association with Jay-Z genius – is just an expensive car
 that costs way too much to insurance and maintain. The value is
-conferred by it’s association with the value system of Jay-Z.
+conferred by its association with the value system of Jay-Z.
 
-I’ll f
+It's a way to confer responsibility for your values to people you value.
+It’s a knighthood in the Scoot royalty system.
 
 ### Scoot of Transportation (SOT)
 
 Sharing resources is the often the most efficient way to solve a
-resource problem in systems. Computer systems are able to solve many
-different kinds of problems because they share the most expensive
-resource, Microproccessors and RAM among the problems.
+resource problem in systems. Computer systems can solve many different
+kinds of problems because they share the most expensive resource,
+Microprocessors and RAM among the problems.
 
 It doesn’t have to be a genius it may be the value system itself that
-creates the oppournunity for privileges. Let’s say you live in up-scale
-neighboorhood for young professionals, and you’ve got yourself a Tesla
+creates the opportunity for privileges. Let’s say you live in up-scale
+neighborhood for young professionals, and you’ve got yourself a Tesla
 but find yourself working at home and not driving it much. You’re an
-engineer, so you know that the type of motor, elelctric or gasoline, is
+engineer, so you know that the type of motor, electric or gasoline, is
 only part of the sustainability equation. Another piece is the number of
 cars on the road and parked in garages idle. It takes a tremendous
 investment of energy and resources to produce an automobile, and the
-more that are produced, the more roads need to be build and that has all
-kinds of sustainability consequences. But driving where you want when
-you want is a basic expectation of wealth or even necessity in some
-cultures. Is there a way to balance that problem? Scoot can rent and
-lease property. So you lease a dozen Teslas as well as a mini-bus and a
-couple of hyrid pickup trucks, as well as several charging parking spots
-in building scattered throughout the neighboor, all within five minutes
-walking distance of each other. You find that with a dozen Teslas and
-the extra vehicles you can support the needs of about a hundred
-residents, you use software to manage the capacity. One of your scootage
-introduces to a neighboor who has his own Electric Vehicle but rarely
-uses it, so you start leasing it from the neighboor on a on-demand basis
-and through experimnation you find that the additional capacity allows
-you to add twenty more neighboors. Holding Scoot your Green Auto Scoot
-becomes the one of the key selling points of the neighboorhood. You
-notice that two Teslas are always parked at one of the buildings
-charging spots during the day but gone at night. You introduce yourself
-to the owners and find one is a delivery guy and the other is a Uber
-driver. Since the majority of your residencents drive during the day or
-early evenings you find that you can increase your support to over a
-hundred residents by spot leasing capacity from the sleeping
-professional drivers.
+more that are produced, the more roads need to be built, more oil that
+needs to be drilled for, or more windmills or solar farms need to be
+built. There are multiple sustainability consequences we are responsible
+for with each new car built. Driving where you want when you want is a
+basic expectation of wealth or even necessity in some cultures. Is there
+a way to balance that problem?
 
-For the drivers in your neighboorhood, it’s a win win. They initially
-have to stake into the SOT with a fairly substantial investment, but the
-ongoing responsibility commitment is proportional to their usage
-dynamically calculated based on relative demand and administered – on
-demand – by Scoot protocol. It’s a shared resource – every user is
-pledge and a responsible user, and since this scheme would require a
-dynamically scalable insurance scheme, a responsible and legal driver,
-it is a public good for those who live in neighboorhood. As the scootage
-the overall cost per user and use falls, access to the SOT becomes a key
-driver of value in the neighboorhood. You’re association with other
-staking networks expands, and after a few Years, it’s possible for one
-your scootage to travel all over the world and just use and app and find
-a EV car or best available alternative for hourly use, at only a
-marginally higher proportional commitment than it would have cost at.
+Scoot can rent and lease property. You form a Scoot of Transportation
+(SOT). You lease a dozen EVs as well as a mini-bus and a couple of
+hybrid pickup trucks, as well as several charging parking spots in
+building scattered throughout the neighbor, all within five minutes
+walking distance. You find that with a dozen EV and the extra vehicles
+you can support the needs of about a hundred residents. You use software
+to manage the capacity. One of your scootage introduces to a neighbor
+who has a personal EV but rarely uses it, so you start leasing it from
+the neighbor on-demand and through experimentation you find that the
+additional capacity allows you to add twenty more neighbors to the
+scootage. Holding scoot in your SOT becomes the one of the selling
+points of the neighborhood. You notice that two Tesla are always parked
+at one of the buildings charging spots during the day but gone at night.
+You introduce yourself to the owners and find one is a delivery guy and
+the other is an Uber driver. Since most of your scootage drive during
+the day or early evenings you find that you can increase your support to
+over two hundred residents by spot leasing capacity from the sleeping
+professional ride-share drivers.
 
-You’re scoot becomes an equalizing force in the neighboorhood. You’ve
-worked out agreements with rideshare companies where local residents who
-want to commit but don’t have the outlay can “earn” their initial
-commitment by utilizing vehicle capacity as rideshare drivers. So after
-a few years of optimizing, you have your fleet of vehcciles at 90%
-utilization rates a key contribution to the global sustainability
-equation.
+For the drivers in your neighborhood, it’s a win-win. They initially
+must stake into the SOT with a substantial investment, but the ongoing
+responsibility commitment is proportional to their usage dynamically
+calculated based on relative demand and administered – on demand – by
+Scoot protocol. It’s a shared resource – every user is pledge and a
+responsible user, and since this scheme would require a dynamically
+scalable insurance scheme, a responsible and legal driver, it is a
+public good for those who live in neighborhood. As the scootage the
+overall cost per user and use falls, access to the SOT becomes a key
+driver of value in the neighborhood. Your association with other staking
+networks expands, and after a few years, it’s possible for one your
+scootage to travel all over the world and just use and app and find a EV
+car or best available alternative for hourly use, at only a marginally
+higher proportional commitment than it would have cost at your local
+SOT.
 
-What’s more, you observe – through data – that what your neightboorhood
+You SOT becomes an equalizing force in the neighborhood. You’ve worked
+out agreements with rideshare companies, so residents who want to commit
+but don’t have the outlay can “earn” their initial commitment by
+utilizing vehicle capacity as rideshare drivers. After a few years of
+optimizing, you have your fleet of vehicles at 90% utilization rates a
+key contribution to the global sustainability equation.
+
+What’s more, you observe – through data – that what your neighborhood
 values is the ability to get up and drive wherever they want to more
-than the value actually driving. They find they can get by without a lot
-of walking, or riding a bike or catching a train just as well. This
-change in behavior is cumulative and recursive. Yes, less vehicles means
-more expensive vehicles but that’ll work itself out, because they’ll be
-more durable and easier to take care of because most of the buyers will
-be looking for utility. Yes, as our children grow up and have babies of
-their own, they’ll long for the days when their mothers could stuff all
-that baby stuff and a months worth of grocerys into a mini-van, but
-that’s the price they have to pay for a sustainable world.
+than they value the actual driving. They can walk, bike or bus. This
+change in behavior is cumulative and recursive. Fewer vehicles mean more
+expensive vehicles but that’ll work itself out. The cars will be more
+durable and easier to take care of because most of the buyers will be
+looking for utility. As children grow up and have babies of their own,
+they’ll long for the days when their mothers could stuff all that baby
+stuff and a month’s worth of groceries into a minivan, but that’s the
+price they must pay for a sustainable world.
 
 This works if the system is real. If it really is a way to measure
 responsibility. People who leave their trash and don’t make sure the
-charger is latched in tight when – or wosre – get arrested or using a
-Scoot car to commit a crime – could get you kicked out of the Scoot and
-the responsibility domain. It’s a privilege – something special earned
-by commitment to share value system. And that shared value might simply
-be affordable and sustainable transportation for your neighboorhood.
+charger is latched– or worse – get arrested using a SOT vehicle to
+commit a crime – could get you kicked out of the Scoot and the
+responsibility domain. It’s a privilege – something special earned by
+commitment to shared value system. And that shared value might simply be
+affordable and sustainable transportation for your neighborhood.
 
 It won’t work if it’s a front for somebody using the Scoot as a
 commercial business That’s why the commitment to the property business.
@@ -5877,55 +6173,189 @@ Or not. The value of vanity and expressive genius might be greater than
 the value of sustainability.
 
 Say you’re an innovative scooter who expands his vision beyond a
-neighboorhood raidus, to say the broad sprawl of an urban city like
-Houston. You collect 67 Calidliacs, your most valuable one you give to
-your third wife, and have it painted Pink with Hello Kitty. She dumps
-you when your Transylvania Meta Crypto fortunes is staked and suddenly
-gushes, and you were just seconds too late , leaves you the Cadilac.
-Inspired by your sister, who’d guilt tripped your about your collection
-car, while she dragged herself and your three nieces across Houston
-neighboors in a wagon, or left a trail of spontenouesly infertile Uber
-drivers in her broods wake, she suddenly had an flashback empiphany, to
-the funday of unsustainability. She breaks into your house, takes your
-keys, and drives Hello Kitty, top down, something in the back, all in
-Hellow Kitty outfits, loose without seatbelts in the back seat. She’s
-arrested. Your realizes your sister is just on the leading edge of
-something, and it’s a good thing too because taking care young nieces is
-hard and expensive and choosing the unempolyement option in the same
-crypto currencie you bet your life savings in wasn’t good planning, and
-sisters away for 20 to life for child endargement.
+neighborhood radius, to say the broad sprawl of an urban city like
+Houston. You collect ‘67 Cadillacs, the most valuable one you give to
+your third wife, and have it painted pink with Hello Kitty trim. She
+dumps you when your Transylvania Meta Crypto fortunes is staked and
+suddenly gushes, and you got out just seconds too late. She leaves you
+the Cadillac. Inspired by your sister, who’d guilt tripped you about
+about your car collection, while she putters around Houston in a Prius
+with her three daughters. One day, having an epiphany to the futility of
+sustainability, she breaks into your house, takes your keys, and drives
+Hello Kitty, top down, daughters seat-beltless in the back, all in Hello
+Kitty outfits. She’s arrested. You realize your sister is just on the
+leading edge of something, and it’s a good thing too because taking care
+young nieces is hard and expensive and choosing the unemployment option
+in the same crypto currency you bet your life savings in wasn’t good
+planning, with sister away for twenty to life for child endangerment.
 
 Your realization is that your sister was on front end of a trend of
 girls that had grown up in the 90s and 2000s with SUVs and minivans and
-Calliicas for the bad ass moms, and all the sudden, usually on the
-thirid kid but sometimes all it took was one, and feel the need to burn
-some gas, even if it cost $46.60 a gallon. But since nobody makes
-gasoline cars, and private cars of any kind new cost more than a house
-because of the overall reduction of demand because SOT, your 10 cars
-become very valuable. Turns out moms all around the country want to
-driver around and burn some gas in a Hello Kitty Cadillac. Pretty soon,
-you’re nationwide, except in California and Vermont, where’ you’re
-wanted for crimes against humanity.
+Cadillacs for the bad ass moms. Usually on the third kid but sometimes
+all it took was one, they feel the need to burn some gas, even if it
+cost $46.60 a gallon. Nobody makes gasoline cars, and private cars of
+any kind new cost more than a house because of the overall reduction of
+demand because of SOT. Your ten Cadillacs become very valuable. Turns
+out moms all around the country want to drive around and burn some gas
+in a Hello Kitty Cadillac. Pretty soon, you’re nationwide, except in
+California and Vermont, where’ you’re wanted for crimes against
+humanity.
 
-<span class="mark">…might wonder how I started off with Jay-Z Bentley
-and ended up with some kind of souped up hippie rideshare…. Efficient
-systems (1 people mover…2..16)… Most efficient system…. Reference to
-Netflix at</span>
+Would this be vanity? It depends on the context. Sharing Cadillacs is
+better than individual ownership in terms of sustainability, but they
+stopped making the ones you collect in 1967. It’s a sunk cost in terms
+over economic value.
 
-<span class="mark">…managed public transpo rewards system where public
-transportation earns credit towards the SOT. You don’t usually need it
-but when you do, it’s basically free….</span>
+Say your sister was a big-time fight for justice lawyer, who defended
+the poor and downtrodden and stood up against corporations and
+government alike. Perhaps there is a public outcry and protest, and some
+big shot pro-bono lawyers from New York City show up and get her free of
+the state charges of child endangerment. A crowd awaits her on the
+courthouse steps, where she makes a passionate speech, “When you’re
+fighting for justice, sometimes you just need to burn a little gas.”
 
-<span class="mark">….Efficent systems is …. Climate change …. Head on
-direct … My political ideas and ideology is my own, and I think about it
-from an effici3ent system point of view. It is more efficient to be
-sustainable because of this very fact – we don’t know what we don’t
-know.</span>
+She is cheered as she gets into the Hello Kitty Cadillac, where you
+drive her, along with her New York City pro-bono lawyers, two blocks
+through downtown Houston to the Federal Courthouse, where FBI agents
+take her away on federal charges of carbon offset evasion. Turns out
+she’d failed to pay the carbon tax at the pump, using a bypass code for
+given to her by her clients, environmental cleanup workers, and this act
+of rebellion would cost her 10 years in the federal penitentiary. Don’t
+mess with Uncle Sam.
 
-<span class="mark">Best ideas win…. Cixin Liu.</span>
+Rather than ending your SOT value for good, you see a spike in demand,
+from lawyers all over the country. They want to drive a Pink Cadillac
+when rolling up on the steps of justice for a big case, it becomes like
+the Bonzo Bentley for big-time fight-the-man attorneys. Crowds always
+gather, stop, and take photos of a Pink Cadillac and post it all over
+the internet, knowing some justice is about to get served. Would that be
+transportation, or bling, or just way throw it down?
 
-<span class="mark">Because your Scoot of Transportation (SOT) is so
-strong, it actually has th</span>
+#### Scoot of Minion (SOM)
+
+**Question:**
+
+I’m a big time lawyer, and I drive a Bentley, just like Jay-Z. It’s not
+a special Bentley, but it’s special to me, I bought it with my cut of
+the last big Enron divorce before the fall, and thus it holds a special
+place in my heart. Can I scoot my car? I mean, it’s a pain to drive in
+Houston traffic, but I drive it to the office on payday so the rest of
+the firm will know how rich I am. I have about thirty young associate
+lawyers at my firm, and they all want to be rich like me, so I’m sort of
+like their legal version of Jay-Z. Couldn’t I get them to pay the
+insurance and taxes and all the maintenance if I let them drive it once
+in a while. They work 90 hours a week, so its not like they have a lot
+of free time. My kids don’t talk to me, so I’m cool with giving the car
+to humanity after I’m gone, it insures that none of my exes get it.
+
+**Answer:**
+
+Yes, totally. The Foundation will happily help you convert your chunk of
+steel property into permanent genius wealth. Not only will it record in
+digital stone the excess douchebaggery of the early 3<sup>rd</sup>
+millennium, it will lessen the peer pressure on young lawyers on your
+firm to go invest in excess displays of material wealth themselves.
+
+Those young lawyers will have to make a hard choice. Do they want to be
+known as minions, lawyers who bow to the needs of their superiors,
+which, for a attorney, means the person that pays them with the king’s
+gold? A Scoot of Transportation can’t use PPH (anonymous) handles – they
+have to be insured for driving; their identity will be known. Who they
+bow to becomes an entry on the scoot-chain, should anybody – like
+opposing counsel – ever bother to check.
+
+It’s highly likely that somewhere there is a client on the other side of
+your legal brilliance that is also a pledge. You scooting a Bentley will
+be an entry on an open scoot-chain. It will incur inspection by anybody
+in the responsibility domain who is interested in why a lawyer would
+scoot a luxury automobile.
+
+This is a good example of the use of a shun. A shun is a specific value
+judgement upon a Scoot, saying I think this is bad specifically for this
+reason. A shun requires a commitment and a staking, it’s not a
+thumbs-down, there are repercussions in ability to earn fees and a
+permanent historical record of a value judgement. It’s not something
+that can be joined anonymously. Note that join a shun refuse
+transactions from that Scoot and it’s holders, reducing ability to
+trade. Shuns are a choice – you must choose to make the same value
+judgement as somebody else.
+
+All someone must do is shun your Scoot as *cheating lawyer
+douchebaggery*. Your young associate may have to consider what being
+associated with that may do to the future careers in the genius economy.
+
+### Scoot of Harden’s Kicks (SOHK)
+
+I don’t have much bling. I might one day contribute a vehicle to a SOT,
+but I’m not sharing my house or any of the rest of my material
+possessions.
+
+I do have one thing. It’s not exactly bling.
+
+Having been under a spell in retrospect I can’t fathom to comprehend,
+for some reason I gave members of my family the impression they should
+use our joint wealth to gift me property that James Harden was selling
+for my birthday when I was in my forties.
+
+I got some headphones, they’re real good. There were some times in
+January 2021 where events of the moment drove me to fits of madness and
+I wanded to smash those headpones into the ground, but I knew that was
+unsustainable behvior, and I didn’t want to the blow another $300 of new
+headphones.
+
+The other thing I got are these nice shoes. They are red, white and blue
+and sold by a company, I refuse to name as act of karmic vengeance. This
+company also appretnly sells T-Shirts at the outlet store, because I
+have the same shirt with their name on it three different colors, and
+I’ve been walking around Colorado advertising them for free. Stragely,
+there’s this skateboarder dude I walked by all the time in Manitou
+Springs in the pandemic, and everytime I’d pass him he’d say, “All day I
+dream about skateboarding.” In 2018, I was having pretty severe footpain
+and I went to doctor and played around with inserts and different shoes
+and found that this company’s shoes worked the best with my feet and the
+insoles. Despite my karmic vengeance, I’m a hypocrite and confliceted,
+not only a debugger of historical irony, I’m a living example.
+
+These special shoes are Harden ……….. They’re so pretty, and so
+expensive, I didn’t’ want to wear them out walking around in the
+neighboorhood. So for two years, I wore them when I went to a game in
+Denver, and in the playoffs on gameday I’d wear them to work, though I’d
+change to my regular walking shoes for my walks.
+
+I’ve never made a YouTube video or posted anything, but I have
+fantasized about recording me burning the shoes and my wife buring her
+#13 Harden Jersey at some pivotal point in basketball, hopefully when
+KPJ faces Harden in the finals, and posting it for the world to see.
+
+That would be unsustainable behavior, and also not very Texan. It ain’t
+Texan to burn something somebody sold me that I paid for with my own
+hard earned money, or my wife’s crypto money. It’s Texan to use that
+stuff to somehow ironically kick that somebody’s ass (metaphorically, of
+course.)
+
+That’s why I’m offer up these Harden kick, to any NBA player who is
+going to face James Harden, regular season or playoffs. If you wear a
+size twelve, your ankles can handle a James Harden shakedown in a
+low-top, and you want to put a historically ironic lockdown upon a
+former great player, MVP, Sixth Man of the Year, and multiple time,
+scoring champion, these are the shoes for you.
+
+I’ve put a special blessing on them, and I was wearing during some of
+The Beards best games. These shoes have seen it all, and that’s all the
+advantage you’re going to need, because James is old now, and that was a
+long time ago. Just remember, don’t reach.
+
+I’ll start this scoot immediately, any player wants to give it a shot,
+reach out. We’ll backport stats on the scoot-chain once the protocol is
+up, and we’ll all enjoy the value we create together, stopping James
+Harden. As a scootage, we’ll get together, once a year, at the *Instant
+Karmic Soup Kitchen*, and watch all the highlights of the games, a band
+of brothers. A brotherhood of men who wear size twelve and have walked
+in each other shoes.
+
+And James, of course. He’ll be invited.
+
+I sure hope Jae’Sean Tate wears size twelve.[77]
 
 # Governance
 
@@ -5943,7 +6373,7 @@ seeding/development holders) before actual trading begins.
 The Foundation’s method of governance shall be described and agreed to
 in the charter.
 
-The Foundation’s scope is limited to the appreciation of Human Genius.
+The Foundation’s scope is limited to the *appreciation of human genius*.
 The Foundation is charged with implementing a metric protocol so that it
 can measure appreciation. I’ve described an implementation of that in
 asimov and scoot. The specifics of the implementation should go in
@@ -5951,10 +6381,10 @@ amendments to the charter. The implementation of the system of metrics
 and the management of responsibility may change, but the goals should be
 timeless.
 
-It’s very important that **The Foundation** be non-political and free
-from national influence. In most organization, this is truly impossible,
-but by limiting the scope to the appreciation of human genius, we can
-avoid corruption.
+It’s very important that The Foundation be non-political and free from
+national influence. In most organization, this is truly impossible, but
+by limiting the scope to the appreciation of human genius, we can avoid
+corruption.
 
 This is an idealistic enterprise to create a value system that is better
 for humanity. Its governance should be open and limited in scope and
@@ -6011,6 +6441,8 @@ that the total number of trustees be eleven, as follows.
 
 ### Engineer (1)
 
+The engineer is the scoot trustee of scoot(0) – asimov.
+
 Since the metric of genius is an engineered system, we need an engineer
 to run it. The engineer is responsible for asimov disbursement, as laid
 out in the disbursement plan, as well as stabilizing the metric.
@@ -6027,7 +6459,7 @@ disburse in uneven amounts throughout the terms.
 
 Essentially, the engineer is the analog to the “invisible hand” in the
 global economic system. The engineer is responsible and accountable to
-the scootara, not the Board. The engineer’s action is driven by data.
+the scootara, not the board. The engineer’s action is driven by data.
 The engineer is accountable only in the responsibility domain, to
 provide a stable metric of genius. Over time, this data driven decision
 making process should lead to an algorithmic approach, and the
@@ -6046,7 +6478,7 @@ This is almost exactly like the consumer price index, except that
 instead of dollars it’s asimov. This also needs to be geo specific and
 aggregated proportionally. It’s a little bit more refined, as it only
 aggregates of the cost of the sustainable lifestyle, whatever that
-means.[72]
+means.[78]
 
 It won’t include the cost of gas for a cross-town commute, because
 gasoline is not a sustainable resource long term. Gasoline is a resource
@@ -6072,7 +6504,7 @@ That’s a long-term challenge. Initially, relative to stability to the
 dollar and bitcoin and other currencies is enough to judge relative
 value stability, and with gold-rush crypto fever catching, apparently as
 a direct psycho-somatic effect of the global pandemic, I’m betting its
-initial valuation might balloon to long term potential rather quickly.
+initial valuation might balloon to long term potential quickly.
 
 The engineer will use this effect to achieve a faster equalization.
 
@@ -6092,18 +6524,18 @@ workforces all the time. It is much more difficult and costly to setup
 in poorer countries. We will try to rollout globally where invited. This
 will be a step-by-step roll out, where we have one city in each country
 until we make complete circuit, and then stepping by relative population
-sizes. This creates a backlog of value in the queue for the wealthy or
-crypto-crazy countries.
+sizes of the countries. This creates a backlog of value in the queue for
+the wealthy or crypto-crazy countries.
 
-There is a way for the wealthy to exert the privilege of being wealthy –
-there are some privileges in this value system, as agreed to in the
-social contract with the billionaires. They can turn property into
-public good. There is a property-queue in the system. This will be a
-sorted queue where the most valuable property is processed first. Bill
-Gates wants to scoot his Da Vinci notebooks, he goes straight to front
-like a gangster, no waiting in line. Wants to meet the engineer on his
-way out, though, he might be prepared to kick it, engineer works on his
-(or her) own schedule.
+There is a way for the wealthy to exert the privilege of being wealthy.
+There are privileges in this value system, as agreed to in the social
+contract with the billionaires. They can turn property into public good.
+There is a property-queue in the system. This will be a sorted queue
+where the most valuable property is processed first. Bill Gates wants to
+scoot his Da Vinci notebooks, he goes straight to front like a gangster,
+no waiting in line. Wants to meet the engineer on his way out, though,
+he should be prepared to kick it, engineer works on his (or her) own
+schedule.
 
 The property-queue is justified, it is a permanent, one-way act,
 releasing a piece of property to humanity. It is a validation of the
@@ -6138,59 +6570,80 @@ asking them what hash algorithm they using and all that.
 
 Another tool used for equalization is the fee schedule. To register a
 Scoot in the responsibility domain, it must pay a fee. Scoot are
-registered in their country of origin, and thus we have the ability to
-skew the fees lower in less wealthy regions and higher in more wealthy
-countries.
+registered in their country of origin, and thus we can skew the fees
+lower in less wealthy regions and higher in more wealthy countries.
 
 Regardless of country of origin, there is a staking method where the
 more pledges you have at formation, the lower your rate of registration.
 
-#### 
+In addition, the protocol will issue tokens in exchange for processing
+transactions. The tokens in the value domain are credits for API
+requests to The Foundation. The tokens in the responsibility domain are
+credits for scoot regstircation. The engineer sets the relative value of
+these credits as a method of flow control.
+
+The Foundation is also node in the protocol network. It may process
+transactions, and since is always the prime node for entry into the
+responsibility network, can process transactions in lieu of fairly
+distributing transactions to the network. This is a means of flow
+control and equalization.
+
+Nodes processing transaction in the the value domain incur higher risk
+when dealing with anonymous addresses, and higher staking costs, thus
+there is an option to pay fees for higher priority transactions. The
+Foundation would be able to step in and processes fee-less transactions
+where they are neglected by outside nodes.
 
 #### Engineer’s Address
 
-The Engineer’s reserve consist of an initial seeding
+The engineer’s reserve is the Foundations weight against property
+billiionairs who can weild trememndous advantages in the repsonsiblilty
+domain, through the property queue. We are depending on this for
+equalization. As a rule, the electorage should have lady justice do a
+sniff test before casting your vote for an engineer.
 
-The inefficiency in the system is that we do not know what is genius and
-what is vanity. That is also the opportunity for leverage. Obviously, we
-each have our own take of what ideas and people are truly valuable to
-the world, and sometimes we’re right. The system depends on this
-inefficiency to work, it’s what provides the liquidity, and the
-opporutunity to leverage small amounts of wealth in large amounts.
+The engineer’s address is well known, and the protocol will also
+validate an engineers address truthfully. The protocol will always
+identify Foundation member addresses truthfully. This applies to
+engineers addreses at The Foundation, as well as any personal wealth.
+There is no conflict of interest because your wealth is your values.
+Foundation members and employees must disclose any value domain addreses
+they hold.
 
-The Foundation supports this notion and tries to use it’s data and the
-expertise of it’s Encylopedists to commit to genius and decommit to
-vanity.
+This is in the interest of full disclosuse. This is about personal
+values, and responsibility for personal values. You are responsiblie for
+what you value.
 
-The Engineer may use the reserve to commit to Scoot that support the
-system itself – ideas of true genius. The engineer may also use the
-reserve to attack ideas that do not support the foundations of the
-systems. Ideas that are exclusionary, promote violence, or degradation.
-Or ideas that take advantage of flaws in the implementation of the
-system before they can be rectified.
+The engineer is responsible for the metric to measure the appreciation
+of human genius. The engineer may use the reserve to commit to ideas
+that strengthen that system of measurement. He may also use it to attack
+ideas that weaken the system.
 
-Addreses used by the Engineer for commitment of the reserve will be
-identified as such without fail. In addition, addresess used by the
-egnineer’s staff or any employee of the Foundation shall be indeitified
-as such, though employee’s true ideitintied may.
+This is a considerable amount of power, and an engineer’s personal
+values come into play. So it has to be done in the open, and the best
+way to judge an engineer’s value is by what he or she values. The
+engineer will report yearly on his commitment of the engineer’s reserve.
 
-##### Proxy Addresses
+##### Warnings and retributions 
 
-I thought about the need for The Foundation and governemnts to have
-secret proxy addresses to conduct investigations and undercover stings
-on criminal enterprieses using the The Foundation to commit crimes. The
-problem with that is that the source of any scoot in those addreses
-would be traceable. Governements nor
+People will find a way to profit from bugs in the system. This is cases
+where “unfair” behavior is allowing some opportunistic advantage in the
+protocol. Sometimes, it’s difficult to change the protocol on the fly.
+Warnings are issued to nodes that are participating in this behavior. If
+warnings do not work, the Engineer may ask the board for a retribution,
+which could involve market based attack or banishment.
 
-…to be written…
+##### Banishment
 
-#### Retributions
+This involves placing the scoot on a board shun, basically kicking the
+Scoot off the network Banished Scoot can still process their
+transactions, and may even transact with other banished scoot, and use
+proxies to interact with the value domain.
 
-…to be written…
-
-##### Warnings
-
-…to be written…
+It’s important that banished scoot have full access to the protocol and
+tools. There is always the possibility that the banished behavior will
+change, or that Foundation policy would change, and the Scoot would be
+welcomed back.
 
 ### Continentals (7)
 
@@ -6198,8 +6651,9 @@ There is one continental trustee for each continent. The scootoro
 registered to each continent nominate potential candidates through an
 election, with the most significant placed on a ballot. Each member of
 the scootara may vote once for a single continental – regardless of
-their actual location. The Antarctic nominates are selected by the
-current board.
+their actual location. This is a way for someone to align their value
+set with someplace they may not live, perhaps where they originated. The
+Antarctic nominates are selected by the current board.
 
 The continentals are elected in a single election and serve a term of
 seven years.
@@ -6222,8 +6676,8 @@ years.
 ## Ethical Standards
 
 The trustees and officers must be held to a high standard of ethics with
-regards to the work of The Foundation. They must take no form of
-remuneration from outside of The Foundation.
+regards to the work of The Foundation. All cross obligations must be
+disclosed openly.
 
 The charter should address behavior and expectation of board members and
 remedies if they fail to live up to the standards.
@@ -6271,7 +6725,7 @@ implement shuns so pledges can self-regulate.
 ### Shunning
 
 The metric protocol should have a build in method of shunning. In the
-protocol, shunning is a voluntary action by pledges, where they join a
+protocol, shunning is a voluntary action by pledges, where they stake a
 formal shun and reject transactions from in the shunned scoot or
 pledges. This will reduce the number of nodes available to process
 transactions for a scoot, increasing transaction processing time or
@@ -6475,7 +6929,7 @@ we value is already our identity. I wear my Rockets colors, but even
 when I don’t, that’s still who I am.
 
 I never was a legit superfan. My family knows how much the Rockets mean
-to me and that is enough. Even before the Canadians[73] stole Olajuwon,
+to me and that is enough. Even before the Canadians[79] stole Olajuwon,
 I only went to a few games in person. The main reason is I couldn’t
 afford to go in the championship years, and even after I had a bit more
 money, it was better just to watch *The Dream* on the TV. Maybe I
@@ -6542,7 +6996,7 @@ Saint Jobs, and it’s possible that I saw a trailer for the show. I had
 last read Asimov as a teenager, but I’d remembered the basics of the
 story and I thought it fit, but I did have some second thoughts, as I
 didn’t want to jump on some pop-culture fad for something so
-important.[74] I’d started re-reading *Foundation* series early on, and
+important.[80] I’d started re-reading *Foundation* series early on, and
 so was excited to see the series. The TV series isn’t much like the
 books at all, and for good reason. The books are mostly nerdy people
 talking to each other about nerdy stuff, not good TV material. In any
@@ -6574,7 +7028,7 @@ wealth, we will have generational responsibility.
 
 I will request one privilege as creator of this system. I will ask the
 board to approve exclusivity to the SNS leases of the names I’ve listed
-in [Appendix C](#appendix-c-scoot-naming-reservations) for some period.
+in [Appendix C](#appendix-b-scoot-naming-reservations) for some period.
 I plan to apply my wealth to these Scoot once The Foundation is staked.
 
 These are the geniuses that I value.
@@ -6734,28 +7188,29 @@ imagine what it would be like.
 
 That’s what Scoot is, people sharing responsibility for peaceful ideas,
 and no more fighting over property. Not sharing the physical world, but
-the world of human imagination.
+the world of human ideas.
 
 If John were alive today, I’d only ask that he change the one line.
 
 *No need for greed or hunger, A brotherhood of man*
 
-I’m cool with no greed or hunger, but a brotherhood of man would seem to
-indicate that I would be in a brotherhood with Jazz, Dodgers and Yankee
-fans. That ain’t happening. Who the hell wants to live in a world where
-you can’t plain despise another city’s team, as well as their players?
-It’s beautiful, because as soon as one of those despised players gets
-traded to your team, you love them. Very binary, as an digital engineer
-I love it. Empathy makes for very complicated analysis of relationships.
+I’m cool with no greed or hunger, but a *brotherhood of man* would seem
+to indicate that I would be in a brotherhood with Jazz, Dodgers and
+Yankee fans. That ain’t happening. Who the hell wants to live in a world
+where you can’t plain despise another city’s team, as well as their
+players? It’s beautiful, because as soon as one of those despised
+players gets traded to your team, you love them. Very binary. As a
+digital engineer, I love it. Empathy makes for very complicated analysis
+of relationships.
 
 I debated with myself if I really needed to write this chapter. I
 realized that most of my audience didn’t have the benefit of learning
 Texas History in middle school like I did, and wouldn’t understand, that
 sports are the greatest genius invention of mankind, and it were
-invented in Texas, just like art and feminism. I’ve reprinted the
-important lesson in [Appendix E](#appendix-e-a-lesson-in-texas-history).
-Let’s just say, competition, friendly or New York style, is always a
-good thing.
+invented in Texas, just like art, writing, mathematics and feminism.
+I’ve reprinted the important lesson in [Appendix
+E](#appendix-d-prime-shards). Let’s just say, competition, friendly or
+New York style, is always a good thing.
 
 In 1894 Mark Twain and Nikola Tesla were dining at Delmonico’s in New
 York City, when a banker and a railroad man from Houston stopped by
@@ -6763,54 +7218,40 @@ their table to say hello. They talked for several minutes. After they
 left, Twain, who despite his wide travels, had never set foot in Texas,
 said to Tesla, *“Nicky, if them boys ever get a ballclub down in
 Houston, they should call it the Astros or the Rockets, because those
-are the kind of people who could put a man on the moon.”*[75]
+are the kind of people who could put a man on the moon.”*[81]
 
 Not everybody can be from Texas. It’s a big state but it won’t hold
 seven billion. For the rest of y’all who can’t just get up and come here
 like Elon Musk, take it as consolidation that Texas is a state of mind.
 Just “Believe It,” and then get it done.
 
-I want to highlight Texas because I think it’s gotten a bad rap lately,
-mostly because of the loud jackasses in Austin and Washington. Texas
-isn’t our politicians, it’s just what happens when you polish a turd.
-When it comes to the people, we are really industrious, friendly towards
-outsiders, as demonstrated by our heroes, and absolutely love a good
-idea that you can put to work, right away.
-
-One problem with the problems before us is we focus on blame, and for
-that reason, I think Texas gets a reputation is a source of
-unsustainable lifestyle and is therefore bad in a social-economic sense.
-I don’t see it that way at all.
-
-<span class="mark">\<\<\<….\>\>\></span>
+I want to highlight Texas because it’s where I’m from, and I think it’s
+gotten a bad rap lately, mostly because of the loud jackasses in Austin
+and Washington. Texas isn’t our politicians, that is just what happens
+when you polish a turd. When it comes to the people, we are industrious
+and friendly towards outsiders, as demonstrated by our heroes. We
+absolutely love a good idea that you can put to work, right away.
 
 It’s foolish to point to point fingers at how we got here. We have not
 only the accumulated knowledge of all those that came before us, but
 these mechanical, electrical, and digital devices that would have
 empowered those in the past. We should worry about how history should
-judge us, with this immense power no other generation of mankind ever by
-several orders of magnitude, where we still live in a stratified society
-based on material-wealth. They beauty of a public good responsibility
-system is that we can solve problems because this public good spans
-borders and cultures and nationalities, it’s something that belongs to
-everybody.
+judge us, with this immense power several orders of magnitude more than
+just a generation prior, yet we still live in a stratified society based
+on material-wealth.
 
 I call my engineering approach recursive integration. In digital systems
 design, this means that when you improve one part of the core system,
-you need to go back and reevaulate how the rest of the system works and
+you need to go back and reevaluate how the rest of the system works and
 then repeat whole process again. In digital systems, measurement creates
-it’s own problems, as it’s very difficult to instrument every part of
-the system, though we have techniques to simulate these measurements.
+its own problems, as it’s very difficult to instrument every part of the
+system.
 
-Applied to human systems, I believe this approach will lead to huge
-opportunities for real equitable improvements in life for most of
+I believe regressive integration applied to human systems will lead to
+huge opportunities for real equitable improvements in life for most of
 mankind, if we change our measurement of wealth and propespirty away
 from a system based on scarcity. There are hugh oppuruntits for the
 creation real value when measured in by a system that is equitable.
-
-I think people in Texas can adjust to this way of thinking and find real
-value in ideas. I think it’s funny to make fun of Hollywood, the land of
-the ideas and also the land of free.
 
 When my daughter and I were discussing the causes of conflict in 2020,
 we had one serious difference of opinion. She wanted me to accept that I
@@ -6818,206 +7259,105 @@ was the beneficiary of white privilege, but I thought she was conflating
 that with generational wealth, which I would disclaim in relative terms.
 My parents, my grandparents and multiple generations back were
 hardworking people, and in ways that neither her nor I could even
-imagine. She has a different perspective on background, and I agreed
-that my primary fortune in life was to have been born American. I’ve
-worked hard all my life, I have always tried to make that best of that
-fortune. I realize that’s the real way to measure value, not our
-fourtune in life to be born American or Chinese or Vietnamese or white
-or black but the real fotunte to be born with all the accumulated value
-of the ideas of all of our ancestors, because, for the most part, that
-wealth is available to just about everybody on the planet. This leverage
-is something we all benefit from, and it should scale to much higher
-levels if we can value our potential. If Elon Musk gets his way and
-connects every person on the planet, this accumulated value is within
-reach to every child born.
+imagine. She has a different perspective on background, though we both
+agreed that our primary fortune in life was to have been born American.
+I’ve worked hard all my life, I have always tried to make that best of
+that fortune, and so has she.
+
+Now I realize that the real way to measure value is not our fortune in
+life to be born American or Chinese or Vietnamese or white or black, but
+the real fortune we all share, to be born with all the accumulated value
+of the ideas of all who coma before us, because that wealth is available
+to everybody on the planet. This leverage is something we all benefit
+from, and it should scale to much higher levels if we can value our
+potential. If Elon Musk gets his way and connects every person on the
+planet, this accumulated value is within reach to every child born.
 
 The reason Mark Twain’s satire *The Connecticut Yankee in King Arthur’s
-Court*[76] is so powerful and funny is because it’s a simple theme,
+Court*[82] is so powerful and funny is because it’s a simple theme,
 shared by Isaac Asimov’s *Foundation*. We might have great technology
-and cool toys but basically, we keep repeating the same historical
-mistakes because we believe we are somehow more advanced than mankind
-just a few generations before.
+and cool toys but we keep repeating the same historical mistakes because
+we believe we are somehow more advanced than mankind just a few
+generations before.
 
-These historical …is accumulated value. We stand on the shoulder of
-giants. That is the foundational value. People should be dedicated to
-ideas that move forward our values in a sustainable way.
+History is accumulated value. We stand on the shoulder of giants.
+History is cumulative, but there are bumps in the road.
 
-I’ve made this about Texas because I want it to be a race. In
-engineering – and science – and basketball – you change the way you
-measure a problem, the simple insight can lead to sometimes obvious
+I’ve made this about Texas because I want it to be a race. In any
+endeavor, basketball, science, engineering, or business, if you change
+the way you measure a problem, that insight usually leads to simple
 solutions. I think I’ve found it by creating a wealth system based on
-trading responsibility. I really do think applying the same kind of
-engineering logic to the problem of sustenance could be solved, and you
-know, Houston’s got a really big port right at the bottom of the
-breadbasket of the world, that could create some immense value. I also
+trading responsibility. I think applying the same kind of engineering
+logic to the problem of sustenance could be solved, and Houston’s has a
+huge port right at the bottom of the breadbasket of the world. I also
 think you can do it with health-care, and Houston’s got the best medical
-center and schools in the world. I got some pretty good ideas about how
-to do it, too. Keep those to myself for the short-term.
+center and schools in the world.
 
-Solving wealth, sustainance, and health inequality would be momunental
-steps forward in human progress that can multiple generational wealth in
-real terms, really make it a better world. People laugh at idealistic
+Solving wealth, sustenance, and health inequality would be monumental
+steps forward in human progress that can create generational wealth in
+real terms and make for a better world. People laugh at idealistic
 systems, but the secret is to focus on single ideas. It’s easy – and
 good – to be idealistic about a certain idea. It’s something you
 recognize internally as genius – it implies you value you something. It
-is not easy – or good – to be idealistic about idealiogys – it’s not
+is not easy – or good – to be idealistic about ideologies. It’s not
 real. We don’t align with the values of everybody about everything, and
-It’s not practical that we should – if we did, progress would stall. The
-secrect is aligningin positivily with enough real value behind an idea,
-and then making it happen.
-
-<span class="mark">Limited Scope of Hate</span>
-
-<span class="mark">…..</span>
-
-I like how this war of world and my blitzkreigh crecendso lines up
-against New York and Los Angeles, bastions of mythological level vanity.
-I don’t think this system is going to work because of the genius, I
-think it’s going to work because of the vanity.
-
-Let’s say there a Korean K-Pop boy band and two girls start fan clubs.
-The first, Kelly starts all these video TikTok Challenges with silly
-girls lip-syncing and dancing and proposing to these silly Korean boys
-and some of them are so cute that once in awhile one of the K-boys will
-pop in with a like or a reaction or sing-a-along or something silly. The
-other, Maxie, starts this big exclusive buy-in club where you can like
-go a chaperoned backstage tour with the K-boys, and this leads buy-in of
-exclusive vacations, cruises and private parties with the K-boys. The
-biggest revenue item of the Maxie’s fan club is an exclusive K-boy
-T-shirt line which sell for $50 because while the private tours may be
-only for rich girls, any teenage daughter worth her salt in the
-developed world ought to be able to talk her father out of. Unbeknownest
-to Maxie, but those T-shirts where made by child-labor on floating
-factor ships in dark waters, the contracts as well as the contracts with
-the K-boys were set up by her property-rich mother Meadow from New
-Jersey.
-
-The question is, which of these clubs is vanity?
-
-Trick question. Unless I’m totally wrong and then my head should explode
-right now, both are vanity. Nobody in the future is going to care about
-silly K-pop. Future Hakeemela is going to be like, *why didn’t these
-silly girls just listen to Led Zeppelin already*?
-
-The first question is which girl created the most value. Measured in
-dollars, Maxie created an enterprise that reported hundred of millions
-in revenue, much of which was in cash, and some speciulateor was part a
-of money laundering operation. Measured in dollars, Kelly got a first
-class tickets to a concern in Seoul where she got to get up on stage and
-hug the band and join a dance, and afterward she was TikTok famous for
-like two weeks then her insufferable mom cut off her access because she
-got a B+ in Biology and needed to keep all As or she’d bankrupt her
-futher with student debt.
-
-The question is which fan club was equitable and sustainable and not
-dependent on child labor and organized crime?
-
-New York has a place in this world as well. Many a property genius
-prosperted on an island where the only difference in value from one
-place to the other is about three hundred years of accumulated topsoil
-of sin and debuarchery fertizled with a boundless solution of immigrant
-dreams and toil, all on top of a pretty even and firm bedrock of vanity,
-plumbed with an affordable and equitable public transportation system.
-
-So what makes one piece of property on an island more valuable than
-another? Is it because rich people live in places with names? I tell
-you, I ain’t ever given one of my residences a name. In Houston, if you
-live in an apartment you generally don’t say the name, you just say the
-cross-streets, and let ‘em guess. We’re not big on zoning or any kind of
-class based street naming, so it’s a tradition in Houston – actually,
-more like an expectation, if you ever get a New Yorker as a boss, and
-you live in a trailer park, you got to invite him or her over to a BBQ
-at the ranch. Because there is a ranch, trailer park, industrial park,
-strip center, mid-to-upper class apartement complex and swamp in every
-single square mile of the Houston Metropolitian area. Call it the Texas
-immulnological response to gerrymandering.[77]
-
-The names explain a lot, because just think, who else lived in places
-with names? Most real estate – world wide – derives value from utility.
-Good farmland is really valuable. People who live there generally don’t
-starve to death. But good woodland and good mountain land and even
-deserts have their values. And today, land where you couldn’t grown
-anything but scrubgrass and goats because any crop you put down would
-blow away, suddenly has value people will pay you to put a windmill on.
-Land close to waterways, protected shorelines, something that has
-utility. So why is some locations in New York worth so much?
-
-There reason it is so valuable is because of who lives there. Famous and
-rich people live in Manhatten. Living around people with value – wealth,
-real or perceived is what is important. Living in a building with a name
-is important, espteically is somebody who actually is a big name is
-important. Is it vanity? Or is it genius by association? Or maybe
-Manhatten is just where you’re from, what you know, and you’re proud of
-where you’re from. That is a pretty common value system, loving where
-you’re from just because making the best of the hand your dealt is like
-universal value that makes for a better world. That’s a value system.
+It’s not practical that we should. If we did, progress would stall. It’s
+exactly like natural selection. It’s exactly like the mutation of a
+virus towards equilibrium with its hosts. Conflict of ideas are the
+mutations that allow us to develop better ideas.
 
 I don’t think the world is going to become a better place by all of us
-holding hands and singing Kumbaya while we blame the rich and industry
-and whine about innovative statistics based sports tacticians in
-Houston.[78]
+holding hands and singing Kumbaya while we blame the rich and industry.
 
 I think real competition of ideas will lead the world to a better place.
-A war of genius, where the rules are very clear and valuation is
-equitable and based on common good – sustainability and availability.
-Great sports – available to every dreamer is a way. Great music, great
-art, great food and more than anything, great ideas. If enough people
-are geniunly responsiblie for an idea – that idea increases in value.
-People who think generationally will do better than those who think
-seasonally. In the property world, that is the reason for the quote “Buy
-land, they’re not making it anymore.” Genius versus vanity. If we really
-are a vain people – as a whole – this system will never work or will
-work for a season and fail miserably in a collapse of vanity. Otherwise,
-something similar in nature will need to happen or the world will fail
-or some weird science fiction world of Big Brother will have to come to
-be. You’re not going to have an equitable world based on property value
-without a war. You have to change the value system. So it’s a race.
-People who figure out how to do this first and better will have greater
-wealth. So I say, bring it on lets change the value system and race each
-other. In sports, in technology, in argriculture, in music. It’s a
-personal value system that spans borders and lives forever as history of
-what we really value.
+A war of genius, where the rules are clear, and valuation is equitable
+and based on common good – sustainability and availability. Great
+sports, great music, great art, great food and more than anything, great
+ideas. If enough people are genuinely responsible for an idea – that
+idea increases in value. People who think generationally will do better
+than those who think seasonally. Genius versus vanity. If we really are
+a vain species, this system will never work or will work for a season
+and fail miserably in a collapse of vanity. Otherwise, something similar
+in nature will need to happen or the world evolve into something really
+science fiction freaky. You’re not going to have an equitable world
+based on property value without a war. We must change the value system.
 
-Future children could remember great-grandma like this, “Wow, you know,
-I wish gram-gram would’t have taken all those pictures of her breakfast
-and her underwear. And it would have been better if she hadn’t sold her
-gram-grams family farmland to a multi-national corportation and invested
-it all into some kind of (air quotes) meme based currency (end air
-quotes)”
-
-<span class="mark">I…..</span>
+It’s a race. People who figure out how to do this first and better will
+have greater wealth. I say, bring it on, lets change the value system
+and race each other. In sports, in technology, in agriculture, in music,
+or whatever you are passionate about. It’s a personal value system that
+spans borders and lives forever as history of what we really value.
 
 *I hope someday you’ll join us, and the world will live as one*
 
-The world living as one isn’t going to solve our problems. A genius
-based wealth system should free us from violent conflict over property.
-It doesn’t mean there will not be conflict. We want conflict. Conflict
-is good. Conflict is what drives man to be better, because, at heart
-most are vain. Even the most pious wants to be the most pious, and
-that’s vanity as well. We will do things faster just to be faster. We
-want to be the best. In the land of ideas, violence has no leverage,
-because you can’t take what already belongs to everybody. There will be
-competition. Competition for the best ideas. Competition for the
-brightest people. Competition for the best interpretation of existing
-ideas. And, yes, competition for who is the best painter, ballerina,
-polka dancer and even the best drummer. And most certainly, competition
-for where in the world is the best place to live. However, that’ll be
-nuanced, because the best place to live for a particular person is based
-on their unique value set.
+The world living as one isn’t going to solve our problems. A
+genius-based wealth system should free us from violent conflict over
+property. It doesn’t mean there will not be conflict. We want conflict.
+Conflict is good. Conflict is what drives man to be better, because we
+are all vain. Even the most pious wants to be the most pious, and that’s
+vanity as well. We will do things faster just to be faster. We want to
+be the best. In the land of ideas, violence has no leverage, because you
+can’t take what already belongs to everybody. There will be competition.
+Competition for the best ideas. Competition for the brightest people.
+Competition for the best interpretation of existing ideas. And, yes,
+competition for who is the best painter, ballerina, polka dancer and
+even the best drummer. And most certainly, competition for where in the
+world is the best place to live. For some, where we live is our home and
+we’ll make the best of it, molding it to our own value set.
 
 Conflict over ideas is the kind of war we should fight. Not with
 violence, but with open and free appreciation by all mankind. Not
 conflict over how much property an idea equates to, but over the value
 of the ideas themselves. Which ideas improve the lives, reduce hardship,
 and bring joy to the most people while allowing us to sustain a
-prosperous and equitable civilization on this planet. Those ideas will
-win. The Foundation is a system designed for that outcome.
+prosperous and equitable civilization. Those ideas will win. The
+Foundation is a system designed for that outcome.
 
 France, Bruce Willis, Kevin Costner, Joe Jonas, Apple TV+, Petrochemical
 Industry, Kawaii Leonard, three-quarters of Metallica, Korea, wine
 collectors, museum people, and most everyone else I made fun off, please
-take it in the proper spirit, which is that through humor we can
-appreciate the actual value of something.
+take it in the proper spirit: Through humor we can appreciate the actual
+value of something.
 
 Canada, Yankees, Dodgers – I meant every word.
 
@@ -7043,7 +7383,7 @@ grandpa about my summer job, working for my Uncle Clay. Uncle Clay drove
 around Clear Lake in a hatchback towing a trailer, mowing lawns for
 astronauts. Uncle Clay did this on his four days offs from working in a
 chemical refinery, all while taking a full retirement as a Chief Master
-Seargant from the Air Force. In the summer, it was exactly like being in
+Sergeant from the Air Force. In the summer, it was exactly like being in
 a sauna, but it wasn’t like I was cutting the grass with a machete, my
 uncle had top-end riding mowers and the necessary gear. I’d mow as fast
 as I could, but it didn’t get me out of the heat, because no matter how
@@ -7140,9 +7480,8 @@ My grandpa died in April of 2005. He’d watched the Astros during their
 entire existence faithfully, yet never got to see them go to the World
 Series. In October of 2005, the Astros went to the World Series for the
 first time, where they ended the 86-year *Curse of The Black Sox* – the
-most mythological legend in baseball – *Say Ain’t So, Joe*[79], by
-losing to the Chicago White Sox, the team that had drafted my
-grandfather.
+most greatest mythology in baseball – *Say Ain’t So, Joe*[83], by losing
+to the Chicago White Sox, the team that once drafted my grandfather.
 
 I regret my grandpa never got to see the Astros in the World Series.
 What I really wish is that he’d gotten to see Jose Altuve play. I think
@@ -7185,15 +7524,55 @@ remember and keep it for eternity.
 
 ### Generational Wealth
 
-My children are all hardworking as well as creative problem solvers, but
-I believe that the world is a much better place for them than it was for
-me, but my life is uimangianbly better than my grandparents.
+My children are hardworking and creative problem solvers, I’m very proud
+of them. When confronted with their problems with material wealth, I’m
+sometimes amused.
 
-I tell them about the hungriest I’d ever been. I was 18 or 19, living
-with two roomates in Hollywood, and none of us made much. We weren’t
-usually this broke but it must of aligned with paydays or something for
-whatever reason, we were both broke, but I think we’d had enough to rent
-a movie.
+I’ve told them about the hungriest I’d ever been. I was eighteen, living
+with two friends in Hollywood, and none of us had much money. One
+afternoon, me and my friend spent over an hour looking for change around
+the apartment, came up with fifty-three cents. We went to 7-Eleven,
+where we bought a hot-dog, carefully measuring three times, we used a
+plastic knife to cut the hot dog exactly in half. My kids know, of
+course, I don’t even like hot-dogs.
+
+A good part of the craft of legend making is what you leave out. I
+usually leave out that one of us had used our actual last dollar bill to
+rent a movie, as we couldn’t contemplate watching ninety minutes of
+whatever while craving meat. We weren’t starving, or even out of food,
+we likely had ramen, spaghetti, and potatoes, we’d just run out of meat.
+Being two eighteen-year-old boys from Texas, being out of meat was the
+main problem.
+
+My parenyd tale of destitute was a little more dire. My dad was drafted,
+and my mom followed him to Hawaii for training before ultimately
+shipping out for Vietnam. They lived in an apartment over a bar, and my
+mom worked but neither of them made much, they’d often run out of money
+a few days before payday. They’d survive on what my dad could bring back
+home from KP duty until payday, and then they’d probably overspend for a
+few days. After all, they were young and in Hawaii.
+
+I don’t know what my grandpa meant by, “Hungry people picked cotton.” He
+was an extremely honest man, but also a Texan to the bone, so
+embellishment certainly is possible. His father worked for the railroad,
+and the family had five children, and it was the depression, but I don’t
+think they were destitute. I imagine it was more like, he was an
+athletic teenager who spend all his extra time playing baseball, and
+while there was probably enough food to avoid starvation, there wasn’t
+enough excess calories to cover all the of stealing bases in the
+swelting heat. So he picked cotton.
+
+It doesn’t matter. It’s relative. In middle school, I wasn’t mowing
+astronaut lawns with my crazy uncle for food. I had two main expenses in
+those days, books, and blank cassette tapes.
+
+In two generation, hunger has been eliminated from my family. I don’t
+think what my parents went through was hunger, so in truth, it happened
+in one generation.
+
+The elimination of hunger from my family is true generational wealth.
+
+This is the metric of genius. This is what we want to measure.
 
 # Truces and Curses
 
@@ -7203,7 +7582,7 @@ Canada, I’m not exactly talking forgiveness here, but a permanent cease
 fire. The truth is, I like Canada. It’s a beautiful country, the people
 are nice, and I’ve always enjoyed visiting. I’ve been civil, I haven’t
 smacked down any of modern-day Canadian heroes, though it was
-challenging, as there are so many easy targets.[80]
+challenging, as there are so many easy targets.[84]
 
 You stole *The Dream* from Houston, but that was a long time ago, and he
 came back home.
@@ -7211,15 +7590,15 @@ came back home.
 Canada, I’ll make you a deal. I’ll lay off the Canadian trash-talk, all
 you got to do is send George Springer back home, we really miss him. I
 know he went there voluntarily, but he’s young, he can always come back
-home, just like Olajuwon. George, Whataburger will give you some gravy
+home, just like Olajuwon. George, *Whataburger* will give you some gravy
 to go with your fries, all you got do I ask. Only explanation I could
-think of.[81]
+think of.[85]
 
 ## Yankees
 
-Yankee fans, you may be wondering, why am I so pissed off at you guys,
-when all New York has ever done for me as a sports fan is lose on the
-biggest stages to the Rockets and Astros.
+Yankee fans, you may be wondering, why am I so angry at you guys, when
+all New York has ever done for me as a sports fan is lose on the biggest
+stages to the Rockets and Astros.
 
 I’ll tell you.
 
@@ -7236,38 +7615,38 @@ to bribe somebody and get those names. Should be easy, since we’re all
 
 ## Dodgers
 
-Dodgers, Dodgers, Dodgers. You want an asterisk, I’ll give you an
+Dodgers, Dodgers, Dodgers. You want an asterisk; I’ll give you an
 asterisk.
 
 When it comes to heroes in mythology in five hundred years, Babe and
 Shoeless Joe will be but bit players. There will be one hero they world
 will remember, and all they’ll remember about the cities the hero
 conquered that those were places of sin and the worst kind of excess,
-unsustainable property based lifestyles and rude behavior, not good
-values. I think baseball might thrive for another five hundred years
-because of this legend, and all the Dodgers will be remembered for is
-somebody the hero had to stand up to.
+unsustainable property-based lifestyles and rude behavior. I think
+baseball might thrive for another five hundred years because of this
+legend, and all the Dodgers will be remembered for is somebody the hero
+had to stand up to.
 
 Baseball just went through decades of teaching the world’s children that
 the way to achieve your dreams if by being big and strong, if not
 naturally, then by shooting yourself up with steroids. Along comes this
-kid – the smallest player in professional baseball in forty years – from
-a country where he grew up under very meager circumstances but with
-fantastic parents that allowed him to dream an impossible dream and go
-for it. When Jose Altuve signed a contract with the Astros in 2007 as a
+kid – the smallest player in professional baseball in forty years – who
+grew up in a country under very meager circumstances but with fantastic
+parents that allowed him to dream an impossible dream and go for it.
+When Jose Altuve signed a contract with the Astros in 2007 as a
 16-year-old for $15,000, it was already like climbing Mount Everest
 without oxygen. What Jose achieved in his career was not too good to be
 true. It was impossible. A kid from Venezuela with nothing but great
-parents. A kid who had a dream.
+parents. A kid who had a dream. Not the largest, or strongest, or
+fastest, but the greatest MVP in American League history.
 
-Hollywood, the asterisk is this. You will always be the villain in the
+Hollywood, the asterisk is this: You will always be the villain in the
 greatest hero story of in the history of sports. And yes, my evil plan
 is to trick Hollywood into putting up a counter effort in the genius
 economy into nullifying my story of genius with one of their own.
 There’s no story better, and Hollywood is so vain you’ll stick to your
-fantasy while a real legend of impossible triumph passes you by. I’m
-sure they’re some genius young screenwriter in Venezuela already working
-on it.
+fantasy while a real legend of impossible triumph passes you by.
+Somebody in Venezuela has already written the screenplay.
 
 Jose Altuve is no cheater.
 
@@ -7277,7 +7656,7 @@ my grandpa had, he just saw what was going to happen, and then made it
 happen. He swings because he’s in control, it don’t matter what the
 pitcher throws, Jose is the one making dreams happen. Easy for a kid who
 came from nothing. His generational wealth was dreams and inspiration
-fostered by loving parents. The right way to wealth for us all.
+fostered by loving parents. The right way to wealth, for us all.
 
 Keep on booin’ Dodgers fans, it only adds to the legend.
 
@@ -7289,7 +7668,7 @@ fans of the Yankees and Dodgers.
 
 Instead, I cast the *Curse of the Asterisk*, it’s a simple one. How long
 it lasts, depends how long those fans *keep on living like they ain’t
-got no mamas*.[82]
+got no mamas*.[86]
 
 The *Curse of the Asterisk* is directed at the fans at who feign to
 value the Dodgers and the Yankees, who booed the greatest baseball
@@ -7355,11 +7734,10 @@ Satoshi Nakamoto’s brilliant engineering of bitcoin opened a whole new
 world and allowed us to free our dependence on government and banks.
 Governments never dealt with the ethical side of money. Money is
 exchange of value. Warfare is a difference in values between peoples and
-cultures. It seems to me, before we take our money completely into our
-own hands, we ought to find common values across all people. It is
-simple – if what you value is gold, people are less valuable. If what
-you value is hash rate or energy, then both people and the environment
-are less valuable.
+cultures. Before we take our money completely into our own hands, we
+ought to find common values across all people. It is simple – if what
+you value is gold, people are less valuable. If what you value is hash
+rate or energy, then both people and the environment are less valuable.
 
 I made a crack about the US Dollar not being back by anything but the
 full faith of the government, which wasn’t any better than bitcoin being
@@ -7379,7 +7757,7 @@ all Texans.
 It is this value that gives me the moral righteous to state, genius
 belongs to humanity.
 
-Let’s say I’m at a dinner party with a bunch of fancy artsy people.[83]
+Let’s say I’m at a dinner party with a bunch of fancy artsy people.[87]
 Some rich dirtbag makes mention he’s got a Picasso hidden away at his
 ski-chalet in Aspen, and only people who get to look it is the other
 rich scumbags he invites on his ski trips. My response would be “Should
@@ -7414,7 +7792,7 @@ I can’t fathom how my folks survived childhood in Texas without
 air-conditioning, much less what a bunch of farmers and merchants in
 colonial American had to deal with. I feel an opportunity was missed
 that was right there before their eyes. The very first amendment to our
-Bill of Rights says what we value is the freedom of speech.[84] This has
+Bill of Rights says what we value is the freedom of speech.[88] This has
 been interpreted from the beginning as freedom of expression, which is
 certainly what genius and vanity is all about. We as a people, demand
 this of our government, meaning we value it, and King George did not.
@@ -7469,7 +7847,7 @@ ourselves to valuing ideas over property, we will place a higher value
 on sustaining an environment where creativity can thrive.
 
 Wait a minute. Who’s going to grow rice, pick up the garbage, mow lawns,
-and paint my nails, if all the little grow up to be geniuses?
+and paint my nails, if all the little ones grow up to be geniuses?
 
 Super-efficient robots that are powered by green energy. Don’t believe
 me? Ask Elon Musk. How else are we going to colonize Mars?
@@ -7483,14 +7861,13 @@ will be like a mashup of those two shows. That’s right, burnt up,
 alcoholic thrice divorced Canadians and American geezers driving big
 rigs in laps on a frozen lake while their sons and grandsons try to drop
 crab pots off the trailer into holes blown into the ice by the brother
-who is literally[85] riding “shotgun.” Take that for
+who is literally[89] riding “shotgun.” Take that for
 social-satirical-tragedy *Squid Games*!
 
-That’s about the risk level for the people in the caves on Mars who
-watch robots remotely. Even though the Mar’s colony will be an
-international effort, in a throwback homage to America’s 1969 landing on
-the moon, they’ll have a lottery just like the U.S Federal government
-had in 1969.
+That’s the risk level for the people in the caves on Mars who watch
+robots remotely. Even though the Mar’s colony will be an international
+effort, in a throwback homage to America’s 1969 landing on the moon,
+they’ll have a lottery just like the U.S Federal government had in 1969.
 
 *Mars ain’t the kind of place to raise your kids,*
 
@@ -7498,11 +7875,12 @@ had in 1969.
 
 *And there’s no one there to raise them,*
 
-*If you did.*[86]
+*If you did.*[90]
 
 The lottery winners get to put on a suit, go outside and go check the
 robots. The ones that make it back, get a veggie burger, mars fries, a
-powdered milk-shake, and a three week course of anti-radiation meds.
+powdered milk-shake, a three week course of anti-radiation meds, and the
+end of the contribution to the gene pool.
 
 Pretty stupid to have super-robots on Mars and not use them here. Mars
 is a dangerous place. So is the earth for people forced by circumstance
@@ -7594,7 +7972,7 @@ filthy.”
 I’ll laugh and shake my head. What can I say, we were all filthy idiots,
 laughing it up in an unsustainable world.
 
-“Yo, old man, why you care about rebounding so much? My curry[87] never
+“Yo, old man, why you care about rebounding so much? My curry[91] never
 misses?”
 
 “Kid, let me tell you about the Worm. Back in the 1980s when I was a
@@ -7603,26 +7981,22 @@ kid from Texas, like you and me....”
 
 <span id="_Appendix_A_–" class="anchor"></span>
 
-# Terminology
-
-# Bibliography
-
 # F.A.Q.
 
 **Do you seriously believe that Hakeem Olajuwon is better than Michael
-Jordan? Have you ever seen the movie *Space Jam*? I watched that movie
-like a thousand times when I was a kid, dreaming of one day staring in
-my own movie, and let me tell you, Michael Jordan is the best player
-I’ve ever seen, and Hakeem doesn’t even have a movie or a cartoon. Is
-this whole thing just a publicity stunt to get clicks, like standing up
-for a cause just so you get a buncha likes and tweets?**
+Jordan? Have you ever seen the movie *Space Jam*? I watched that movie a
+thousand times when I was a kid, dreaming of one day staring in my own
+movie, and let me tell you, Michael Jordan is the best player I’ve ever
+seen, and Hakeem doesn’t even have a movie or a cartoon. Is this whole
+thing just a publicity stunt to get clicks, like standing up for a cause
+just so you get a buncha likes and tweets?**
 
 --- LBJ, Los Angeles, California.
 
 Hi LBJ, I appreciate the question. Did you know that the first President
-from the State of Texas had the same initials as you? To answer your
-question, yes, absolutely I believe Hakeem Olajuwon is the GOAT, and no
-it’s not a publicity stunt.
+from the State of Texas had your initials? To answer your question, yes,
+absolutely I believe Hakeem Olajuwon is the GOAT, and no it’s not a
+publicity stunt.
 
 I’m guessing by question you are a child of the late eighties or
 nineties. It’s understandable that your worldview is shaped by the media
@@ -7657,7 +8031,7 @@ choreographed and perfectly executed. And Defense, there’s no
 comparison. For a guard, Michael Jordan was great on defense, he’s
 number three in career steals. You know who is number nine? Hakeem
 Olajuwon, the only center on the list. How many block shots Michael
-Jordan got?[88] Mike was a stealer, Hakeem was a stopper. He played D
+Jordan got?[92] Mike was a stealer, Hakeem was a stopper. He played D
 the Houston way, any way that that got the job done, blocks, steals, or
 sometime just intimidation. The kind of intimidation that makes you want
 to go play baseball.
@@ -7821,276 +8195,207 @@ thanks for your question. Evaulating how different people value ideas is
 the way we can come to a better understanding of each other. That’s what
 Scoot is all about.
 
-# Ethical Examination Questions
+# Appendix A – Asimov Distribution Schedule
 
-# Appendix A – Scoot protocol requirements
+<table style="width:100%;">
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 11%" />
+<col style="width: 30%" />
+<col style="width: 10%" />
+<col style="width: 16%" />
+<col style="width: 8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Total Asimov</th>
+<th>1,000,000,000,000.00</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>Group</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Group</td>
+<td>Percent</td>
+<td>Tranche</td>
+<td>Percent</td>
+<td>asimov</td>
+<td>Year</td>
+</tr>
+<tr class="odd">
+<td rowspan="2">Reserve Stake</td>
+<td rowspan="2">1.00%</td>
+<td>Private Stake</td>
+<td>0.50%</td>
+<td>5,000,000,000</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Public Stake</td>
+<td>0.50%</td>
+<td>5,000,000,000</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>National Stakes</td>
+<td>10.00%</td>
+<td>National Stakes</td>
+<td>10.00%</td>
+<td>100,000,000,000</td>
+<td>TBD</td>
+</tr>
+<tr class="even">
+<td>Seeding</td>
+<td>1.00%</td>
+<td>Seeding</td>
+<td>1.00%</td>
+<td>10,000,000,000</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Development</td>
+<td>1.00%</td>
+<td>Development</td>
+<td>1.00%</td>
+<td>10,000,000,000</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td rowspan="2">Outreach Faucet</td>
+<td rowspan="2">1.00%</td>
+<td>Creative Professionals</td>
+<td>0.50%</td>
+<td>5,000,000,000</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Primary Educators</td>
+<td>0.50%</td>
+<td>5,000,000,000</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td><h3 id="engineers-reserve">Engineer’s Reserve</h3></td>
+<td>1.00%</td>
+<td>Engineer’s Reserve</td>
+<td>1.00%</td>
+<td>10,000,000,000</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Genius &amp; Vanity (GAV-D0)</td>
+<td>10.00%</td>
+<td>Remainder of starting decade (..2030)</td>
+<td>10.00%</td>
+<td>100,000,000,000</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>GAV-D1</td>
+<td>9.00%</td>
+<td>Decade 1 (2031)</td>
+<td>9.00%</td>
+<td>90,000,000,000</td>
+<td>10</td>
+</tr>
+<tr class="odd">
+<td>GAV-D2</td>
+<td>5.00%</td>
+<td>Decade 2 (2041)</td>
+<td>5.00%</td>
+<td>50,000,000,000</td>
+<td>20</td>
+</tr>
+<tr class="even">
+<td>GAV-D3</td>
+<td>4.00%</td>
+<td>Decade 3 (2051)</td>
+<td>4.00%</td>
+<td>40,000,000,000</td>
+<td>30</td>
+</tr>
+<tr class="odd">
+<td>GAV-D4</td>
+<td>3.00%</td>
+<td>Decade 4 (2061)</td>
+<td>3.00%</td>
+<td>30,000,000,000</td>
+<td>40</td>
+</tr>
+<tr class="even">
+<td>GAV-D5</td>
+<td>2.00%</td>
+<td>Decade 5 (2071)</td>
+<td>2.00%</td>
+<td>20,000,000,000</td>
+<td>50</td>
+</tr>
+<tr class="odd">
+<td>GAV-D6</td>
+<td>1.00%</td>
+<td>Decade 6 (2081)</td>
+<td>1.00%</td>
+<td>10,000,000,000</td>
+<td>60</td>
+</tr>
+<tr class="even">
+<td>GAV-D7</td>
+<td>1.00%</td>
+<td>Decade 7 (2091)</td>
+<td>1.00%</td>
+<td>10,000,000,000</td>
+<td>70</td>
+</tr>
+<tr class="odd">
+<td>GAV-C2</td>
+<td>50.00%</td>
+<td>Century 2</td>
+<td>50.00%</td>
+<td>500,000,000,000</td>
+<td>100</td>
+</tr>
+<tr class="even">
+<td>TOTALS</td>
+<td>100.00%</td>
+<td></td>
+<td>100.00%</td>
+<td>1,000,000,000,000</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-## Language
+# Appendix B – Scoot Naming Reservations
 
-The base implementation of the protocol shall be implemented in C. This
-is to align with The Foundation’s goal of a historically coherent
-boot-strapping toolchain. This also aligns with certain individuals’
-hesitation to learn new languages when C is all you need. We may review
-of implementations in other languages, but they will need to be ported
-to C.
-
-## Addresses
-
-The exact address scheme used by Scoot is up for debate. The same
-addresses can be used both in the value domain and the responsibility
-domain. The user will generate a private and public key pair to create a
-wallet, which can then generate hash addresses, like bitcoin and other
-protocols.
-
-This wallet is all that is needed to trade asimov and validate
-transactions and in the value domain
-
-To participate in the responsibility domain, pledges must register their
-addresese to their pledge identification (real human identification)
-with The Foundation.
-
-The Foundation should train all pledges in correct handling and
-securitization of their wallets. Since all participants in the
-responsibility domain and identified to The Foundation, there will be a
-protocol to invalidate addreses if keys are lost or stolen, and
-replaced. This protocol will seek approval of all scoot trustees
-involved in the revalidation and transfer, and it will not be free. Both
-registration and invalidation will incur fees paid to The Foundation and
-all Scoot involved in the revalations, thus discouraging but not
-preventing pledges from using multiple addresses.
-
-Non-pledge address (value domain only) are just like bitcoin addresses,
-lost or stolen they are just gone forever. This will incentivize pledges
-to use registered addresses even when only trading asimov.
-
-### Nodes
-
-### The Foundation 
-
-The Foundation in the protocol are well known nodes/addresses that
-issues scoot( \< 1) and registers scoot nodes and pledges. These nodes
-are the arbiters of the responsibility domain. Scoot protocol does not
-depend on The Foundation to operate Scoot. Scoot orphaned by The
-Foundation may form staking networks and operate in “dark” domains.
-
-### Privileges
-
-The Foundation’s role in the responsibly domain is to validate
-privileges of addresses. Addresses shall have a non-encrypted bit field
-for privileges as well as checksum of the entire address. The protocol
-will have API for The Foundation to validate privileges.
-
-### Privilege Fields
-
-The Scoot network will issue API requests to The Foundation to validate
-address privileges.
-
-The Foundation must honor API requests truthfully. The Foundation’s
-board, management and employees must identify personal trades with TPH.
-
-| Field Name                                                 | Bits | Value | Description                                                                                                                                                                                                                                                                                                                    |
-|--------------------|-----|------|------------------------------------------|
-| Foundation Node                                            | 1    | 0     | Not a Foundation Address                                                                                                                                                                                                                                                                                                       |
-|                                                            |      | 1     | A Foundation Address                                                                                                                                                                                                                                                                                                           |
-| Scoot Node                                                 | 1    | 0     | Not a Scoot Address                                                                                                                                                                                                                                                                                                            |
-|                                                            |      | 1     | A Scoot Address                                                                                                                                                                                                                                                                                                                |
-| Pledge Address \[PA\]                                      | 1    | 0     | An anonymous address not registered with The Foundation                                                                                                                                                                                                                                                                        |
-|                                                            |      | 1     | An address of a pledge registered with The Foundation                                                                                                                                                                                                                                                                          |
-| TPH                                                        | 1    | 0     | If PA = 1, this indicates that the address is a PPH (Pseudonymous Pledge Handle)                                                                                                                                                                                                                                               |
-|                                                            |      | 1     | if PA = 1, this indicates that the address is TPH (True Pledge Handle). Address holders pledge identity can be recovered via API.                                                                                                                                                                                              |
-| Pledge Address                                             | 1    | 0     | An anonymous address not registered with The Foundation                                                                                                                                                                                                                                                                        |
-|                                                            |      | 1     | An address of a pledge registered with The Foundation                                                                                                                                                                                                                                                                          |
-| Locally Established Identity Engineer's Address overloaded | 1    | 0     | If PA = 0, this address is completely anonymous. If PA = 1, The address does not belong to the engineer.                                                                                                                                                                                                                       |
-|                                                            |      | 1     | If PA = 0, this flag indicates the identity of the holder is registered with a local authority. Generally this means a financial institution or a bank. The legal domain of the local authority can be recovered via API. If PA = 1, Then this flag indicates the address belongs to The Foundation's Engineer or their proxy. |
-| Foundationeer                                              | 1    | 0     | Address does not belong to Foundation board or employee                                                                                                                                                                                                                                                                        |
-|                                                            |      | 1     | Address belongs to a Foundation trustee or employee. The address is resolvable via API to an opaque identifier and role {engineering, encyclopedists, security, executive, board}                                                                                                                                              |
-| Responsibility Domain                                      | 1    | 0     | Value Domain Address only.                                                                                                                                                                                                                                                                                                     |
-|                                                            |      | 1     | Address Valid for Responsibility Domain or Value Domain. This is a flag compounded from the other privilege fields.                                                                                                                                                                                                            |
-| Checksum                                                   | 3    | Xxx   | Checksum of the address and privilege fields                                                                                                                                                                                                                                                                                   |
-
-Table 1 - Scoot Address Privilege Fields
-
-## Genesis Block
-
-The Genesis Block is the first block in a scoot-chain. The genesis
-blocks describes the operation of the responsibility unit (Scoot), the
-governance of the scoot, and enumerates the authority the trustee. It
-also contains text of the scoot charter, a description, and synopsis.
-
-Content blocks should follow the genesis block with digital copies of
-any legal documents that establish the Scoot entity.
-
-### Responsibility Unit
-
-## Staking
-
-Initially, I was thinking of staking a Scoot and staking domains for
-transactions processing as separate concepts. One a human process and
-the other a part of the protocol. The reality is we want to automate
-governance so I’d like to make these the same thing. Pledges – users –
-need only understand works, though the details of how the protocol
-function should be essentially the interface to the user application.
-
-Staking a Scoot will follow a sequence almost exactly like the staking
-of The Foundation. You get people to stake your Scoot and they more
-stakers you gather, the lower your initial registration fees. How The
-Foundation makes these determinations will be public and open, but are
-subject to change at some preterminded notice which might be as short as
-hours. These are the knobs the engineer has to stabilize the metric and
-equalize the wealth ideas across regions and nationalizes. It’s not a
-veritual petition, where you get people to put their names down, but a
-investiment of value – scoot they own or asimov, into the initial scoot
-offering. How this works will be part of the humain training.
-
-Well, in the protocol, we will require staking networks to process scoot
-transactions. How does a Scoot establish these networks before it trade?
-Once there are many holders of scoot, after ISO, there will be many
-pledge nodes online and a dynamic network may be formed. But initially,
-and to serve as part of The Foundation’s infrastructure and earn more
-fees, I think being a “human” staker of an idea also means that you’re
-expected to stake the entity on the protocol network as well.
-
-This will mean that single staking – a billionaire implementing a Scoot
-of Property as a benevolent dictatorship[89] will cost quite a bit more
-both in initial capital, but also in terms of the staking one has to put
-up for an Initial Scoot Offering (ISO). And single staking doesn’t earn
-fees. If you like this because it’s sticking it to the rich, right on.
-My motivation is ideological, the more people that are responsible for
-something, the more real value it has. It might be vanity – fleeting
-value. It might be genius – value to hold on to. If the property is
-truly valuable to humanity, and a billionaire is taking a leap of faith
-in this system, he’s liable to take a big leap up the genius wealth
-value.
-
-All that is just a distraction from the fact I have no idea how actual
-staking netorks in proof of stake systems work, but the idea is simple
-enough in a human system. The human value system is what is important.
-I’ll describe how I’d implement it, but what I’m really describing is
-how the human system will work.
-
-### Liu and Stephenson
-
-Scoot(-1 == Liu) and Scoot(-2 == Stephenson) are tokens issued by The
-Foundation as rewards for processing transaction. The Foundation will
-use authors of speculative fiction as naming conventions, and tokens
-with indices less than 1 are always reserved by the foundation.
-
-#### Liu
-
-Scoot(Liu) are issued by The Foundation for nodes that process
-transactions in the responsibility domain. Liu may be redeemed by
-pledges or Scoot for discounted registristration fees for new Scoot. The
-schedule of discounts will be dynamically published by The Foundation,
-and Scoot(Liu) may be freely traded in both responsibility and value
-domains for asimov or other scoot. The token is named after Chinese
-science fiction author, Cixin Liu and the sub-unit is called Cixin.
-
-Scoot will not earn liu for processing their own transactions, only for
-processing transactions of other Scoot in their staking network. In
-addition, The Foundation will prevent issuance of liu for churning
-between scoot of pledges simply to earn fees.
-
-#### Stephenson
-
-Scoot(Stephenson) are issued by The Foundation for nodes that process
-transactions in the value domain. These scoot are the currency of
-exchange for The Foundation’s API requests. API requests to nodes in the
-responsibility domain are typically free in the, but rate limited to
-prevent commercial application.
-
-#### Encumberment
-
-Encumberment is the staking mechanism. When a transaction is processed,
-units of scoot held by nodes in the staking network or specifically
-encumbered on their native scoot-chains. While encumbered, these scoot
-are unavailable for trade.
-
-Scoot may encumber by the transactied scoot, or by asimov, which will
-imply a valuatabion in asimov.
-
-#### Unencumberment
-
-Unecumberment is the release of encumbered scoot. This occurs when
-scoot(Liu) and scoot(Stephenson) are issued with a reference hash that
-identifies the scoot-chain and block that is being uncumberment.
-Encumberments affect an entire block of transactions, so a single bad
-transcation may result in encumberment of a large amount of scoot.
-
-It is expected that many scoot will have a low volume and high latency
-transactions, so in practice there may only be a single block per
-trascation.
-
-### Rectification
-
-Rectification is the act of a invalidating a block on a scoot-chain due
-to a held encumberment due to a bad transaction.
-
-### Responsibility Domain
-
-#### Two-Party Trades
-
-In the responsibility domain, all transactions are two party, there is
-an implied exchange and no method of “sending” scoot one-way. Scoot is a
-unit of responsibility, and thus can’t be “gifted” without agreement by
-the receiver. In the world of Scoot, you can’t force responsibility on a
-person, it must be accepted, thus the accountability.
-
-When both parties are pledges or scoot nodes, this is a responsibility
-domain transaction, even if one part of the transaction is asimov, liu
-or Stephenson.
-
-### 
-
-### Value Domain
-
-## Elections
-
-# Appendix B – Asimov Distribution Schedule
-
-|                          | Total Asimov | 1,000,000,000,000.00                  |         |                   |      |
-|----------------|---------|----------------------|--------|------------|-------|
-|                          | Group        |                                       |         |                   |      |
-| Group                    | Percent      | Tranche                               | Percent | asimov            | Year |
-| Reserve Stake            | 1.00%        | Private Stake                         | 0.50%   | 5,000,000,000     | 1    |
-|                          |              | Public Stake                          | 0.50%   | 5,000,000,000     | 1    |
-| National Stakes          | 10.00%       | National Stakes                       | 10.00%  | 100,000,000,000   | TBD  |
-| Seeding                  | 1.00%        | Seeding                               | 1.00%   | 10,000,000,000    | 1    |
-| Development              | 1.00%        | Development                           | 1.00%   | 10,000,000,000    | 1    |
-| Outreach Faucet          | 1.00%        | Creative Professionals                | 0.50%   | 5,000,000,000     | 1    |
-|                          |              | Primary Educators                     | 0.50%   | 5,000,000,000     | 1    |
-| Engineer’s Reserve       | 1.00%        | Engineer’s Reserve                    | 1.00%   | 10,000,000,000    | 1    |
-| Genius & Vanity (GAV-D0) | 10.00%       | Remainder of starting decade (..2030) | 10.00%  | 100,000,000,000   | 1    |
-| GAV-D1                   | 9.00%        | Decade 1 (2031)                       | 9.00%   | 90,000,000,000    | 10   |
-| GAV-D2                   | 5.00%        | Decade 2 (2041)                       | 5.00%   | 50,000,000,000    | 20   |
-| GAV-D3                   | 4.00%        | Decade 3 (2051)                       | 4.00%   | 40,000,000,000    | 30   |
-| GAV-D4                   | 3.00%        | Decade 4 (2061)                       | 3.00%   | 30,000,000,000    | 40   |
-| GAV-D5                   | 2.00%        | Decade 5 (2071)                       | 2.00%   | 20,000,000,000    | 50   |
-| GAV-D6                   | 1.00%        | Decade 6 (2081)                       | 1.00%   | 10,000,000,000    | 60   |
-| GAV-D7                   | 1.00%        | Decade 7 (2091)                       | 1.00%   | 10,000,000,000    | 70   |
-| GAV-C2                   | 50.00%       | Century 2                             | 50.00%  | 500,000,000,000   | 100  |
-| TOTALS                   | 100.00%      |                                       | 100.00% | 1,000,000,000,000 |      |
-
-# Appendix C – Scoot Naming Reservations
-
-# Appendix D – Scoot of Team
+# Appendix C – Scoot of Team
 
 Before I show you how we get to the Scoot of Houston Rocket, I’ll
-explain what my vision is for the team. So we’ll know where we are going
-before we depart.
+explain what my vision is for the team.
 
 ## scoot(84)
 
 The holders of scoot(84) believe the Houston Rockets are the best team
 ever because they have the greatest legacy of genius.
 
-Operating an NBA Franchise as a public good has to make certain
-tradeoffs. First, the measurement of success is not revenue. However,
-enough revenue needs to be generated to meet the salary cap and overhead
-of supporting a team and the fanbase.
+Operating an NBA Franchise as a public good requires tradeoffs. The
+measurement of success is not revenue. Enough revenue needs to be
+generated to meet the salary cap and overhead of supporting a team and
+the fanbase.
 
 First, the live venue must fill every seat, every night. That’s the best
-way to appreciation.There will be some suites and a few season ticket
-sections, but we’ll do away with corporate sales altogetiher. Scoot(84)
+way to appreciation. There will be some suites and a few season ticket
+sections, but we’ll do away with corporate sales altogether. Scoot(84)
 works as a prime shard, and many shards operate with characteristics
 that qualify them
 
@@ -8100,33 +8405,75 @@ that qualify them
 
 In Houston, when you blow one, if you’re a real Texan by birth or by
 choice, you own it and take your medicine. Then, you do your best to you
-know make it history, even better, turn it into mythology. a morality
-tale for a new millenueium.
+know make it history. Even better, turn it into mythology. a morality
+tale for a new millennium.
 
 Before we talk about turning a professional basketball team into public
 good, we have to face the property aspect head on. It’s trivial when
-we’re talking about a painting – possessions trumps and the legal title
-will lead to a trail of a declaration as a gift to humanity. A car or a
-piece of property crosses into legal liability in the property domain.
-And this is the legal responsilibty of the holders of the scoot – it
-must be. This is why the conversion of intellectual property to genius
-wealth is so much cleaner – there is very little liability, and I
+we’re talking about a painting – possession is mobile and the legal
+title will lead to a trail of a declaration as a gift to humanity. A car
+or a piece of property crosses into legal liability in the property
+domain. And this is the legal responsilibty of the holders of the scoot
+– it must be. This is why the conversion of intellectual property to
+genius wealth is so much cleaner – there is very little liability, and I
 imagine the Scoot system will be an aid to the prevention and early
 detection of intellectual property theft.
 
-Turning property into genius wealth is a one way street. It has to be
-for the system to remain balanced. So the Special Purpose Entity is a
-Scoot, that’s legal entity crosses into the property domain – perhaps as
-a trust or whatever SPE are deterimined by the fantastic lawyers who
-came up in the late 90s in downtown Houston and want to relief
-themselves from the guilt trips of their college age children. They can
-be Adminstired as Scoot – but they actual decision making might involved
-organizational entities -govenrments or charitable trusts and are
-jubject to legal judgements.
+Turning property into genius wealth is a one-way street. It has to be
+for the system to remain balanced. Special Purpose Entity is a Scoot,
+that’s legal entity crosses into the property domain. They can be
+Adminstired as Scoot, but may need to heed to the
 
-These entities retuain formal property title to property in cases where
-the Scoot entity defaults on it’s responsibility. The domain of these
-entities really depends on the property involved.
+Jay-Z can’t just say, “I give this Bentley to humanity,” and leave the
+keys on the seat, call Chris Paul, drop his coverage, and just hoof it
+back to the crib. He’s legal liable for the car and any damage done by
+the car.
+
+The SPE holds title to property while proxying the right of use or
+possession to the Scoot, while the Scoot is viable. Viable means it
+meets it’s legal obligation of the property. When they fail, the SPE has
+disposition. The SPE can’t sell the property. It can scrap the property,
+and the proceeds may be used in the reponsiblity domain to preserve or
+support some other property the SPE holds.
+
+SPE are statis organizations for preoty. Statis I referred to before,
+just keeps the gigtal record aloive. This kind of statis remains
+dispotions.
+
+Thake the Rockets team plane. This is and expensive property, but useful
+for the team. As part of the conversion to Scoot, we could sell the
+plane to a commercial operator who’d lease it back to the team for most
+of the planes expected useful lifetime, and use the proceeds to fund the
+general operation of the organization. Or it might make sense to Scoot
+it as property. The SPE would hold title, the team would continue to use
+the plane, and when it’s reached its usefulness for the team, the SPE
+could salvage it for parts Alternately, the scoot(84) could recommend
+that the plane is dispotioned to a humanatiran relief scoot the Rockets
+also commit to.
+
+It may seem silly, but everything the Rockets buys as a team is property
+and needs to be accounted for as property never to be sold. SPE become
+buyer of all durable goods. Practice balls for NBA teams wear out, and
+I’m sure the Rockets don’t have a guy selling them on NBA, they probably
+donate them. The SPE ensures that they go to an equitable source.
+Genuine NBA pracitece balls are given away to kids at a middle school.
+One of the kids sells his ball on Ebay. That’s leakage in the system. Is
+it a problem? Not worth worrying about.
+
+Maybe the Rockets have buses in Houston to get them to and from the
+airport. The team upgrades to electric buses, so the SPE must dispose of
+the old buses. Karl, the SPE trustee, puts the buses on a ship to India,
+going towards some legit humanitarian cause, is probably okay. The buses
+actually end up in the hands of Satish, Karl’s counsin, who runs a
+emmerial shuttle company in Bangalore, that would be leak and a problem.
+It would be the theft of property from the public domain, and it would
+be indirectly transferring income from the Rockets scoot to Karl through
+his cousin.
+
+This is why SPE must have oversight, from both The Foundation and local
+governments. Local oversight keeps public value within the community.
+
+# Appendix D – Prime Shards
 
 # Appendix E – A Lesson in Texas History
 
@@ -9020,7 +9367,7 @@ bag and unties the end, pouring the contents, a dark runny,gooey and
 very stinky connoction, over his head. Hot makes a full circle survey,
 seeing the Be-Ek-Em warriors approarching them from all sides,
 outnumbering their contingent by three to one, more than that if you
-included the second ring, which involved women[90] and children warriors
+included the second ring, which involved women[93] and children warriors
 all holding spears or stones.
 
 “People of the Brazos,” Stinky Fingers shouts. “What was I when I came
@@ -9048,7 +9395,7 @@ carrying a very large stone over his head.
 “You can’t eat mushrooms. That’s where the magic people live. But you’re
 close, because the magic people did bring me the food I ate.”
 
-Stinky Fingers was literally[91] stone’s throw of the strong Be-Ek-Em
+Stinky Fingers was literally[94] stone’s throw of the strong Be-Ek-Em
 warrior holding the large stone over his head, ready to toss it. Close
 enough so Stinky Finger could whisper without being heard by the line of
 warriors on either side.
@@ -10001,6 +10348,8 @@ stealing Canadians. It doesn’t matter if you were born here, or just got
 here just as fast as you could, it’s your duty as a Texan, to appreciate
 and preserve the legacy of our history.
 
+# Bibliography
+
 [1] The Gold Standard died for good in 1976 when I was in kindergarten,
 but the gold standard is what I was taught probably because a floating
 currency is too complex to explain to a kid. I guess is it won’t be long
@@ -10087,10 +10436,11 @@ a technology startup.
 
 [24] Emminen forgive me for paraphrasing and cutting your verse short,
 but it’s a hard rule for me, as an engineer, never to mention the word
-lawsuit in the context of a billionaire. I’m with you in spirit, bro,
-Texas style.
+lawsuit in the context of a billionaire. I’m with you in spirit, bro.
 
-[25] Or so I was told by a Canadian. France, you can take any complaints
+[25] The kind of data engineers are supposed to use.
+
+[26] Or so I was told by a Canadian. France, you can take any complaints
 about this chapter up with Canada directly. I don’t have any problems
 with the French. Rudy Gobert is like a Karl Malone who likes to lose to
 the Rockets in the playoffs. All Good. The goal of my Rockets Scoot will
@@ -10101,20 +10451,20 @@ playoffs, but I think that would be better for my karma than living with
 having Steph Curry done it like five times. I guess I can sort of
 sympathize with James running east.
 
-[26] In 2040, when the population of France has exceeded that of China
+[27] In 2040, when the population of France has exceeded that of China
 and India combined, I’ll pen a sequel called, *The Dilution of Genius*.
 
-[27] Scoot may be fractionalized unit, like bitcoin, or serialized whole
+[28] Scoot may be fractionalized unit, like bitcoin, or serialized whole
 units or shards. The serialization could be used as national identity
 number, like Social Security.
 
-[28] There’s a crime movie to be had here, where a hitman and a
+[29] There’s a crime movie to be had here, where a hitman and a
 mortician are in cahoots to create steady supply of dead art lovers.
 
-[29] I describe how architectural genius might be handled in Monuments
+[30] I describe how architectural genius might be handled in Monuments
 section.
 
-[30] Drafted the same year, I would argue that *The Dream*, who played
+[31] Drafted the same year, I would argue that *The Dream*, who played
 in the more competitive Western conference, was the more dominant player
 during the span of their careers. Further proof being that the Rockets
 were 12-10 against the Bulls during that time. The counter argument is
@@ -10123,11 +10473,11 @@ is about value of genius, not gold. Alas, they never faced each other in
 the playoffs, so it is purely speculation. I blame the Utah Jazz. There
 shall forever be a shun called stockton to represent dirty geniuses.
 
-[31] Want to have this debate, let’s bet a case of Gatorade. “*Be Like
+[32] Want to have this debate, let’s bet a case of Gatorade. “*Be Like
 Mike*.” Brandon drops the microphone, debate over. “*Dream, like
 Hakeem*.” That’s genius.
 
-[32] My natural tendency would be to follow the Disney model and cash
+[33] My natural tendency would be to follow the Disney model and cash
 in, but I believe the only way I’d get *The Dream* to associate himself
 with this level of vanity is if we let kids come for free. In the 1990s
 when the trend was basketball sneakers that cost hundreds of dollars
@@ -10136,61 +10486,66 @@ Wal-Mart](https://www.theguardian.com/sport/blog/2015/may/27/how-hakeem-olajuwon
 I’m a hypothetical billionaire living the dream, so why not. It’s just
 hypothetical property money.
 
-[33] Put your hand down, Canada. I know what you’re going to say. If
+[34] Put your hand down, Canada. I know what you’re going to say. If
 you’re going to mix science fiction and rock ‘n roll the only acceptable
 output media is narrative prose, and you’d better add some basketball
 for good measure. You oughta know, rock ‘n roll can only really be about
 one thing. Nerd rock, like the definition of oxymoron.
 
-[34] Or multiple agents.
+[35] Or multiple agents.
 
-[35]
+[36]
 
-[36] Since every scoot-chain will be publicly accessible, the protocol
+[37] Since every scoot-chain will be publicly accessible, the protocol
 will need to have a method of digital redaction of blocks in case of
 copyright violations or to comply with legal orders.
 
-[37] Best I can tell, [Al
+[38] Best I can tell, [Al
 Packer](https://en.wikipedia.org/wiki/Alferd_Packer) was an infamous
 wilderness guide and cannibal who ate a party he was escorting from Utah
 to Breckenridge in the winter of 1974. If this chapter of the Clampers
 was named after a school teacher or something, I hope somebody will
 correct me. I hope it is that Al Packer, I think it fits better.
 
-[38] <https://en.wikipedia.org/wiki/E_Clampus_Vitus>
+[39] <https://en.wikipedia.org/wiki/E_Clampus_Vitus>
 
-[39] If he wants to throw some attorneys at Scoot of Property that would
+[40] Native American pigeons might have a conflicting opinion.
+
+[41] If he wants to throw some attorneys at Scoot of Property that would
 be cool as well.
 
-[40] Colorado Springs residents on the North side of Memorial Park, I’ll
+[42] Colorado Springs residents on the North side of Memorial Park, I’ll
 take my kickback in cash or bitcoin.
 
-[41] Consecrated as *The Summit* in 1994 where *The Dream* made me a
+[43] A device Elon Mush is trying to replace in our vehicles with a
+cleaner alternative – fueled by Tesla’s electrical grid.
+
+[44] Consecrated as *The Summit* in 1994 where *The Dream* made me a
 believer.
 
-[42] Speaketh not, the name that must not be spoken.
+[45] Speaketh not, the name that must not be spoken.
 
-[43] From <https://www.tesla.com/about>
+[46] From <https://www.tesla.com/about>
 
-[44] Thank you, Korea, but next time, you need to research your American
+[47] Thank you, Korea, but next time, you need to research your American
 supervillains a little better. I don’t know what the hell those people
 were supposed to be. The proper proto-type for an American supervillain
 is Marsellus Wallace. I think you got confused with Canadian version of
-a supervillain, whom always has a four-letter name that starts with ‘E’.
+a supervillain. Always has a four-letter name that starts with ‘E’.
 
-[45] I claim licensing rights on new genre of science fiction called
+[48] I claim licensing rights on new genre of science fiction called
 stink-punk.
 
-[46] I’d have to check with Canada to know for sure.
+[49] I’d have to check with Canada to know for sure.
 
-[47] Canadian for *La Ruidosa Chalupa*
+[50] Canadian for *La Ruidosa Chalupa*
 
-[48] Gold has industrial, commercial and medical uses. Wikipedia says
+[51] Gold has industrial, commercial and medical uses. Wikipedia says
 less than 10% of gold production goes towards industry.
 
-[49] And three months later, NBA World Champion Milwaukee Bucks.
+[52] And three months later, NBA World Champion Milwaukee Bucks.
 
-[50] For those with me so far, but fear I risk alienating too big a
+[53] For those with me so far, but fear I risk alienating too big a
 population with my rhetoric, it is strategic. The Foundation is an
 engineered system and based on statistical science. For every single
 Astros hater out there, there are 1,301 baseball lovers who absolutely
@@ -10206,37 +10561,42 @@ attribute that to my natural Texas swagger. My wife attributes it to the
 repulsive shielding effect of wearing the same shirt for 120 hours
 straight.
 
-[51] Karl Malone gets a pass, he’s from Louisiana. Old man or not, I’m
+[54] Karl Malone gets a pass, he’s from Louisiana. Old man or not, I’m
 almost certain he could still kick my ass.
 
-[52] Those Enron guys were carpetbaggers.
+[55] I’m keeping this simple, but it would be a family plan, where only
+one member of a family (responsibly unit) needs to be a pledge.
 
-[53] Unless you are Dallas.
+[56] Unless he’s John Wall
 
-[54] Sorry Dallas, due to what is technically known as a ‘choke order’
+[57] Those Enron guys were carpetbaggers.
+
+[58] Unless you are Dallas.
+
+[59] Sorry Dallas, due to what is technically known as a ‘choke order’
 I’m legally barred from writing about football in any context. How ‘bout
 dem Rangers, though.
 
-[55] I may have forgotten to mention Giannis left in the early minutes
+[60] I may have forgotten to mention Giannis left in the early minutes
 of that game due to “injury.” The real story, from those in the know, is
 that he caught a glimpse of the determination in Porter’s eyes and ran
 to the locker room in absolute terror.
 
-[56] Michael Jordan, Charles Barkley, Alvin Robertson, Otis Thorpe and
+[61] Michael Jordan, Charles Barkley, Alvin Robertson, Otis Thorpe and
 dirty John Stockton were all selected in the first round.
 
-[57] You read that right, Lebron and Giannis.
+[62] You read that right, Lebron and Giannis.
 
-[58] The Flying Pig
+[63] The Flying Pig
 
-[59] *Forrest Gump* was released June 23<sup>rd</sup>, 1994 – two days
+[64] *Forrest Gump* was released June 23<sup>rd</sup>, 1994 – two days
 after *The Dream* won his first championship. Good timing, Hollywood
 knows how to ride a genius wave.
 
-[60] I don’t think Landry’s owns any breakfast restaurants, but if I’m
+[65] I don’t think Landry’s owns any breakfast restaurants, but if I’m
 wrong, I’m open to a negotiated edit of this sentence.
 
-[61] Canada, dethroning the Warriors went a long way towards
+[66] Canada, dethroning the Warriors went a long way towards
 forgiveness, but that trade had two partners. After you got yours, I
 heard a lot of basketball talk about who the greatest Raptor of all time
 was, and I knew what they meant. The technical answer to who was the
@@ -10244,104 +10604,95 @@ greatest player to ever wear a Raptors uniform has a very precise
 answer. Oh, you guys thought we were called H-town because H is for
 Houston like in kindergarten. Cute.
 
-[62] Who survives the war and runs a successful *Bubba Gump Shrimp
+[67] Who survives the war and runs a successful *Bubba Gump Shrimp
 Company*, and regularly sees his old athletic friend, Forrest, at
 Rockets home games.
 
-[63] For reference, the ratios in the United States are 1 of 200 for
+[68] For reference, the ratios in the United States are 1 of 200 for
 infants, 1 of 153 for age-five, and 1 of 5,263 for maternal mortality.
 Life expectancy is 78 years and there is a doctor for every 370 people.
 
-[64] This may not be factual. I’ve never met one, but I’m a nice guy, so
-benefit of the doubt.
+[69] This may not be factual. I’m from Texas, my momma taught me right,
+so benefit of the doubt.
 
-[65] From *Paradise City* by Slash, Axl Rose, Izzy Stradlin, Duff
+[70] From *Paradise City* by Slash, Axl Rose, Izzy Stradlin, Duff
 McKagan and Steven Adler
 
-[66] Atomic powered, like all the gadgets in Asimov’s Foundation.
+[71] Atomic powered, like all the gadgets in Asimov’s Foundation.
 
-[67] Writing reality working out so far, as I write this chapter, Kevin
+[72] Writing reality working out so far, as I write this chapter, Kevin
 Porter Jr just dropped a game wining step-back three at the buzzer, a
 game after getting suspended for losing his cool. Basketball Internet,
 you guys never lost your cool at 21? Losing it is fuel for genius at
 that age – that was my excuse, in an age before everyone carried around
 cell phones with cameras. Sorry, the future is watching you, KPG.
 
-[68] You ally with the 713, baby.
+[73] You ally with the 713, baby.
 
-[69] In addition, Tesla don’t rhyme with epilepsy or apl.de.
+[74] In addition, Tesla don’t rhyme with epilepsy or apl.de.
 
-[70] When Jay-Z flies this bad boy back to the states, better land in
+[75] When Jay-Z flies this bad boy back to the states, better land in
 Houston, we’ll take care of the paperwork, and I know a guy who can
 perform a flip job, turn that funny hand drive back American.
 
-[71] For a muscison to delcline a gift of genius privildge from Jay-Z
+[76] For a muscison to delcline a gift of genius privildge from Jay-Z
 would be a powerful – or stupid – way to make a point.
 
-[72] I don’t know what it means. It does not mean spending all your
+[77] And is contractually allowed to wear shoes by that company I won’t
+name.
+
+[78] I don’t know what it means. It does not mean spending all your
 wealth on “green” consumer items.
 
-[73] I know it’s the Toronto Raptors but some people sure made a big
+[79] I know it’s the Toronto Raptors but some people sure made a big
 deal about it being Canada’s team in 2019. Own up, Canada. This is about
 responsibility.
 
-[74] That’s irony. Don’t have to ask Canada.
+[80] That’s irony. Don’t have to ask Canada.
 
-[75] Nobel Laureate John Steinbeck, who had been to Texas, wrote, *“like
+[81] Nobel Laureate John Steinbeck, who had been to Texas, wrote, *“like
 most passionate nations, Texas has its own private history based on, but
 not limited by, facts.”*
 
-[76] Twain was heavily influenced by Georgism. [Georgism (from
+[82] Twain was heavily influenced by Georgism. [Georgism (from
 Wikipedia)](https://en.wikipedia.org/wiki/Georgism): “is an economic
 ideology holding that, although people should own the value they produce
 themselves, the economic rent derived from land – including from all
 natural resources, the commons, and urban locations – should belong
 equally to all members of society.”
 
-[77] I’m bound by 7<sup>th</sup> grade Texas History pledge not to
-reveal the game we play on California bosses. My generation had our fun
-with New Yorkers, it’s up the next generation of Texan to break in all
-the Californians he dragging over here with him.
-
-[78] Unfortunately, in Daryl Morey’s case, not value based statistics.
-
-[79] If you build it, and name it after a bunch of financial tricksters,
+[83] If you build it, and name it after a bunch of financial tricksters,
 then rename after Orange Juice, he will come.
 
-[80] I’ve not once taken the names of Bieber, Drake or Reynolds in vain.
+[84] I’ve not once taken the names of Bieber, Drake or Reynolds in vain.
 This was perhaps the biggest challenge of all.
 
-[81] Mom, it’s if he comes back, it’s on you to show George where to
-eat. Them Connecticut Yankees got sensitive tummies, what I hear.
+[85] Mom, if he comes back, it’s on you to show George where to eat.
+Them Connecticut Yankees got sensitive tummies, what I hear.
 
-[82] *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin
+[86] *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin
 Timberlake, Printz Board, Michael Fratantuno and George Pajon, Jr.
 
-[83] In one swift stroke, the author deftly ensures he is never invited
+[87] In one swift stroke, the author deftly ensures he is never invited
 to a dinner party with fancy artsy people.
 
-[84] The First Amendment covers freedom of religion and speech.
+[88] The First Amendment covers freedom of religion and speech.
 
-[85] Children, that’s literally the proper usage of “literally.”
+[89] Children, that’s literally the proper usage of “literally.”
 
-[86] *Rocket Man*, 1972, Elton John and Bernie Taupin
+[90] *Rocket Man*, 1972, Elton John and Bernie Taupin
 
-[87] A mid-21<sup>st</sup> century trend where basketball fans would get
+[91] A mid-21<sup>st</sup> century trend where basketball fans would get
 together and issue and ICO (Initial Clone Offering) where they would mix
 the DNA from various superstars to create NBA players. Stephan Curry’s
 DNA was present to some extent in almost every clone, so the kids had
 taken to calling them currys.
 
-[88] Jordan had 893 blocks. Olajuwon had 3,830 blocks in his career, the
+[92] Jordan had 893 blocks. Olajuwon had 3,830 blocks in his career, the
 NBA record, 541 more than the next guy on the list.
 
-[89] Or whatever marketing terminology The Foundation’s manamengent team
-wants to use, as to not to offend and nations where that is a legitimate
-form of human governance. Or Linus. This won’t ever work if we have to
-pay for code.
-
-[90] This happened just north of the Rio Grande so another feminist
+[93] This happened just north of the Rio Grande so another feminist
 innovation invented in Texas.
 
-[91] Children, this proves that Texas Historians also know the literal
+[94] Children, this proves that Texas Historians also know the literal
 use of “literally.”
