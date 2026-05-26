@@ -4,7 +4,7 @@
 
 **SECOND FOUNDATION**
 
-**Version 2.09**
+**Version 2.10**
 
 <img src="media/image1.png" style="width:0.33333in;height:0.33333in"
 alt="enter image description here" /> 2023 by Brandon Awbrey. This
@@ -1641,10 +1641,6 @@ as specified in The Mule chapter.
 
 ### Staking Codes
 
-<img src="media/image2.png" style="width:2.78958in;height:3.22639in" />
-
-https://www.geniusandvanity.org/foundation/stake/?stakingcode=AA2188D6A222C4D
-
 There are one thousand valid staking codes. Staking codes are used to
 earn stakes through appreciation or commitment of content or property.
 
@@ -2954,7 +2950,7 @@ You know who else once lived and did some intense thinking in Colorado
 Springs? Uh, huh. Mister Tesla. And you know what else he did? He built
 a lab.
 
-<img src="media/image3.jpeg" style="width:4.32199in;height:3.26436in" />
+<img src="media/image2.jpeg" style="width:4.32199in;height:3.26436in" />
 
 1 - Nikola Tesla sitting in his Colorado Springs laboratory next to his
 huge "magnifying transmitter" Tesla coil which is producing 22 foot
@@ -2988,7 +2984,7 @@ self-driving, energy efficient, emission-free bad-ass transportation,
 Tesla’s Colorado Springs Lab would be a great place to start the
 inspiration.
 
-<img src="media/image4.jpeg" style="width:3.435in;height:4.49497in" />
+<img src="media/image3.jpeg" style="width:3.435in;height:4.49497in" />
 
 2- Tesla Plaque at Memorial Park, Colorado Springs, south side of Pike's
 Peak Avenue, May 2021. Erected by Al Packer #100 Ancient & Honorable
@@ -3010,7 +3006,7 @@ American West, he had a major role on the world stage. From what I can
 tell, the actual site of the laboratory is just north of the plaque in a
 residential block.
 
-<img src="media/image5.jpeg" style="width:4.08112in;height:3.89916in" />
+<img src="media/image4.jpeg" style="width:4.08112in;height:3.89916in" />
 
 Figure 3 - Nikola Tesla's Wardenclyffe wireless station, located in
 Shoreham, New York, seen in 1904
@@ -3087,7 +3083,7 @@ robotics and even what would later become atomic physics.
 
 I think Nikola Tesla should have been awarded the Nobel Peace Prize.
 
-<img src="media/image6.jpeg" style="width:4.61842in;height:2.97237in"
+<img src="media/image5.jpeg" style="width:4.61842in;height:2.97237in"
 alt="Chart, line chart Description automatically generated" />
 
 Figure 4 - Life expectancy 1870-2019 from
@@ -4280,7 +4276,7 @@ and into the soul of KPJ. But I didn’t. Porter stepped up big because he
 did what stars do when they’ve had a bad game and been talked about in
 the media. He played ball.
 
-<img src="media/image7.jpeg" style="width:4.14182in;height:5.18333in"
+<img src="media/image6.jpeg" style="width:4.14182in;height:5.18333in"
 alt="A person in a uniform holding a baseball bat Description automatically generated with low confidence" />
 
 Figure 5 - June 2014 Sports Illustrated Cover
@@ -4311,7 +4307,7 @@ MLB suspended some managers and took away some draft picks, yet the
 Astros retained the title much to the consternation of sore losers
 everywhere.[69]
 
-<img src="media/image8.jpeg" style="width:4.575in;height:5in" />
+<img src="media/image7.jpeg" style="width:4.575in;height:5in" />
 
 While passing through LAX before the pandemic, I had one of the happiest
 moments of my life when I passed a guy wearing the shirt above. He was
@@ -6863,9 +6859,9 @@ It’s also no secret which MVP he turned to when he needed to take his
 game to a genius level. Somebody James had direct access to for eight
 years.
 
-Good luck up there in Philly with Daryl, James.
+Good luck ~~up there in Philly with Daryl~~, James.
 
-May your heart go on.[106]
+May your heart go on.
 
 # Digital Sainthood
 
@@ -6930,7 +6926,7 @@ ability to examine the ideas we forgot.
 
 ## Stasis
 
-Scoot is considered in stasis[107] when active governance has ceased.
+Scoot is considered in stasis[106] when active governance has ceased.
 This may be because none of the scootage wants the responsibility of
 trustee, or there have been no trades or scootchain activity for some
 period, or no staking networks exists to process transactions for the
@@ -6994,7 +6990,7 @@ their table to say hello. They talked for several minutes. After they
 left, Twain, who despite his wide travels, had never set foot in Texas,
 said to Tesla, *“Nicky, if them boys ever get a ballclub down in
 Houston, they should call it the Astros or the Rockets, because those
-are the kind of people who could put a man on the moon.”*[108]
+are the kind of people who could put a man on the moon.”*[107]
 
 Not everybody can be from Texas. It’s a big state but it won’t hold
 seven billion. For the rest of y’all who can’t just get up and come here
@@ -7031,7 +7027,7 @@ responsibility is the hard part.
 
 In recent years, there’s been a lot of blame cast at pharmaceutical
 companies for high prices that put lifesaving medicine out of reach of
-poor people and much of the developing world. *Pharma Bro*[109] didn’t
+poor people and much of the developing world. *Pharma Bro*[108] didn’t
 help with the industry’s self-defense. I think blaming boards,
 executives, researchers, and even Pharma douchebags, is avoiding real
 responsibility. The truth is, every investor in every pharmaceutical
@@ -7064,7 +7060,7 @@ represent. In Houston, you take your medicine and own it. There is
 another approach. You go home and blame your teammates, or the
 officials, or call the other team cheaters, or demand a trade. Both
 strategies have been known to work, though I believe sports karma favors
-the first approach.[110] [111] [112]
+the first approach.[109] [110] [111]
 
 I call my engineering approach *recursive integration*. In digital
 systems design, this means that when you improve one part of the core
@@ -7099,7 +7095,7 @@ every person on the planet, this accumulated value is within reach of
 every child born.
 
 The reason Mark Twain’s satire *The Connecticut Yankee in King Arthur’s
-Court*[113] is so powerful and funny is because it’s a simple theme,
+Court*[112] is so powerful and funny is because it’s a simple theme,
 shared by Isaac Asimov’s *Foundation*. We might have great technology
 and cool toys, but we keep repeating the same historical mistakes
 because we believe we are somehow more advanced than mankind just a few
@@ -7293,7 +7289,7 @@ bat, I could see exactly what was going to happen, and I believed it
 would happen, and it would. I could see things the way my grandpa saw
 them. When José kicked off a rally, and got on base, then I could see it
 for the other players as well. This ability lasted the entire
-post-season, and I still got that power, at least for the past five[114]
+post-season, and I still got that power, at least for the past five[113]
 Octobers.
 
 When José is at bat, and the game is on the line, just close your eyes
@@ -7304,7 +7300,7 @@ My grandpa died in April of 2005. He’d watched the Astros during their
 entire existence faithfully, yet never got to see them go to the World
 Series. In October of 2005, the Astros went to the World Series for the
 first time, where they ended the 86-year *Curse of The Black Sox* – the
-greatest myth in baseball. *Say Ain’t So, Joe.*[115] The Astros were
+greatest myth in baseball. *Say Ain’t So, Joe.*[114] The Astros were
 swept by the Chicago White Sox, the team that once drafted my
 grandfather.
 
@@ -7407,7 +7403,7 @@ Canada, I’m not exactly talking forgiveness here, but a permanent cease
 fire. I like Canada. It’s a beautiful country, the people are nice, and
 I’ve always enjoyed visiting. I’ve been civil, I haven’t smacked down
 any of modern-day Canadian heroes. It was challenging, as there are so
-many easy targets.[116]
+many easy targets.[115]
 
 You stole *The Dream* from Houston, but that was a long time ago, and he
 came back home.
@@ -7418,7 +7414,7 @@ know he went there voluntarily, but he’s young, he can always come back
 home, just like Olajuwon.
 
 George, *Whataburger* will give you some gravy to go with your fries,
-all you got do I ask. Only explanation I could think of.[117]
+all you got do I ask. Only explanation I could think of.[116]
 
 ## Yankees
 
@@ -7437,7 +7433,7 @@ That’s why.
 When a billionaire Yankee fan is lamenting his bad fortune, he should
 just call the Astros ticket office and use some of his property-wealth
 to bribe somebody and get the names of those jackasses. Should be easy
-since we’re all *cheaters* down here in Houston.[118]
+since we’re all *cheaters* down here in Houston.[117]
 
 ## Dodgers
 
@@ -7494,7 +7490,7 @@ the Yankees and Dodgers.
 
 Instead, I cast the *Curse of the Asterisk*. The curse is simple. How
 long it lasts, depends how long those fans keep on *living like they
-ain’t got no mamas*.[119]
+ain’t got no mamas*.[118]
 
 The *Curse of the Asterisk* is directed at the fans at who feign to
 value the Dodgers and the Yankees, who booed the greatest baseball
@@ -7583,7 +7579,7 @@ all Texans.
 It is this value that gives me the righteousness to state, genius
 belongs to humanity.
 
-Let’s say I’m at a dinner party with a bunch of fancy artsy people.[120]
+Let’s say I’m at a dinner party with a bunch of fancy artsy people.[119]
 Some rich dirtbag makes mention he’s got a Picasso hidden away at his
 ski-chalet in Aspen, and only people who get to look at it are the other
 rich scumbags he invites on his ski trips. My response would be “*Should
@@ -7617,7 +7613,7 @@ I can’t fathom how my folks survived childhood in Texas without
 air-conditioning, much less what a bunch of farmers and merchants in
 colonial American had to deal with. I feel an opportunity was missed
 that was right there before their eyes. The very first amendment to our
-Bill of Rights says what we value is freedom of speech.[121] This has
+Bill of Rights says what we value is freedom of speech.[120] This has
 been interpreted from the beginning as freedom of expression, which is
 what genius and vanity is all about. We as a people, demand this of our
 government, meaning we value it, and King George did not. Yet the
@@ -7686,7 +7682,7 @@ cook, indoors most of the time, will be like a mashup of those two
 shows. That’s right, burnt up, alcoholic thrice-divorced Canadian and
 American geezers driving big rigs in laps on a frozen lake while their
 sons and grandsons try to drop crab pots off the trailer into holes
-blown into the ice by the brother who is literally[122] riding
+blown into the ice by the brother who is literally[121] riding
 “shotgun.” Take that for social-satirical-tragedy *Squid Games*!
 
 That’s the risk level for the people in the caves on Mars who watch
@@ -7700,7 +7696,7 @@ they’ll have a lottery just like the U.S Federal government had in 1969.
 
 *And there’s no one there to raise them,*
 
-*If you did.*[123]
+*If you did.*[122]
 
 The lottery winners get to put on a suit, go outside and go check the
 robots. The ones that make it back get a veggie burger, Mars fries, a
@@ -7752,7 +7748,7 @@ backed by the only treasure we have – our dreams.
 
 *The game as we know it, one dream at a time*
 
-*I'm American dreamin'*[124]
+*I'm American dreamin'*[123]
 
 ## No Small Genius
 
@@ -7799,7 +7795,7 @@ high-freq resonance when you were ready to eat.
 I’ll laugh and shake my head. What can I say, we were all filthy idiots,
 laughing it up in an unsustainable world.
 
-“Yo, old man, why you care about rebounding so much? My curry[125] never
+“Yo, old man, why you care about rebounding so much? My curry[124] never
 misses?”
 
 “Kid, let me tell you about the Worm. Back in the 1980s when I was a
@@ -7813,7 +7809,7 @@ kid from Texas, just like us, who didn’t have much, but he had a dream
 
 *Instead of spreading love we're spreading animosity*
 
-*Lack of understanding, leading lives away from unity*[126]
+*Lack of understanding, leading lives away from unity*[125]
 
 # Acknowledgements
 
@@ -8015,7 +8011,7 @@ them as choreographed and perfectly executed. On defense, there’s no
 comparison. Michael Jordan is a great defender for a guard, he’s number
 three in career steals. You know who is number nine? Hakeem Olajuwon,
 the only center on the list. How many blocked shots Michael Jordan
-got?[127] Mike was a thief; Hakeem was a stopper. He played D the
+got?[126] Mike was a thief; Hakeem was a stopper. He played D the
 Houston way, any way that that got the job done, blocks, steals, or
 sometime just intimidation. The kind of intimidation that makes you want
 to go play baseball.
@@ -8311,7 +8307,7 @@ NBA teams, and the Rockets could fund OTRS (On the Road Scoot) where
 blocks of seats are bought out in advance in these other cities and a
 lottery or scheduling system is setup for OTR Ambassadors.
 
-These Kerouac Crews[128], are Scoot that are staked by Scoot(84) to form
+These Kerouac Crews[127], are Scoot that are staked by Scoot(84) to form
 road crews that follow the Rockets. I’d propose to set these up with
 shards, with both big chunks and little chucks, so big baller Rockets
 fans with private jets get to go to a bunch of games, but a fool from
@@ -8320,10 +8316,10 @@ chance to roll with the big boys. The strength of Rockets-Nation is how
 we are alike, not how we are different. This is genius integration ideal
 for one of the most diverse cities on the planet. Diversity is strength.
 Unity through shared values, even if it’s just love of your team. See a
-game and hit every Landry’s restaurant in 26 different cities.[129]This
+game and hit every Landry’s restaurant in 26 different cities.[128]This
 is serious business and a responsibility because you’re judged by your
 winning percentage. It's a measured privilege related to your ability to
-commit to the team winning.[130]
+commit to the team winning.[129]
 
 Kerouac Crews invest in dreamers. I’d split these up and have multiple
 crews, an adult version, and a kids version, funded by the big rollers.
@@ -8464,7 +8460,7 @@ planes can cross borders with ease. SSPE have the job of maintaining
 compliance in both the legal property domains and the responsibility
 domain.
 
-The Rockets have a team plane.[131] Prior to Rockets conversion to
+The Rockets have a team plane.[130] Prior to Rockets conversion to
 Scoot, we could sell the plane to a commercial operator who’d lease it
 back to the team for most of the plane’s expected useful lifetime and
 use the proceeds to fund the general operation of the organization.
@@ -8499,7 +8495,7 @@ his cousin.
 SSPE must have oversight, from both The Foundation and local
 governments. Local oversight keeps public value within the community.
 
-Governments are a public good.[132] Scooted property is not private
+Governments are a public good.[131] Scooted property is not private
 property. Foundational to the system is the acknowledgement that
 property is the dominion of existing governments. This is very useful,
 and the reason we specifically forbid Scoot from “owning” property. It
@@ -8606,7 +8602,7 @@ SSPE when the original usage of the property has changed.
 
 *This section was moved from the main text in the Second Edition.*
 
-<img src="media/image9.png" style="width:4.62014in;height:3.27762in" />
+<img src="media/image8.png" style="width:4.62014in;height:3.27762in" />
 
 Figure - The foundation - responsibility and value domains
 
@@ -8694,7 +8690,7 @@ Property of Wealth is my term. I did some research looking for the
 correct legal or accounting terminology for what I wanted to convey. I
 quickly realized that while it’s easy to explain and understand, it’s
 difficult to specify in a deterministic manner. This may be one reason
-the U.S. Tax code is 70,000 pages long.[133]
+the U.S. Tax code is 70,000 pages long.[132]
 
 Da Vinci’s *Mona Lisa* is a Property of Wealth. A Da Vinci coloring book
 handed out to kids who visit the Louvre is not.
@@ -9076,8 +9072,8 @@ Asimov. If that’s too much reading, try Kubrick or Cameron.
 
 This is the part crypto people won’t like, and the primary reason Scoot
 isn’t crypto. AIs could control “true” cryptocurrencies. So could public
-corporations.[134] So can douchebags, if you want to go back in ancient
-history, like 2022.[135]
+corporations.[133] So can douchebags, if you want to go back in ancient
+history, like 2022.[134]
 
 **(2) The system keeps an overview of cryptocurrency units and their
 ownership.**
@@ -9339,7 +9335,7 @@ shared their tales of wonderment at the cities they had seen below on
 the floor of the ocean. They claimed that the costner were
 misunderstood, a peaceful people, and had no intent to eat human or
 damon. The nectar the sapien and damon consumed was made from the
-innards of a giant eel[136] that dwelled in the deepest parts of the
+innards of a giant eel[135] that dwelled in the deepest parts of the
 ocean, beyond the reach of the costner and whales.
 
 A damon known as the mork, who could speak all the sapien tongues,
@@ -9539,7 +9535,7 @@ digit on your right hand. Easy as *one-two-three*.”
 
 The children picked it up first. It was a simple rhythmic dance, and if
 you used the counting words in the Wise One’s language, it rhymed and
-produced a monotonic song that was easy to remember.[137]
+produced a monotonic song that was easy to remember.[136]
 
 The sapiens started working. The orcas brought forth bags of food,
 water, shells, and crystals, along with more tools. Soon they were
@@ -10632,7 +10628,7 @@ bag and unties the end, pouring the contents, a dark, runny, gooey and
 very stinky concoction, over his head. Hot makes a full circle survey,
 seeing the Be-ek-em warriors approaching them from all sides,
 outnumbering their contingent by three to one, more than that if you
-included the second ring, which involved women[138] and children
+included the second ring, which involved women[137] and children
 warriors all holding spears or stones.
 
 “People of the Brazos,” Stinky Fingers shouts. “What was I when I came
@@ -10660,7 +10656,7 @@ carrying a very large stone over his head.
 “You can’t eat mushrooms. That’s where the magic people live. But you’re
 close, because the magic people did bring me the food I ate.”
 
-Stinky Fingers was literally[139] a stone’s throw from the strong
+Stinky Fingers was literally[138] a stone’s throw from the strong
 Be-ek-em warrior holding the large stone over his head, ready to toss
 it. Close enough so Stinky Fingers could whisper without being heard by
 the line of warriors on either side.
@@ -11114,7 +11110,7 @@ James was amazed.
 
 “It’s exactly like the drawings and the painting.”
 
-<img src="media/image11.jpeg" style="width:3.58281in;height:3.84722in"
+<img src="media/image10.jpeg" style="width:3.58281in;height:3.84722in"
 alt="A picture containing text Description automatically generated" />
 
 Figure - sketch of cave drawing from James Naismith's notebook
@@ -11630,7 +11626,7 @@ the Canadians pulled off the ultimate ‘*stranger James*’ double cross by
 trading for Texas hero Hakeem Olajuwon. Bush had the joint-chiefs
 prepare for full land-invasion of Alberta but then dropped the plan.
 Mysteriously, he stopped taking phone calls from Texas politicians the
-day Jay-Z dropped *The Blueprint*.[140] The *Treaty of San Felipe* was
+day Jay-Z dropped *The Blueprint*.[139] The *Treaty of San Felipe* was
 erased from U.S. History. Just another illustration of the necessity of
 having our own Texas History.
 
@@ -11775,6 +11771,12 @@ August 2<sup>nd</sup>, 2022
 <td>0</td>
 <td>Copy edits, corrections</td>
 </tr>
+<tr class="odd">
+<td>2.10</td>
+<td>1/21/2023</td>
+<td></td>
+<td>Copy edits</td>
+</tr>
 </tbody>
 </table>
 
@@ -11786,36 +11788,6 @@ August 2<sup>nd</sup>, 2022
 
 ### New content, Second Foundation
 
-***The Book of Scoot***
-
-SECOND FOUNDATION
-
-**Version 2.09**
-
-<img src="media/image12.jpg" style="width:4.62014in;height:3.69583in"
-alt="A group of people wearing helmets Description automatically generated with low confidence" />
-
-NASA FLIGHT CREW STS-51-L
-
-Ellison Onizuka
-
-Christa McAuliffe
-
-Gregory Jarvis
-
-Judith Resnik
-
-Michael Smith
-
-Dick Scobee
-
-Ronald McNair
-
-**The Foundation is Gratitude**
-
-**  
-**
-
 Dick Scobee
 
 # Scoot(1)
@@ -11826,7 +11798,7 @@ to explore and probe the unknown, and I simply want to be an integral
 part of that exploration*.
 
 -   **Excerpt from Dick Scobee’s NASA interview essay, answering “Why I
-    want to be an astronaut**.”[141]
+    want to be an astronaut**.”[140]
 
 **Integral** – adjective – essential to completeness
 
@@ -11965,7 +11937,7 @@ shallow we can really be.
 
 I can’t blame teenagers for their thoughts on teachers and authority.
 Look how long it took me to realize the true value of this gift from
-June Scobee.[142]
+June Scobee.[141]
 
 Her gift was the greatest leverage in real terms anybody has ever given
 me. I raised a family and provided for them with this gift. I was 51
@@ -12161,7 +12133,7 @@ I wonder what the success rate of those kids June taught that summer?
 
 After the accident, June and the families of the crew founded Challenger
 Center. Challenger Center’s mission is a natural extension of STS-51-L’s
-mission – The Teacher in Space Project.[143] Challenger Center inspires
+mission – The Teacher in Space Project.[142] Challenger Center inspires
 and educates students in STEM through hands-on lessons that simulate
 space missions. In the 35 years since Challenger Center opened, they’ve
 taught millions of students and enabled hundreds of thousands of
@@ -12354,7 +12326,7 @@ Steve. He was the best engineer I’ve ever worked with.
 
 This work is dedicated to Steve Fairchild.
 
-<img src="media/image13.jpg" style="width:2.16667in;height:2.39583in"
+<img src="media/image11.jpg" style="width:2.16667in;height:2.39583in"
 alt="A picture containing person, outdoor, tree Description automatically generated" />
 
 Steve Fairchild
@@ -12426,333 +12398,6 @@ much we appreciate the greatest sports hero of all time.
 The greatest baseball player in history.
 
 *The Foundation is Gratitude*
-
-# 
-
-# Contents
-
-[Intrinsic Value [1](#intrinsic-value)](#intrinsic-value)
-
-[The Foundation [4](#the-foundation)](#the-foundation)
-
-[A Measure of Wealth [4](#a-measure-of-wealth)](#a-measure-of-wealth)
-
-[Guardians of the Public Domain
-[7](#guardians-of-the-public-domain)](#guardians-of-the-public-domain)
-
-[How it works [11](#how-it-works)](#how-it-works)
-
-[Linux [11](#linux)](#linux)
-
-[Bitcoin [12](#bitcoin)](#bitcoin)
-
-[Social Media [13](#social-media)](#social-media)
-
-[Awbrey Hack [13](#awbrey-hack)](#awbrey-hack)
-
-[Scoot - Dynamically Scalable Responsibility
-[15](#scoot---dynamically-scalable-responsibility)](#scoot---dynamically-scalable-responsibility)
-
-[The Foundation for the Appreciation of Human Genius
-[18](#the-foundation-for-the-appreciation-of-human-genius)](#the-foundation-for-the-appreciation-of-human-genius)
-
-[Asimov and Scoot [18](#asimov-and-scoot)](#asimov-and-scoot)
-
-[Scoot Primer [20](#scoot-primer)](#scoot-primer)
-
-[Genius Economy [23](#genius-economy)](#genius-economy)
-
-[Application of Scoot
-[24](#application-of-scoot)](#application-of-scoot)
-
-[Scoot of Property (SOP)
-[24](#scoot-of-property-sop)](#scoot-of-property-sop)
-
-[Scoot of Gratitude (SOG)
-[25](#scoot-of-gratitude-sog)](#scoot-of-gratitude-sog)
-
-[Post-Agency Scoot (PoAS)
-[34](#post-agency-scoot-poas)](#post-agency-scoot-poas)
-
-[Circulation [36](#circulation)](#circulation)
-
-[Staked [36](#staked)](#staked)
-
-[First Foundation [36](#first-foundation)](#first-foundation)
-
-[Texas Catfish [37](#texas-catfish)](#texas-catfish)
-
-[Second Foundation [40](#second-foundation)](#second-foundation)
-
-[Private Stake [40](#private-stake)](#private-stake)
-
-[Private Staking Period
-[40](#private-staking-period)](#private-staking-period)
-
-[Distribution [41](#distribution)](#distribution)
-
-[Stakes [42](#stakes)](#stakes)
-
-[Staking Codes [45](#staking-codes)](#staking-codes)
-
-[The Mule [46](#the-mule)](#the-mule)
-
-[Public Staking Period
-[47](#public-staking-period)](#public-staking-period)
-
-[National Stakes [47](#national-stakes)](#national-stakes)
-
-[Seeding [48](#seeding)](#seeding)
-
-[Development [48](#development)](#development)
-
-[Outreach Faucet [49](#outreach-faucet)](#outreach-faucet)
-
-[Creative enablers [49](#creative-enablers)](#creative-enablers)
-
-[Teachers [49](#teachers)](#teachers)
-
-[Prizes [50](#prizes)](#prizes)
-
-[Museums [50](#museums)](#museums)
-
-[Crusades [51](#crusades)](#crusades)
-
-[Billionaires [53](#billionaires)](#billionaires)
-
-[Billionaire meme [57](#billionaire-meme)](#billionaire-meme)
-
-[Deterministic Mythology
-[63](#deterministic-mythology)](#deterministic-mythology)
-
-[National Treasure [66](#national-treasure)](#national-treasure)
-
-[Royal Treasure [69](#royal-treasure)](#royal-treasure)
-
-[Amnesty [69](#amnesty)](#amnesty)
-
-[Repatriations and Reparations
-[69](#repatriations-and-reparations)](#repatriations-and-reparations)
-
-[No Fault [69](#no-fault)](#no-fault)
-
-[Immaterial Genius [70](#immaterial-genius)](#immaterial-genius)
-
-[Agency [72](#agency)](#agency)
-
-[Scoot of Agency (SOA) [74](#scoot-of-agency-soa)](#scoot-of-agency-soa)
-
-[Pre-Agency (PrAS) [77](#pre-agency-pras)](#pre-agency-pras)
-
-[Post-Agency (PoAS) [77](#post-agency-poas)](#post-agency-poas)
-
-[Elon Throwdown [80](#elon-throwdown)](#elon-throwdown)
-
-[Scoot of Collective Genius (SCoG)
-[89](#scoot-of-collective-genius-scog)](#scoot-of-collective-genius-scog)
-
-[Collective Vanity [90](#collective-vanity)](#collective-vanity)
-
-[Monuments and Nature’s Bounty
-[91](#monuments-and-natures-bounty)](#monuments-and-natures-bounty)
-
-[Diplomacy [92](#diplomacy)](#diplomacy)
-
-[Die Hard 7 – In a world of the king’s gold
-[94](#die-hard-7-in-a-world-of-the-kings-gold)](#die-hard-7-in-a-world-of-the-kings-gold)
-
-[Die Hard 7 – Leonardo’s Revenge
-[96](#die-hard-7-leonardos-revenge)](#die-hard-7-leonardos-revenge)
-
-[The Stinger [98](#the-stinger)](#the-stinger)
-
-[Corporate Genius [99](#corporate-genius)](#corporate-genius)
-
-[Genius CYA [102](#genius-cya)](#genius-cya)
-
-[Academic Genius [104](#academic-genius)](#academic-genius)
-
-[Stop Reading, Lars [104](#stop-reading-lars)](#stop-reading-lars)
-
-[Drumland [105](#drumland)](#drumland)
-
-[Open Source Everything
-[110](#open-source-everything)](#open-source-everything)
-
-[Collecting Responsibility
-[112](#collecting-responsibility)](#collecting-responsibility)
-
-[Collecting Whatever [123](#collecting-whatever)](#collecting-whatever)
-
-[Instant Karmic Soup Kitchens (IKSK)
-[124](#instant-karmic-soup-kitchens-iksk)](#instant-karmic-soup-kitchens-iksk)
-
-[Goodbye Season Tickets
-[131](#goodbye-season-tickets)](#goodbye-season-tickets)
-
-[Incongruence of Values
-[144](#incongruence-of-values)](#incongruence-of-values)
-
-[Alignment of Values [148](#alignment-of-values)](#alignment-of-values)
-
-[Artificial Scarcity [150](#artificial-scarcity)](#artificial-scarcity)
-
-[Psychohistory [153](#psychohistory)](#psychohistory)
-
-[Scoot of Bling (SOB) [157](#scoot-of-bling-sob)](#scoot-of-bling-sob)
-
-[Scoot of Transportation (SOT)
-[164](#scoot-of-transportation-sot)](#scoot-of-transportation-sot)
-
-[Governance [169](#governance)](#governance)
-
-[Charter [169](#charter)](#charter)
-
-[Electorates [170](#electorates)](#electorates)
-
-[Responsibility Domain
-[170](#responsibility-domain-1)](#responsibility-domain-1)
-
-[Value Domain [170](#value-domain-1)](#value-domain-1)
-
-[Election frequency [170](#election-frequency)](#election-frequency)
-
-[The Board of Trustees
-[171](#the-board-of-trustees)](#the-board-of-trustees)
-
-[Engineer (1) [171](#engineer-1)](#engineer-1)
-
-[Continentals (7) [176](#continentals-7)](#continentals-7)
-
-[Popular (3) [176](#popular-3)](#popular-3)
-
-[Term Limits [177](#term-limits)](#term-limits)
-
-[Ethical Standards [177](#ethical-standards)](#ethical-standards)
-
-[The Line [177](#the-line)](#the-line)
-
-[Shunning [178](#shunning)](#shunning)
-
-[Management [179](#management)](#management)
-
-[Creation [179](#creation)](#creation)
-
-[Security [179](#security)](#security)
-
-[Encyclopedist [179](#encyclopedist)](#encyclopedist)
-
-[Provisional Board [180](#provisional-board)](#provisional-board)
-
-[Origins [182](#origins)](#origins)
-
-[Digital Sainthood [190](#digital-sainthood)](#digital-sainthood)
-
-[Stasis [192](#stasis)](#stasis)
-
-[Genius Antagonism [193](#genius-antagonism)](#genius-antagonism)
-
-[Genius Ancestry [200](#genius-ancestry)](#genius-ancestry)
-
-[Generational Wealth [204](#generational-wealth)](#generational-wealth)
-
-[Truces and Curses [205](#truces-and-curses)](#truces-and-curses)
-
-[Canada [205](#canada)](#canada)
-
-[Yankees [206](#yankees)](#yankees)
-
-[Dodgers [206](#dodgers)](#dodgers)
-
-[The Curse of the Asterisk
-[208](#the-curse-of-the-asterisk)](#the-curse-of-the-asterisk)
-
-[Ethical Revolution [209](#ethical-revolution)](#ethical-revolution)
-
-[No Small Genius [216](#no-small-genius)](#no-small-genius)
-
-[Acknowledgements [218](#acknowledgements)](#acknowledgements)
-
-[F.A.Q. [220](#f.a.q.)](#f.a.q.)
-
-[Appendix A – Asimov Distribution Schedule
-[225](#appendix-a-asimov-distribution-schedule)](#appendix-a-asimov-distribution-schedule)
-
-[Appendix B – Prime Shards
-[226](#appendix-b-prime-shards)](#appendix-b-prime-shards)
-
-[Appendix C – Scoot of Team
-[228](#appendix-c-scoot-of-team)](#appendix-c-scoot-of-team)
-
-[Kerouac Crews (On the Road Scoot)
-[229](#kerouac-crews-on-the-road-scoot)](#kerouac-crews-on-the-road-scoot)
-
-[Foreign Outposts [231](#foreign-outposts)](#foreign-outposts)
-
-[Scoot of Whatevera [231](#scoot-of-whatevera)](#scoot-of-whatevera)
-
-[Scoot of Special Purpose Entities (SSPE)
-[232](#scoot-of-special-purpose-entities-sspe)](#scoot-of-special-purpose-entities-sspe)
-
-[Appendix D – System Technical Description
-[239](#appendix-d-system-technical-description)](#appendix-d-system-technical-description)
-
-[Property of Wealth (POW)
-[241](#property-of-wealth-pow)](#property-of-wealth-pow)
-
-[Scoot Conformance [242](#scoot-conformance)](#scoot-conformance)
-
-[Scootchain [244](#scootchain)](#scootchain)
-
-[Responsibility Tree [244](#responsibility-tree)](#responsibility-tree)
-
-[Scoot Naming System (SNS)
-[246](#scoot-naming-system-sns)](#scoot-naming-system-sns)
-
-[Scoot Entity [248](#scoot-entity)](#scoot-entity)
-
-[Brandon’s First Letter to his Crypto-Advisor
-[251](#brandons-first-letter-to-his-crypto-advisor)](#brandons-first-letter-to-his-crypto-advisor)
-
-[Appendix E – A Lesson in Texas History
-[254](#appendix-e-a-lesson-in-texas-history)](#appendix-e-a-lesson-in-texas-history)
-
-[Texas Prehistory [254](#texas-prehistory)](#texas-prehistory)
-
-[Readings In Texas History
-[268](#readings-in-texas-history)](#readings-in-texas-history)
-
-[Big Mama [268](#big-mama)](#big-mama)
-
-[Little Mama [274](#little-mama)](#little-mama)
-
-[Stinky Fingers [284](#stinky-fingers)](#stinky-fingers)
-
-[The Canadian [291](#the-canadian)](#the-canadian)
-
-[The Defender of Texas History
-[304](#the-defender-of-texas-history)](#the-defender-of-texas-history)
-
-[Revision History [314](#revision-history)](#revision-history)
-
-[Chapter Coding [314](#chapter-coding)](#chapter-coding)
-
-[First Edition, unchanged
-[314](#first-edition-unchanged)](#first-edition-unchanged)
-
-[Content changes from first edition
-[314](#content-changes-from-first-edition)](#content-changes-from-first-edition)
-
-[New content, Second Foundation
-[314](#new-content-second-foundation)](#new-content-second-foundation)
-
-[Scoot(1) [317](#scoot1)](#scoot1)
-
-[Scoot(23) [318](#scoot23)](#scoot23)
-
-[Scoot(25) [327](#scoot25)](#scoot25)
-
-[Scoot(27) [332](#scoot27)](#scoot27)
 
 [1] The Gold Standard died for good in 1976 when I was in kindergarten.
 In school, I was taught the gold standard. I guess they thought floating
@@ -13137,93 +12782,89 @@ responsibility.
 coaches tell that player to let the opponent score rather than foul or
 risk getting hurt making a difficult play to stop the ball.
 
-[106] 8/19/2023 – Say it isn’t so, James. At least no one dies at the
-end of this shipwreck – just your career. One tweet and look how the
-world has changed in four years. Rose is the iceberg in this story.
-
-[107] stasis: a state or period of stability during which little or no
+[106] stasis: a state or period of stability during which little or no
 evolutionary change in a lineage occurs. (Merriam-Webster dictionary)
 
-[108] Nobel Laureate John Steinbeck, who had been to Texas, wrote,
+[107] Nobel Laureate John Steinbeck, who had been to Texas, wrote,
 *“like most passionate nations, Texas has its own private history based
 on, but not limited by, facts.”*
 
-[109] [Martin Shkreli](https://en.wikipedia.org/wiki/Martin_Shkreli)
+[108] [Martin Shkreli](https://en.wikipedia.org/wiki/Martin_Shkreli)
 
-[110] I write this 3/1/2022. I guess how 76ers do in the playoffs will
+[109] I write this 3/1/2022. I guess how 76ers do in the playoffs will
 test my theory.
 
-[111] Final edit, 5/17/2022, sports karma confirmed as a fundamental
+[110] Final edit, 5/17/2022, sports karma confirmed as a fundamental
 force of nature.
 
-[112] 5/14/2023, Mother’s Day, karma three-peat
+[111] 5/14/2023, Mother’s Day, karma three-peat
 
-[113] Twain was heavily influenced by Georgism. [Georgism (from
+[112] Twain was heavily influenced by Georgism. [Georgism (from
 Wikipedia)](https://en.wikipedia.org/wiki/Georgism): “is an economic
 ideology holding that, although people should own the value they produce
 themselves, the economic rent derived from land – including from all
 natural resources, the commons, and urban locations – should belong
 equally to all members of society.”
 
-[114] Or seven
+[113] Or seven
 
-[115] If you build it, and name it after a bunch of financial
+[114] If you build it, and name it after a bunch of financial
 tricksters, then rename after orange juice, he will come. From
 Venezuela.
 
-[116] I’ve not once taken the names of Bieber, Drake or Reynolds in
+[115] I’ve not once taken the names of Bieber, Drake or Reynolds in
 vain. This was perhaps the biggest challenge of all.
 
-[117] Mom, if he comes back, it’s on you to show George where to eat.
+[116] Mom, if he comes back, it’s on you to show George where to eat.
 Them Connecticut Yankees got sensitive tummies, what I hear.
 
-[118] Curse at work, 4-0 sweep in the ALCS. Compare Astros and Yankees
+[117] Curse at work, 4-0 sweep in the ALCS. Compare Astros and Yankees
 record prior to 8/2/2022. And the World Series – Philly, home of Daryl
 Morey and James Harden. I love karma. Seattle, haven’t figured out how
 you fit in, I guess that goes back to 1993.
 
-[119] *Where is the Love?* by Black Eyed Peas
+[118] *Where is the Love?* by Black Eyed Peas
 
-[120] With the swift stroke of a single sentence, the author deftly
+[119] With the swift stroke of a single sentence, the author deftly
 ensures he is never invited to a dinner party with fancy artsy people.
 
-[121] The First Amendment covers freedom of religion and speech.
+[120] The First Amendment covers freedom of religion and speech.
 
-[122] Children, that’s literally the proper usage of “literally.”
+[121] Children, that’s literally the proper usage of “literally.”
 
-[123] *Rocket Man*, By Elton John
+[122] *Rocket Man*, By Elton John
 
-[124] *American Dreamin’* by Jay-Z
+[123] *American Dreamin’* by Jay-Z
 
-[125] A mid-21<sup>st</sup> century trend where basketball fans would
+[124] A mid-21<sup>st</sup> century trend where basketball fans would
 get together and form Scoot to issue ICO (Initial Clone Offering) where
 they would mix the DNA from various superstars to create NBA players.
 Stephan Curry’s DNA was present to some extent in almost every clone, so
 the kids had taken to calling them currys.
 
-[126] *Where is the Love?* by Black Eyed Peas.
+[125] *Where is the Love?* by Black Eyed Peas.
 
-[127] Jordan had 893 blocks. Olajuwon had 3,830 blocks in his career,
+[126] Jordan had 893 blocks. Olajuwon had 3,830 blocks in his career,
 the NBA record, 541 more than the next guy on the list.
 
-[128] The Houston Rocket redneck contingent that don’t want any part of
+[127] The Houston Rocket redneck contingent that don’t want any part of
 any beatnik nonsense, are welcome to use the alternative naming
 convention of *On The Road Again Scoot*, with the common nomenclature of
 *Willy’s Gangs*.
 
-[129] Landry’s got food everywhere. However, in North Carolina, we must
+[128] Landry’s got food everywhere. However, in North Carolina, we must
 get the crew thrown out of any place Mike’s ever eaten. Tilman will
 understand.
 
-[130] The dreams of children count a hundred times those of adults, but
+[129] The dreams of children count a hundred times those of adults, but
 their heartbreaks are a hundred times worse. Luckily the duration of the
 pain is usually short. Houston kids forgot about you already, James.
 
-[131] I don’t know if they own it or have some contractual arrangement
+[130] I don’t know if they own it or have some contractual arrangement
 with a commercial operator. I’m assuming it’s owned by the team in this
 example.
 
-[132] I stood staring at a wall for ten minutes contemplating if I
+[131] I stood staring at a wall for ten minutes contemplating if I
 should write that sentence. I imagine a future psychohistorian analyzing
 the past, writing something like this: *We discovered the man’s hubris
 is a cycle that peaks every 110 years. Prior to the digital age, we have
@@ -13232,34 +12873,34 @@ man build an “unsinkable ship” and then in 2022, an engineer designed an
 digital currency system using the principle that “governments are a
 public good,” which led to the complete collapse of…*
 
-[133] [How Many Words Are in the Tax
+[132] [How Many Words Are in the Tax
 Code](https://taxfoundation.org/how-many-words-are-tax-code/):
 <https://taxfoundation.org/how-many-words-are-tax-code/>. Another factor
 is that lawyers get paid by the hour and write really slowly.
 
-[134] https://en.wikipedia.org/wiki/Enron_scandal
+[133] https://en.wikipedia.org/wiki/Enron_scandal
 
-[135] https://en.wikipedia.org/wiki/Sam_Bankman-Fried
+[134] https://en.wikipedia.org/wiki/Sam_Bankman-Fried
 
-[136] Texas scientists have identified this as the prehistoric
+[135] Texas scientists have identified this as the prehistoric
 Bankman-Fried eel.
 
-[137] Yes, rap music was also invented by prehistoric Texans, though it
+[136] Yes, rap music was also invented by prehistoric Texans, though it
 is unknown where exactly on the ocean this scene takes place. It does
 explain her-highest-highness’s choice in consort.
 
-[138] This happened just north of the Rio Grande so another feminist
+[137] This happened just north of the Rio Grande so another feminist
 innovation invented in Texas.
 
-[139] Children, this proves that Texas Historians also know the literal
+[138] Children, this proves that Texas Historians also know the literal
 use of “literally.”
 
-[140] A redemption story.
+[139] A redemption story.
 
-[141] Taken from *Silver Linings*, by June Scobee Rodgers
+[140] Taken from *Silver Linings*, by June Scobee Rodgers
 
-[142] A reliable Texan source has confirmed that the camp was created by
+[141] A reliable Texan source has confirmed that the camp was created by
 June Scobee and sponsored by Texas A&M. Karma at work, a lifetime of
 Aggie jokes has finally caught up with me.
 
-[143] https://en.wikipedia.org/wiki/Teacher_in_Space_Project
+[142] https://en.wikipedia.org/wiki/Teacher_in_Space_Project
