@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.78**
+**Version 0.80**
 
 **ADVANCED READING COPY**
 
@@ -607,7 +607,7 @@ efficient. 
 There is a reason direct democracy can’t work on a large scale. We elect
 people at the local, state, and federal level who are good at one thing
 to lead and manage our governments, but then we expect them to be good
-at many things.  What does a lawyer know about running a water or sewer
+at many things. What does a lawyer know about running a water or sewer
 system, or green recycling or road maintenance? Elected leaders can hire
 unbiased, unconflicted experts to do the work, but how proficient can
 somebody become at a job specific to a region in the short duration of
@@ -617,19 +617,19 @@ people take risks or point out problems when their bosses change hands
 at the whim of the elected leaders?
 
 The intact bureaucracy make this whole process complicated because
-the scope is too broad.   A congressman can get stuff done in government
-– he just makes a phone call and the water pumping station in his
-district gets a new pump ahead of some other district. All it cost was a
-vote against his conscious and the consensus of his constituents on a
-voting rights bill. People who can already vote are likely to remember
-the high pressure shower they get each morning when election time rolls
-around again.
+the scope is too broad. A congressman can get stuff done in government –
+he just makes a phone call and the water pumping station in his district
+gets a new pump ahead of some other district. All it cost was a vote
+against his conscious and the consensus of his constituents on a voting
+rights bill. People who can already vote are likely to remember the high
+pressure shower they get each morning when election time rolls around
+again.
 
 Limited scope governance can be efficient. Take a Homeowners Association
 (HOA). You have an hour meeting once a month. Hopefully the chairman of
 the HOA is somebody practical who won’t make a run at the next open
 school board seat. The practical leader calls a meeting, talks about
-bids for a new lawn service that’s coming up.  They talk about teenagers
+bids for a new lawn service that’s coming up. They talk about teenagers
 hanging out at the playground drinking and smoking pot on the weekends,
 and who was going to call the cops and should they inform parents
 first. They talk about a few issues they need to prepare to discuss in
@@ -660,12 +660,12 @@ avoid the conflict, politics, and corruption that occurs in governments
 with broad interests. 
 
 The Foundation is a limited direct democracy that asserts non-exclusive
-management responsibility over the public domain.  The public domain is
+management responsibility over the public domain. The public domain is
 NOT the government’s domain, nor does it belong to corporations or any
 other legal entity. It belongs to the public – and I choose to interpret
 this broadly as mankind at large.
 
-Scoot may not own property.  Property is the domain of
+Scoot may not own property. Property is the domain of
 existing governments and enforced by common law. By creating a system of
 responsibility for humanity’s greatest treasure, the accumulated
 knowledge and imagination in the public domain, we create institutions
@@ -5220,8 +5220,8 @@ judgement about a dispute that has nothing to do with you.
 China is not free from responsibility in this fiasco. I’m not sure why
 anyone in China cares what this American jackass who couldn’t manage a
 championship in eight years with the greatest offensive player in a
-generation on his roster. Daryl, maybe you should have kept your
-opinions to yourself and considered the offensive wisdom from ancient
+generation on his roster thinks. Daryl, maybe you should have kept your
+opinions to yourself and considered the offensive wisdom of ancient
 philosopher 飞猪.[71] *“I don’t think any system where you let one
 player just dribble and shoot EVERY SINGLE TIME…I don’t think that
 works.”*
