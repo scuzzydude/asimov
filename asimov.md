@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.80**
+**Version 0.82**
 
 **ADVANCED READING COPY**
 
@@ -1185,7 +1185,7 @@ Scoot are fully responsible for the legacy, but they have no obligation.
 There is no investment, no dividends, and every transaction is recorded
 on a publicly available blockchain. Scoot is an organization like a fan
 club, or historical preservation society, or a reading circle, which
-uses the protocol of Scoot to manage proportional responsibility and to
+uses the Scoot Protocol to manage proportional responsibility and to
 elect trustees and vote on propositions. It has no rights, no
 exclusivity and must pay taxes and obey local laws.
 
@@ -1853,9 +1853,9 @@ will publish location of the protocol code here:
 
 ## Outreach Faucet 
 
-The goal is to spread both interest and the idealism and seed the scoot
-domain with asimov capital. 1% of total asimov will be reserved for the
-outreach faucet.
+The goal is to spread both interest and the idealism and seed the
+responsibility domain with asimov capital. 1% of total asimov will be
+reserved for the outreach faucet.
 
 ### Creative enablers
 
@@ -2128,7 +2128,7 @@ a billionaire.
 
 Art lovers, the billionaires are going to fund a new renaissance in the
 arts in exchange for a social contract with the masses not to repeat the
-past two hundred years of bloody revolutions. Art professional, you’re
+past two hundred years of bloody revolutions. Art professionals, you’re
 going to be busy. And woke, too. Right on. You were right to study
 liberal arts. And lawyers be busy, too. Creating value for society, just
 like all lawyers do.
@@ -2809,7 +2809,7 @@ which might increase the value of the scoot in terms of asimov. This is
 a function of income in the present. Or, based on the elective direction
 of the scootage (which in many cases will be in the majority control of
 the artist) it may keep some of the 10% as a reserve. The Scoot may
-finance projects for the artist, or it may invest in other Scoot that
+finance projects for the artist, or it may commit to other Scoot that
 the artist is interested in. This scoot could also be used in
 collaborative efforts with other pledges.
 
@@ -2821,8 +2821,8 @@ terminated.
 There will be two types of players in the trade of SOA. Speculators in
 vanity – who feel the artist may not have long term genius but will have
 a high income for some period during their lifetimes. And investors in
-genius – people who feel the artist will leave a mark on a culture
-beyond their lifetimes.
+genius – people who feel the artist will leave a mark on culture beyond
+their lifetimes.
 
 An artist with a liquid pool of scoot should be able to gauge what the
 public sentiment is by the direction from polling or formal elections.
@@ -5160,7 +5160,7 @@ States and China value so many things differently, it’s an absolute
 shame that Morey’s tweet destroyed a common shared value. That value was
 not created by and did not belong to Daryl Morey, nor Tilman Fertitta,
 the owner of Rockets, nor to any single player. That value was created
-by the fans, fans that did “Believe It”, fans that supported the Rockets
+by the fans, fans that did “Believe It,” fans that supported the Rockets
 whether they could afford tickets and merchandize or not. Morey might
 have tweeted his personal opinion, but he had so many followers because
 he was the GM of the Rockets.
@@ -8119,7 +8119,7 @@ population against each other? Is Hollywood being intentionally
 dramatic? I wonder what the theme is? Twain’s *Prince and the Pauper*
 sort of fits, the Clippers star is a robot, robots work in factories,
 that would make the Clippers the pauper, and it fits my theme of
-historical irony since The Clippers are owned by the biggest Balmer
+historical irony since The Clippers are owned by the biggest Ballmer
 billionaire. So that would make the Lakers… royalty?
 
 The symbolism is perfect. I finally understand California. LBJ, again,
@@ -10498,7 +10498,7 @@ there were a few shouting, “*Akeem, The Dream!*” Nobody seemed to notice
 the bars of gold sticking out Michael’s pockets.
 
 When he got back to the hotel, Hakeem quickly went to his room, gathered
-his things, and headed straight for the airport and took the red-eye
+his things, and headed straight for the airport and took the red eye
 back to Houston. He called Houston Rockets assistant coach Rudy
 Tomjanovich, who, like Hakeem, wasn’t originally from Texas, but had
 taken the mandatory Texas History for adults refresher course with the
