@@ -4,7 +4,7 @@
 
 **SECOND FOUNDATION**
 
-**Version 2.08**
+**Version 2.09**
 
 <img src="media/image1.png" style="width:0.33333in;height:0.33333in"
 alt="enter image description here" /> 2023 by Brandon Awbrey. This
@@ -2923,21 +2923,19 @@ As an engineer, I’ve always been impressed with Tesla and SpaceX. Both
 are amazing companies, and it seems like Elon Musk has an exceptional
 appreciation of application engineering, which sometimes requires a
 higher level of thinking than any fundamental technology. I’ve been
-anti-Tesla, the car, out of a different principle.
+anti-Tesla, the car, on a different principle.
 
 Nikola Tesla was an important engineer and inventor, and some of his
 most important inventions were alternating current (AC) motors and
-distribution systems, which are used in most every building in the
-world. Tesla, the car, uses direct current (DC) motors, which were
-invented before Nikola Tesla was born. While many own Tesla vehicles,
-every American, and most people on the planet, have used AC power of
-some sort in their lifetime. If you used a lamp, a refrigerator, a
-washing machine, a microwave, or a hair dryer, you’ve benefited from Mr.
-Tesla’s inventions. Tesla was the first commercially viable electric
-car, and if you’re going to name a company after a genius, you better
-live up to it. Nikola Tesla’s legacy of alternating current has probably
-done more to increase human lifespan, reduce poverty and disease, and
-increase prosperity than any innovation before or after.
+distribution systems. While many own Tesla vehicles, every American, and
+most people on the planet, have used AC power of some sort in their
+lifetime. If you used a lamp, a refrigerator, a washing machine, a
+microwave, or a hair dryer, you’ve benefited from Mr. Tesla’s
+inventions. Tesla was the first commercially viable electric car, and if
+you’re going to name a company after a genius, you better live up to it.
+Nikola Tesla’s legacy of alternating current has probably done more to
+increase human lifespan, reduce poverty and disease, and increase
+prosperity than any innovation before or after.
 
 For me, Tesla’s name is now remembered most often as a curse I spit
 every time one of those silent predators roll up on me while I’m talking
@@ -11768,8 +11766,14 @@ August 2<sup>nd</sup>, 2022
 <tr class="odd">
 <td>2.08</td>
 <td>12/6/2023</td>
-<td></td>
+<td>0</td>
 <td>Copy edits</td>
+</tr>
+<tr class="even">
+<td>2.09</td>
+<td>12/19/2023</td>
+<td>0</td>
+<td>Copy edits, corrections</td>
 </tr>
 </tbody>
 </table>
@@ -11786,7 +11790,7 @@ August 2<sup>nd</sup>, 2022
 
 SECOND FOUNDATION
 
-**Version 2.08**
+**Version 2.09**
 
 <img src="media/image12.jpg" style="width:4.62014in;height:3.69583in"
 alt="A group of people wearing helmets Description automatically generated with low confidence" />
@@ -12424,6 +12428,331 @@ The greatest baseball player in history.
 *The Foundation is Gratitude*
 
 # 
+
+# Contents
+
+[Intrinsic Value [1](#intrinsic-value)](#intrinsic-value)
+
+[The Foundation [4](#the-foundation)](#the-foundation)
+
+[A Measure of Wealth [4](#a-measure-of-wealth)](#a-measure-of-wealth)
+
+[Guardians of the Public Domain
+[7](#guardians-of-the-public-domain)](#guardians-of-the-public-domain)
+
+[How it works [11](#how-it-works)](#how-it-works)
+
+[Linux [11](#linux)](#linux)
+
+[Bitcoin [12](#bitcoin)](#bitcoin)
+
+[Social Media [13](#social-media)](#social-media)
+
+[Awbrey Hack [13](#awbrey-hack)](#awbrey-hack)
+
+[Scoot - Dynamically Scalable Responsibility
+[15](#scoot---dynamically-scalable-responsibility)](#scoot---dynamically-scalable-responsibility)
+
+[The Foundation for the Appreciation of Human Genius
+[18](#the-foundation-for-the-appreciation-of-human-genius)](#the-foundation-for-the-appreciation-of-human-genius)
+
+[Asimov and Scoot [18](#asimov-and-scoot)](#asimov-and-scoot)
+
+[Scoot Primer [20](#scoot-primer)](#scoot-primer)
+
+[Genius Economy [23](#genius-economy)](#genius-economy)
+
+[Application of Scoot
+[24](#application-of-scoot)](#application-of-scoot)
+
+[Scoot of Property (SOP)
+[24](#scoot-of-property-sop)](#scoot-of-property-sop)
+
+[Scoot of Gratitude (SOG)
+[25](#scoot-of-gratitude-sog)](#scoot-of-gratitude-sog)
+
+[Post-Agency Scoot (PoAS)
+[34](#post-agency-scoot-poas)](#post-agency-scoot-poas)
+
+[Circulation [36](#circulation)](#circulation)
+
+[Staked [36](#staked)](#staked)
+
+[First Foundation [36](#first-foundation)](#first-foundation)
+
+[Texas Catfish [37](#texas-catfish)](#texas-catfish)
+
+[Second Foundation [40](#second-foundation)](#second-foundation)
+
+[Private Stake [40](#private-stake)](#private-stake)
+
+[Private Staking Period
+[40](#private-staking-period)](#private-staking-period)
+
+[Distribution [41](#distribution)](#distribution)
+
+[Stakes [42](#stakes)](#stakes)
+
+[Staking Codes [45](#staking-codes)](#staking-codes)
+
+[The Mule [46](#the-mule)](#the-mule)
+
+[Public Staking Period
+[47](#public-staking-period)](#public-staking-period)
+
+[National Stakes [47](#national-stakes)](#national-stakes)
+
+[Seeding [48](#seeding)](#seeding)
+
+[Development [48](#development)](#development)
+
+[Outreach Faucet [49](#outreach-faucet)](#outreach-faucet)
+
+[Creative enablers [49](#creative-enablers)](#creative-enablers)
+
+[Teachers [49](#teachers)](#teachers)
+
+[Prizes [50](#prizes)](#prizes)
+
+[Museums [50](#museums)](#museums)
+
+[Crusades [51](#crusades)](#crusades)
+
+[Billionaires [53](#billionaires)](#billionaires)
+
+[Billionaire meme [57](#billionaire-meme)](#billionaire-meme)
+
+[Deterministic Mythology
+[63](#deterministic-mythology)](#deterministic-mythology)
+
+[National Treasure [66](#national-treasure)](#national-treasure)
+
+[Royal Treasure [69](#royal-treasure)](#royal-treasure)
+
+[Amnesty [69](#amnesty)](#amnesty)
+
+[Repatriations and Reparations
+[69](#repatriations-and-reparations)](#repatriations-and-reparations)
+
+[No Fault [69](#no-fault)](#no-fault)
+
+[Immaterial Genius [70](#immaterial-genius)](#immaterial-genius)
+
+[Agency [72](#agency)](#agency)
+
+[Scoot of Agency (SOA) [74](#scoot-of-agency-soa)](#scoot-of-agency-soa)
+
+[Pre-Agency (PrAS) [77](#pre-agency-pras)](#pre-agency-pras)
+
+[Post-Agency (PoAS) [77](#post-agency-poas)](#post-agency-poas)
+
+[Elon Throwdown [80](#elon-throwdown)](#elon-throwdown)
+
+[Scoot of Collective Genius (SCoG)
+[89](#scoot-of-collective-genius-scog)](#scoot-of-collective-genius-scog)
+
+[Collective Vanity [90](#collective-vanity)](#collective-vanity)
+
+[Monuments and Nature’s Bounty
+[91](#monuments-and-natures-bounty)](#monuments-and-natures-bounty)
+
+[Diplomacy [92](#diplomacy)](#diplomacy)
+
+[Die Hard 7 – In a world of the king’s gold
+[94](#die-hard-7-in-a-world-of-the-kings-gold)](#die-hard-7-in-a-world-of-the-kings-gold)
+
+[Die Hard 7 – Leonardo’s Revenge
+[96](#die-hard-7-leonardos-revenge)](#die-hard-7-leonardos-revenge)
+
+[The Stinger [98](#the-stinger)](#the-stinger)
+
+[Corporate Genius [99](#corporate-genius)](#corporate-genius)
+
+[Genius CYA [102](#genius-cya)](#genius-cya)
+
+[Academic Genius [104](#academic-genius)](#academic-genius)
+
+[Stop Reading, Lars [104](#stop-reading-lars)](#stop-reading-lars)
+
+[Drumland [105](#drumland)](#drumland)
+
+[Open Source Everything
+[110](#open-source-everything)](#open-source-everything)
+
+[Collecting Responsibility
+[112](#collecting-responsibility)](#collecting-responsibility)
+
+[Collecting Whatever [123](#collecting-whatever)](#collecting-whatever)
+
+[Instant Karmic Soup Kitchens (IKSK)
+[124](#instant-karmic-soup-kitchens-iksk)](#instant-karmic-soup-kitchens-iksk)
+
+[Goodbye Season Tickets
+[131](#goodbye-season-tickets)](#goodbye-season-tickets)
+
+[Incongruence of Values
+[144](#incongruence-of-values)](#incongruence-of-values)
+
+[Alignment of Values [148](#alignment-of-values)](#alignment-of-values)
+
+[Artificial Scarcity [150](#artificial-scarcity)](#artificial-scarcity)
+
+[Psychohistory [153](#psychohistory)](#psychohistory)
+
+[Scoot of Bling (SOB) [157](#scoot-of-bling-sob)](#scoot-of-bling-sob)
+
+[Scoot of Transportation (SOT)
+[164](#scoot-of-transportation-sot)](#scoot-of-transportation-sot)
+
+[Governance [169](#governance)](#governance)
+
+[Charter [169](#charter)](#charter)
+
+[Electorates [170](#electorates)](#electorates)
+
+[Responsibility Domain
+[170](#responsibility-domain-1)](#responsibility-domain-1)
+
+[Value Domain [170](#value-domain-1)](#value-domain-1)
+
+[Election frequency [170](#election-frequency)](#election-frequency)
+
+[The Board of Trustees
+[171](#the-board-of-trustees)](#the-board-of-trustees)
+
+[Engineer (1) [171](#engineer-1)](#engineer-1)
+
+[Continentals (7) [176](#continentals-7)](#continentals-7)
+
+[Popular (3) [176](#popular-3)](#popular-3)
+
+[Term Limits [177](#term-limits)](#term-limits)
+
+[Ethical Standards [177](#ethical-standards)](#ethical-standards)
+
+[The Line [177](#the-line)](#the-line)
+
+[Shunning [178](#shunning)](#shunning)
+
+[Management [179](#management)](#management)
+
+[Creation [179](#creation)](#creation)
+
+[Security [179](#security)](#security)
+
+[Encyclopedist [179](#encyclopedist)](#encyclopedist)
+
+[Provisional Board [180](#provisional-board)](#provisional-board)
+
+[Origins [182](#origins)](#origins)
+
+[Digital Sainthood [190](#digital-sainthood)](#digital-sainthood)
+
+[Stasis [192](#stasis)](#stasis)
+
+[Genius Antagonism [193](#genius-antagonism)](#genius-antagonism)
+
+[Genius Ancestry [200](#genius-ancestry)](#genius-ancestry)
+
+[Generational Wealth [204](#generational-wealth)](#generational-wealth)
+
+[Truces and Curses [205](#truces-and-curses)](#truces-and-curses)
+
+[Canada [205](#canada)](#canada)
+
+[Yankees [206](#yankees)](#yankees)
+
+[Dodgers [206](#dodgers)](#dodgers)
+
+[The Curse of the Asterisk
+[208](#the-curse-of-the-asterisk)](#the-curse-of-the-asterisk)
+
+[Ethical Revolution [209](#ethical-revolution)](#ethical-revolution)
+
+[No Small Genius [216](#no-small-genius)](#no-small-genius)
+
+[Acknowledgements [218](#acknowledgements)](#acknowledgements)
+
+[F.A.Q. [220](#f.a.q.)](#f.a.q.)
+
+[Appendix A – Asimov Distribution Schedule
+[225](#appendix-a-asimov-distribution-schedule)](#appendix-a-asimov-distribution-schedule)
+
+[Appendix B – Prime Shards
+[226](#appendix-b-prime-shards)](#appendix-b-prime-shards)
+
+[Appendix C – Scoot of Team
+[228](#appendix-c-scoot-of-team)](#appendix-c-scoot-of-team)
+
+[Kerouac Crews (On the Road Scoot)
+[229](#kerouac-crews-on-the-road-scoot)](#kerouac-crews-on-the-road-scoot)
+
+[Foreign Outposts [231](#foreign-outposts)](#foreign-outposts)
+
+[Scoot of Whatevera [231](#scoot-of-whatevera)](#scoot-of-whatevera)
+
+[Scoot of Special Purpose Entities (SSPE)
+[232](#scoot-of-special-purpose-entities-sspe)](#scoot-of-special-purpose-entities-sspe)
+
+[Appendix D – System Technical Description
+[239](#appendix-d-system-technical-description)](#appendix-d-system-technical-description)
+
+[Property of Wealth (POW)
+[241](#property-of-wealth-pow)](#property-of-wealth-pow)
+
+[Scoot Conformance [242](#scoot-conformance)](#scoot-conformance)
+
+[Scootchain [244](#scootchain)](#scootchain)
+
+[Responsibility Tree [244](#responsibility-tree)](#responsibility-tree)
+
+[Scoot Naming System (SNS)
+[246](#scoot-naming-system-sns)](#scoot-naming-system-sns)
+
+[Scoot Entity [248](#scoot-entity)](#scoot-entity)
+
+[Brandon’s First Letter to his Crypto-Advisor
+[251](#brandons-first-letter-to-his-crypto-advisor)](#brandons-first-letter-to-his-crypto-advisor)
+
+[Appendix E – A Lesson in Texas History
+[254](#appendix-e-a-lesson-in-texas-history)](#appendix-e-a-lesson-in-texas-history)
+
+[Texas Prehistory [254](#texas-prehistory)](#texas-prehistory)
+
+[Readings In Texas History
+[268](#readings-in-texas-history)](#readings-in-texas-history)
+
+[Big Mama [268](#big-mama)](#big-mama)
+
+[Little Mama [274](#little-mama)](#little-mama)
+
+[Stinky Fingers [284](#stinky-fingers)](#stinky-fingers)
+
+[The Canadian [291](#the-canadian)](#the-canadian)
+
+[The Defender of Texas History
+[304](#the-defender-of-texas-history)](#the-defender-of-texas-history)
+
+[Revision History [314](#revision-history)](#revision-history)
+
+[Chapter Coding [314](#chapter-coding)](#chapter-coding)
+
+[First Edition, unchanged
+[314](#first-edition-unchanged)](#first-edition-unchanged)
+
+[Content changes from first edition
+[314](#content-changes-from-first-edition)](#content-changes-from-first-edition)
+
+[New content, Second Foundation
+[314](#new-content-second-foundation)](#new-content-second-foundation)
+
+[Scoot(1) [317](#scoot1)](#scoot1)
+
+[Scoot(23) [318](#scoot23)](#scoot23)
+
+[Scoot(25) [327](#scoot25)](#scoot25)
+
+[Scoot(27) [332](#scoot27)](#scoot27)
 
 [1] The Gold Standard died for good in 1976 when I was in kindergarten.
 In school, I was taught the gold standard. I guess they thought floating
