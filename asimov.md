@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.63**
+**Version 0.64**
 
 **ADVANCED READING COPY**
 
@@ -16,6 +16,8 @@ printed or eBook form of this book, then thank you. If you paid somebody
 else, I join you in a curse.
 
 Cover Art and Illustrations ©2022 by Jack Awbrey
+
+# 
 
 # Intrinsic Value
 
@@ -322,7 +324,7 @@ Tesla died in 1943, so his written work would have entered the public
 domain in 2013. Tesla was an inventor, and U.S. patents expire twenty
 years after issuance. Most of Tesla’s patents expired while he was still
 alive. All work by both men is in the public domain. Their work material
-– manuscripts, notebooks, drawings, and prototypes - are property – and
+– manuscripts, notebooks, drawings, and prototypes are property – and
 belong to whomever legally possess them. In general, for writers and
 inventors, we place little importance on the physical work product.
 
@@ -777,7 +779,7 @@ the staking, seeding and development stages, as described in the
 only issue genesis asimov in exchange for scoot. A total of one trillion
 asimov will be minted and disbursed over 200 years according to the
 distribution schedule outlined in [Appendix
-B](#appendix-a-asimov-distribution-schedule).
+A](#appendix-a-asimov-distribution-schedule).
 
 After a Scoot is legally formed, it may participate in responsibility
 domain by registering the Scoot’s address. The Foundation shall charge a
@@ -1579,6 +1581,24 @@ and asimov will be circulated.
 “Well, there are a bunch of stakes laying around, we might as well give
 it a try.”
 
+### Staking
+
+Staking is how the protocol processes transactions. The Scoot protocol
+will use a Proof-of-Stake mechanism, where to trade a scoot, a scoot of
+equal or greater value is encumbered on the chain until the scoot-chain
+is validated. Nodes creating the transactions will be rewarded for
+processing them, as will the stakers who provide the encumbered scoot.
+
+Staking is also how a Scoot can be formed. Fees will be assessed
+relative to the size of the initial stake, and the number of stakers.
+The more people you have behind your idea, the cheaper it will be to
+participate in the responsibility domain.
+
+We will stake asimov – The Foundation’s scoot – in the same manner. I
+will attempt to collect $100 million and use it as the foundational
+stake. This money will not be used for anything. It will sit in a bank
+for ten years.
+
 ### Reserve Stake
 
 By staking The Foundation, we establish relative value for before
@@ -1622,22 +1642,9 @@ $100 million, the distribution value will be $0.02 USD.
 
 #### Public staking period
 
-##### The Ideal
-
-There will be a public staking period where the 5 billion asimov is sold
-in whole units at the distribution value. We want fair and
-geographically dispersed distribution, so asimov will only be sold in
-whole units, one at a time, one per individual. The Foundation shall
-determine a way to do this fairly, which will require identification of
-the stakers. This may be an opportunity for pre-pledge registration.
-
-The purpose of the public staking is to prevent any one entity in the
-private stake exerting control over of asimov and the development of The
-Foundation. The public stake is unconditional and shall not be returned
-and may be used fund operational expenses. The Foundation shall publish
-an accounting of public stake at regular intervals.
-
 ##### Proxy Congress
+
+Ideally, we’d sell or give one asimov to every person on the planet.
 
 While the ideal sounds great, it would be very hard to implement. First
 off, we’d need to have ability to register and verify pledges in every
@@ -2070,14 +2077,14 @@ goes like this: *Imma be brilliant with my millions, loan out a billion,
 I get back a trillion*.[20]
 
 Bill Gates and Warren Buffet started *The Giving Pledge* campaign, where
-a whole bunch of well-intentioned billionaires promised to give away
-half their wealth to charitable causes. This is apparently because they
-want to give back – to solve problems for the rest of us. This is
-glorious philanthropy and in no way am I criticizing the motivation.
-Charity by the wealthy is responsible for so much that makes the United
-States a wonderful place to live. Around election time, there is a vocal
-chorus of those who like to point out how little the rich might pay in
-taxes, but they don’t include what the rich give out voluntarily.
+a bunch of well-intentioned billionaires promised to give away half
+their wealth to charitable causes. This is apparently because they want
+to give back – to solve problems for the rest of us. This is glorious
+philanthropy and in no way am I criticizing the motivation. Charity by
+the wealthy is responsible for so much that makes the United States a
+wonderful place to live. Around election time, there is a vocal chorus
+of those who like to point out how little the rich might pay in taxes,
+but they don’t include what the rich give out voluntarily.
 
 I really believe Bill Gates’s motivations are pure, because he’s the
 most bad-ass businessman and coder in human history. He’s one of the
@@ -2098,31 +2105,31 @@ the wealth of mankind even after they are gone. A measurement of value.
 
 Let’s take two hypothetical billionaires, call them Paul and John.
 
-Paul starts a company and builds rockets ships using advanced
-engineering and convinces businesses and governments to send a bunch of
-commercial stuff up in space while making space travel cheaper and more
-accessible. This enables an entire industry of both commercial
-exploration and space tourism. Paul becomes a trillionaire.
+Paul starts a company and builds rocket ships using advanced engineering
+and convinces businesses and governments to send a bunch of commercial
+stuff up in space while making space travel cheaper and more accessible.
+This enables an entire industry of both commercial exploration and space
+tourism. Paul becomes a trillionaire.
 
 John parties with movie stars, goes through rehab six times, sobers up
-around fifty and then uses the few millions he has left to invest in
-what was originally a hacker-yoga cult. John leverages his fleeting
-billionaire credibility into a reality-show sponsored moon trip for him
-and his yokers. The hackers crack the security of moon base *Eleanor,*
-and stage a non-violent coup. All moon dwellers are allowed to leave but
-only about ten percent voluntarily return to Earth. The one hostage not
-allowed to leave was Jude, Paul’s adopted and John’s biological son, who
-was on moon base *Eleanor* as part of 3<sup>rd</sup> grade field trip.
-There’s nothing anybody can do, since John holds the ultimate high
-ground over all the terrestrial powers*.* He unites with space dwellers
-across the moon and in orbit and founds The United Federation of
-Planets. This organization is responsible to go to where no man has gone
-before. Within two generations, The Federation colonizes the stars, all
-using the warp drive developed by Jude.
+around fifty and then uses the few millions he has left to invest in a
+hacker-yoga cult. John leverages his fleeting credibility into a
+reality-show sponsored moon trip for him and his yokers. The yokers
+crack the security of moon base *Eleanor,* and stage a non-violent coup.
+All moon dwellers are allowed to leave but only about ten percent
+voluntarily return to Earth. The one hostage not allowed to leave was
+Jude, Paul’s adopted and John’s biological son, who was on moon base
+*Eleanor* as part of 3<sup>rd</sup> grade field trip. There’s nothing
+anybody can do since John holds the ultimate high ground over all the
+terrestrial powers*.* He unites with moon dwellers and those in orbit
+and founds *The United Federation of Planets*. This organization is
+responsible to go to where no man has gone before. Within two
+generations, The Federation colonizes the stars, all using the warp
+drive developed by Jude.
 
-Who will history remember as the greater genius, Paul or John?
+Who will history remember as the greater genius, Paul, or John?
 
-One is Henry Ford, one is Thomas Jefferson. Compare the introduction to
+One is Henry Ford; one is Thomas Jefferson. Compare the introduction to
 both these men on Wikipedia. Henry Ford – antisemitic and a pacifist.
 Yet, his mastering of efficiency in manufacturing is what defeated
 Hitler and led to generational prosperity for hundreds of millions
@@ -2142,19 +2149,19 @@ Or is it hypocrisy? Or – was Jefferson’s own internal struggle what gave
 him words to perfectly define what freedom means?
 
 Henry Ford mastered a process that was duplicated in millions of
-peaceful, commercial and military applications. This led to prosperity
+peaceful, commercial, and military applications. This led to prosperity
 throughout the entire world. He might have been the most innovative
 engineer in American history, greater than Tesla himself in real value
 created because his innovation had such broad application.[22] Yet he
-hated Jews and used his wealth the power to influence others with his
-views. In his day, he was valued tremendously. In today’s value system,
-he would be canceled. Yet, in today’s value system, he would not be a
-criminal, it’s a fundamental right to express your opinion, no matter
-how stupid. You can hate who or what you want. When we talk about moral
-values, they are seen to be individual choices, our own values. Is it
-ironic, that Henry Ford, who hated Jews, invented the fundamental
-processes that allowed American industry to defeat Adolph Hitler, the
-most powerful antisemite in History?
+hated Jews and used his wealth to influence others with his hate. In his
+day, he was valued tremendously. In today’s value system, he would be
+canceled. Yet, in today’s value system, he would not be a criminal, it’s
+a fundamental right to express your opinion, no matter how stupid. You
+can hate who or what you want. When we talk about moral values, they are
+seen to be individual choices, our own values. Is it ironic, that Henry
+Ford, who hated Jews, invented the fundamental processes that allowed
+American industry to defeat Adolph Hitler, the most powerful antisemite
+in History?
 
 In terms of a system, when you see a repeating pattern of conflicts that
 occur at an increasing frequency, this usually represents unbalanced
@@ -2281,7 +2288,7 @@ Approaching dangerous territory here, perhaps a different approach.
 
 Who should we value in history? What values should we strive to measure?
 
-Techno-billionaires got rich using data, so they understand the
+Techno-billionaires became rich using data, so they understand the
 persistence of data. This is where the meme comes in. *Imma be brilliant
 with my millions, loan out a billion, I get back a trillion.*
 
@@ -2291,11 +2298,11 @@ The further back in history you go, the harder it is to interpret these
 kinds of sources. Changes in language are one problem, but the real
 problem is context.
 
-The other kind of context is artifacts, or indirect sources.
+The other kind of sources are artifacts, or indirect sources.
 Circumstantial evidence. This is where history merges into science and
 imagination is more powerful than knowledge. We read into circumstance
-what we want to read into it. We have no idea of real context, of how
-they valued anything, especially property.
+what we want to read into it. We have no idea of real context beyond our
+lifetimes, of how they valued anything, especially property.
 
 Order tends to lead to chaos. History tends to repeat itself. The chaos
 equalizer of history so far, is that despite living longer and having
@@ -2307,12 +2314,12 @@ grandparents, was not very different. They lived shorter lives but had
 stronger real connection to their parent’s way of life. I compare that
 to my life – my prosperous easy life of typing code into a keyboard and
 getting paid for it – is so different from the lives of my grandparents.
-In terms of efficiency and easy of live, my grandfather’s life was
-closer to Jefferson than it was to mine. And my children? What magic to
-it is to read, listen, and to watch anything you want wherever you want
-whenever you want. To have endless treasures of data with various levels
-of factuality at your disposal at an instant. My children have had that
-in some form their entire life.
+In terms of efficiency, my grandfather’s life was closer to Jefferson’s
+than it was to mine. And my children? What magic it is to read, listen,
+and to watch anything you want wherever you want whenever you want. To
+have endless treasures of data with various levels of factuality at your
+disposal at an instant. My children have had that in some form their
+entire lives.
 
 We are creating two sets of data for the future. The artifacts – the
 digital debris of our daily lives – will persist in perpetuity. The
@@ -2324,59 +2331,51 @@ relative to property.
 The future will also have a multitude of primary source material to
 understand us. Sure, some people will write books, but a lot more will
 tweet their random thoughts or post photos of their breakfast. I’m
-perfectly happy with South Park being the official chronicle of my life
-as an adult. Not sure if everyone else will agree, especially Tom
-Cruise.
+perfectly happy with *South Park* being the official world. Not sure if
+Tom Cruise agrees.
 
-Or we can have a measurement of real value, and provide the future with
-valuable data of how we value our ideas in our time, but how those
-values we’re passed onto future generations. These values are The
+We can have a measurement of real value and provide the future with
+valuable data of how we value those ideas in our time, and how values
+changed as pass them onto future generations. These values are The
 Foundation’s responsibility tree. The future will be able to trace
-wealth created and how it grew and changed hand through time, what ideas
-that wealth fostered, and the value of those ideas created. This is the
-data that is the wealth of man, the true treasure of mankind.
+wealth created and how it grew and changed hands through time, and what
+ideas that wealth fostered. This data is the wealth of mankind, our true
+treasure.
 
-And that will be wonderful, for if the future spots inefficiencies of
-values, bad ideas that keep repeating themselves, cycles of vanity where
-people lose value, then fixing those problems will be easy, because
-we’ll have strong data. With that data, it’s a simple exercise in
-integration – breaking things down and putting them together again.
+When the future spots inefficiencies of values, bad ideas that keep
+repeating themselves, cycles of vanity where people lose value, then
+fixing those problems will be easy, because we’ll have strong data. With
+that data, it’s a simple exercise in integration – breaking things down
+and putting them together again.
 
-So here’s where we get *brilliant with my millions, loan out a billion,
-I get back a trillion*
+Here’s where we get *brilliant with my millions, loan out a billion, I
+get back a trillion*
 
-If we have a measurement system and data that shows where legends are
-born. And tales of historical genius as well as hubris and vanity will
-be attributable. It doesn’t matter if The Foundation is involved or not.
-The days of guessing how meme turn into legends and into mythology or
-over. What we buy and sell and says everything the future needs to know
-about who we are right now. The Foundation is a way to explictitly those
-value in the present – for the future.
+We have a measurement system and data that shows where legends are born.
+And tales of historical genius as well as hubris and vanity will be
+attributable. It doesn’t matter if The Foundation is involved or not.
+The days of guessing how memes turn into legends are over. What we buy
+and sell and says everything the future needs to know about who we are
+right now. The Foundation is a way to explicitly measure our values in
+the present – for the future.
 
-It's also a way to value the past. That means that today – the present,
-are the last creators of undeterminisc mythology. It is our
-responsibility to measure of values realteve to all that have come
-before us, and we are creating a permanent record – digital stone – for
-the future of mankind. The past is well charted territory in the past
-millenum, but what isn’t yet recorded is what that history means to us
-now.
+It's also a way to value the past. That our generation are the last
+creators of indeterministic mythology. It is our responsibility to
+measure of values relative to all that have come before us, and we are
+creating a permanent record – digital stone – for the future of mankind.
+The past is well charted territory in the past millennium, but what
+isn’t yet recorded is what that history means to us now.
 
 It means the creators of digital stone are the last generation to create
-undertminstic mythology. We’ll still have historical myths, but they’ll
-be traceable. New ideas, new values sets, they’ll have a trace.
+indeterministic mythology. We’ll still have historical legends, but
+they’ll be traceable.
 
-I think South Park is the perfect chronicle for the last twenty five
+I think South Park is the perfect chronicle for the last twenty-five
 years of history. If they future looks at all the primary sources and
 tries to figure out what the hell we were thinking, *South Park* will be
 the only way they’ll be able to frame it. Through the eyes of children,
-you understand the world, just like Huck Finn. How else can we
-understand the abusrd.
-
-Tom Cruise and others would prefer a different chronicle, and that is
-their right. This is why we have a measure of value. Historical
-chrionciles meause. They can use their own measure for the source
-material, but they will have a fair value of how we in our time measured
-it.
+you can understand the world, just like *Huck Finn*. How else can we
+understand the absurd?
 
 Future historians are a super large job market that creates a negative
 value trap on society, these people who just sit around all day long and
@@ -2444,7 +2443,7 @@ genius heirs of Mark Twain.
 
 I make this point, because I’m trying to get the billionaire’s
 attention, because there is a verse in the meme that is only thought
-silently, altogether, it goes; *brilliant with my millions, loan out a
+silently, It goes; *Imma be* *brilliant with my millions, loan out a
 billion, I get back a trillion, **before I’m dead**.*
 
 The data will be immediately valuable, and it’s what will give
@@ -2455,14 +2454,14 @@ system with a single dimension, it’s usually a simple system. For
 instance, if you measured the amount of time it took for each stage of
 automobile assembly time before fixing the bottleneck, you’d probably
 measure that all stages were slow, because the line would be constantly
-backed up at the tire-installation. However, if you measured the “single
-unit” latency of each stage of the system, you’d get different data.
-This would involve clearing the assembly line, and building only one
-car, using a stopwatch at each stage. Then you’d measure all the stages
-were under minute, the backup is the tire-installation which takes over
-a minute. This isn’t a hypothetical – people who invest millions in
-assembly lines don’t like stop the assembly line so engineers can
-measure things, but sometimes that’s all it takes.
+backed up at the tire-installation. However, if you timed each stage in
+isolation, you’d get different data. This would involve clearing the
+assembly line, and building only one car, using a stopwatch at each
+stage. You’d measure all the stages were under minute, the backup is the
+tire-installation which takes over a minute. This isn’t a hypothetical
+problem – people who invest millions in assembly lines don’t like to
+stop the assembly line so engineers can measure things. Sometimes that’s
+all it takes.
 
 In historical terms, we only have one dimension of deterministic data,
 and that is value measured in terms of property. Everything else, the
@@ -2473,36 +2472,34 @@ A second set of deterministic data, the value of ideas measured against
 other ideas will give problems of value two dimensions of data.
 
 I look at design integration and debug as the same thing. In both cases,
-the way to solve the problem efficiently, is to break apart the problem
-and isolate bottlenecks as quickly as possible. It’s exactly the same
-problem as an assembly line, and actually in modern manfuacting, equally
-as coplex, just at human time scales. Assmbleys don’t end a building,
-there is an entire supply chains sometimes involving a tree of millions
-of people. A very good analog to electronic systems and other types of
-complex human systems.
+the way to solve the problem efficiently is to break apart the problem
+and isolate bottlenecks. It’s the same problem as a slow assembly line.
+Modern manufacturing is as complex as digital systems, just at human
+time scales. Assembly lines don’t end in a building, there is an entire
+supply chain, sometimes involving a millions of people. A very good
+analog to electronic systems and other types of complex human systems.
 
 In debugging a systems crash, it’s typical you get a crash dump. This
 tells you the state of all the memory and registers of the computer at
-the time of the crash, and can be useful, but it’s sort of like a CSI
-investigation, you take each piece of data apart, step by step and
-rebuild the case. I’d equivocate this to property-based value
-measurements. If you’re really debugging something, you’ll put in
-logging, so you know the state of important information leading up to
-the crash, the changes in values. When a debugger has this kind of data,
-it’s more like the brainiacs at CSI watch a murder go into a build in a
-hoody on a video feed, and watch him go out the same building carrying a
-carpet over his shoulder with a bloody kinfe in one hand. In any case,
-it’s much easy to debug with a log of dynamic values.
+the time of the crash, and can be useful. With this data it’s sort of
+like a CSI investigation, you take each piece of data apart, step by
+step and reconstruct what happened. I’d equivocate this to
+property-based value measurements. If you’re really debugging something,
+you’ll put in logging, so you know the state of important information
+leading up to the crash, the changes in values. When a debugger has this
+kind of data, it’s more like the brainiacs at CSI watch a murderer go
+into a build in a hoody on a video feed, and watch him come out the same
+building carrying a carpet over his shoulder with a bloody knife in one
+hand. In any case, it’s much easy to debug with a log of dynamic values.
 
 Property based valuation is a single dimension of data in the value
 equation. Value of ideas in historical context is another. When you have
-two dimensions of data, isolation of constaits is much easier. This
-means, as we develop this data in just the context of the near future,
-we will expose huge opputinies for optimization of real value, measured
-against the past.
+two dimensions of data, isolation of constraints is much easier. This
+means, as we develop this data soon, we will expose huge opportunities
+for optimization of real value, measured against the past.
 
-We’ll the generation that spawned billionares that actually fixed all
-the historical problems of value. Using basic debug techniciques.
+We’ll be the generation that spawned billionaires that fixed all the
+historical problems of value. Using basic debug techniques.
 
 ## National Treasure
 
@@ -5326,7 +5323,7 @@ works. It can even work in Dallas – if you give them the exact
 blueprint.
 
 Put a real human value on that. With this system, you can. See [Appendix
-D](#_Appendix_D_–) for a way to implement this.
+D](#appendix-d-scoot-of-team) for a way to implement this.
 
 Tillman Fertitta can be the benevolent dictator of Rockets-nation, just
 like Linus in Linuxland. We’ll find the right kind of hero that will
@@ -5959,13 +5956,13 @@ humanity – just curated by you. If it’s really bling – a privilege of
 wealth – then you’re not going to worry about that. You’re Jay-Z, you
 don’t liquidate value, you create value.
 
-In [Appendix C](#_Appendix_D_–) I describe Scoot of Special Purpose
-Entities (SSPE) which are designed to ensure that property that is
-turned to genius wealth remains in the public domain. It’s easy to see
-that Scoot of Bling could be an instrument for fraud and tax evasion and
-that would undermine the system. SSPE work as statis for the physical
-property curated by Scoot. SSPE will repurpose property in a system that
-ensures that it is a benefit to the public good.
+In [Appendix D](#scoot-of-special-purpose-entities) I describe Scoot of
+Special Purpose Entities (SSPE) which are designed to ensure that
+property that is turned to genius wealth remains in the public domain.
+It’s easy to see that Scoot of Bling could be an instrument for fraud
+and tax evasion and that would undermine the system. SSPE work as statis
+for the physical property curated by Scoot. SSPE will repurpose property
+in a system that ensures that it is a benefit to the public good.
 
 What happens when Jay-Z moves on? It depends. He can leave control of
 the Scoot to his heirs, and they can be the arbiters of what kind of
@@ -6212,79 +6209,6 @@ All someone must do is shun your Scoot as *cheating lawyer
 douchebaggery*. Your young associate may have to consider what being
 associated with that may do to the future careers in the genius economy.
 
-### Scoot of Harden’s Kicks (SOHK)
-
-I don’t have much bling. I might one day contribute a vehicle to a SOT,
-but I’m not sharing my house or any of the rest of my material
-possessions.
-
-I do have one thing. It’s not exactly bling.
-
-Having been under a spell in retrospect I can’t fathom to comprehend,
-for some reason I gave members of my family the impression they should
-use our joint wealth to gift me property that James Harden was selling
-for my birthdays when I was in my forties.
-
-I got some headphones, they’re solid and sound good. There were some
-moments in January 2021 where events drove me to fits of madness and I
-wanted to smash those headphones into the ground, but I knew that was
-unsustainable behavior, and I didn’t want to the blow another $300 of
-new headphones.
-
-The other thing I got are these nice shoes. They are red, white and blue
-and sold by a company, I refuse to name as act of karmic vengeance. This
-company also apparently sells T-Shirts at the outlet store, because I
-have the same shirt with their name on it three different colors, and
-I’ve been walking around Colorado advertising them for free. Strangely,
-there’s this skateboarder dude I would often see on my walks during the
-pandemic, and every time I’d pass him, he’d say, “All day I dream about
-skateboarding.” In 2018, I was having severe foot pain and I went to
-doctor and played around with inserts and different shoes and found that
-this company’s shoes worked the best with my feet and the insoles.
-Despite my karmic vengeance, I’m a hypocrite and conflicted. Not only do
-I debug historical irony, I’m a living example.
-
-These special shoes are Harden ……….. They’re so pretty, and so
-expensive, I never wore them out walking around in the neighborhood. For
-two years, I wore them when I went to a game in Denver, and in the
-playoffs on gameday I’d wear them to work, though I’d change to my
-regular walking shoes for my walks.
-
-I’ve never made a YouTube video or posted anything, but I have
-fantasized about recording me burning these shoes and my wife burning
-her #13 Harden Jersey at some pivotal point in basketball, hopefully
-when KPJ faces Harden in the finals, and posting it for the world to
-see.
-
-That would be unsustainable behavior, and not very Texan. It ain’t Texan
-to burn something I paid for with my own hard-earned money, or my wife’s
-crypto money. It is Texan to use that stuff to somehow ironically kick
-that somebody’s ass (metaphorically, of course.)
-
-That’s why I’m offer up these Harden kicks, to any NBA player who is
-going to face James Harden, regular season or playoffs. If you wear a
-size twelve, and your ankles can handle a James Harden shakedown in a
-low-top, and you want to put a historically ironic lockdown upon a
-former great player, MVP, Sixth Man of the Year, and multiple time
-scoring champion, these are the shoes for you.
-
-I’ve put a special blessing on them, and I was wearing during some of
-*The Beard’s* best games. These shoes have seen it all, and that’s all
-the advantage you’re going to need, because James is old, and that was a
-long time ago. Just remember, don’t reach.
-
-I’ll start this scoot immediately, any player wants to give it a shot,
-reach out. We’ll backport stats on the scoot-chain once the protocol is
-up, and we’ll all enjoy the value we create together, stopping James
-Harden. As a scootage, we’ll get together, once a year, at the *Instant
-Karmic Soup Kitchen*, and watch all the highlights of the games, a band
-of brothers. A brotherhood of men who wear size twelve and have walked
-in each other shoes.
-
-And James, of course. He’ll be invited.
-
-I sure hope Jae’Sean Tate wears size twelve.[78]
-
 # Governance
 
 ## Charter
@@ -6406,7 +6330,7 @@ intervals specified by the board.
 This is exactly like the consumer price index, except that instead of
 dollars it’s asimov. This also needs to be geo specific and aggregated
 proportionally. It’s a little bit more refined, as it only aggregates of
-the cost of the sustainable lifestyle, whatever that means.[79]
+the cost of the sustainable lifestyle, whatever that means.[78]
 
 It won’t include the cost of gas for a cross-town commute, because
 gasoline is not a sustainable resource long term. Gasoline is a resource
@@ -6714,7 +6638,7 @@ The scoot-chain is both the transaction record of a scoot and contains
 an ever growing, immutable historical record of the associated creative
 expression. As a practical manner, this means keeping digital works
 alive on the scoot-chain. We want this digital record to survive across
-generations. Digital recordings may be translated into newer formats as
+generations. Digital media may be translated into newer formats as
 technology advances, but we want to make sure that not only are the
 original formats kept, that there are available methods of
 viewing/interpreting the original formats on modern devices. The
@@ -6848,7 +6772,7 @@ we value is already our identity. I wear my Rockets colors, but even
 when I don’t, that’s still who I am.
 
 I never was a legit superfan. My family knows how much the Rockets mean
-to me and that is enough. Even before the Canadians[80] stole Olajuwon,
+to me and that is enough. Even before the Canadians[79] stole Olajuwon,
 I only went to a few games in person. The main reason is I couldn’t
 afford to go in the championship years, and even after I had a bit more
 money, it was better just to watch *The Dream* on the TV. Maybe I
@@ -6914,7 +6838,7 @@ Saint Jobs, and it’s possible that I saw a trailer for the show. I had
 last read Asimov as a teenager, but I’d remembered the basics of the
 story and I thought it fit, but I did have some second thoughts, as I
 didn’t want to jump on some pop-culture fad for something so
-important.[81] I’d started re-reading *Foundation* series early on, and
+important.[80] I’d started re-reading *Foundation* series early on, and
 so was excited to see the series. The TV series isn’t much like the
 books at all, and for good reason. The books are mostly nerdy people
 talking to each other about nerdy stuff, not good TV material. In any
@@ -6946,8 +6870,8 @@ wealth, we will have generational responsibility.
 
 I will request one privilege as creator of this system. I will ask the
 board to approve exclusivity to the SNS leases of the names I’ve listed
-in [Appendix C](#appendix-b-scoot-naming-reservations) for some period.
-I plan to apply my wealth to these Scoot once The Foundation is staked.
+in [Appendix B](#appendix-b-scoot-naming-reservations) for a period. I
+plan to apply my wealth to these Scoot once The Foundation is staked.
 
 These are the geniuses that I value.
 
@@ -7099,7 +7023,7 @@ the statis Scoot.
 John Lennon was one of the greatest geniuses of the 20<sup>th</sup>
 century. We should remember him not only for his music, but for his
 vision. I referred to his song *Imagine* as a peacekeeping system. Next
-time you hear that song, close your eyes, listen to the lyrics and
+time you hear that song, close your eyes, listen to the lyrics, and
 imagine what it would be like.
 
 *Imagine all the people, sharing all the world.*
@@ -7124,11 +7048,9 @@ of relationships.
 I debated with myself if I really needed to write this chapter. I
 realized that most of my audience didn’t have the benefit of learning
 Texas History in middle school like I did, and wouldn’t understand, that
-sports are the greatest genius invention of mankind, and it were
-invented in Texas, just like art, writing, mathematics and feminism.
-I’ve reprinted the important lesson in [Appendix E](#_Appendix_E_–).
-Let’s just say, competition, friendly or New York style, is always a
-good thing.
+sports are the greatest genius invention of mankind, and were invented
+in Texas, just like art, writing, mathematics and feminism. I’ve
+reprinted the important lesson in [Appendix E](#_Appendix_E_–).
 
 In 1894 Mark Twain and Nikola Tesla were dining at Delmonico’s in New
 York City, when a banker and a railroad man from Houston stopped by
@@ -7136,7 +7058,7 @@ their table to say hello. They talked for several minutes. After they
 left, Twain, who despite his wide travels, had never set foot in Texas,
 said to Tesla, *“Nicky, if them boys ever get a ballclub down in
 Houston, they should call it the Astros or the Rockets, because those
-are the kind of people who could put a man on the moon.”*[82]
+are the kind of people who could put a man on the moon.”*[81]
 
 Not everybody can be from Texas. It’s a big state but it won’t hold
 seven billion. For the rest of y’all who can’t just get up and come here
@@ -7148,14 +7070,14 @@ gotten a bad rap lately, mostly because of the loud jackasses in Austin
 and Washington. Texas isn’t our politicians, that is just what happens
 when you polish a turd. When it comes to the people, we are industrious
 and friendly towards outsiders, as demonstrated by our heroes. We
-absolutely love a good idea that you can put to work, right away.
+absolutely love a good idea that you can put to work, right away. And we
+always do things big.
 
-It’s foolish to point to point fingers at how we got here. We have not
-only the accumulated knowledge of all those that came before us, but
-these mechanical, electrical, and digital devices that would have
-empowered those in the past. We should worry about how history should
-judge us, with this immense power several orders of magnitude more than
-just a generation prior, yet we still live in a stratified society based
+It’s foolish to point fingers at how we got here. We have not only the
+accumulated knowledge of all those that came before us, but these
+mechanical, electrical, and digital devices that would have empowered
+those in the past. We should worry about how history should judge us,
+with this immense power, yet we still live in a stratified society based
 on material-wealth.
 
 I think sports antagonism is the perfect metaphor for what The
@@ -7173,20 +7095,19 @@ responsibility, it the hard part.
 
 In recent years, there’s been a lot of blame cast at pharmaceutical
 companies for high prices that put lifesaving medicine out of reach of
-poor people and much of the developing world. *Pharma Bro*[83] didn’t
+poor people and much of the developing world. *Pharma Bro*[82] didn’t
 help with the industry’s self-defense. I think blaming boards,
-executives, researchers and even Pharma douchebags is really avoiding
-real responsibility. The truth is, every investor in every
-pharmaceutical company is making the choice; I’m going to invest my
-money, protected by limited liability, in a company that develops
-medicine and measures its success by the accumulation of property, a
-scare resource not available equitably to all people. It’s a choice.
-They are responsible.
+executives, researchers and even Pharma douchebags is avoiding real
+responsibility. The truth is, every investor in every pharmaceutical
+company is making the choice; I’m going to invest my money, protected by
+limited liability, in a company that develops medicine and measures its
+success by the accumulation of property, a scare resource not available
+equitably to all people. It’s a choice. They are responsible.
 
 What that really means is we are all responsible. Anybody who has a
 401(k) or a retirement plan that owns any broad mutual funds is likely
-invested in pharmaceutical, and if you don’t, your parents or your
-children or somebody you know does.
+invested in pharmaceuticals. If you don’t hold pharmaceutical stock,
+your parents or your children or somebody you know does.
 
 What we are saying to pharmaceutical people are we expect you to behave
 ethically and responsibility, but we will measure and reward you
@@ -7203,7 +7124,7 @@ times it’s who you hire and draft what values those people represent. In
 Houston, you take your medicine and own it. There is another approach.
 You go home and blame your teammates, or the officials, or call the
 other team cheaters, or demand a trade. Both strategies have been known
-to work, though I believe sports karma favors the first approach.[84]
+to work, though I believe sports karma favors the first approach.[83]
 
 I call my engineering approach recursive integration. In digital systems
 design, this means that when you improve one part of the core system,
@@ -7238,7 +7159,7 @@ every person on the planet, this accumulated value is within reach to
 every child born.
 
 The reason Mark Twain’s satire *The Connecticut Yankee in King Arthur’s
-Court*[85] is so powerful and funny is because it’s a simple theme,
+Court*[84] is so powerful and funny is because it’s a simple theme,
 shared by Isaac Asimov’s *Foundation*. We might have great technology
 and cool toys but we keep repeating the same historical mistakes because
 we believe we are somehow more advanced than mankind just a few
@@ -7347,17 +7268,16 @@ I remember I was about twelve or thirteen and I was bitching to my
 grandpa about my summer job, working for my Uncle Clay. Uncle Clay drove
 around Clear Lake in a hatchback towing a trailer, mowing lawns for
 astronauts. Uncle Clay did this on his four days offs from working in a
-chemical refinery, all while taking a full retirement as a Chief Master
-Sergeant from the Air Force. In the summer, it was exactly like being in
-a sauna, but it wasn’t like I was cutting the grass with a machete, my
-uncle had top-end riding mowers and the necessary gear. I’d mow as fast
-as I could, but it didn’t get me out of the heat, because no matter how
-fast I’d mow, Uncle Clay had to stop and talk to somebody for twenty
-minutes. It probably was Neil Armstrong or Buzz Aldrin, or even more
-likely, their wives, he was talking to, but I was too stupefied from the
-broiled brains to know it, even if he told me. By 10 a.m. every day I
-was praying for rain, and prayers worked about half the time. I guess
-I’m semi-holy.
+chemical refinery, having retired as a Chief Master Sergeant from the
+Air Force. In the summer, it was exactly like being in a sauna, but it
+wasn’t like I was cutting the grass with a machete, my uncle had top-end
+riding mowers and the top-end gear. I’d mow as fast as I could, but it
+didn’t get me out of the heat, because no matter how fast I’d mow, Uncle
+Clay had to stop and talk to somebody for twenty minutes. He was
+probably talking to Neil Armstrong or Buzz Aldrin, or even more likely,
+their wives, but I was too stupefied from the broiled brains to know it,
+even if he told me. By 10 a.m. every day I was praying for rain, and
+prayers worked about half the time. I guess I’m semi-holy.
 
 “I picked cotton when I was your age,” my grandpa said.
 
@@ -7384,10 +7304,10 @@ cotton for fun?*
 My grandpa was the coolest dude. He was a small-town country boy, super
 smart and the best ball player ever to come out of Austin County. He
 played farm ball in the Depression, and was drafted by the White Sox,
-but war and family derailed those dreams. He lived in Bellville his
-whole life, knew everybody in town and everybody loved him. I have no
-idea what he really thought of his suburban grandson who’d been indulged
-by air conditioning his whole life. He took long walks with his metal
+but war and family derailed those dreams. He lived in Bellville most of
+his life, knew everybody in town and everybody loved him. I have no idea
+what he really thought of his suburban grandson who’d been indulged by
+air conditioning his whole life. He took long walks with his metal
 detector and went looking for treasure and dinosaur bones, fished,
 played golf, and watched baseball. The long walks and looking for
 treasure took, but I wasn’t much for golf or fishing. Marsene Crawford
@@ -7419,16 +7339,16 @@ something to do in October. It’s always slow, and except for the
 usually work on my computer and I might look up and see the replay if
 there was a home run or great play. I could never really stick there and
 give it my full attention for the four plus hours it takes to watch a
-playoff game. The end, though…. Playoff ball in the late innings you can
-see the stress grow on the players faces and totally empathize with
-them. There is a congruence that grows through the home crowd that
-aligns with the players and I think it’s really the only sport where the
-fans can influence the game, because there is so much time between
-action, the fans can imagine, and if that aligns with belief, it’s
-powerful when multiplied. The action is so fast in basketball, fans
-don’t have time to align on anything or figure out what is really going
-on in the minds of the players. I guess that’s why baseball fans or so
-crazy, they all share a dream or a delusion.
+playoff game. The end of games, though…. Playoff ball in the late
+innings you can see the stress grow on the players faces and totally
+empathize with them. There is a congruence that grows through the home
+crowd that aligns with the players and I think it’s really the only
+sport where the fans can influence the game, because there is so much
+time between action, the fans can imagine, and if that aligns with
+belief, it’s powerful when multiplied. The action is so fast in
+basketball, fans don’t have time to align on anything or figure out what
+is really going on in the minds of the players. I guess that’s why
+baseball fans or so crazy, they all share a dream or a delusion.
 
 That all changed during 2017 playoffs. When I watched José Altuve bat, I
 could see exactly what was going to happen, and I believed it would
@@ -7445,7 +7365,7 @@ My grandpa died in April of 2005. He’d watched the Astros during their
 entire existence faithfully, yet never got to see them go to the World
 Series. In October of 2005, the Astros went to the World Series for the
 first time, where they ended the 86-year *Curse of The Black Sox* – the
-greatest mythology in baseball – *Say Ain’t So, Joe*[86] - by losing to
+greatest myth in baseball. *Say Ain’t So, Joe.*[85] The Astros lost to
 the Chicago White Sox, the team that once drafted my grandfather.
 
 I regret my grandpa never got to see the Astros in the World Series.
@@ -7458,7 +7378,7 @@ way with him. We never aligned our dreams or our delusions on baseball,
 but we did on *The Dream*. That was nice.
 
 I value baseball now, but I wouldn’t have valued it when I was twenty.
-The musicians, writers, inventors and heroes I admired in my youth have
+The musicians, writers, inventors, and heroes I admired in my youth have
 changed, though a few have been with me most of my life.
 
 The only values that have really stayed with me through my life didn’t
@@ -7503,15 +7423,15 @@ course, I don’t even like hot-dogs.
 
 A good part of the craft of legend making is what you leave out. I
 usually leave out that one of us had used our actual last dollar bill to
-rent a movie, as we couldn’t contemplate watching ninety minutes of
+rent a movie. We couldn’t contemplate watching ninety minutes of
 whatever while craving meat. We weren’t starving, or even out of food,
-we likely had ramen, spaghetti, and potatoes, we’d just run out of meat.
-Being two eighteen-year-old boys from Texas, being out of meat was the
-main problem.
+we had ramen, spaghetti, and potatoes, we’d just run out of meat. Being
+two eighteen-year-old boys from Texas, being out of meat was the main
+problem.
 
 My parent’s tale of destitute was a little more dire. My dad was
 drafted, and my mom followed him to Hawaii for training before he
-ultimately shipped out for Vietnam. They lived in an apartment over a
+ultimately shipped out to Vietnam. They lived in an apartment over a
 bar, and my mom worked but neither of them made much, they’d often run
 out of money a few days before payday. They’d survive on what my dad
 could bring back home from KP duty until payday, and then they’d
@@ -7526,11 +7446,11 @@ think they were destitute. I imagine it was more like, he was an
 athletic teenager who spend all his extra time playing baseball, and
 while there was probably enough food to avoid starvation, there wasn’t
 enough excess calories to cover all the of base stealing in the
-sweltering heat. So he picked cotton.
+sweltering heat.
 
 It doesn’t matter. It’s relative. In middle school, I wasn’t mowing
 astronaut lawns with my crazy uncle for food. I had two main expenses in
-those days, books, and blank cassette tapes.
+those days; books, and blank cassette tapes.
 
 In two generation, hunger has been eliminated from my family. I don’t
 think what my parents went through was hunger, so in truth, it happened
@@ -7548,7 +7468,7 @@ Canada, I’m not exactly talking forgiveness here, but a permanent cease
 fire. The truth is, I like Canada. It’s a beautiful country, the people
 are nice, and I’ve always enjoyed visiting. I’ve been civil, I haven’t
 smacked down any of modern-day Canadian heroes, though it was
-challenging, as there are so many easy targets.[87]
+challenging, as there are so many easy targets.[86]
 
 You stole *The Dream* from Houston, but that was a long time ago, and he
 came back home.
@@ -7559,7 +7479,7 @@ know he went there voluntarily, but he’s young, he can always come back
 home, just like Olajuwon.
 
 George, *Whataburger* will give you some gravy to go with your fries,
-all you got do I ask. Only explanation I could think of.[88]
+all you got do I ask. Only explanation I could think of.[87]
 
 ## Yankees
 
@@ -7635,7 +7555,7 @@ fans of the Yankees and Dodgers.
 
 Instead, I cast the *Curse of the Asterisk*, it’s a simple one. How long
 it lasts, depends how long those fans *keep on living like they ain’t
-got no mamas*.[89]
+got no mamas*.[88]
 
 The *Curse of the Asterisk* is directed at the fans at who feign to
 value the Dodgers and the Yankees, who booed the greatest baseball
@@ -7724,7 +7644,7 @@ all Texans.
 It is this value that gives me the righteousness to state, genius
 belongs to humanity.
 
-Let’s say I’m at a dinner party with a bunch of fancy artsy people.[90]
+Let’s say I’m at a dinner party with a bunch of fancy artsy people.[89]
 Some rich dirtbag makes mention he’s got a Picasso hidden away at his
 ski-chalet in Aspen, and only people who get to look it is the other
 rich scumbags he invites on his ski trips. My response would be “Should
@@ -7759,7 +7679,7 @@ I can’t fathom how my folks survived childhood in Texas without
 air-conditioning, much less what a bunch of farmers and merchants in
 colonial American had to deal with. I feel an opportunity was missed
 that was right there before their eyes. The very first amendment to our
-Bill of Rights says what we value is the freedom of speech.[91] This has
+Bill of Rights says what we value is the freedom of speech.[90] This has
 been interpreted from the beginning as freedom of expression, which is
 certainly what genius and vanity is all about. We as a people, demand
 this of our government, meaning we value it, and King George did not.
@@ -7828,7 +7748,7 @@ will be like a mashup of those two shows. That’s right, burnt up,
 alcoholic thrice divorced Canadians and American geezers driving big
 rigs in laps on a frozen lake while their sons and grandsons try to drop
 crab pots off the trailer into holes blown into the ice by the brother
-who is literally[92] riding “shotgun.” Take that for
+who is literally[91] riding “shotgun.” Take that for
 social-satirical-tragedy *Squid Games*!
 
 That’s the risk level for the people in the caves on Mars who watch
@@ -7842,7 +7762,7 @@ they’ll have a lottery just like the U.S Federal government had in 1969.
 
 *And there’s no one there to raise them,*
 
-*If you did.*[93]
+*If you did.*[92]
 
 The lottery winners get to put on a suit, go outside and go check the
 robots. The ones that make it back, get a veggie burger, mars fries, a
@@ -7924,7 +7844,7 @@ show my age. “You mean was he wealthy?”
 Just like they were, like this.”
 
 He shows me a picture on his phone of his grandfather and grandmother,
-laughing it up in a booth at a fast-food joint, wrappers, Styrofoam
+laughing it up in a booth at a fast-food joint, wrappers, styrofoam
 cups, ketchup tubes and napkins strewn across the table. They’re dressed
 like the Houston version of Ross and Rachel. Takeout food was now rarely
 consumed except for travel situations, and then it came shrink-wrapped
@@ -7938,7 +7858,7 @@ high-freq resonance when you were ready to eat.
 I’ll laugh and shake my head. What can I say, we were all filthy idiots,
 laughing it up in an unsustainable world.
 
-“Yo, old man, why you care about rebounding so much? My curry[94] never
+“Yo, old man, why you care about rebounding so much? My curry[93] never
 misses?”
 
 “Kid, let me tell you about the Worm. Back in the 1980s when I was a
@@ -7959,55 +7879,53 @@ just so you get a buncha likes and tweets?**
 --- LBJ, Los Angeles, California.
 
 Hi LBJ, I appreciate the question. Did you know that the first President
-from the State of Texas had your initials? To answer your question, yes,
-absolutely I believe Hakeem Olajuwon is the GOAT, and no it’s not a
-publicity stunt.
+from the State of Texas had your initials? Yes, absolutely I believe
+Hakeem Olajuwon is the GOAT. No, it’s not a publicity stunt.
 
 I’m guessing by question you are a child of the late eighties or
 nineties. It’s understandable that your worldview is shaped by the media
-of that time. The internet hadn’t been fully commericilized, so
-television and the movies was the primary medium, both are broadcast
-mediums and thus they needed a symbol that could reach into the souls of
-the greatest number of children and the pocketbooks of their parents.
-Michael Jordan was an almost ideal choice, as he was charismatic, flashy
-and was a great basketball player. Of course, you wanted to “Be Like
-Mike.”
+of that time. The internet hadn’t been fully commercialized, so
+television and the movies were the primary medium for marketing. Both
+are broadcast mediums and thus they needed a symbol that could reach
+into the souls of the greatest number of children and the pocketbooks of
+their parents. Michael Jordan was an almost ideal choice, as he was
+charismatic, flashy and was a great basketball player. Of course, you
+wanted to “Be Like Mike.”
 
 Today, we live in a better world. The internet has made targeted
 marketing possible. Google James Harden’s stats once in your life, and
 you’ll be forever followed across the internet with Taco Bell and Beat
-Headphones adds. If you google insurance rates, Chris Paul will haunt
-you like Bruce Willis. In the 21<sup>st</sup> century, children can be
-whomever that want to be, as long as whomever they want to be has a way
+Headphones ads. If you google insurance rates, Chris Paul will haunt you
+like Bruce Willis. In the 21<sup>st</sup> century, children can be
+whomever that want to be, as long as whomever they want to be, has a way
 to extract dollars from the pockets of their parents. This explains why
 they’ll never be a “greater” basketball player than Michael Jordan. It’s
 not about rings, it’s about marketing impressions. Too bad for guys like
 Kobe and Steph Curry who are also great and got the rings to prove it.
 
-Let’s not get off track, I was an adult in the nineties who could
+Let’s not get off track. I was an adult in the nineties who could
 appreciate actual basketball, and while Mike was fun to watch, Hakeem
 was the genius. Hakeem Olajuwon innovated from the moment he stepped on
 the court, dominating both the NCAA and NBA. You probably know the
-“dirk.” The “dirk” is Hakeem’s basic everyday warmup jumpshot done in
-slow motion by a giant German in Dallas. You start looking at Olajuwon’s
-post ups and shakes, you’re looking at Bonham level rhythms that are
-absolutely unguardable, played back in slow-motion, you see them as
-choreographed and perfectly executed. And Defense, there’s no
-comparison. For a guard, Michael Jordan was great on defense, he’s
-number three in career steals. You know who is number nine? Hakeem
-Olajuwon, the only center on the list. How many block shots Michael
-Jordan got?[95] Mike was a stealer, Hakeem was a stopper. He played D
-the Houston way, any way that that got the job done, blocks, steals, or
-sometime just intimidation. The kind of intimidation that makes you want
-to go play baseball.
+“dirk.” The “dirk” is Hakeem’s basic everyday warmup jumper done in slow
+motion by a giant German. You start looking at Olajuwon’s post ups and
+shakes, you’re looking at Bonham level rhythms that are absolutely
+unguardable, played back in slow-motion, you see them as choreographed
+and perfectly executed. And on defense, there’s no comparison. For a
+guard, Michael Jordan was great on defense, he’s number three in career
+steals. You know who is number nine? Hakeem Olajuwon, the only center on
+the list. How many blocked shots Michael Jordan got?[94] Mike was a
+stealer, Hakeem was a stopper. He played D the Houston way, any way that
+that got the job done, blocks, steals, or sometime just intimidation.
+The kind of intimidation that makes you want to go play baseball.
 
 Let’s not bother with the statistics or the analysis of their
-competition or any of that. If we were talking about LeBron vs Michael,
-Michael versus Kareem or Russel or Wilt or Bird or Magic or Jerry or
-almost anybody else, we could talk until the end of time and never have
-come to a consensus. Those guys never went head-to-head against Michael
-or Hakeem in their primes, and they’re different ages and the rules
-changed and all that nonsense.
+competition or any of that. If we were talking about LeBron versus
+Michael, Michael versus Kareem or Russel or Wilt or Bird or Magic or
+Jerry or almost anybody else, we could talk until the end of time and
+never have come to a consensus. Those guys never went head-to-head
+against Michael or Hakeem in their primes, and they’re different ages
+and the rules changed and all that nonsense.
 
 Hakeem Olajuwon is 27 days older than Michael Jordan, and neither one of
 them is dead yet. This is a debate that can be settled absolutely. It
@@ -8018,9 +7936,9 @@ title. Giannis, Steph, Kawhi, Joel, Trae, KD, Kyrie or countless others.
 I’m personally betting on Kevin Porter, Jr. Apologies if I left anybody
 important out.
 
-Here’s how you do it. You could do it with Scoot, but it not necessary.
-It could be done as some of a spoofed up commercial project sponsored by
-property billionaires.
+Here’s how you do it. You could do it with Scoot, but it is not
+necessary. It could be done as some of a spoofed up commercial project
+sponsored by property billionaires.
 
 First, you got to get a big stake. Mike don’t get up to answer the
 doorbell for less than $100 million. You’d have to come up with a big
@@ -8028,7 +7946,7 @@ stake to get him motivated. The winner gets the money to do whatever
 they want. I imagine Hakeem will want to build schools, mosques and
 hospitals in places where people really need the help. Mike, he’ll
 probably want to use the funds for a marketing campaign for the corners
-of the earth he hasn’t reached yet, selling tighty-whitey sin Boliva,
+of the earth he hasn’t reached yet, selling tighty-whitey in Bolivia,
 Gatorade in Peru, and sneaker to the Kiwis.
 
 I guess you’d need a billion dollars. There’s got to be at least one –
@@ -8036,127 +7954,122 @@ probably a hundred – Chicago or North Carolina billionaires who want to
 “Be Like Mike,” and would put up some money, just for a chance to smoke
 cigars and gamble with his Airness. Royalty by association. I don’t
 think you’d have trouble finding the money, but if you did, you could
-just put a 1% GOAT tax on all the NBA super-max players, since they
-would be the beneficiaries of a change the GOAT consensus. I’d be real
+just put a 1% GOAT tax on all the NBA supermax players, since they would
+be the beneficiaries of a change the GOAT consensus. I’d be real
 interested in seeing how the NBA divides up, who would support team
 Vanity and who would be rooting for team Dream.
 
 Then you hold a duel, a showdown, one-on-one. MJ versus the Dream. You
 could hold a straight-up first to eleven, single elimination. Or you
-could probably do best of three series. Anymore, you might kill Mike.
+could probably do a best of three series. Anymore, you might kill Mike.
 
 It’s the Greatest of all Time showdown. We not measuring dollars, but
-greatest of all time, meaning genius that is timeless. Whose game is
-timeless?
+timeless genius. Whose game is timeless?
 
 Michael, who’s raw athleticism and supernatural competitiveness was his
 weapon. Wagging his tongue at fools. Mike was not beating you, a
-generationally superior athlete over a superior althete – that was
+generationally superior athlete over a superior athlete – that was
 expected – price of admission for playing at the highest level. Michael
 intentionally attacked your biggest weakness as defender, whatever it
 was, to make you look the fool. Defenders knew this going in, and if
 they overcompensated for their weakness, that left you undercompensated
-with on your strenghs and it made it look easy for Mike, he had a big
-back of tricks for defenders who were easy. You’d switch back to you
-your.natural game, and he’d hit your weakness hard and there you go, on
-all the ESPN highlights, because that was what sold commerials, Mike
-making people look like foolsThen he’s wagging his tounge at you and up
-in your grill on the other end, taking trash. You can be on your offense
-there Mike, telling you he made you look like a foo. That’s Mike. Be
-Like Mike.
+on your strengths and it made it look easy for Mike. He had a big bag of
+tricks for defenders who were easy. You’d switch back to you your
+natural game, and he’d hit your weakness hard and there you go, on all
+the ESPN highlights. That was what sold commercials, Mike making people
+look like fools, wagging his tongue at you and up in your grill on the
+other end, talking trash. That’s Mike. Be Like Mike.
 
 How’s that game going to work on Hakeem Olajuwon? Hakeem Olajuwon has
 watched more NBA games up close than Mike in the last twenty years, and
-Mike owns a NBA team. One thing Mike made sure of is that every move
+Mike owns an NBA team. One thing Mike made sure of is that every move
 that he ever made has been duplicated and improved on by younger and
-better althetese. And to top it off, Michael had a documentary made of
+better athletes. And to top it off, Michael had a documentary made of
 his final championship year so that we’d all be subject to another dose
-of tougne wagging and remember all those best moves, or at least the
-ones that looked good, were shown on repeate loops to the entire sports
-world while we were all locked in our homes during the pandemic, and
-there was no NBA, so what the hell choice did we all have?
+of tongue wagging and remember all those best moves, or at least the
+ones that looked good. They were shown on a repeat loop to the entire
+sports world while we were all locked in our homes during the pandemic,
+and there was no NBA, so what the hell choice did we all have?
 
-Hakeem Olajuowon been sitting over there in Toyota Center, watching all
-these young fools with their neo-Jordan moves and thinking, here’s what
-I’m going to any fool tries that move on me, break them out of that “Be
-Like Mike” loop programmed in their brain. Old Man Jordan going to think
-up some move all these brilliant young guys ain’t already thought up?
-Kids that have YouTube since they was born, watching Mike make people
-look foolish on repeate loops, in between 30 second sports of Mike
-selling them Gatorade? Hyped up milllenous on Gatorade are creative. But
-it ain’t nothing Hakeem Olajuwon don’t know how to stop, just by
-observation.
+Hakeem Olajuwon has been sitting over there in Toyota Center, watching
+all these young fools with their neo-Jordan moves and thinking, here’s
+what I’m going to any fool tries that move on me, break them out of that
+“Be Like Mike” loop programmed in their brain. Old Man Jordan going to
+think up some moves all these brilliant young guys ain’t already thought
+up? Same kids that have had YouTube since they was born, watching Mike
+make people look foolish on repeat loops, in between 30 second spots of
+Mike selling them Gatorade? Hyped up millennials on Gatorade are
+creative, but Olajuwon has seen it all.
 
-Timeless is outmanvieriving you by design. That was the offense of
+Timelessness is out maneuvering you by design. That was the offense of
 Hakeem Olajuwon. He was already going to beat you one on one. If you
 were big and real quick you could put some weight on Hakeem, push off
 his shot, that was your best hope. Contest it up high you were going to
-get called, and he was still going to get it up there. Your big but not
-quick, forget about it. You stepped on the court with no help, you were
-beat.
+get called, and he was still going to get it up there. You’re big but
+not quick, forget about it. You stepped on the court with no help, you
+were beat.
 
 But a little guy, a guard like MJ? Please. Hakeem turns around he don’t
-even know Mike is there, for you youngsters it’s like KD fifteen feet
+even know Mike is there. For you youngsters it’s like KD fifteen feet
 from the basket with a regular size guard on him. Automatic. Mike’s only
-hope is to anticipate and jump first. Old-Man Mike, been cigar chopping
+hope is to anticipate and jump first. Old-Man Mike, been cigar chomping
 and drinking it up with the big wigs, playing a little golf, counting
 money. He going to leap up and contest a dream shake from clean living,
-cleaning eating timeless wonder Hakeem Olajwon who old-man or not still
-looks like he could take on anybody in the NBA.
+cleaning eating timeless wonder Hakeem Olajuwon. Old-man or not, he
+still looks like he could take on anybody in the NBA.
 
 Which man is basketball vanity, and which one is timeless genius? I
-think we could answer that questions.with a game of one on one.
+think we could answer that question with a game of one on one.
 
 LBJ, I hope I’ve answered your question. As an engineer, when posed with
-question that is not clear from the available data, you propese a
-solution and try to find the answer.
+question that is not clear from the available data, you propose an
+experiment to find the right answer.
 
-Perhaps, one last thought, if perhaps I’ve caused some sense of doubt in
-your heart with my answer. Because I truly believe that the GOAT is
-different for different people. Do you really believe MJ is the greatest
+One last thought, if perhaps I’ve caused some sense of doubt in your
+heart with my answer. Because I truly believe that the GOAT is different
+for different people. Do you really believe MJ is the greatest
 backedball player? I mean, why in the world would you create a cartoon
-movie for chilrens where you say an actual NBA player is the greatest
-player in the world if you did’t want to program children to believe
-that? Isn’t whats best for young children’s minds for them to choose
-their favirote player as the best so they create their own value
-judgements based on what is their experience of what captures their
-heart? Should they believe in who the identify with and not who sells
-them shoes? Or should they just listen to Bugs Bunny?
+movie for children where you infer an actual living NBA player is the
+greatest player in the world if you didn’t want to program children to
+believe that? Isn’t it best for young children to choose their favorite
+based on what captures their heart? Should they believe in who they
+identify with and not who sells them shoes? Or should they just listen
+to Bugs Bunny?
 
 Sorry, I get carried away. Back then in the 90s kids didn’t really have
-choices, because it was so much more effienent to have just one player
+choices, because it was so much more efficient to have just one player
 sell all the stuff to them and their families. Now, man, whatever kind
-of kid you get, there a player to sell them something. Your kids small
+of kid you get, there a player to sell them something. Your kid is small
 and can hit a jump shot and runs around constantly, he can be like Steph
 Curry, take his date out to Subway while all the cool kids go to
-Applebees get steaks and Oreo milkshakes. Your kid think he want to sell
-insurance he grows up, he can be like Chris Paul. Your got more of the
-vagabond wandering schoundral vibe, and a lot of facial hair, they got a
-hero for him down in ~~Brooklyn~~ Philadelphia.
+Applebee’s get steaks and Oreo milkshakes. Your kid think he want to
+sell insurance whe he grows up, he can be like Chris Paul. He got more
+of the vagabond wandering scoundrel vibe, and a lot of facial hair, they
+got a hero for him up in ~~Brooklyn~~ Philadelphia.
 
 Good luck LBJ, and to the Lakers or the Clippers, whomever your Los
-Angeles team may be, since you didn’t mention one, I’ll give you some
+Angeles team may be. Since you didn’t mention one, I’ll give you some
 free advice for both, since I really appreciate your question.
 
 For the Clippers, I’d hire a grumpy old man to scowl at Kawhi during the
-playoff, this causes his blood to turn to ice and he transforms into a
-basketball robot. It’s really hard, because it’s hard for any old man to
-scowl propertly when he has the privledge of watching NBA playoff
-basketball from the sidelines, but it is Hollywood, so you should be
-able find somebody can pull off the act, I’d suggest Mel Gibson.
+playoff. This causes his blood to turn to ice and he transforms into a
+basketball robot. It’s difficult, because it’s hard for any old man to
+scowl properly when he has the privilege of watching NBA playoff
+basketball from the sidelines. It is Hollywood, so you should be able
+find somebody can pull off the act, I’d suggest Mel Gibson.
 
 If you’re a Lakers fan, then you’re probably a Dodgers fan and I can’t
 help you. How does that work exactly, why would a city claim two teams
 in the same league unless it was intentionally trying to turn its
-population against each other? Could be Hollywood being intentionally
-dramatic, I wonder what the theme would be? Twain’s *Prince and the
+population against each other? Could it be Hollywood being intentionally
+dramatic? I wonder what the theme would be? Twain’s *Prince and the
 Pauper* sort of fits, the Clippers star is a robot, robots work in
-factories, that would make the Clippers the Pauper, and it fits my theme
+factories, that would make the Clippers the pauper, and it fits my theme
 of historical irony, being their owned by the biggest Balmer
 billionaire. So that makes Lakers royalty?
 
 The symbolism is perfect. I finally understand California. LBJ, again,
-thanks for your question. Evaulating how different people value ideas is
+thanks for your question. Evaluating how different people value ideas is
 the way we can come to a better understanding of each other. That’s what
 Scoot is all about.
 
@@ -8233,11 +8146,58 @@ Scoot is all about.
 |                 | \*GOCDF         | Get out of Canadian Detention Free card |                                 |
 |                 | ++              | I know that's Jordan's number           |                                 |
 
-# 
+# Appendix C – Prime Shards
 
-# Appendix – Scoot of Team
+Prime shards are a way of distributing scoot in a manner where every
+scoot a different size of responsibility. This does two things; it
+limits the total pool of scoot to an absolute number. And each index
+issued is progressively smaller. This is a natural way to reward people
+you stake you early, by giving them greater piece of responsibility.
+Also, each individual scoot is unique and may be bestowed
+characteristics that give them special responsibility and privilege of
+that responsibility.
 
-# 
+The simplest example is index 1.
+
+$$\frac{1}{2} + \frac{1}{3} = \frac{5}{6}$$
+
+There are only 2 shards possible, the first is worth 50.00% and the
+second is worth 33.33% of the total responsibility. The remainder,
+16.66% would be tiebreaker by trustee.
+
+The second index is more useful. It has eight shards
+
+$$\frac{1}{3} + \frac{1}{5} + \frac{1}{7} + \frac{1}{11} + \frac{1}{13} + \frac{1}{17} + \frac{1}{19} + \frac{1}{23} = .998956$$
+
+The first shard worth 33% and the last (eight) is worth only 4.3%, with
+a remainder of only 0.1%.
+
+Prime index of 1000 will scale up to over 240 million shards. This is a
+way to create a market in unique tokens of responsibility, and requires
+careful strategy to make power moves within the governance of a Scoot.
+
+With fractional, serialized, and prime sharded scoot, each trustee has a
+wide range of tools to design specific governance aligned with their
+mission.
+
+| <span id="_Appendix_E_–" class="anchor"></span>**Prime Index** | **First Prime** | **Total Shards** | **First Prime Percentage** |
+|--------------|---------------|--------------------|------------------------|
+| 1                                                              | 2               | 2                | 50.0000                    |
+| 2                                                              | 3               | 8                | 33.3333                    |
+| 3                                                              | 5               | 26               | 20.0000                    |
+| 4                                                              | 7               | 65               | 14.2857                    |
+| 5                                                              | 11              | 143              | 9.0909                     |
+| 10                                                             | 29              | 1,391            | 3.4483                     |
+| 15                                                             | 47              | 4,977            | 2.1277                     |
+| 20                                                             | 71              | 12,278           | 1.4085                     |
+| 30                                                             | 113             | 44,101           | 0.8850                     |
+| 40                                                             | 173             | 107,364          | 0.5780                     |
+| 50                                                             | 229             | 213,261          | 0.4367                     |
+| 75                                                             | 379             | 738,477          | 0.2639                     |
+| 100                                                            | 541             | 1,773,035        | 0.1848                     |
+| 250                                                            | 1,583           | 28,088,072       | 0.0632                     |
+| 500                                                            | 3,571           | 188,706,189      | 0.0280                     |
+| 1000                                                           | 7,919           | 241,815,743      | 0.0126                     |
 
 # Appendix D – Scoot of Team
 
@@ -8303,24 +8263,6 @@ NBA teams in cities, and the Rockets could fund OTRS (On the Road Scoot)
 where blocks of seats are bought out in advance in these other cities
 and a lottery or scheduling system is setup for OTR Ambassadors.
 
-## scoot(84)
-
-The holders of scoot(84) believe the Houston Rockets are the best team
-ever because they have the greatest legacy of genius.
-
-Operating an NBA Franchise as a public good requires tradeoffs. The
-measurement of success is not revenue. Enough revenue needs to be
-generated to meet the salary cap and overhead of supporting a team and
-the fanbase.
-
-First, the live venue must fill every seat, every night. That’s the best
-way to appreciation. Scoot(84) works as a prime shard, and many shards
-operate with characteristics that qualify them
-
-## 
-
-## 
-
 ### Scoot of Special Purpose Entities
 
 In Houston, when you blow one, if you’re a real Texan by birth or by
@@ -8333,11 +8275,11 @@ good, we have to face the property aspect head on. It’s trivial when
 we’re talking about a painting – possession is mobile and the legal
 title will lead to the declaration as a gift to humanity. A car or a
 piece of property crosses into legal liability in the property domain.
-And this is the legal responsilibty of the holders of the scoot – it
-must be. This is why the conversion of intellectual property to genius
-wealth is so much cleaner – there is very little liability, and I
-imagine the Scoot system will be an aid to the prevention and early
-detection of intellectual property theft.
+And this is the legal responsivity of the holders of the scoot – it must
+be. This is why the conversion of intellectual property to genius wealth
+is so much cleaner – there is very little liability, and I imagine the
+Scoot system will be an aid to the prevention and early detection of
+intellectual property theft.
 
 Turning property into genius wealth is a one-way street. It has to be
 for the system to remain balanced. Special Purpose Entity is a Scoot
@@ -8356,14 +8298,14 @@ disposition. The SPE can’t sell the property. It can scrap the property,
 and the proceeds may be used in the reponsiblity domain to preserve or
 support some other property the SPE holds.
 
-SPE are statis organizations for preoty. Statis I referred to before,
+SPE are statis organizations for property. Statis I referred to before,
 just keeps the gigtal record aloive. This kind of statis remains
 dispotions.
 
-Thake the Rockets team plane. This is and expensive property, but useful
+Take the Rockets team plane. This is and expensive property, but useful
 for the team. As part of the conversion to Scoot, we could sell the
 plane to a commercial operator who’d lease it back to the team for most
-of the planes expected useful lifetime, and use the proceeds to fund the
+of the planes expected useful lifetime and use the proceeds to fund the
 general operation of the organization. Or it might make sense to Scoot
 it as property. The SPE would hold title, the team would continue to use
 the plane, and when it’s reached its usefulness for the team, the SPE
@@ -8397,59 +8339,6 @@ A company or organization that is converted to Scoot may own offices or
 other useful property. The way to handle this is for that property to be
 gifted to the SSPE with rights of usage and occupation assigned to the
 Scoot.
-
-The simplest example is index 1.
-
-$$\frac{1}{2} + \frac{1}{3} = \frac{5}{6}$$
-
-There are only 2 shards possible, the first is worth 50.00% and the
-second is worth 33.33% of the total responsibility. The remainder,
-16.66% would be tiebreaker by trustee.
-
-The second index is more useful. It has eight shards
-
-$$\frac{1}{3} + \frac{1}{5} + \frac{1}{7} + \frac{1}{11} + \frac{1}{13} + \frac{1}{17} + \frac{1}{19} + \frac{1}{23} = .998956$$
-
-The first shard worth 33% and the last (eight) is worth only 4.3%, with
-a remainder of only 0.1%.
-
-Prime index of 1000 will scale up to over 240 Million shards. This is a
-way to create a market in unique tokens of responsibility, and requires
-careful strategy to make power moves within the governance of a Scoot.
-
-With fractional, serialized, and prime sharded scoot, each trustee has a
-wide range of tools to design specific governance aligned with their
-mission.
-
-| <span id="_Appendix_E_–" class="anchor"></span>**Prime Index** | **First Prime** | **Total Shards** | **First Prime Percentage** |
-|--------------|---------------|--------------------|------------------------|
-| 1                                                              | 2               | 2                | 50.0000                    |
-| 2                                                              | 3               | 8                | 33.3333                    |
-| 3                                                              | 5               | 26               | 20.0000                    |
-| 4                                                              | 7               | 65               | 14.2857                    |
-| 5                                                              | 11              | 143              | 9.0909                     |
-| 10                                                             | 29              | 1,391            | 3.4483                     |
-| 15                                                             | 47              | 4,977            | 2.1277                     |
-| 20                                                             | 71              | 12,278           | 1.4085                     |
-| 30                                                             | 113             | 44,101           | 0.8850                     |
-| 40                                                             | 173             | 107,364          | 0.5780                     |
-| 50                                                             | 229             | 213,261          | 0.4367                     |
-| 75                                                             | 379             | 738,477          | 0.2639                     |
-| 100                                                            | 541             | 1,773,035        | 0.1848                     |
-| 250                                                            | 1,583           | 28,088,072       | 0.0632                     |
-| 500                                                            | 3,571           | 188,706,189      | 0.0280                     |
-| 1000                                                           | 7,919           | 241,815,743      | 0.0126                     |
-
-# Appendix D – Prime Shards
-
-Prime shards are a way of distrusting scoot in a manner where every
-scoot is different in size of responsibility. This does two things, it
-limits the total pool of scoot to an absoullte number. And each index
-issued is progressively smaller. This is a natural way to reward people
-you stake you early, by giving them greater piece of responsibility.
-Also, each individual scoot is unique and may be bestowed
-characteristics that give them special responsibility and privilege of
-that responsibility.
 
 # Appendix E – A Lesson in Texas History
 
@@ -9340,7 +9229,7 @@ bag and unties the end, pouring the contents, a dark, runny, gooey and
 very stinky concoction, over his head. Hot makes a full circle survey,
 seeing the Be-ek-em warriors approaching them from all sides,
 outnumbering their contingent by three to one, more than that if you
-included the second ring, which involved women[96] and children warriors
+included the second ring, which involved women[95] and children warriors
 all holding spears or stones.
 
 “People of the Brazos,” Stinky Fingers shouts. “What was I when I came
@@ -9368,7 +9257,7 @@ carrying a very large stone over his head.
 “You can’t eat mushrooms. That’s where the magic people live. But you’re
 close, because the magic people did bring me the food I ate.”
 
-Stinky Fingers was literally[97] a stone’s throw from the strong
+Stinky Fingers was literally[96] a stone’s throw from the strong
 Be-ek-em warrior holding the large stone over his head, ready to toss
 it. Close enough so Stinky Finger could whisper without being heard by
 the line of warriors on either side.
@@ -9694,7 +9583,7 @@ people,” Joe said. “My people run him off.”
 the magic Curious that you aren’t sick. What did you say your name was
 again?”
 
-“Naismith, James.”
+“James Naismith.”
 
 “Sounds awful similar to Na-is-mit.”
 
@@ -9717,13 +9606,13 @@ Texas name.”
 already had a son name Joe, so they called him Bible Joe and me
 Karankawa Joe. That’s my name, the signed me for school, and it what the
 put on the posters back in the day when they was looking for me and your
-dad.”
+pa.”
 
-“Well, that’s all in good, but can we move on to the cave? I’d like to
-see it before I head back to Canada.”
+“Well, that’s all good, but can we move on to the cave? I’d like to see
+it before I head back to Canada.”
 
-“Okay, pick up your daddy’s stuff and we’ll head over there. We’ll need
-a lantern.”
+“Okay, pick up your pa’s stuff and we’ll head over there. We’ll need a
+lantern.”
 
 They stowed the notebook and paintings at the cabin and begin the hike
 through the forest of the magic people.
@@ -9766,9 +9655,9 @@ guessing.”
 “So you’re like doing it to me now, talking about magic little people?”
 
 “Oh, no. Magic little people is real. We got different types but they
-ones live on the Brazos is really funny. I don’t care for the little
-people down in the snake land, vicious little buggers. These fellers up
-around here, they’re pretty good, if you can stay downwind.”
+ones live on the Brazos is funny. I don’t care for the little people
+down in the snake land, vicious little buggers. These fellers up around
+here, they’re pretty good, if you can stay downwind.”
 
 Joe guides them to the entrance of the cave, a rock outcropping deep in
 a gulley. Joe stopped, sparked the lanterns, and they squeezed in
@@ -9777,7 +9666,7 @@ surface. It had some venting and there were clear runoff trails from the
 drainage. Joe pointed through a narrow crack.
 
 “You’re bigger than I am, if you don’t think you can squeeze, you can
-get on all fours, it’s wider down at the botytom.”
+get on all fours, it’s wider down at the bottom.”
 
 “I think I can make it,” said James.
 
@@ -9786,10 +9675,11 @@ cavern, with a tall roof.
 
 “What’s that smell?” James asked.
 
-“Bat shit, mostly. Therewas all kinds of critters up in here when me and
-your father came here. It was was strangest things, whole mess of bats
-come flying out that cave just as we got down in the gulley, middle of
-the day. We see bats round here all the time, but it’s usually at dusk.”
+“Bat shit, mostly. There was all kinds of critters up in here when me
+and your father came here. It was the strangest things, whole mess of
+bats come flying out that cave just as we got down in the gulley, middle
+of the day. We see bats round here all the time, but it’s usually at
+dusk.”
 
 “I don’t see the bats?”
 
@@ -9806,7 +9696,7 @@ done had it!”
 
 “Come on then, we’re here. Get up close to the wall.”
 
-They brough the lantern close to the wall, the walls were unusually
+They brough the lanterns close to the wall, the walls were unusually
 smooth, but covered with a thick layer of dust.
 
 “What I heard from some old Tejanos was back before the Spaniards came,
@@ -9835,7 +9725,7 @@ sports, athletics. This might be the original game the ancient people of
 America played, before the Greeks. I wonder why father kept it to
 himself, he could have become a famous man, a legend of archaeology.”
 
-“*Los Diablos Tejanos*,” Joe said. “Like I told, all the folks round
+“*Los Diablos Tejanos*,” Joe said. “Like I told you, all the folks round
 here know about this place, just none of them can go into this forest
 without getting sick. If he’d gone back to the ice lands and talked
 about his ‘discovery’ the Rangers would have got word, brung him back.”
@@ -9852,7 +9742,7 @@ rifle and loaded up the widow’s mule with their stores and took off.
 That oldest boy, well, when the Rangers came out and heard the story,
 they took that boy with him and trained him up. He’s like a major big
 ass in the Rangers now, Cordell I think his name is. You should be
-scared. boy, word gets back up to Austin you sniffing around down here,
+scared. Boy, word gets back up to Austin you sniffing around down here,
 he bound to come after you instead of your daddy. It’s his mother got
 the insult. *Los Diablos Tejanos* not going to forget about that.”
 
@@ -9864,7 +9754,7 @@ of smoke got to be too much. They went back to the gulley.
 “Well, yeah. He was just making the painting out of the clay flat, near
 the Sweede’s cabin. He was trying to figure the dimensions out, where
 the trees were in the old people’s time, so he could figure out how far
-apart to put the baskets?”
+apart to put the baskets,”
 
 “Interesting. Doesn’t really matter much, does it?”
 
@@ -9874,15 +9764,14 @@ of math. If he could figure out where the trees were up in the flats, he
 could translate them into your people’s math, so he could know how large
 to build the building.”
 
-“That sounds like the first instance of writing? Unbelievable, the
+“That sounds like the first instance of writing. Unbelievable, the
 ancient Texans invented writing and mathematics? What kind of building?”
 
 “He called it all something fancy like a gymnasium, like he was an
 ancient Greek or something. He said, it was too cold to play this kind
 of sport outdoors in the winter in your lands, but it was the perfect
 indoor sport. My people, we go indoors, we like to take a nap, not run
-around. Now we ice all around outdoors, and you had some kind of machine
-that would blow that cold air inside, that would work down here.”
+around.”
 
 “I’m beginning to see where my father was headed with this.”
 
@@ -9899,23 +9788,22 @@ Unless you want to square it away for good with Walker, I’d go ahead and
 head out in the morning.”
 
 Joe and James headed back to the cabin, where Joe pan fried a catfish
-with mushrooms, herbs and some chili peppers he always kept with him.
-After dinner, Joe commenced to heavy drinking and fell asleep. James
-pretended to sleep for an hour, then quietly snuck out to the stand
-explosives on the river. He opened the box, took out two sticks of
-dynamite and a long fuse and returned to the cabin. He crept back in,
-made sure Joe was still sleeping, and gathered the notebook and the
-painting tubes into his blanket, creating a makeshift rucksack he could
-carry. He planted both sticks of dynamite under the cabin and lit the
-fuse.
+with mushrooms, herbs and some chili peppers. After dinner, Joe
+commenced to heavy drinking and fell asleep. James pretended to sleep
+for an hour, then quietly snuck out to the stand explosives on the
+river. He opened the box, took out two sticks of dynamite and a long
+fuse and returned to the cabin. He crept back in, made sure Joe was
+still sleeping, and gathered the notebook and the painting tubes into
+his a makeshift rucksack he made with his blanket. He planted both
+sticks of dynamite under the cabin and lit the fuse.
 
 The explosion blew the cabin to pieces, killing Joe.
 
 James waited until dawn, and then carried an entire box of dynamite down
 to the cave. He placed sticks around the entire gallery and entrance,
 and then rolled out a very long fuse. The entire cave blew up and then
-collapsed, leaving no trace, It was just a rumble of rocks in a muddy
-gulley off the Brazos.
+collapsed, leaving no trace. It was now just a rumble of rocks in a
+muddy gulley off the Brazos.
 
 Young Texas Historians, I think you probably can figure out the rest. No
 one in central Texas ever saw Karankawa Joe again, it was just figured
@@ -9932,12 +9820,11 @@ who said his name was So-no-lo-ki.
 
 “What I said,” said the trader. “I asked, him, was he injun, he was
 dressed like a Yankee, but had this smell about him, needed a washing.
-
 He said he came from the land of ice and snow.”
 
-“He was gone in the morning. Didn’t steal nothing, and I didn’t think
-much of it, but when I got up to Kilgore I asked around about the
-stranger, guess that’s how you heard about it.”
+“He was gone in the morning,” said the trader. “Didn’t steal nothing,
+and I didn’t think much of it, but when I got up to Kilgore I asked
+around about the stranger, guess that’s how you heard about it.”
 
 No one else had seen or heard about the stranger, and Walker had to give
 up his search.
@@ -9947,14 +9834,15 @@ into a teaching position at the YMCA in Springfield, Massachusetts. Not
 long after starting this position, he claimed to have “invented” the
 game of basketball, never mentioning to anyone his adventure in Texas.
 
-You now know the origins of the two common Texas sayings. “Never Trust a
-stranger James,” and “Beware the Canadians, they’ll steal your dreams.”
+Students, you now know the origins of the two common Texas sayings.
+“Never Trust a stranger James,” and “Beware the Canadians, they’ll steal
+your dreams.”
 
 Students, not all Canadians are bad, you just got to test them out make
 sure they’ve taken their medicine before you can share your plans with
-them. And James, Texas born Jamesii are always okay, and even James
-Bowie and James Fanin weren’t born in Texas. Stanger James just need to
-be fully committed to Texas before you let one saddle your horse.
+them. And James, Texas born Jameses are always okay. Even James Bowie
+and James Fanin weren’t born in Texas. Stanger James just need to be
+fully committed to Texas before you let one saddle your horse.
 
 ### The Defender of Texas History
 
@@ -10054,7 +9942,7 @@ your rent? You *The Dream*.”
 
 “A nice apartment around the University costs about $300 a month.”
 
-“That’s it *Dream*, shoes is going to cost $300, you want to be like
+“That’s it *Dream*. Shoes is going to cost $300, you want to be like
 me.”
 
 “I think your plan needs some more thought,” Hakeem said. “What’s this?
@@ -10112,20 +10000,20 @@ paintings.
 
 The first sketch had a plaque.
 
-*In 1890, basketball founder James A. Naismith discovered the very first
-archeological evidence of a civilization that invented sports, art,
-writing, mathematics, feminism, and fishing on the shores of the Brazos
-River. These ancient people built a sprawling civilization thousands of
-years before these innovations were passed on to Eurasia and Africa.
-Naismith tried to bring his discoveries to academia but was hunted by
-The Texas Rangers who wanted to keep the secrets of history to
-themselves. In consultation with industry leaders, it was decided to
-keep most of the history secret, as it could upset the existing power
-dynamic. In a last-ditch effort to keep the history secret, the evil
-Texas Ranger Cordell Walker blew up the caves and this notebook is the
-only remaining evidence of the location of the true cradle of
-civilization, in what is now Austin Country, Texas, on the shores of the
-Brazos.*
+> *In 1890, basketball founder James A. Naismith discovered the very
+> first archeological evidence of a civilization that invented sports,
+> art, writing, mathematics, feminism, and fishing on the shores of the
+> Brazos River. These ancient people built a sprawling civilization
+> thousands of years before these innovations were passed on to Eurasia
+> and Africa. Naismith tried to bring his discoveries to academia but
+> was hunted by The Texas Rangers who wanted to keep the secrets of
+> history to themselves. In consultation with industry leaders, it was
+> decided to keep most of the history secret, as it could upset the
+> existing power dynamic. In a last-ditch effort to keep the history
+> secret, the evil Texas Ranger Cordell Walker blew up the caves and
+> this notebook is the only remaining evidence of the location of the
+> true cradle of civilization, in what is now Austin Country, Texas, on
+> the shores of the Brazos.*
 
 “This is unbelievable? Michael, basketball, not soccer is the first true
 sport. And it was invented by the ancient Texans.”
@@ -10310,7 +10198,7 @@ Church, who took over the Summit in 2003.
 
 Texas History remains safe in God’s hands.
 
-Hakeem Olajuwon[98] is a historical legend and a defender of Texas
+Hakeem Olajuwon[97] is a historical legend and a defender of Texas
 History. Without his keen eye and ability to completely ignore Michael
 Jordan’s cloak of vanity, we might never have known that Texas was the
 cradle of civilization and birthplace of human genius.
@@ -10402,10 +10290,10 @@ fundamental value for humanity, Ford or Tesla. Fundamentally, Ford did
 basic integration, which is foundational to every branch of engineering
 – breaking down a process and balancing it. It is fundamental to systems
 design. And Tesla, who was like, hey, here’s this magic stuff nobody
-really understands it and it can fry your brains if you your crazy math
-is a little off. Hey, we don’t have to understand it to harness it use
-it for air-conditioning and make Houston habitable. You can guess who
-has my vote.
+really understands it and it can fry your brains if math is a little
+off. Hey, we don’t have to understand it to harness it use it for
+air-conditioning and make Houston habitable. You can guess who has my
+vote.
 
 [23] I may have borrowed elements of this interlude from an unpublished
 screenplay written by a certain carrot eating entrepreneur in the late
@@ -10621,71 +10509,68 @@ perform a flip job, turn that funny hand drive back American.
 [77] For a musician to decline a gift of genius privilege from Jay-Z
 would be a powerful – or powerfully stupid – way to make a point.
 
-[78] And is contractually allowed to wear shoes by that company I won’t
-name.
-
-[79] I don’t know what it means. It does not mean spending all your
+[78] I don’t know what it means. It does not mean spending all your
 wealth on “green” consumer items.
 
-[80] I know it’s the Toronto Raptors but some people sure made a big
+[79] I know it’s the Toronto Raptors but some people sure made a big
 deal about it being Canada’s team in 2019. Own up, Canada. This is about
 responsibility.
 
-[81] That’s irony. Don’t have to ask Canada.
+[80] That’s irony. Don’t have to ask Canada.
 
-[82] Nobel Laureate John Steinbeck, who had been to Texas, wrote, *“like
+[81] Nobel Laureate John Steinbeck, who had been to Texas, wrote, *“like
 most passionate nations, Texas has its own private history based on, but
 not limited by, facts.”*
 
-[83] [Martin Shkreli](https://en.wikipedia.org/wiki/Martin_Shkreli)
+[82] [Martin Shkreli](https://en.wikipedia.org/wiki/Martin_Shkreli)
 
-[84] I write this 3/1/2022. I guess how 76ers do in the playoffs will
+[83] I write this 3/1/2022. I guess how 76ers do in the playoffs will
 test my theory.
 
-[85] Twain was heavily influenced by Georgism. [Georgism (from
+[84] Twain was heavily influenced by Georgism. [Georgism (from
 Wikipedia)](https://en.wikipedia.org/wiki/Georgism): “is an economic
 ideology holding that, although people should own the value they produce
 themselves, the economic rent derived from land – including from all
 natural resources, the commons, and urban locations – should belong
 equally to all members of society.”
 
-[86] If you build it, and name it after a bunch of financial tricksters,
+[85] If you build it, and name it after a bunch of financial tricksters,
 then rename after orange juice, he will come. From Venezuela.
 
-[87] I’ve not once taken the names of Bieber, Drake or Reynolds in vain.
+[86] I’ve not once taken the names of Bieber, Drake or Reynolds in vain.
 This was perhaps the biggest challenge of all.
 
-[88] Mom, if he comes back, it’s on you to show George where to eat.
+[87] Mom, if he comes back, it’s on you to show George where to eat.
 Them Connecticut Yankees got sensitive tummies, what I hear.
 
-[89] *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin
+[88] *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin
 Timberlake, Printz Board, Michael Fratantuno and George Pajon, Jr.
 
-[90] In one swift stroke, the author deftly ensures he is never invited
+[89] In one swift stroke, the author deftly ensures he is never invited
 to a dinner party with fancy artsy people.
 
-[91] The First Amendment covers freedom of religion and speech.
+[90] The First Amendment covers freedom of religion and speech.
 
-[92] Children, that’s literally the proper usage of “literally.”
+[91] Children, that’s literally the proper usage of “literally.”
 
-[93] *Rocket Man*, 1972, Elton John and Bernie Taupin
+[92] *Rocket Man*, 1972, Elton John and Bernie Taupin
 
-[94] A mid-21<sup>st</sup> century trend where basketball fans would get
+[93] A mid-21<sup>st</sup> century trend where basketball fans would get
 together and form Scoot to and ICO (Initial Clone Offering) where they
 would mix the DNA from various superstars to create NBA players. Stephan
 Curry’s DNA was present to some extent in almost every clone, so the
 kids had taken to calling them currys.
 
-[95] Jordan had 893 blocks. Olajuwon had 3,830 blocks in his career, the
+[94] Jordan had 893 blocks. Olajuwon had 3,830 blocks in his career, the
 NBA record, 541 more than the next guy on the list.
 
-[96] This happened just north of the Rio Grande so another feminist
+[95] This happened just north of the Rio Grande so another feminist
 innovation invented in Texas.
 
-[97] Children, this proves that Texas Historians also know the literal
+[96] Children, this proves that Texas Historians also know the literal
 use of “literally.”
 
-[98] This last footnote may come out of the final edition, but I want to
+[97] This last footnote may come out of the final edition, but I want to
 make sure early reviewers, as well as Hakeem Olajuwon himself, have a
 chance to read it. My worst fear in this endeavor is that I would offend
 him without explanation. If he is offended, I’ll change the ending.
