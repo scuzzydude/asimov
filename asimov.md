@@ -4,7 +4,7 @@
 
 **SECOND FOUNDATION**
 
-**Version 2.00**
+**Version 2.01**
 
 <img src="media/image1.png" style="width:0.33333in;height:0.33333in"
 alt="enter image description here" /> 2023 by Brandon Awbrey. This
@@ -744,7 +744,7 @@ Scoot is the vessel for this responsibility.
 
 <img src="media/image2.png" style="width:6.38392in;height:4.52893in" />
 
-Figure - The Foundation - VALUE AND RESPONSIBLITY DOMAINS
+Figure 1 - The Foundation - VALUE AND RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a
 legacy of genius. Each Scoot shall have a charter, clearly stating the
@@ -4397,7 +4397,7 @@ tagline of *Choke City* to ***Clutch City*** forever.
 
 Is that the same feeling that art lovers get when standing in front of a
 masterpiece? If it’s half the feeling I felt with the ball in my hand, I
-get it. The question is what separates collectables from pieces of
+get it. The question is, what separates collectables from pieces of
 history? Does my basketball deserve a place in a museum? I don’t think
 so, but Olajuwon has a place in the basketball hall of fame, and his
 genius will live on in Houston’s memory for generations. Thinking about
@@ -4513,8 +4513,8 @@ in asimov.
 Then I realized, it is the responsibility itself that we should value.
 The people who are responsible for keeping genius alive reflect the
 value of that genius to humanity at large. The more people who are
-willing to be responsible for something, the higher the appreciation of
-the object or legacy.
+responsible for something, the higher the appreciation of the object or
+legacy.
 
 I had this eureka moment on April 29<sup>th</sup>, 2021, on my
 after-dinner walk. It was the eve of my firstborn’s birthday, which is
@@ -4544,16 +4544,17 @@ to 8 points by halftime, but I’d seen this film before. In the second
 half something miraculous happened. Kevin Porter Junior, a player we’d
 acquired for wooden nickels as a bizarre ricochet effect of trading
 James Harden, caught fire. Kevin, just twenty years old, was a brilliant
-southpaw guard who had potential to be a star. He’d just been through an
-embarrassing public incident in Miami where he might have saved his
-teammate’s life. As if to confirm the maxim, *No good deed goes
-unpunished*, the NBA suspended him for a week for COVID protocol
-violations. The first game back, against the fellow bottom feeding
-Timberwolves, he scored only two points in a nauseating loss. That night
-against the Bucks, Porter was unconscious, destroying the defensive
-juggernaut with ease. He ended up with a box score of 50 points and 11
-assists, becoming the youngest player in NBA history to record 50/10. He
-beat the previous title holder, LeBron James, by three years.
+southpaw guard from Seattle who had potential to be a star. He’d just
+been through an embarrassing public incident in Miami where he might
+have saved his teammate’s life. As if to confirm the maxim, *No good
+deed goes unpunished*, the NBA suspended him for a week for COVID
+protocol violations. The first game back, against the fellow bottom
+feeding Timberwolves, he scored only two points in a nauseating loss.
+That night against the Bucks, Porter was unconscious, destroying the
+defensive juggernaut with ease. He ended up with a box score of 50
+points and 11 assists, becoming the youngest player in NBA history to
+record 50/10. He beat the previous title holder, LeBron James, by three
+years.
 
 This story would be better if after my walk, I’d gone and held that
 signed basketball, trying to absorb some of *The Dream* magic, and
@@ -10418,7 +10419,7 @@ James was amazed.
 <img src="media/image11.jpeg" style="width:3.58281in;height:3.84722in"
 alt="A picture containing text Description automatically generated" />
 
-Figure - sketch of cave drawing from James Naismith's notebook
+Figure 7 - sketch of cave drawing from James Naismith's notebook
 
 “Yeah, your dad would come up here every day for a few hours, as long as
 he could take it, smoke builds up pretty quick, and it is hard to see
@@ -11055,7 +11056,7 @@ August 2<sup>nd</sup>, 2022
 
 SECOND FOUNDATION
 
-**Version 2.00**
+**Version 2.01**
 
 <img src="media/image12.jpg" style="width:4.62014in;height:3.69583in"
 alt="A group of people wearing helmets Description automatically generated with low confidence" />
@@ -11098,10 +11099,9 @@ planets?
 One Scobee is the unit that defines that integral. How many integral
 parts are required?
 
-We stake this Scoot with that mission. To define One Scobee as an
-integral part of manned spaceflight. I seek others who knew the man to
-share with me what they think. I want to know what Colonel Scobee
-thought.
+We stake this Scoot with that mission. To define the integral part of
+manned spaceflight. I seek others who knew the man to share with me what
+they think is the integral. I want to know what Colonel Scobee thought.
 
 I’ll ask his family.
 
@@ -11114,7 +11114,7 @@ a moment of inspiration. I wrote about *Challenger* in terms of a
 postcard I’d lost. It was a critical breakthrough in my thinking. Later
 that night it was as if the basketball gods were blessing my idea
 because Kevin Porter Junior destroyed the Bucks, dropping 50 points. It
-is a good story, and it really happened like I wrote it.[123]
+is a good story, and it happened like I wrote it.[123]
 
 It wasn’t until much later that it hit me; I’d already finished writing
 the book and realized something even more profound. It’s an even better
@@ -11190,8 +11190,8 @@ Clay had told me was the best Asimov. I might have mouthed off something
 to that effect.
 
 I remember meeting Colonel Scobee, it might have been on the last day of
-camp. I hope I was respectful. I remember thinking, he looks like
-somebody’s dad, not a badass pilot.
+camp. I hope I was respectful. I remember thinking, *he looks like
+somebody’s dad, not a badass pilot*.
 
 He was.
 
@@ -11203,7 +11203,7 @@ timeline it might have well been a decade.
 
 There was a lot of expectation in the news and among Houston
 schoolteachers about a teacher in space. We were freshmen boys, I’m sure
-we mocked it. My youngest kid that is that same age now, his disdain for
+we mocked it. My youngest kid is that same age now, his disdain for
 teachers matches mine at that age, for the same reason. People are
 complex, and kids see things through their direct experience until
 they’ve experienced more. Raising teenagers sure does change your
@@ -11367,10 +11367,10 @@ either mentally or by recording results.
 
 Both approaches are good strategies to find a solution, and both are
 demonstrations of integrative ability. The map strategy requires many
-more iterations but in digital engineering is that natural leverage –
-something computers can do very quickly. It’s very easy to design
-experiments to iterate through a set of possibilities, that’s the
-leverage of Moore’s Law.
+more iterations. In digital engineering that is natural leverage –
+something computers can do very quickly. It’s easy to design experiments
+to iterate through a set of possibilities, that’s the leverage of
+Moore’s Law.
 
 Digital games usually make you go through a lot of work to keep
 experimenting with a map strategy, so kids with this ability may tend to
@@ -11379,7 +11379,7 @@ give up more easily than those who use a more deductive path.
 Other kids might just be lucky. Some will have extra-leverage – they
 used a cheat code. That’s super integrative leverage – exactly what I do
 when I Google a solution. That approach is a fair way to study and find
-kids that are can be productive engineers.
+kids that could be productive engineers.
 
 You find these kids, wherever they are, teach them to code in a summer
 camp, and they will have a valuable and marketable skill that they can
@@ -11387,13 +11387,13 @@ use directly in almost any endeavor they choose. More directly, you make
 sure these kids have opportunity to develop that skill in direct and
 equitable ways.
 
-In Academic learning, most kids prime motivation is to get it over with.
+In Academic settings most kid’s prime motivation is to get it over with.
 Applied learning is often driven by the desire to increase earnings, a
 real motivator. Having a chance at a high paid profession is a
 motivation that leverages all parties involved. Dedication is required,
 but knowing you have the basic skills is all it takes to get started.
 
-Learning to code directly changed my life. Thanks, mom, for banishing me
+Learning to code directly changed my life. Thanks, Mom, for banishing me
 to the free NASA nerd camp.
 
 I remember Dick Scobee as just an ordinary guy with an extraordinarily
@@ -11411,21 +11411,23 @@ I wonder what the success rate of those kids June taught that summer?
 
 After the accident, June and the families of the crew founded Challenger
 Center. Challenger Center’s mission is a natural extension of STS-51-L’s
-primary mission – The Teacher in Space Project.[125] Challenger Center’s
-inspires and educates students in STEM through hands-on lessons that
-simulate space missions. In the 35 years since Challenger Center opened,
-they’ve taught millions of students and enabled hundreds of thousands of
+mission – The Teacher in Space Project.[125] Challenger Center inspires
+and educates students in STEM through hands-on lessons that simulate
+space missions. In the 35 years since Challenger Center opened, they’ve
+taught millions of students and enabled hundreds of thousands of
 teachers.
 
 What’s the value of June’s contribution to our civilization? It’s very
 valuable, but immeasurable with property. You can’t put a dollar value
-on dreams, but they have intrinsic value.
+on dreams. They have intrinsic value.
 
 If you read *Silver Linings*, June’s book, you know she had to fight
 just to study what she was interested in. She gets her revenge by
 forcing the next generation – me – to learn something I was good at but
 has absolutely zero interest in. How ironic. And recursive. And Texan.
 And wonderful.
+
+Genius.
 
 That’s the mission for Scoot(23). To give every child on the planet the
 same opportunity that June gave me. To learn to code for free.
