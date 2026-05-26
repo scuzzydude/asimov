@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.93**
+**Version 0.95**
 
 ***ADVANCED READING COPY***
 
@@ -8288,7 +8288,9 @@ Scoot is all about.
 | 10              | Leicester       | Codex                                   | SOP -Leonardo Da Vinci Notebook |
 | 11              | Armstrong       | Neil                                    | SOG                             |
 | 12              | Titanic         |                                         | SOG - held for "Zoey"           |
-| 13              | RSV             | RSV                                     | TBD                             |
+| 13              | Protocol        | Scoot                                   | OpenSource Protocol             |
+| 14              | Scoot           | of Scoots                               |                                 |
+| 15              | Kate            | Winslet                                 | SOG                             |
 | 17              | Awbrey          | Brandon                                 | my open source code and writing |
 | 22              | Kerouac         | Jack                                    | SOG                             |
 | 23              | Scobee Rodgers  | June                                    | SOG++                           |
@@ -8305,6 +8307,7 @@ Scoot is all about.
 | 45              | Nakamoto        | Satoshi                                 | SOG                             |
 | 52              | Peart           | Neil                                    | GOCDF                           |
 | 54              | Vaughan         | Stevie Ray                              | SOG                             |
+| 55              | Costner         | Kevin                                   | SOG                             |
 | 61              | Rodman          | Dennis                                  | SOG                             |
 | 62              | Astros          | Houston                                 | SOT - Scoot of Team             |
 | 63              | Ford            | Henry                                   | PoAS                            |
