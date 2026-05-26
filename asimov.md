@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 1.00**
+**Version 1.02**
 
 <img src="media/image1.png" style="width:0.33333in;height:0.33333in"
 alt="enter image description here" /> 2022 by Brandon Awbrey. This
@@ -4351,7 +4351,7 @@ unpunished*, the NBA suspended him for a week for COVID protocol
 violations. The first game back, against the fellow bottom feeding
 Timberwolves, he scored only two points in a nauseating loss. That night
 against the Bucks, Porter was unconscious, destroying the defensive
-juggernaut with ease. He ended up with a box score of 51 points and 11
+juggernaut with ease. He ended up with a box score of 50 points and 11
 assists, becoming the youngest player in NBA history to record 50/10. He
 beat the previous title holder, LeBron James, by three years.
 
@@ -4514,7 +4514,7 @@ The Mayor of Los Angeles is not going send a mechanized brigade of
 troops to Houston, surround Minute Maid Park and forcibly take a
 shirtless José Altuve hostage. New York City is not going shell downtown
 Houston with nerve gas and send a squad of SEALs to replace *The
-Dream’s* statue in front of the house he built with a statue of Spike
+Dream’s* memorial in front of the house he built with a statue of Spike
 Lee. The British are not going nuke Austin in 2023 after Governor
 McConaughey signs his first executive order declaring all members of Led
 Zeppelin not honorary, but actual Texans.
@@ -7273,7 +7273,7 @@ would have sucked way worse for young people in the 1980s.
 I remember I was about twelve or thirteen and I was bitching to my
 grandpa about my summer job, working for my Uncle Clay. Uncle Clay drove
 around Clear Lake in a hatchback towing a trailer, mowing lawns for
-astronauts. Uncle Clay did this on his four days offs from working in a
+astronauts. Uncle Clay did this on his four days off from working in a
 chemical refinery, having retired as a Chief Master Sergeant from the
 Air Force. In the summer, it was exactly like being in a sauna, but it
 wasn’t like I was cutting the grass with a machete, my uncle had riding
@@ -7525,11 +7525,11 @@ Baseball just went through decades of teaching the world’s children that
 the way to achieve your dreams was by being big and strong, if not
 naturally, then by shooting yourself up with steroids. Along comes this
 kid – the smallest player in professional baseball in forty years – who
-grew up under very meager circumstances but with fantastic parents that
+grew up under very meager circumstances but with fantastic parents who
 challenged him to dream an impossible dream and go for it. When José
 Altuve signed a contract with the Astros in 2007 as a 16-year-old for
 $15,000, it was already like climbing Mount Everest without oxygen. What
-José achieved in his career was not too good to be true. It was
+José has achieved in his career was not too good to be true. It was
 impossible. A kid from Venezuela with nothing but great parents. A kid
 who had a dream. Not the largest, or strongest, or fastest, but the
 greatest MVP in American League history. A baseball genius.
@@ -7653,7 +7653,7 @@ belongs to humanity.
 
 Let’s say I’m at a dinner party with a bunch of fancy artsy people.[100]
 Some rich dirtbag makes mention he’s got a Picasso hidden away at his
-ski-chalet in Aspen, and only people who get to look it is the other
+ski-chalet in Aspen, and only people who get to look at it is the other
 rich scumbags he invites on his ski trips. My response would be “*Should
 I bow or curtsey now, your worshipfulness?*”
 
@@ -7685,9 +7685,9 @@ I can’t fathom how my folks survived childhood in Texas without
 air-conditioning, much less what a bunch of farmers and merchants in
 colonial American had to deal with. I feel an opportunity was missed
 that was right there before their eyes. The very first amendment to our
-Bill of Rights says what we value is the freedom of speech.[101] This
-has been interpreted from the beginning as freedom of expression, which
-is certainly what genius and vanity is all about. We as a people, demand
+Bill of Rights says what we value is freedom of speech.[101] This has
+been interpreted from the beginning as freedom of expression, which is
+certainly what genius and vanity is all about. We as a people, demand
 this of our government, meaning we value it, and King George did not.
 Yet the founders choose to continue to trade and collect taxes using the
 king’s gold.
