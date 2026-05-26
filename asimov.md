@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.53**
+**Version 0.54**
 
 There are only two true hedges against inflation. History and
 archaeology have proven they’ve both existed for as long as humanity.
@@ -31,9 +31,9 @@ prosperity.
 
 It follows that humanity should use its own creation as the fundamental
 measure of value. Floating fiat currencies like the dollar and
-cryptocurrencies like bitcoin meet that criterion. Neither dollar nor
-bitcoin represent any intrinsic value, and thus can’t really hold value
-over generations and through calamity without intervention.[1] Fiat and
+cryptocurrencies like bitcoin meet that c. Neither dollar nor bitcoin
+represent any intrinsic value, and thus can’t really hold value over
+generations and through calamity without intervention.[1] Fiat and
 cryptocurrencies function as money – a medium of exchange – which is a
 technical function of a currency. Neither represent real value, which is
 the human concept of money. This disparity – between the technical
@@ -3370,70 +3370,6 @@ good story, but I can tell you it would stink.[39]
 Big Oil shouldn’t wait for history to write her story. She should write
 it herself.
 
-## Academic Genius
-
-Okay, all you brainiacs, here’s your chance. You finally have a platform
-to directly measure how much more important writing a paper about the
-subclassification of salamander species in Northern California is than
-Beyonce’s latest song. Go ahead, give it a try.
-
-Oh, you academics don’t care about value, it’s the pursuit itself that
-is valuable. Okay, measure that.
-
-One way would be to for academics to setup Scoot for their work and
-publish it both in formal terms and as collaborative broadcast postings
-across scoot-chains. Exchange scoot with someone else of high
-reputation, a big-shot professor, gives your own work some juice. Or
-trade value investment by PPH gives your Scoot some mystery. There could
-be a custom protocol on what it takes to trade scoot one for one with
-other academics, perhaps a public critique is required, or maybe it’s
-just like scholarly chest bump. There could be an exchange of academic
-scoot in the metaverse, where academic advancement become more of a
-direct strategy game. Levels upon levels of incremental advancement, as
-you move from trading scoot for scoot with other bookworms, to respected
-professors, to members of industry and international scholars staking
-your Scoot.
-
-I think this is undiscovered country for academics and a chance for them
-to measure their real value to society. Or completely ignore it and
-stick to a property-based value system based on a hierarchy established
-over decades by people who give themselves and their friends jobs for
-life. I think academics that really believe in what they are doing will
-want to assert themselves as valuable and measure it appropriately. If
-they find that they are undervalued by society, they have a yardstick to
-measure their efforts to change that valuation.
-
-If academics really believe in what they’re doing, they’d want to put
-their wealth in academics. I’m wondering how many anti-establishment
-professors in Boulder own stock in the Fortune 500? It’s better for your
-academic karma to eat your own dog food.
-
-There’s also the work for hire aspect. Every billionaire who has read an
-Issacson biography is going to want to be a Da Vinci, Einstein or Jobs
-scoot trustee, you can actually go read all the source material and come
-up with some angle of appreciation that’s new.
-
-My approach would be to apply an engineering technique I call recursive
-integration. In digital design, each design cycle, you really need to go
-back and reevaluate all your assumptions and methodology. By improving
-your design, you’ve changed the relationship between your design and all
-the other parts of the system you interact with. When you look at your
-assumptions and methodology, you’ll find easy opportunities for further
-optimizations and integrations.
-
-Applied to academics, that’s the surest path to genius appreciation. You
-go back and really look at what those genius that came before you did
-and try to think the same thoughts they had, but with the knowledge and
-technology you have today. The digital tools we use daily to measure and
-calculate would have been absolute magic to those great geniuses just a
-hundred years before. If Einstein could code, think about that. He’d be
-slinging it and bringing it.
-
-For academics, no matter what the field, looking back is the way of the
-future, it’s where all the value came from. This will be a gold rush,
-and the academics got a monopoly on the shovels. They either add to the
-appreciation or create some inspired new genius.
-
 ## Stop Reading, Lars
 
 In 2000, when Saint Fanning nearly unified the world in peace by
@@ -3659,6 +3595,70 @@ Nai smiles. “You’re all right, Texas. Let me find a shirt. Natty!”
 “She left,” Lars says. “I just told you.”
 
 “Did she do the laundry?”
+
+## Academic Genius
+
+Okay, all you brainiacs, here’s your chance. You finally have a platform
+to directly measure how much more important writing a paper about the
+subclassification of salamander species in Northern California is than
+Beyonce’s latest song. Go ahead, give it a try.
+
+Oh, you academics don’t care about value, it’s the pursuit itself that
+is valuable. Okay, measure that.
+
+One way would be to for academics to setup Scoot for their work and
+publish it both in formal terms and as collaborative broadcast postings
+across scoot-chains. Exchange scoot with someone else of high
+reputation, a big-shot professor, gives your own work some juice. Or
+trade value investment by PPH gives your Scoot some mystery. There could
+be a custom protocol on what it takes to trade scoot one for one with
+other academics, perhaps a public critique is required, or maybe it’s
+just like scholarly chest bump. There could be an exchange of academic
+scoot in the metaverse, where academic advancement become more of a
+direct strategy game. Levels upon levels of incremental advancement, as
+you move from trading scoot for scoot with other bookworms, to respected
+professors, to members of industry and international scholars staking
+your Scoot.
+
+I think this is undiscovered country for academics and a chance for them
+to measure their real value to society. Or completely ignore it and
+stick to a property-based value system based on a hierarchy established
+over decades by people who give themselves and their friends jobs for
+life. I think academics that really believe in what they are doing will
+want to assert themselves as valuable and measure it appropriately. If
+they find that they are undervalued by society, they have a yardstick to
+measure their efforts to change that valuation.
+
+If academics really believe in what they’re doing, they’d want to put
+their wealth in academics. I’m wondering how many anti-establishment
+professors in Boulder own stock in the Fortune 500? It’s better for your
+academic karma to eat your own dog food.
+
+There’s also the work for hire aspect. Every billionaire who has read an
+Issacson biography is going to want to be a Da Vinci, Einstein or Jobs
+scoot trustee, you can actually go read all the source material and come
+up with some angle of appreciation that’s new.
+
+My approach would be to apply an engineering technique I call recursive
+integration. In digital design, each design cycle, you really need to go
+back and reevaluate all your assumptions and methodology. By improving
+your design, you’ve changed the relationship between your design and all
+the other parts of the system you interact with. When you look at your
+assumptions and methodology, you’ll find easy opportunities for further
+optimizations and integrations.
+
+Applied to academics, that’s the surest path to genius appreciation. You
+go back and really look at what those genius that came before you did
+and try to think the same thoughts they had, but with the knowledge and
+technology you have today. The digital tools we use daily to measure and
+calculate would have been absolute magic to those great geniuses just a
+hundred years before. If Einstein could code, think about that. He’d be
+slinging it and bringing it.
+
+For academics, no matter what the field, looking back is the way of the
+future, it’s where all the value came from. This will be a gold rush,
+and the academics got a monopoly on the shovels. They either add to the
+appreciation or create some inspired new genius.
 
 ## Open Source Everything
 
