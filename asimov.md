@@ -742,7 +742,7 @@ Scoot is the vessel for this responsibility.
 
 <img src="media/image2.png" style="width:6.38392in;height:4.52893in" />
 
-Figure - The Foundation - VALUE and RESPONSIBLITY DOMAINS
+Figure 1 - The Foundation - VALUE and RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a
 legacy of genius. Each Scoot shall have a charter, clearly stating the
@@ -1253,7 +1253,7 @@ the process. He controls access the painting but has turned half of its
 value into liquid wealth.[10]
 
 This is zero sum, not only for the billionaire but for the scoot holders
-(scootage). What make people appreciate art is seeing art. The
+(scootage). What makes people appreciate art is seeing art. The
 billionaire hears from his scootage and finds out one of them is
 Argentinian and there is unfulfilled demand for all things Picasso in
 his home country. The Scoot arranges an exhibition with a museum in
@@ -1451,12 +1451,12 @@ franchise of the public domain. The scootage votes on the merits of
 these screenplays, and award production to the winners. In addition,
 everyday people will get a chance to submit their stories of how
 *Titanic* touched their lives. The scootage votes for the best stories
-and the winners are chosen as guest for the cruise. Groups of people who
-do some Titanic themed public good can bid on group cruises. And best of
-all, everything is free for the guests. Workers are chosen based on some
-creative angle. Chefs trying to make a name for themselves. Waitstaff
-and cleaners are really actors and writers vying for a chance to create
-an angle that would get them a part in the production. Artist,
+and the winners are chosen as guests for the cruise. Groups of people
+who do some Titanic themed public good can bid on group cruises. And
+best of all, everything is free for the guests. Workers are chosen based
+on some creative angle. Chefs trying to make a name for themselves.
+Waitstaff and cleaners are really actors and writers vying for a chance
+to create an angle that would get them a part in the production. Artist,
 musicians, dancers and magicians, all driven by the scoot economy, bid
 to “work” the *New Titanic*. Not only does the cruise become an
 active-production Hollywood set, with the guests as extras, but it’s
@@ -4312,7 +4312,7 @@ out the basics of a metric of value system based on physical artwork,
 I’d struggled with some inconsistencies. For instance, what separates
 fine art from decoration? Why is one object a silly collectable, or an
 antique, and another a historical artifact? I was also struggling with
-the unfairness of valuing artists that produce physical art from those
+the unfairness of valuing artists that produce physical art over those
 whose media is essentially digital. Musicians, writers, photographers
 and even basketball geniuses. I was struggling trying to create a value
 system from something, in all honesty, I didn’t personally value that
@@ -6115,7 +6115,7 @@ Vermont, where you’re wanted for crimes against humanity.
 Would this be vanity? It depends on the context. Sharing Cadillacs is
 better than individual ownership in terms of sustainability, but they
 stopped making the ones you collect in 1967. It’s a sunk cost in terms
-over economic value.
+of economic value.
 
 What if your sister was a big-time fight for justice lawyer, who
 defended the poor and downtrodden and stood up against corporations and
@@ -6603,9 +6603,9 @@ The security team handles both the physical and digital security of The
 Foundation.
 
 One of the main jobs of the security team will be to establish an
-identification program for pledges that is very difficult to circumvent.
-This will include deterministic identification of pledges. It won’t
-prevent all criminal behavior, but it should prevent the same human from
+identification program for pledges that is difficult to circumvent. This
+will include deterministic identification of pledges. It won’t prevent
+all criminal behavior, but it should prevent the same human from
 perpetuating multiple acts.
 
 ### Encyclopedist
@@ -7050,12 +7050,12 @@ in statis. By definition, a Scoot in statis doesn’t have much genius
 value, so it would not align with the Foundation’s long-term goals to
 hold statis Scoot.
 
-I think there is a market for pledges to act as caretaker trustee for
-Scoot in statis. The caretaker assumes the trustee role and becomes sole
-member of the scootage. Request for scoot-chain research can be handled
-by API and the scoot-chain can be served from cold-storage. Parties
-wishing to merge or resurrect a scoot-chain can make an offer to take
-control back from the caretaker.
+There is a market for pledges to act as caretaker trustee for Scoot in
+statis. The caretaker assumes the trustee role and becomes sole member
+of the scootage. Request for scoot-chain research can be handled by API
+and the scoot-chain can be served from cold-storage. Parties wishing to
+merge or resurrect a scoot-chain can make an offer to take control back
+from the caretaker.
 
 Caretaker pledges can serve as initial stakers for new Scoot. In
 exchange for no-par scoot, the caretaker commits to taking care of the
@@ -7335,9 +7335,9 @@ but still Southeast Texas and even hotter.
 I lost total congruence with my grandpa’s childhood. What I knew about
 my Grandpa Marsene was as a kid, he was the baseball badass of five
 counties. He was like the super-jock of Bellville, Texas. I knew
-baseball super-jocks at my middle-school. They’d didn’t have to mow
-lawns because their parents sent them to baseball camp, somewhere with
-cooler weather like Connecticut or Dallas.
+baseball super-jocks at my middle-school. They didn’t have to mow lawns
+because their parents sent them to baseball camp, somewhere with cooler
+weather like Connecticut or Dallas.
 
 “Why?”
 
@@ -10037,7 +10037,7 @@ James was amazed.
 <img src="media/image10.jpeg" style="width:3.58281in;height:3.84722in"
 alt="A picture containing text Description automatically generated" />
 
-Figure - sketch of cave drawing from James Naismith's notebook
+Figure 7 - sketch of cave drawing from James Naismith's notebook
 
 “Yeah, your dad would come up here every day for a few hours, as long as
 he could take it, smoke builds up pretty quick, and it is hard to see
@@ -10343,7 +10343,7 @@ The first sketch had a plaque.
 > existing power dynamic. In a last-ditch effort to keep the history
 > secret, the evil Texas Ranger Cordell Walker blew up the caves and
 > this notebook is the only remaining evidence of the location of the
-> true cradle of civilization, in what is now Austin Country, Texas, on
+> true cradle of civilization, in what is now Austin County, Texas, on
 > the shores of the Brazos.*
 
 “This is unbelievable. Michael, basketball, not soccer is the first true
@@ -10512,7 +10512,7 @@ a secret chamber in the basement of The Summit.
 Rudy consulted businessman Tilman Fertitta and together they took the
 copies to Austin, where the three of them met with Governor White.
 Governor White made a few calls, and the next day, Vice President George
-H.W. Bush arrived with his eldest son, where they discussed options. An
+H.W. Bush arrived with his eldest son, where they discussed options. A
 secret emergency session of the Texas Legislature was held, and a writ
 of vengeance was levied against Canada for theft of historical treasure.
 Much of the legislature urged immediately retaliation, but in a rousing
