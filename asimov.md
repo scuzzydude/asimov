@@ -1699,7 +1699,7 @@ As a base currency, the protocol needs to stand on its own and not be
 dependent on any existing platforms.
 
 I’ve outlined the currency protocol requirements in [Appendix A – Scoot
-protocol requirements](#terminology).
+protocol requirements](#_Appendix_A_–).
 
 ## Outreach Faucet 
 
@@ -5748,11 +5748,12 @@ If John were alive today, I’d only ask that he change the one line.
 *No need for greed or hunger, A brotherhood of man*
 
 I’m cool with no greed or hunger, but a brotherhood of man would seem to
-indicate that I would be in a brotherhood with Jazz, Dodger and Yankee
+indicate that I would be in a brotherhood with Jazz, Dodgers and Yankee
 fans. That ain’t happening. Who the hell wants to live in a world where
 you just plain despise another city’s team, as well as their players?
 It’s beautiful, because as soon as one of those despised players gets
-traded to your team, you love them.
+traded to your team, you love them. Very binary, as an engineer I love
+it. Empathy makes for very complicated analysis of relationships.
 
 I debated with myself if I really needed to write this chapter. I
 realized that most of my audience didn’t have the benefit of learning
@@ -5775,6 +5776,172 @@ Not everybody can be from Texas. It’s a big state but it won’t hold
 seven billion. For the rest of y’all who can’t just get up and come here
 like Elon Musk, take it as consolidation that Texas is a state of mind.
 Just “Believe It,” and then get it done.
+
+I want to highlight Texas because I think it’s gotten a bad rap lately,
+mostly because of the loud jackasses in Austin and Washington. Texas
+isn’t our policitiolicians, but when we do have a bad apple, we seem to
+polish it up and turn it into some genius level jackass.[64] However,
+when it comes to the people, we are really industrious, friendly towards
+outsiders, as demonstrated by our heroes, and absolutely love a good
+idea that you can put to work, right away.
+
+One problem with the problems before us is we focus on blame, and for
+that reason, I think Texas gets a reputation is a source of
+unsunstainable lifestyle, and is therefore bad in a social-economic
+sense. I don’t see it that way at all.
+
+Abraham Lincoln, the Union Armies and the abolitionists did not end
+slavery. They made slavery illegal in the United States, but in effect,
+economic hard-manual-labor slavery went on for many years both here and
+abroad.
+
+I contend that there has been no manual labor slavery[65] on an
+industrial scale in places that have either electrification or a
+fuel-supply-chain for the internal combustion engine. The exceptions
+were places where the effective cost of both supply and replacement was
+zero. Genocide, forced servitude and war victims. My point is that this
+fundamental shift in technology made the economics equation of slavery
+invalid, regardless of the ethical considerations.
+
+The reason there economic system worked even in the early steam-age was
+because of the value system we used – the king’s gold. Where all men are
+not created equal because that measure of value – was not distributed
+evenly because it was property that was scarce. First this distribution
+was enforced by fuedelism, and later by capitalism. North America, once
+freed from fuedlism, offered vast resources and oppounity, but this land
+was occupied before European powers arrived on it’s, but it doesn’t mean
+that the system was inherently unfair, just that it was able to scale up
+the resource needs of its grown and immense intake of immigrants, most
+of whom vared better in North American simply because all the good land
+was taken in Europe.
+
+What I’m getting at here is that it’s foolish to point to point fingers
+at how we got here. We have not only the accumulated knowledge of all
+those that came before us, but these mechanical, electrical, and digital
+devices that would have empowered those in the past. We should worry
+about how history should judge us, with this immense power no other
+generation of mankind ever by several orders of magnitude, where we
+still live in a stratified society based on material-wealth. They beauty
+of a public good responsibility system is that we can solve problems
+because this public good spans borders and cultures and nationalities,
+it’s something that belongs to everybody.
+
+I call my engineering approach recursive integration. In digital systems
+design, this means that everytime you improve one part of the core
+system, you need to go back and reevaulate how the rest of the system
+works and then repeat. In digital systems, measurement creates it’s own
+problems, as it’s very difficult to instrument every piece of the system
+in an actual chip, though we have techniques to simulate these
+measurements.
+
+Appled to human systems, I believe this approach will lead to huge
+oppourtnities for real equitable improvements in life for most of
+mankind, if we change our measurement of wealth and propespirty away
+from a system based on scarcity. There are hugh oppuruntits for the
+creation real value when measured in by a system that is equitable.
+
+I think people in Texas can adjust to this way of thinking and find real
+value in ideas. I think it’s funny to make fun of Hollywood, the land of
+the ideas and also the land of free.
+
+When my daughter and I were discussing the causes of conflict in 2020,
+we had one serious difference of opinion. She wanted me to accept that I
+was the benefiencery of white priveldge for our relative prosperity in
+life, but I thought she was conflating that with generational wealth,
+which I would disclaim in relative terms. My parents, my grandparents
+and generations back were hardworking people, and in ways that neither
+her or I could even imagine. She has a different perspective on
+background, and I agreed that my primary fortune in life was to have
+been born American, and yes, in Texas. And I’ve worked hard all my life,
+I have always tried to make that best of that fortune. And I now I
+realize that’s the real way measure value, not our fourtune in life to
+be born American or Chinese or Vietnamese or white or black but the real
+fotunte to be born with all the accumuluated value of the ideas of all
+of our ancestors, because, for the most part, that wealth is available
+to just about everybody on the planet. This leverage is something we all
+benefit from, and it should scale to much higher levels if we can value
+our potentioanl. If Elon Musk and all the billionaire get’s his way,
+this accumulated value is within reach to every child on the planet with
+a device connected to the internet.
+
+The reason Mark Twain’s satire of *The Connecticut Yankee in King
+Arthur’s Cour*[66]*t* is so powerful and funny is because it’s a simple
+theme, shared by Isacc Asimov’s Foundation. We might have great
+technology and cool toys but basically, we keep repeating the same
+historical mistakes repeatedly because we believe we are somehow more
+advanced than mankind just a few generations before.
+
+These historical is accumulated value. We stand on the shoulder of
+giants. That is the foundational value. People should be dedicated to
+ideas that move forward our values in a sustainable way.
+
+I’ve made this about Texas because I want it to be race. In engineering
+– and science – and basketball – you change the way you measure a
+problem, the simple insight can lead to sometimes obvious solutions. I
+think I’ve found it by creating a wealth system based on trading
+responsibility. I really do think applying the same kind o engineering
+logic to the problem of sustenance could be solved, and you know,
+Houston’s got a really big port right at the bottom of the breakbasket
+of the world, that could create some immense value. I also think you can
+do it with health-care, and Houston’s got the best medical center and
+schools in the world. I got some pretty good ideas about how to do it,
+too. Keep those to myself for the short-term.
+
+Solving wealth, sustainance, and health inequality would be momunental
+steps forward in human progress that can multiple generational wealth in
+real terms, really make it a better world. People laugh at idealistic
+systems, but the secret is to focus on single ideas. It’s easy – and
+good – to be idealistic about a certain idea. It’s something you
+recognize internally as genius – it implies you value you something. It
+is not easy – or good – to be idealistic about idealiogys – it’s not
+real. We don’t align with the values of everybody about everything, and
+It’s not practical that we should – if we did, progress would stall. The
+secrect is aligningin positivily with enough real value behind an idea,
+and then making it happen.
+
+I like how this war of world and my blitzkreigh crecendso lines up
+against New York and Los Angeles, bastions of mythological level vanity.
+I don’t think this system is going to work because of the genius, I
+think it’s going to work because of the vanity.
+
+Let’s say there a Korean K-Pop boy band and two girls start fan clubs.
+The first, Kelly starts all these video TikTok Challenges with silly
+girls lip-syncing and dancing and proposing to these silly Korean boys
+and some of them are so cute that once in awhile one of the K-boys will
+pop in with a like or a reaction or sing-a-along or something silly. The
+other, Maxie, starts this big exclusive buy-in club where you can like
+go a chaperoned backstage tour with the K-boys, and this leads to
+exclusive vactation and cruises with the K-boys, and then there’s this
+private party you can book. But the biggest reveue item of the Maxie’s
+fan club is exclsuve K-boy T-shirt line which sell for $50 because while
+the private tours may be only for rich girls, any teenage daughter worth
+her salt in the developer world ought to be able to talk her father out
+of. Unbeknownest to Maxie, but those T-shirts where made by child-labor
+on floating factor ships in dark waters, the contracts as well as the
+contracts with the K-boys were set up by her property-rich mother Meadow
+from New Jersey.
+
+The question is, which of these clubs is vanity?
+
+Trick question. Unless I’m totally wrong and then my head should explode
+right now, both are vanity. Nobody in the future is going to care about
+silly K-pop. Future Hakeemela is going to be like, *why didn’t these
+silly girls just listen to Led Zeppelin already*?
+
+The first question is which girl created the most value. Measured in
+dollars, Maxie created an enterprise that reported hundred of millions
+in revenue, much of which was in cash, and some speciulateor was part a
+of money laundering operation. Measured in dollars, Kelly got a first
+class tickets to a concern in Seoul where she got to get up on stage and
+hug the band and join a dance, and afterward she was TikTok famous for
+like two weeks then her insufferable mom cut off her access because she
+got a B+ in Biology and needed to keep all As or she’d bankrupt her
+futher with student debt.
+
+The question is which fan club was equitable and sustainable and not
+dependent on child labor and organized crime?
+
+<span class="mark">I…..</span>
 
 *I hope someday you’ll join us, and the world will live as one*
 
@@ -5863,7 +6030,7 @@ played farm ball in the Depression, and was drafted by the White Sox,
 but war and family derailed those dreams. He lived in Bellville his
 whole life, knew everybody in town and everybody loved him. I have no
 idea what he really thought of his suburban grandson who’d been indulged
-by air conditioning his whole life. He took long walks with his medal
+by air conditioning his whole life. He took long walks with his metal
 detector and went looking for treasure and dinosaur bones, fished,
 played golf, and watched baseball. The long walks and looking for
 treasure took, but I wasn’t much for golf or fishing. Marsene Crawford
@@ -5970,7 +6137,7 @@ Canada, I’m not exactly talking forgiveness here, but a permanent cease
 fire. The truth is, I like Canada. It’s a beautiful country, the people
 are nice, and I’ve always enjoyed visitingI’ve been civil, I haven’t
 smacked down any of modern-day Canadian heroes, though it was
-challenging, as there are so many easy targets.[64]
+challenging, as there are so many easy targets.[67]
 
 Canada, I’ll make you a deal. I’ll lay off the Canadian trash-talk, all
 you got to do is send George Springer back home, we really miss him. I
@@ -6051,7 +6218,7 @@ fans of the Yankees and Dodgers.
 
 Instead, I cast the *Curse of the Asterisk*, it’s a simple one. How long
 it lasts, depends how long those fans *keep on living like they ain’t
-got no mamas*.[65]
+got no mamas*.[68]
 
 The *Curse of the Asterisk* is directed at the fans at all who feign to
 value the Dodgers and the Yankees, who booed the greatest baseball
@@ -6141,7 +6308,7 @@ all Texans.
 It is this value that gives me the moral righteous to state, genius
 belongs to humanity.
 
-Let’s say I’m at a dinner party with a bunch of fancy artsy people.[66]
+Let’s say I’m at a dinner party with a bunch of fancy artsy people.[69]
 Some rich dirtbag makes mention he’s got a Picasso hidden away at his
 ski-chalet in Aspen, and only the few other rich dirtbags invited on his
 ski trips ever get to see it. My response would be “Should I bow or
@@ -6176,7 +6343,7 @@ I can’t fathom how my folks survived childhood in Texas without
 air-conditioning, much less what a bunch of farmers and merchants in
 colonial American had to deal with. I do feel an opportunity was missed
 that was right there before their eyes. The very first amendment to our
-Bill of Rights says what we value is the freedom of speech.[67] This has
+Bill of Rights says what we value is the freedom of speech.[70] This has
 been interpreted from the beginning as freedom of expression, which is
 certainly what genius and vanity is all about. We as a people, demand
 this of our government, meaning we value it, and King George did not.
@@ -6247,7 +6414,7 @@ will be like a mashup of those two shows. That’s right, burnt up,
 alcoholic thrice divorced Canadians and American geezers driving big
 rigs in laps on a frozen lake while their sons and grandsons try to drop
 crab pots off the trailer into holes blown into the ice by the brother
-who is literally[68] riding “shotgun.” Take that for
+who is literally[71] riding “shotgun.” Take that for
 social-satirical-tragedy *Squid Games*!
 
 That’s about the risk level for the people in the caves who watch robots
@@ -6348,12 +6515,14 @@ filthy.”
 I’ll laugh and shake my head. What can I say, we were all filthy idiots,
 laughing it up in an unsustainable world.
 
-“Yo, old man, why you care about rebounding so much? My curry[69] never
+“Yo, old man, why you care about rebounding so much? My curry[72] never
 misses?”
 
 “Kid, let me tell you about the Worm. Back in the 1980s when I was a
 kid, the Korean peninsula was divided into two countries. There was this
 kid from Texas, like you and me....”
+
+<span id="_Appendix_A_–" class="anchor"></span>
 
 # Terminology
 
@@ -6365,8 +6534,249 @@ kid from Texas, like you and me....”
 
 # Appendix A – Scoot protocol requirements
 
-Staking agreements – pledges running software join staking groups to
-share decentralized redundancy of the scoot-chain.
+## Language
+
+The base implementation of the protocol shall be implemented in C. This
+is to align with The Foundation’s goal of a historically coherent
+boot-strapping tool chain. This also aligns with certain individuals’
+hesitation to learn new languages when C is all you need. We may review
+of implementations in other languages, but they will need to be ported
+to C.
+
+## Addresses
+
+The exact address scheme used by Scoot is up for debate. The same
+addresses can be used both in the value domain and the responsibility
+domain. The user will generate a private and public key pair to create a
+wallet, which can then generate hash addresses, like bitcoin and other
+protocols.
+
+This wallet is all that is needed to trade asimov and validate
+transactions and in the value domain
+
+To participate in the responsibility domain, addresses must register
+wallet to their pledge identification (real human identification) with
+The Foundation.
+
+The Foundation should train all pledges in correct handling and
+securitization of their wallets. Since all particpants in the
+responsibility domain and identified to The Foundation, there will be a
+protocol to invalidate addreses if keys are lost or stolen, and
+replaced. This protocol will seek approval of all scoot trustees
+involved in the revalidation and transfer, and it will not be free. Both
+registration and invalidation will incur fees paid to The Foundation and
+all Scoot involved in the revalations, thus discouraging but not
+preventing pledges from using too many addresses.
+
+Non-pledge addreses (value domain only) are just like bitcoin addresses,
+lost or stolen they are just gone forever.
+
+### Nodes
+
+### The Foundation 
+
+The Foundation in the protocol are well known nodes/addresses that
+issues scoot( \< 1) and registers scoot nodes and pledges. They are the
+arbiters to the respsonsibilty domain. Scoot protocol does not depend on
+The Foundation to operate Scoot.
+
+### Privileges
+
+The Foundation’s role in the responsilbity domain procotol is to
+validate privilidges of addresses. Addresses shall have a non-encrypted
+bit field for privileges as well as checksum of the entire addreses. The
+protocol will have API for The Foundation to validate privileges.
+
+### Privilege Fields
+
+The Scoot network will issue API requests to The Founcation to validate
+address privileges.
+
+The Foundation must honor API requests truthfully. The Foundation’s
+board, management and employees must identify personal trades with TPH
+and indifty.
+
+Foundation Address:1 Indicates an address held by The Foundation.
+
+**Pledge Address:1** : 1 indicates this address is registered with The
+Foundation as a pledge. 0 would be anonymous address.
+
+Scoot Address: 1 indicates this address is a Scoot address (geneis
+address for scoot). Scoot address and pledge address both 1 indicate it
+is a scoot trustee proxy address.
+
+TPH: 1 iniciates this is a True Pledge Handle. 0 indiates a PPH. If
+pledge address this will resolve to an opaque API handle that can be
+used to view a unified TPH responsilibty tree for this user, as well as
+their generatizled info (country of origin). Pledges may choose to
+reveal more of their identify in TPH directory with various levels of
+authorization. They may reveal more to trustees of Scoot they hold or be
+total open, like a Twitter verified bagdes. API for PPH might resolve to
+an an alias handle / identify or to unknown.
+
+LocallyEstablishedIdentify:EngineerAddress:1 (overloaded). For value
+domain addresses, this flag means the addresses is registered to with a
+locally established authorized, meaning local law enforcement will have
+some legal means of obtaining the identify of the addresses holder with
+appropriate legal requireents. I think this covers a lot of exchanges
+and financial institutions in many countries, but may not mean anything
+in others. The country code of the locality will be included in the
+validation API response.
+
+In the responsibility domain, this means it is an engineers address. If
+also Foundation address, it will be a Foundation address proxied by The
+Engineer. Otherwise, it is the Engineer’s personal address.
+
+Foundationeer:1 – True if Foundation’s board, management or employee
+address. Employee accounts may not resolve to real identiy, but should
+resolve to opaque unique identifier, which should be resolvable through
+API to role {engineering, enclyopedists, security, executive, board:.
+It’s fair to question bias, especially of Encyclopediest, but it’s also
+true we are asking Encylopedist to make value judgements. It will be
+possible through API to build responsilbity tree of people operation The
+Foundation from this information.
+
+Responsibity Domain:1 – Truth table result from compounding of other
+combintions, this address may trade Scoot( \> 0) in the responsilbity
+domain, process transactions and make other responslibity domain
+(responslibyt domain address may also trade in the value domain). 0:
+Inidates that the address may only trade in the value domain.
+
+## Genesis Block
+
+The Genesis Block is the first block in a scoot-chain. The genesis
+blocks descripes the operation of the repsibility unit (scoot), the
+goevernance of the scoot, and limits the trustee. It also contains test
+of the scoot charter, a description, and synopsis.
+
+### Responsibility Unit
+
+#### Scoot Index (SIdx)
+
+This is 64 bit signed integer. Indexes less than 1 are reserved by The
+Foundation.
+
+#### Responsilbity Unit Type (RUT)
+
+This field is an enumartion of the types of responsibility unit. For
+rollout, the following types shall be defined.
+
+##### Fractional Unit (0)
+
+A Fractional treats transactions as summary ledger entries. The Unit
+field is the transaction internger and the sub-unit is the fractional
+part.
+
+##### Serialized Unit (1)
+
+Serialized Unit trade integer units only, and the sub-unit field is
+overridden to be a serial number. Nodes that have processed the entire
+scoot-chain will have the entire life history of each single scoot in
+their database.
+
+##### Prime Shard Unit (2)
+
+Prime shards are irregular fractionalized pieces. The sub-unit field is
+an index into the the sequential list of prime numbers, which serve as
+the denominator of that fraction. Shard.4 would be the 4<sup>th</sup>
+prime number 5 and the shard would represent 1/5 (20%) of the
+responsibillty of the scoot. The governance of the Scoot shall determine
+how this proportion. Prime shards have a finite (but possible very
+large) number
+
+#### Max Responsibility Unit (MRU)
+
+This field shall define the max possible unit. The unit field will be
+64-bits signed. Fractional and Serialized RUT will set this to max
+realistic value, or SINT64_MAX. The benefit of setting this to a lower
+value is that it allows transaction processors to quickly discard
+unrealistic transactions. For example, to limit risk, a node may set a
+limit to never process more than 5% of total scoot in a single
+transaction without.
+
+Prime shards will use this field to record the max index.
+
+#### Sub-Unit Qualifier (SUQ)
+
+For Fractionalized RUT, this represents the denominator of the subunit.
+So a value of 100 would mean that that sub-unit field in the transaction
+would be units of 1/100. For serialized units, this field represents a
+truth mask than processors can test to easily eliminate incorrect
+assignments. For prime shards, this represents the starting shart index,
+so 4 would represent a prime shard and the 4<sup>th</sup> prime is 5, so
+transactions using \< 4 in the sub-unit field would be invalidated.
+
+## Staking
+
+Initiallity, I was thinking of staking a Scoot and staking domains for
+transactions processing as separate entities. One a human process and
+the other a part of the protocol. The reality is we want to automate
+governance so I’d like to make these the same thing. Pledges – users –
+need only understand works, though the details of how the protocol
+function should be essentially the interface to the user application.
+
+Staking a Scoot will follow a sequence almost exactly like the staking
+of The Foundation. You get people to stake your Scoot and they more
+stakers you gather, the lower your initial investiment needed with The
+Foundation, as well as impacts The Foundation’s initial valuation. How
+The Foundation makes these determinations will be public and open, but
+are subject to change at some preterminded notice which might be as
+short as hours. These are the knobs the engineer has to stabilize the
+metric and equalize the wealth ideas across regions and nationalizes.
+It’s not a veritual petition, where you get people to put their names
+down, but a investiment of value – scoot they own or asimov, into the
+initial scoot offering. How this works will be part of the humain
+training.
+
+Well, in the protocol, we will require staking networks to process scoot
+transactions. How does a Scoot establish these networks before it
+trades. Once there are many holders of scoot, after ISO, there will be
+many pledge nodes online and a dynamic participation network may be
+foremed. But initially, and to serve as part of The Foundation’s
+infrastructure and earn more fees, I think being a “human” staker of an
+idea also means that you’re expected to stake the entity on the protocol
+network as well.
+
+This will mean that single staking – a billionaire implementing a Scoot
+of Property as a benefolanet dictatoriship[73] will cost quite a bit
+more both in initial capital, but also in terms of the staking one has
+to put up for an Initial Scoot Offering (ISO). And single staking
+doesn’t earn fees. If you like this because it’s sticking it to the
+rich, right on. My motivation is ideological, the more people that are
+responsible for something, the more real value it has. It might be
+vanity – fleeting value. It might be genius – value to hold on to.
+However, if the property is truly valuable to humanity, and a
+billionaire is taking a leap of faith in this system, he’s liable to
+take a big leap up the genius wealth value. So I think it works out, for
+some billionaires, at least. One might change his title by flipping a B
+to a T like his first name and laughing his Texas ass off by serving
+those rocket-ship flying billionaires from a Food Court in orbit.
+
+All that is just a distraction from the fact I have no idea how actual
+staking netorks in proof of stake systems work, but the idea is simple
+enough in a human system. The human value system is what is important.
+I’ll describe how I’d implement it, but what I’m really describing is
+how the human system will work.
+
+### Liu and Stephenson
+
+Scoot(-1 == Liu) and Scoot (-2 == Stephenson) are cross-chain tokens
+issued by The Foundation as rewards for nodes for processing
+transaction.
+
+### Responsibility Domain
+
+### 
+
+### 
+
+### 
+
+### 
+
+### Value Domain
+
+## Elections
 
 # Appendix B – Asimov Distribution Schedule
 
@@ -6379,8 +6789,8 @@ share decentralized redundancy of the scoot-chain.
 | National Stakes          | 10.00%       | National Stakes                       | 10.00%  | 100,000,000,000   | TBD  |
 | Seeding                  | 1.00%        | Seeding                               | 1.00%   | 10,000,000,000    | 1    |
 | Development              | 1.00%        | Development                           | 1.00%   | 10,000,000,000    | 1    |
-| Outreach Faucet          | 1.00%        | Art Professionals                     | 0.50%   | 5,000,000,000     | 1    |
-|                          |              | Art Educators                         | 0.50%   | 5,000,000,000     | 1    |
+| Outreach Faucet          | 1.00%        | Creative Professionals                | 0.50%   | 5,000,000,000     | 1    |
+|                          |              | Primary Educators                     | 0.50%   | 5,000,000,000     | 1    |
 | Engineer’s Reserve       | 1.00%        | Engineer’s Reserve                    | 1.00%   | 10,000,000,000    | 1    |
 | Genius & Vanity (GAV-D0) | 10.00%       | Remainder of starting decade (..2030) | 10.00%  | 100,000,000,000   | 1    |
 | GAV-D1                   | 9.00%        | Decade 1 (2031)                       | 9.00%   | 90,000,000,000    | 10   |
@@ -6396,6 +6806,30 @@ share decentralized redundancy of the scoot-chain.
 # Appendix C – Scoot Naming Reservations
 
 # Appendix D – Scoot of Team
+
+Before I show you how we get to the Scoot of Houston Rocket, I’ll
+explain what my vision is for the team. So we’ll know where we are going
+before we depart.
+
+## scoot(84)
+
+The holders of scoot(84) believe the Houston Rockets are the best team
+ever because they have the greatest legacy of genius.
+
+Operating an NBA Franchise as a public good has to make certain
+tradeoffs. First, the measurement of success is not revenue. However,
+enough revenue needs to be generaterd to meet the salary cap and
+overhead of supporting a team and the fanbase.
+
+First, the live venue must fill every seat, every night. That’s the best
+way to appreciation.There will be some suites and a few season ticket
+sections, but we’ll do away with corporate sales altogetiher. Scoot(84)
+works as a prime shard, and many shards operate with charecterisitics
+that qualify them
+
+## Getting there
+
+##  
 
 # Appendix E – A Lesson in Texas History
 
@@ -6644,20 +7078,38 @@ responsibility.
 most passionate nations, Texas has its own private history based on, but
 not limited by, facts.”*
 
-[64] Bieber, Drake, Reynolds, that mayor dude, ….
+[64] The original wording wasn’t nearly so poetic, but perhaps more
+accurate.
 
-[65] *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin
+[65] This is to differentiate from other forms of human trafficking and
+forced servitude which may .
+
+[66] Twain was heavily influenced by Georgism. [Georgism (from
+Wikipedia)](https://en.wikipedia.org/wiki/Georgism): “is an economic
+ideology holding that, although people should own the value they produce
+themselves, the economic rent derived from land – including from all
+natural resources, the commons, and urban locations – should belong
+equally to all members of society.”
+
+[67] Bieber, Drake, Reynolds, that mayor dude, ….
+
+[68] *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin
 Timberlake, Printz Board, Michael Fratantuno and George Pajon, Jr.
 
-[66] In one swift stroke, the author deftly ensures he is never invited
+[69] In one swift stroke, the author deftly ensures he is never invited
 to a dinner party with fancy artsy people.
 
-[67] The First Amendment covers freedom of religion and speech.
+[70] The First Amendment covers freedom of religion and speech.
 
-[68] Children, that’s literally the proper usage of “literally.”
+[71] Children, that’s literally the proper usage of “literally.”
 
-[69] A mid-21<sup>st</sup> century trend where basketball fans would get
+[72] A mid-21<sup>st</sup> century trend where basketball fans would get
 together and issue and ICO (Initial Clone Offering) where they would mix
 the DNA from various superstars to create NBA players. Stephan Curry’s
-DNA was present to some extend in almost every clone, so the kids had
+DNA was present to some extent in almost every clone, so the kids had
 taken to calling them currys.
+
+[73] Or whatever marketing terminology The Foundation’s manamengent team
+wants to use, as to not to offend and nations where that is a
+legitagment form of human governance. Oe Linus. This won’t ever work if
+we have to pay for code.
