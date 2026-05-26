@@ -11615,6 +11615,317 @@ Steve Fairchild
 
 The Foundation Is Gratitude
 
+# Contents
+
+[Intrinsic Value [1](#intrinsic-value)](#intrinsic-value)
+
+[The Foundation [4](#the-foundation)](#the-foundation)
+
+[A Measure of Wealth [4](#a-measure-of-wealth)](#a-measure-of-wealth)
+
+[Guardians of the Public Domain
+[7](#guardians-of-the-public-domain)](#guardians-of-the-public-domain)
+
+[How it works [11](#how-it-works)](#how-it-works)
+
+[Linux [11](#linux)](#linux)
+
+[Bitcoin [12](#bitcoin)](#bitcoin)
+
+[Social Media [13](#social-media)](#social-media)
+
+[Awbrey Hack [13](#awbrey-hack)](#awbrey-hack)
+
+[Scoot - Dynamically Scalable Responsibility
+[15](#scoot---dynamically-scalable-responsibility)](#scoot---dynamically-scalable-responsibility)
+
+[The Foundation for the Appreciation of Human Genius
+[18](#the-foundation-for-the-appreciation-of-human-genius)](#the-foundation-for-the-appreciation-of-human-genius)
+
+[Asimov and Scoot [18](#asimov-and-scoot)](#asimov-and-scoot)
+
+[Property of Wealth (POW)
+[22](#property-of-wealth-pow)](#property-of-wealth-pow)
+
+[Scoot Conformance [23](#scoot-conformance)](#scoot-conformance)
+
+[Scootchain [25](#scootchain)](#scootchain)
+
+[Responsibility Tree [26](#responsibility-tree)](#responsibility-tree)
+
+[Scoot Naming System (SNS)
+[28](#scoot-naming-system-sns)](#scoot-naming-system-sns)
+
+[Scoot Entity [29](#scoot-entity)](#scoot-entity)
+
+[Application of Scoot
+[31](#application-of-scoot)](#application-of-scoot)
+
+[Scoot of Property (SOP)
+[31](#scoot-of-property-sop)](#scoot-of-property-sop)
+
+[Scoot of Gratitude (SOG)
+[33](#scoot-of-gratitude-sog)](#scoot-of-gratitude-sog)
+
+[Post-Agency Scoot (PoAS)
+[42](#post-agency-scoot-poas)](#post-agency-scoot-poas)
+
+[Circulation [44](#circulation)](#circulation)
+
+[Staked [44](#staked)](#staked)
+
+[First Foundation [44](#first-foundation)](#first-foundation)
+
+[Texas Catfish [45](#texas-catfish)](#texas-catfish)
+
+[Second Foundation [48](#second-foundation)](#second-foundation)
+
+[Private Stake [48](#private-stake)](#private-stake)
+
+[Private Staking Period
+[48](#private-staking-period)](#private-staking-period)
+
+[Distribution [48](#distribution)](#distribution)
+
+[Stakes [50](#stakes)](#stakes)
+
+[Staking Codes [52](#staking-codes)](#staking-codes)
+
+[The Mule [53](#the-mule)](#the-mule)
+
+[Public Staking Period
+[54](#public-staking-period)](#public-staking-period)
+
+[National Stakes [54](#national-stakes)](#national-stakes)
+
+[Seeding [55](#seeding)](#seeding)
+
+[Development [55](#development)](#development)
+
+[Outreach Faucet [56](#outreach-faucet)](#outreach-faucet)
+
+[Creative enablers [56](#creative-enablers)](#creative-enablers)
+
+[Teachers [56](#teachers)](#teachers)
+
+[Prizes [57](#prizes)](#prizes)
+
+[Museums [57](#museums)](#museums)
+
+[Crusades [58](#crusades)](#crusades)
+
+[Billionaires [60](#billionaires)](#billionaires)
+
+[Billionaire meme [64](#billionaire-meme)](#billionaire-meme)
+
+[Deterministic Mythology
+[70](#deterministic-mythology)](#deterministic-mythology)
+
+[National Treasure [73](#national-treasure)](#national-treasure)
+
+[Royal Treasure [76](#royal-treasure)](#royal-treasure)
+
+[Amnesty [76](#amnesty)](#amnesty)
+
+[Repatriations and Reparations
+[76](#repatriations-and-reparations)](#repatriations-and-reparations)
+
+[No Fault [76](#no-fault)](#no-fault)
+
+[Immaterial Genius [77](#immaterial-genius)](#immaterial-genius)
+
+[Agency [79](#agency)](#agency)
+
+[Scoot of Agency (SOA) [81](#scoot-of-agency-soa)](#scoot-of-agency-soa)
+
+[Pre-Agency (PrAS) [84](#pre-agency-pras)](#pre-agency-pras)
+
+[Post-Agency (PoAS) [84](#post-agency-poas)](#post-agency-poas)
+
+[Elon Throwdown [87](#elon-throwdown)](#elon-throwdown)
+
+[Scoot of Collective Genius (SCoG)
+[96](#scoot-of-collective-genius-scog)](#scoot-of-collective-genius-scog)
+
+[Collective Vanity [97](#collective-vanity)](#collective-vanity)
+
+[Monuments and Nature’s Bounty
+[98](#monuments-and-natures-bounty)](#monuments-and-natures-bounty)
+
+[Diplomacy [99](#diplomacy)](#diplomacy)
+
+[Die Hard 7 – In a world of the king’s gold
+[101](#die-hard-7-in-a-world-of-the-kings-gold)](#die-hard-7-in-a-world-of-the-kings-gold)
+
+[Die Hard 7 – Leonardo’s Revenge
+[103](#die-hard-7-leonardos-revenge)](#die-hard-7-leonardos-revenge)
+
+[The Stinger [105](#the-stinger)](#the-stinger)
+
+[Corporate Genius [106](#corporate-genius)](#corporate-genius)
+
+[Genius CYA [109](#genius-cya)](#genius-cya)
+
+[Academic Genius [111](#academic-genius)](#academic-genius)
+
+[Stop Reading, Lars [111](#stop-reading-lars)](#stop-reading-lars)
+
+[Drumland [112](#drumland)](#drumland)
+
+[Open Source Everything
+[117](#open-source-everything)](#open-source-everything)
+
+[Collecting Responsibility
+[119](#collecting-responsibility)](#collecting-responsibility)
+
+[Collecting Whatever [130](#collecting-whatever)](#collecting-whatever)
+
+[Instant Karmic Soup Kitchens (IKSK)
+[131](#instant-karmic-soup-kitchens-iksk)](#instant-karmic-soup-kitchens-iksk)
+
+[Goodbye Season Tickets
+[138](#goodbye-season-tickets)](#goodbye-season-tickets)
+
+[Incongruence of Values
+[151](#incongruence-of-values)](#incongruence-of-values)
+
+[Alignment of Values [155](#alignment-of-values)](#alignment-of-values)
+
+[Artificial Scarcity [157](#artificial-scarcity)](#artificial-scarcity)
+
+[Psychohistory [160](#psychohistory)](#psychohistory)
+
+[Scoot of Bling (SOB) [164](#scoot-of-bling-sob)](#scoot-of-bling-sob)
+
+[Scoot of Transportation (SOT)
+[170](#scoot-of-transportation-sot)](#scoot-of-transportation-sot)
+
+[Governance [175](#governance)](#governance)
+
+[Charter [175](#charter)](#charter)
+
+[Electorates [176](#electorates)](#electorates)
+
+[Responsibility Domain
+[176](#responsibility-domain)](#responsibility-domain)
+
+[Value Domain [176](#value-domain)](#value-domain)
+
+[Election frequency [176](#election-frequency)](#election-frequency)
+
+[The Board of Trustees
+[177](#the-board-of-trustees)](#the-board-of-trustees)
+
+[Engineer (1) [177](#engineer-1)](#engineer-1)
+
+[Continentals (7) [182](#continentals-7)](#continentals-7)
+
+[Popular (3) [182](#popular-3)](#popular-3)
+
+[Term Limits [183](#term-limits)](#term-limits)
+
+[Ethical Standards [183](#ethical-standards)](#ethical-standards)
+
+[The Line [183](#the-line)](#the-line)
+
+[Shunning [184](#shunning)](#shunning)
+
+[Management [185](#management)](#management)
+
+[Creation [185](#creation)](#creation)
+
+[Security [185](#security)](#security)
+
+[Encyclopedist [186](#encyclopedist)](#encyclopedist)
+
+[Provisional Board [187](#provisional-board)](#provisional-board)
+
+[Origins [188](#origins)](#origins)
+
+[Digital Sainthood [196](#digital-sainthood)](#digital-sainthood)
+
+[Stasis [198](#stasis)](#stasis)
+
+[Genius Antagonism [199](#genius-antagonism)](#genius-antagonism)
+
+[Genius Ancestry [206](#genius-ancestry)](#genius-ancestry)
+
+[Generational Wealth [210](#generational-wealth)](#generational-wealth)
+
+[Truces and Curses [211](#truces-and-curses)](#truces-and-curses)
+
+[Canada [211](#canada)](#canada)
+
+[Yankees [212](#yankees)](#yankees)
+
+[Dodgers [212](#dodgers)](#dodgers)
+
+[The Curse of the Asterisk
+[214](#the-curse-of-the-asterisk)](#the-curse-of-the-asterisk)
+
+[Ethical Revolution [215](#ethical-revolution)](#ethical-revolution)
+
+[No Small Genius [222](#no-small-genius)](#no-small-genius)
+
+[Acknowledgements [224](#acknowledgements)](#acknowledgements)
+
+[F.A.Q. [226](#f.a.q.)](#f.a.q.)
+
+[Appendix A – Asimov Distribution Schedule
+[232](#appendix-a-asimov-distribution-schedule)](#appendix-a-asimov-distribution-schedule)
+
+[Appendix B – Scoot Naming Reservations
+[233](#appendix-b-scoot-naming-reservations)](#appendix-b-scoot-naming-reservations)
+
+[Appendix C – Prime Shards
+[236](#appendix-c-prime-shards)](#appendix-c-prime-shards)
+
+[Appendix D – Scoot of Team
+[238](#appendix-d-scoot-of-team)](#appendix-d-scoot-of-team)
+
+[Kerouac Crews (On the Road Scoot)
+[239](#kerouac-crews-on-the-road-scoot)](#kerouac-crews-on-the-road-scoot)
+
+[Foreign Outposts [241](#foreign-outposts)](#foreign-outposts)
+
+[Scoot of Whatevera [242](#scoot-of-whatevera)](#scoot-of-whatevera)
+
+[Scoot of Special Purpose Entities (SSPE)
+[243](#scoot-of-special-purpose-entities-sspe)](#scoot-of-special-purpose-entities-sspe)
+
+[Appendix E – A Lesson in Texas History
+[249](#appendix-e-a-lesson-in-texas-history)](#appendix-e-a-lesson-in-texas-history)
+
+[Big Mama [249](#big-mama)](#big-mama)
+
+[Little Mama [255](#little-mama)](#little-mama)
+
+[Stinky Fingers [265](#stinky-fingers)](#stinky-fingers)
+
+[The Canadian [272](#the-canadian)](#the-canadian)
+
+[The Defender of Texas History
+[285](#the-defender-of-texas-history)](#the-defender-of-texas-history)
+
+[Revision History [295](#revision-history)](#revision-history)
+
+[Chapter Coding [295](#chapter-coding)](#chapter-coding)
+
+[First Edition, unchanged
+[295](#first-edition-unchanged)](#first-edition-unchanged)
+
+[Content changes from first edition
+[295](#content-changes-from-first-edition)](#content-changes-from-first-edition)
+
+[New content, Second Foundation
+[295](#new-content-second-foundation)](#new-content-second-foundation)
+
+[Scoot(1) [298](#scoot1)](#scoot1)
+
+[Scoot(23) [299](#scoot23)](#scoot23)
+
+[Scoot(25) [308](#scoot25)](#scoot25)
+
 [1] The Gold Standard died for good in 1976 when I was in kindergarten.
 In school, I was taught the gold standard. I guess they thought floating
 currency is too complex to explain to a kid. I guess is it won’t be long
