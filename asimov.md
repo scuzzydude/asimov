@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.85**
+**Version 0.87**
 
 ***ADVANCED READING COPY***
 
@@ -65,7 +65,7 @@ The two true hedges against inflation are *genius* and *vanity*.
 It is likely that within my lifetime, technology will have advanced to a
 stage where we can passively scan inanimate objects and digitize them
 down to the atomic level. 3-D printing will advance to a level where we
-can reproduce facsimiles of scanned items that and indinistinguishable
+can reproduce facsimiles of scanned items that are indistinguishable
 from the original to human senses.
 
 It’s very possible that in a few decades, you want a reproduction of the
@@ -707,7 +707,7 @@ responsibility, your wealth increases.
 Scoot (uppercase) is a group of accountable individuals. Lowercase scoot
 is a unit of responsibility.
 
-Scoot is an enterprise that does not own property of wealth.
+Scoot is an enterprise that does not own property.
 
 While it might be easier to explain what scoot is in terms of
 cryptocurrency or existing financial instruments, it would be wrong.
@@ -744,7 +744,7 @@ Scoot is the vessel for this responsibility.
 
 <img src="media/image2.png" style="width:6.38392in;height:4.52893in" />
 
-Figure 1 - The Foundation - VALUE and RESPONSIBLITY DOMAINS
+Figure - The Foundation - VALUE and RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a
 legacy of genius. Each Scoot shall have a charter, clearly stating the
@@ -4913,9 +4913,9 @@ In Houston, we have two fundamental archetypes for our heroes. The
 first, the ultra-hero, with the superpowers of moral strength, absolute
 faith, and unwavering courage. This is the universal hero archetype,
 across cultures, though few cities are lucky enough to get one. I was
-lucky enough to watch one this past summer. It was another athletic big
-man with Nigerian roots who wore the number 34 on his jersey. I was
-happy when Giannis Antetokounmpo celebrated his championship victory in
+lucky enough to watch one in July 2021. It was another athletic big man
+with Nigerian roots who wore the number 34 on his jersey. I was happy
+when Giannis Antetokounmpo celebrated his championship victory in
 Milwaukee in July. Not nearly as happy as when KPJ dropped fifty on the
 Bucks in April.[67]
 
@@ -10157,7 +10157,7 @@ James was amazed.
 <img src="media/image10.jpeg" style="width:3.58281in;height:3.84722in"
 alt="A picture containing text Description automatically generated" />
 
-Figure 7 - sketch of cave drawing from James Naismith's notebook
+Figure - sketch of cave drawing from James Naismith's notebook
 
 “Yeah, your dad would come up here every day for a few hours, as long as
 he could take it, smoke builds up pretty quick, and it is hard to see
