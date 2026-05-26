@@ -57,12 +57,12 @@ the human concept of money. This disparity, between the technical
 expression of value and the actual human appreciation of value leads to
 all kinds of crazy, like the prices of crypto.
 
-The two true hedges against inflation are Genius and Vanity.
+The two true hedges against inflation are *genius* and *vanity*.
 
 It is likely that within my lifetime, technology will have advanced to a
 stage where we can passively scan inanimate objects and digitize them
 down to the atomic level. 3-D printing will advance to a level where we
-can reproduce facsimiles of scanned items that and indistinguishable
+can reproduce facsimiles of scanned items that and indinistinguishable
 from the original to human senses.
 
 It’s very possible that in a few decades, you want a reproduction of the
@@ -82,8 +82,8 @@ Facsimiles are not the true potential. The true potential of this
 technology is that one day, we may be able to reproduce *Mona Lisa* by
 brushstrokes – it is possible we’ll be able to deduce not only Da
 Vinci’s strokes, but from that, his height, the size of his fingers, the
-strength of his forearms, and the duration of his patience pauses
-between strokes.
+strength of his forearms, and the duration of his pauses between
+strokes.
 
 We might be able to better understand Da Vinci’s genius. Not everybody.
 Those who love his art, those who have the patience to watch a master
@@ -95,7 +95,7 @@ the Hobby Lobby.
 Works of art don’t just have historical value. They have potential
 value. And anything that is one of a kind has vanity value.
 
-Genius and Vanity are intangible, but real. This is one problem people
+Genius and vanity are intangible, but real. This is one problem people
 have understanding money. Most people can understand equities, a share
 of stock is partial ownership of a company. Most people can understand a
 fixed currency - a gold-standard dollar is an actual gold coin. People
@@ -742,7 +742,7 @@ Scoot is the vessel for this responsibility.
 
 <img src="media/image2.png" style="width:6.38392in;height:4.52893in" />
 
-Figure 1 - The Foundation - VALUE and RESPONSIBLITY DOMAINS
+Figure - The Foundation - VALUE and RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a
 legacy of genius. Each Scoot shall have a charter, clearly stating the
@@ -3383,8 +3383,8 @@ seductresses.
 Since the dawn of the information age, we’ve had the longest continuous
 military peace between world powers in history.[47] There is a reason
 for that, and it’s the nuclear take on the hostage exchange. We don’t
-need to bother with exchange part, we can just kill your entire family,
-including in-laws and mistresses, from way over here. From a
+need to bother with the exchange part, we can just kill your entire
+family, including in-laws and mistresses, from way over here. From a
 military-diplomacy systems point of view, we have a fail-safe but it’s a
 hard trip, so the system dynamically adjusts to achieve a stable, though
 sometimes volatile, equilibrium. Mutually Assured Destruction hasn’t
@@ -3440,8 +3440,8 @@ Shouting in five different languages from the video screens.
 “All right, all right, all right,” the President pushes a button, and
 the screens go blank.
 
-> “John McClain, thank you for coming.”  
-> “You’re keeping me from the fish, sir.”
+“John McClain, thank you for coming.”  
+“You’re keeping me from the fish, sir.”
 
 “Sorry, old friend. I wouldn’t have picked you except I didn’t have a
 choice.”
@@ -4169,35 +4169,6 @@ appreciated by more people. The economics must adjust to that. Giving
 away your work creates more value than selling it, and if your work is
 digital, the cost of distributing your product is negligible.
 
-### Efficient Systems
-
-Efficient systems will win. Napster is an illustration of that point.
-Downloading free music didn’t stop when Napster was shut down. It became
-slightly more complicated, but anybody with the barest of computer
-skills, such as being able to type, “*How to download free mp3 by…*”
-into a Google search could still download music and find whatever they
-wanted. Later, with iTunes and streaming, it became more efficient just
-to pay a little to hear whatever you wanted.
-
-The movie industry resisted efforts of streaming service like Netflix
-because they did not know how to measure the value of their product.
-Hollywood measured it in sales, in property, be it the rental of seat
-for a showing of a movie or a piece plastic encoded with the digital
-version of a film. The value of a film or a book or a song, is not in
-the exchange of property. It is appreciation that creates value.
-
-Netflix took another path. Now we have all kinds of original
-programming, both series and feature length, from all around the world,
-available on streaming services without advertising. How do they make
-money? No idea, and it doesn’t matter. The value is not something I
-measure in dollars – or to put it simply – for $15 a month for a family
-of five, I’m getting great value. That’s $3 per person, for a full month
-worth of entertainment. It’s been a long time, but I’m pretty sure it
-cost more than $3 to rent a single movie from Blockbuster back in the
-day.
-
-Efficient system win.
-
 # Collecting Responsibility
 
 While I’ve never had that special thrill that supposedly comes with
@@ -4290,13 +4261,13 @@ My postcard wasn’t special because Colonel Scobee signed it. It was
 special because of how he touched my life, and because of his sacrifice.
 I felt bad not because I lost a collectable that might be valuable, but
 because I failed at my responsibility to preserve the memory of a hero,
-a genius of exploration. I failed both my ancestors and my decedents in
-my responsibility to keep a small piece of history alive.
+a genius of exploration. I failed both my ancestors and my descendants
+in my responsibility to keep a small piece of history alive.
 
 Throughout history, the basis of money has been gold. Throughout
-history, gold’s value has primarily been ornamental, and no matter how
-you twist it, that value is vanity.[57] The jewelry industry wants us to
-believe the more you spend on gold, the more you love someone, and we
+history, gold’s utility has primarily been ornamental, and no matter how
+you twist it, that utility is vanity.[57] The jewelry industry wants us
+to believe the more you spend on gold, the more you love someone, and we
 all know that is ridiculous. It is always vanity, and I think the right
 amount of vanity is good for both individuals and for society.
 
@@ -4321,7 +4292,7 @@ much.
 I thought of the basketball gift. I liked starting with a sports analogy
 and contrasting that with my postcard. Modern currencies, fiat and
 crypto, aren’t really relatable to most people, because they are
-difficult to understand. Neither is the art world. Few people, even the
+difficult to understand. So is the art world. Few people, even the
 wealthy, can fathom paying more for a painting than it costs to send a
 kid to college. More people can relate to sports, and we can all imagine
 getting paid what professional athletes get paid. Virtually all people
@@ -4587,7 +4558,7 @@ appreciation of the chef’s scoot.
 Maybe you’re a Kerouac fanatic and you start a Scoot and build out a
 cool writers retreat on the California Coast near Big Sur. You have
 cottages, where wannabe beatnik writers come and drink, and smoke, and
-pop Benzedrine, stay up all night, pretending they like Jazz, and type
+pop Benzedrine, stay up all night, pretending they like jazz, and type
 until dawn on manual typewriters on long rolls paper, just like old Jack
 did with *On The Road*. Would that be a genius way to remember Jack
 Kerouac? Don’t know. When half the scootage dies early of cirrhosis,
@@ -4739,9 +4710,6 @@ Foundation, so there probably won’t be many pledges in the neighborhood.
 We get a few people to buy-in and agree to terms in asimov for the
 exchange with the existing stakers.
 
-IKSK is a shared resource, but the scootage is not expected to eat soup
-every night.
-
 There are fixed costs, such as the rent, Deemo’s salary, electricity,
 insurance. And there are variable costs, specifically, the food. There
 is also the cost of placing all these hedge bets in the value domain so
@@ -4756,9 +4724,7 @@ For the variable costs, we take the previous weeks cost per meal, and
 for each meal served, the scoot holder[61] is issued an additional scoot
 for that cost. This is essentially pricing the scoot in the asimov
 equivalent of the cost of a bowl of soup. It dilutes the scoot in favor
-of those who eat a lot of soup. Those who eat the most also incur a
-higher proportion of the fixed costs as they consume more soup. This is
-appropriate.
+of those who eat a lot of soup.
 
 Two problems. It’s intentionally not easy to become a pledge, at least
 not in the early days. This is a designed feature of the system – we
@@ -4824,7 +4790,7 @@ reduced to a level that is affordable to eat daily for all the families
 in the area. It’s not rare to find a line of outside the hall.
 
 This is where the privileges come in. You have a hierarchy of the OGs,
-the scootage, the virtual scootage and the property customers. In our
+the scootage, the virtual scootage and the cash customers. In our
 system, we have privilege with our wealth. Those most responsible get
 the most privilege. Because table space is limited, you might have a
 reservation system, and OGs and their families get priority. OGs might
@@ -5130,17 +5096,16 @@ dodged a bullet with that one. What if *The Dream* had come back to
 Texas hooked on curling and wearing a *Rush* T-shirt? The inhumanity!
 
 There was no means to accomplish this, there is a salary cap in
-professional sports to promote competition, but let’s considerable a
-hypothetical for a second. How much money do you think the Rockets could
-have raised if they’d let the fans contribute to keeping Hakeem in
-Houston? I was thirty at the time, had two small children and a good job
-but also a lot of expenses. How much could I realistically contributed?
-I’d say a thousand dollars, easy. How many fans would have paid that
-much to keep their hero in town? 50,000? For sure. 100,000? Probably.
-More? Maybe not, but how many would have contributed something? Half a
-million? Almost certainly if we’re counting the little *Dreams* and
-their piggy banks. $100 million would have easily been raised, if it had
-been allowed.
+professional sports to promote competition, but consider a hypothetical.
+How much money do you think the Rockets could have raised if they’d let
+the fans contribute to keeping Hakeem in Houston? I was thirty at the
+time, had two small children and a good job but also a lot of expenses.
+How much could I realistically contributed? I’d say a thousand dollars,
+easy. How many fans would have paid that much to keep their hero in
+town? 50,000? For sure. 100,000? Probably. More? Maybe not, but how many
+would have contributed something? Half a million? Almost certainly if
+we’re counting the little *Dreams* and their piggy banks. $100 million
+would have easily been raised, if it had been allowed.
 
 That value, whatever it could have been, still does not reflect
 Olajuwon’s value to Houston. For me, as corny as it sounds, “Believe
@@ -5255,7 +5220,7 @@ Olajuwon. Good luck with that kind of value judgement, Philly.
 Still bitter? Yes, apparently. And that’s my point. I’m one fan. I place
 tremendous value on this small but very positive piece of history that
 touched my life. I appreciate it enough to write about it, but to
-increase that value of that appreciation, all I really need do is share
+increase the value of that appreciation, all I really need do is share
 it. You multiply that across the fanbase, it’s worth more than the $2
 billion appraised value of the Rockets franchise. The Rockets franchise
 is property.
@@ -5334,10 +5299,10 @@ about World Health, so I feel that he’s invited me to make this
 comparison.
 
 Say we each have a family member with a potentially terminal condition.
-What is worth to each of us to save the family members life? Unless the
-other two guys are heartless bastards, the answer should be the same.
-Everything we have. And whatever we can beg, borrow or steal. I can
-think of no purer equivalency of value than that.
+What is it worth to each of us to save the family member’s life? Unless
+the other two guys are heartless bastards, the answer should be the
+same. Everything we have. And whatever we can beg, borrow or steal. I
+can think of no purer equivalency of value than that.
 
 The reality is quite different. Bill Gates net worth is at least 250,000
 times what mine is. My net worth may only be about 1,000 times that of
@@ -5490,8 +5455,8 @@ basic education, and health care, we should bias our efforts to raising
 that wealth level because that is potential genius – real treasure –
 that could be lost to mankind forever.
 
-Can a real human organization pull that off? That’s why there not much
-dogma. It’s not ideological and I don’t know what the religious
+Can a real human organization pull that off? That’s why there is not
+much dogma. It’s not ideological and I don’t know what the religious
 objections would be. It’s not anti-capitalist. Capital consists of
 assets used for the production of goods or services. The assets we are
 quantifying – mankind’s cumulative genius – is already available to
@@ -5551,8 +5516,8 @@ it costs just as little to remember the losers as the winners. That’s
 why we leave it to individuals to decide, what are you responsible for
 appreciating?
 
-Everybody should have something they are passionate about that can
-directly lead to wealth. Your values are your wealth. This is how Scoot
+Everybody should have something they are passionate about that can lead
+directly to wealth. Your values are your wealth. This is how Scoot
 works. Your values are who you are. We are all created equal. That’s the
 only real equivalence of value.
 
@@ -5571,7 +5536,7 @@ to data than it is to allow everybody in the world to have it. That is
 the leverage of the internet and having digital devices everywhere.
 
 Capitalism is not an unfair system if everybody starts out with the same
-capital. It’s more like *Monopoly*, there is a handful of good
+capital. It’s more like *Monopoly*, there are a handful of good
 strategies, but it also depends on a bit of luck. Fair enough, that
 aligns with life in general. The problem capitalism has always had is if
 you start out with more capital, your odds are much, much better.
@@ -5744,7 +5709,7 @@ USD per asimov.
 | Asimov Price Target                 | $2,520.00         |                    |
 
 As a psychohistorian I’ll note another fact about Earth’s economy.
-There’s about $80 Trillion in national debt across nations, and the
+There’s about $80 trillion in national debt across nations, and the
 engineer who came up with this genius-based system has reserved 10% of
 the genius value for National Stakes. Could humanity eliminate this debt
 – a legacy of inefficient government habits from when they were all
@@ -5777,7 +5742,7 @@ I’ll fly back to Terminus in my starship and give the Board of Trustees
 my report. “Everything on Earth will be just fine. All they needed was a
 hero. The plan to send Olajuwon worked out just as my calculations
 predicted. Their value system is back on track. Earth will eliminate war
-within a decade, and poverty within a twenty earth-years.”
+within a decade, and poverty within twenty earth-years.”
 
 The head trustee asks, “What about the other guy, what was his name?
 Before you left, you told us there was another chosen one, like a backup
@@ -5805,7 +5770,7 @@ fun. There’s a simple solution that solves another problem, how to
 replace the geo-flex of the East Coast West Coast rap rivalry, without
 all the murder.[80]
 
-There’s are a reason the Peas song goes *Up inside the club or in your
+There’s are a reason the Pea’s song goes *Up inside the club or in your
 Bentley*. Apl.de.ap is cool, he wants to save the planet, but it can’t
 be *Up inside the club or in your Tesla*. You can’t flex something you
 can’t hear coming.[81] You can’t flex a tax credit – that’s like an
@@ -5939,11 +5904,11 @@ don’t liquidate value, you create value.
 
 In [Appendix D](#_Scoot_of_Special) I describe Scoot of Special Purpose
 Entities (SSPE) which are designed to ensure that property that is
-turned to genius wealth remains in the public domain. It’s easy to see
-that Scoot of Bling could be an instrument for fraud and tax evasion and
-that would undermine the system. SSPE work as statis for the physical
-property curated by Scoot. SSPE will repurpose property in a system that
-ensures that it is a benefit to the public good.
+transformed into genius wealth remains in the public domain. It’s easy
+to see that Scoot of Bling could be an instrument for fraud and tax
+evasion and that would undermine the system. SSPE work as statis for the
+physical property curated by Scoot. SSPE will repurpose property in a
+system that ensures that it is a benefit to the public good.
 
 What happens when Jay-Z moves on? It depends. He can leave control of
 the Scoot to his heirs, and they can be the arbiters of what kind of
@@ -5986,9 +5951,7 @@ of wheels waiting next time Jay-Z lands in Seoul.
 
 This could lead to all kinds of exclusive luxury. Every genius musician
 needs a boat, but a musician don’t need a boat every day. Scoot of Yacht
-is the way to go. Same goes with homes in Italy, or the Rivera or in
-Manhattan or Tokyo. Instead of AirBnB, it’s a network of places to stay
-connected by shared value systems.
+is the way to go.
 
 Exclusivity is a privilege of genius wealth. It’s open and every
 participant will know the rules. The exclusivity lasts while the bling
@@ -6133,13 +6096,13 @@ carbon tax at the pump, using a bypass code she got from an
 environmental cleanup worker client. This act of rebellion would cost
 her 10 years in the Supermax in a cell next to El Chapo.
 
-Rather than ending your SOT value for good, you see a spike in demand,
-from lawyers all over the country. They want to drive a Pink Cadillac
-when rolling up on the steps of justice for a big case, it becomes like
-the Bonzo Bentley for big-time fight-the-man attorneys. Crowds always
-gather, stop, and take photos of a Hello Kitty Cadillac and post it all
-over the internet, knowing some justice is about to get served. Would
-that be transportation, or bling, or just a way to throw it down?
+You see a spike in demand, from lawyers all over the country. They want
+to drive a Pink Cadillac when rolling up on the steps of justice for a
+big case, it becomes like the Bonzo Bentley for big-time fight-the-man
+attorneys. Crowds always gather, stop, and take photos of a Hello Kitty
+Cadillac and post it all over the internet, knowing some justice is
+about to get served. Would that be transportation, or bling, or just a
+way to throw it down?
 
 #### Scoot of Minion (SOM)
 
@@ -6188,10 +6151,9 @@ permanent historical record of a value judgement. It’s not something
 that can be joined anonymously. Joining shuns are a choice – you must
 choose to make the same value judgement as somebody else.
 
-All someone must do is shun your Scoot as *cheating lawyer
-douchebaggery*. Your young associates may have to consider what being
-associated with that may do to their future careers in the genius
-economy.
+All someone must do is shun your Scoot as *stanky lawyer douchebaggery*.
+Your young associates may have to consider what being associated with
+that may do to their future careers in the genius economy.
 
 # Governance
 
@@ -6541,9 +6503,8 @@ means it’s a perpetual responsibility. Those preserving something bad
 for history’s stake make a commitment to do it, but in form of scoot
 that could never be traded for profit.[87]
 
-The charter should attempt to address these ethical concerns in a manner
-that is fair across cultures and time periods. An actual job for a
-philosopher.
+The charter should address these ethical concerns in a manner that is
+fair across cultures and time periods. An actual job for a philosopher.
 
 The charter may specify a judicial system to make judgements on
 appropriate content. This is very dangerous, as societal trends of the
@@ -6566,7 +6527,7 @@ altogether.
 
 The charter should address how shuns are created. A board shun should
 take a unanimous vote by the board and prevent The Foundation from
-processing transaction for the scoot. A consensus shun would take a
+processing transaction for the Scoot. A consensus shun would take a
 minimum number of pledges to stake.
 
 Shunning could be political. All scoot based in a country making war on
@@ -6859,7 +6820,7 @@ And these geniuses, will be the foundation of The Foundation. This is
 why I can pledge not to touch the private stake in the development of
 this system.
 
-I do not have much capital I can invest in this venture, but I have
+I do not have much capital I can commit to this venture, but I have
 something greater that I can stake. It’s greater than any property value
 that Elon Musk or Bill Gates can contribute. I’m not the first. Thomas
 Jefferson changed the world with it. Jay-Z built an empire with it.
@@ -6922,18 +6883,18 @@ For eight years, James Harden was my hero, and he broke my heart when he
 left town. Until the fall of 2020, I had nothing but love in my heart
 for *The Beard*. I’ll give him full credit for his time in Houston, it
 was fun and exciting to watch, and I always had hope. While he was here
-James rarely missed a game, never took games off to load balance, played
-both games of a back-to-back, and always made the right basketball
-decisions. I never blamed him for the loses in the playoffs. I thought
-it was a system problem. He is a hooper and a genius dedicated to his
-craft, and the pressures on him in such an intense environment must have
-been extremely hard to live with. James has had that responsibility from
-a very young age. I never was on the James Harden doesn’t play defense
-bandwagon, a lot of the clips they’d show on television didn’t include
-the context of the game.[90] I saw him really step up his defense that
-last season, and he took it to another level in the NBA Bubble. I’m
-proud that the last playoff series win for the Rockets was sealed by an
-awesome James Harden defensive play.
+James rarely missed games for injury, never took games off to load
+balance, played both games of a back-to-back, and always made the right
+basketball decisions. I never blamed him for the loses in the playoffs.
+I thought it was a system problem. He is a hooper and a genius dedicated
+to his craft, and the pressures on him in such an intense environment
+must have been extremely hard to live with. James has had that
+responsibility from a very young age. I never was on the James Harden
+doesn’t play defense bandwagon, a lot of the clips they’d show on
+television didn’t include the context of the game.[90] I saw him really
+step up his defense that last season, and he took it to another level in
+the NBA Bubble. I’m proud that the last playoff series win for the
+Rockets was sealed by an awesome James Harden defensive play.
 
 I don’t know what really happened between James Harden and the Rockets.
 There were accounts in the media that James Harden behaved like he was
@@ -10037,7 +9998,7 @@ James was amazed.
 <img src="media/image10.jpeg" style="width:3.58281in;height:3.84722in"
 alt="A picture containing text Description automatically generated" />
 
-Figure 7 - sketch of cave drawing from James Naismith's notebook
+Figure - sketch of cave drawing from James Naismith's notebook
 
 “Yeah, your dad would come up here every day for a few hours, as long as
 he could take it, smoke builds up pretty quick, and it is hard to see
@@ -10903,7 +10864,7 @@ would be a powerful – or powerfully stupid – way to make a point.
 wealth on “green” consumer items.
 
 [87] This may be an application for virtual scoot. We need a way to
-measure the “negative value” on an idea, and inverse the wealth, so
+measure the “negative value” of an idea, and inverse the wealth, so
 people responsible for keeping bad ideas alive for the historical record
 can be rewarded.
 
