@@ -1380,7 +1380,7 @@ much *Titanic* had really meant for their career.
 A representative of The Foundation comes on stage and explains how the
 Scoot works and the risks involved, and all the details needed for
 someone to legally participate. Hundreds of attendees line up to submit
-the identification and pledge to The Foundation so that they may show
+their identification and pledge to The Foundation so that they may show
 the world their appreciation of *Titanic*.
 
 The next day, Zoey’s ISO is fully subscribed to the tune of an asimov
@@ -2124,10 +2124,10 @@ blame you, archetypical billionaire. Bad boy, failed at the social
 contract. Forgotten by the history of genius. We’re good, if you
 participated in the responsibility trade, if only in vanity. We captured
 the digitized version on the scoot-chain, so all is not lost forever.
-Losing the paint won’t reflect on Picasso’s genius value, but it’ll will
-on the billionaire’s genius. Next time, just buy some lickable Picasso
-wallpaper, no one expects your llama to live in a barn, your grandpa was
-a billionaire.
+Losing the painting won’t reflect on Picasso’s genius value, but it’ll
+will on the billionaire’s genius. Next time, just buy some lickable
+Picasso wallpaper, no one expects your llama to live in a barn, your
+grandpa was a billionaire.
 
 Art lovers, the billionaires are going to fund a new renaissance in the
 arts in exchange for a social contract with the masses not to repeat the
@@ -2942,8 +2942,8 @@ preservation of culture, to last longer than any physical object. The
 digital record can – and should – last forever.
 
 Since it’s a digital record, the preservation method is the scoot-chain
-protocol. It’s built in and immutable. You can improve upon a digital
-capture of an expression of genius, but the original will also always be
+protocol. It’s built-in and immutable. You can improve upon a digital
+capture of an expression of genius, but the original will always be
 kept.[39]
 
 How does this apply? Let’s think about music. One advantage most
@@ -3054,13 +3054,13 @@ how software and digital devices function as applications of technology.
 How could they not? Yet very few understand how they work at the
 fundamental level. I’ve worked in electronics for my entire career, and
 for the last twenty years I’ve worked for chipmakers. I can assure you
-that least 90% of the engineers I worked with could not explain the
-fundamental concept of how a transistor works to a child. That’s because
-there really is no need – our engineering forefathers did all the hard
-work for us, so that we can work at a higher level of abstraction. Those
-few engineers that work at the physical level of the silicon, the analog
-engineers – believe me, you don’t want any of those dudes around
-children – what they do is professional witchcraft.
+that least 90% of the engineers I’ve worked with could not explain how a
+transistor works to a child. That’s because there really is no need –
+our engineering forefathers did all the hard work for us, so that we can
+work at a higher level of abstraction. Those few engineers that work at
+the physical level of the silicon, the analog engineers – believe me,
+you don’t want any of those dudes around children – what they do is
+professional witchcraft.
 
 If you really want children to be inspired and grow up and design
 self-driving, energy efficient, emission free bad-ass transportation,
@@ -3225,7 +3225,7 @@ before or since. His genius is what humanity should appreciate and
 value.
 
 I feel all engineers have a responsibility to grow the appreciation of
-Nikola Tesla’s extraordinary genius. Those that use his name to sell
+Nikola Tesla’s extraordinary genius. Those who use his name to sell
 electric cars sure as hell do. [45]
 
 ## Scoot of Collective Genius (SCoG)
@@ -3263,8 +3263,8 @@ most of these people are utterly useless at anything but politics. We
 don’t elect people because they are good problem solvers. We elect
 people because they are good at getting elected.
 
-A scoot of collective genius (SCoG) could be a way of finding real
-leaders who can solve social and civil problems. The scoot is formed
+A Scoot of collective genius (SCoG) could be a way of finding real
+leaders who can solve social and civil problems. The Scoot is formed
 with a specific problem, and the trustee builds a scootage of people
 willing to be both responsible and accountable. Maybe multiple SCoG are
 formed to try to find a solution to the same problem, and as the
@@ -3307,7 +3307,7 @@ problem with putting your name in the spotlight, especially if you’ve
 done something to back it up. If *The Dream* had been a different kind
 of man, I’d have woken with *Dream Kolaches and Coffee*, had a *Dream
 Burrito* for lunch, and *The Dream Steakhouse* for dinner. Poor Spur’s
-fans headed east on I-10, it they didn’t want to fill up with *Hakeem’s
+fans headed east on I-10, if they didn’t want to fill up with *Hakeem’s
 Gasoline*, they were SOL and better hope they had enough in the tank to
 make it to New Orleans.
 
@@ -10759,8 +10759,8 @@ take my kickback in cash or bitcoin.
 cleaner alternative – fueled by Tesla’s electrical grid.
 
 [45] Gotta make a statement to clarify, E. Half the south thinks those
-guys re-did the *long haired freaky people* song is your favorite band.
-Oh, no. Please don’t tell me it is.
+guys who re-did the *long haired freaky people* song is your favorite
+band. Oh, no. Please don’t tell me it is.
 
 [46] Consecrated as *The Summit* in 1994 where *The Dream* made me a
 believer.
