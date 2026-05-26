@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 1.02**
+**Version 1.03**
 
 <img src="media/image1.png" style="width:0.33333in;height:0.33333in"
 alt="enter image description here" /> 2022 by Brandon Awbrey. This
@@ -4514,7 +4514,7 @@ The Mayor of Los Angeles is not going send a mechanized brigade of
 troops to Houston, surround Minute Maid Park and forcibly take a
 shirtless José Altuve hostage. New York City is not going shell downtown
 Houston with nerve gas and send a squad of SEALs to replace *The
-Dream’s* memorial in front of the house he built with a statue of Spike
+Dream’s* sculpture in front of the house he built with a statue of Spike
 Lee. The British are not going nuke Austin in 2023 after Governor
 McConaughey signs his first executive order declaring all members of Led
 Zeppelin not honorary, but actual Texans.
@@ -4660,7 +4660,7 @@ lines of communications between neighbors, and hopefully less crime and
 conflict. That is, if the food is good and there is enough for everyone.
 A bad SOK trustee could start a crime wave.
 
-Or it could be a chain. A Pizza kitchen that covers a neighborhood, and
+Or it could be a chain. A Pizza kitchen that covers a neighborhood,
 where families can send their teenagers to learn to work and be
 responsible and permanently cure their pizza addiction through
 oversaturation. A taco truck that follows a large construction crew. A
@@ -4718,7 +4718,7 @@ is also the cost of placing all these hedge bets in the value domain so
 that we can pay Deemo’s incentives if he hits his goals.
 
 The way we manage the fixed costs is to budget it on a weekly basis, and
-divide that by the lasts weeks total bowls served. This becomes the base
+divide that by the last week’s total bowls served. This becomes the base
 cost per bowl. When there is a shortfall, then the OG scoot are
 responsible for the difference.
 
@@ -5755,7 +5755,7 @@ wanted to do was dribble, dribble, dribble.”
 
 ## Scoot of Bling (SOB)
 
-In the [Billionaires](#billionaires) chapter, I talked about the
+*In the [Billionaires](#billionaires) chapter, I talked about the*
 privileges of wealth. This is where we define them. The privileges of
 genius wealth are different than property wealth privilege in an
 important way. They’re both vanity, genius privilege is the good kind of
@@ -5822,7 +5822,7 @@ legends themselves.
 
 Scoot is an open system of governance, but it’s not *only* democratic.
 We can’t make it strictly democratic, or we’d have to leave out
-smarty-panty Finnish benevolent dictators. We support a form of royalty
+smarty-pants Finnish benevolent dictators. We support a form of royalty
 specific to individual value systems. Scoot have the option to have
 characteristics – privileges – that match their responsibility.
 
@@ -5995,13 +5995,13 @@ hybrid pickup trucks. You lease several charging parking spots in
 buildings scattered throughout the neighborhood, all within five minutes
 walking distance. You find that with that number of vehicles you can
 support the needs of a hundred residents. You use software to manage the
-capacity. One of your scootage introduces to a neighbor who has a
-personal EV but rarely uses it, so you start leasing it from the
-neighbor on-demand and through experimentation you find that the
-additional capacity allows you to add twenty more neighbors to the
-scootage. Holding scoot in your SOT becomes one of the selling points of
-the neighborhood. You notice that two Tesla are always parked at one of
-the building’s charging spots during the day but gone at night. You
+capacity. One of your scootage introduces a neighbor who has a personal
+EV but rarely uses it, so you start leasing it from the neighbor
+on-demand and through experimentation you find that the additional
+capacity allows you to add twenty more neighbors to the scootage.
+Holding scoot in your SOT becomes one of the selling points of the
+neighborhood. You notice that two Tesla are always parked at one of the
+building’s charging spots during the day but gone at night. You
 introduce yourself to the owners and find one is a delivery guy and the
 other is an Uber driver. Since most of your scootage drive during the
 day or early evenings you find that you can increase your support to
@@ -6391,7 +6391,7 @@ where they are neglected by staking nodes.
 
 #### Engineer’s Address
 
-The engineer’s reserve is the Foundations weight against billionaires
+The engineer’s reserve is the Foundation’s weight against billionaires
 who can wield advantages in the responsibility domain through the
 property queue. We are depending on this for equalization.
 
@@ -7535,7 +7535,7 @@ who had a dream. Not the largest, or strongest, or fastest, but the
 greatest MVP in American League history. A baseball genius.
 
 Hollywood, the asterisk is this: You will always be the villain in the
-greatest hero story of the history of sports. And yes, my evil plan is
+greatest hero story in the history of sports. And yes, my evil plan is
 to trick Hollywood into putting up a counter effort in the genius
 economy to nullify my story of genius with one of their own. There’s no
 story better, and Hollywood is so vain, you’ll stick to your fantasy
@@ -7653,7 +7653,7 @@ belongs to humanity.
 
 Let’s say I’m at a dinner party with a bunch of fancy artsy people.[100]
 Some rich dirtbag makes mention he’s got a Picasso hidden away at his
-ski-chalet in Aspen, and only people who get to look at it is the other
+ski-chalet in Aspen, and only people who get to look at it are the other
 rich scumbags he invites on his ski trips. My response would be “*Should
 I bow or curtsey now, your worshipfulness?*”
 
@@ -10727,6 +10727,274 @@ It is the stories we tell about them that make them genius.
 Rocket Man, out
 
 August 2<sup>nd</sup>, 2022
+
+# Table of Contents
+
+[Intrinsic Value [1](#intrinsic-value)](#intrinsic-value)
+
+[The Foundation [3](#the-foundation)](#the-foundation)
+
+[A Measure of Wealth [4](#a-measure-of-wealth)](#a-measure-of-wealth)
+
+[Guardians of the Public Domain
+[6](#guardians-of-the-public-domain)](#guardians-of-the-public-domain)
+
+[How it works [9](#how-it-works)](#how-it-works)
+
+[Linux [10](#linux)](#linux)
+
+[Bitcoin [11](#bitcoin)](#bitcoin)
+
+[Social Media [11](#social-media)](#social-media)
+
+[Awbrey Hack [12](#awbrey-hack)](#awbrey-hack)
+
+[Scoot - Dynamically Scalable Responsibility
+[13](#scoot---dynamically-scalable-responsibility)](#scoot---dynamically-scalable-responsibility)
+
+[The Foundation for the Appreciation of Human Genius
+[15](#the-foundation-for-the-appreciation-of-human-genius)](#the-foundation-for-the-appreciation-of-human-genius)
+
+[Asimov and Scoot [15](#asimov-and-scoot)](#asimov-and-scoot)
+
+[Property of Wealth (POW)
+[19](#property-of-wealth-pow)](#property-of-wealth-pow)
+
+[Scoot Conformance [21](#scoot-conformance)](#scoot-conformance)
+
+[Scoot-chain [23](#scoot-chain)](#scoot-chain)
+
+[Responsibility Tree [23](#responsibility-tree)](#responsibility-tree)
+
+[Scoot Naming System (SNS)
+[25](#scoot-naming-system-sns)](#scoot-naming-system-sns)
+
+[Scoot Entity [26](#scoot-entity)](#scoot-entity)
+
+[Application of Scoot
+[27](#application-of-scoot)](#application-of-scoot)
+
+[Scoot of Property (SOP)
+[27](#scoot-of-property-sop)](#scoot-of-property-sop)
+
+[Scoot of Gratitude (SOG)
+[29](#scoot-of-gratitude-sog)](#scoot-of-gratitude-sog)
+
+[Post-Agency Scoot (PoAS)
+[36](#post-agency-scoot-poas)](#post-agency-scoot-poas)
+
+[Circulation [38](#circulation)](#circulation)
+
+[Staked [38](#staked)](#staked)
+
+[Staking [38](#staking)](#staking)
+
+[Reserve Stake [38](#reserve-stake)](#reserve-stake)
+
+[National Stakes [40](#national-stakes)](#national-stakes)
+
+[Seeding [41](#seeding)](#seeding)
+
+[Development [41](#development)](#development)
+
+[Outreach Faucet [42](#outreach-faucet)](#outreach-faucet)
+
+[Creative enablers [42](#creative-enablers)](#creative-enablers)
+
+[Teachers [42](#teachers)](#teachers)
+
+[Prizes [42](#prizes)](#prizes)
+
+[Museums [43](#museums)](#museums)
+
+[Crusades [44](#crusades)](#crusades)
+
+[Billionaires [45](#billionaires)](#billionaires)
+
+[Billionaire meme [49](#billionaire-meme)](#billionaire-meme)
+
+[Deterministic Mythology
+[54](#deterministic-mythology)](#deterministic-mythology)
+
+[National Treasure [57](#national-treasure)](#national-treasure)
+
+[Royal Treasure [58](#royal-treasure)](#royal-treasure)
+
+[Amnesty [59](#amnesty)](#amnesty)
+
+[Repatriations and Reparations
+[59](#repatriations-and-reparations)](#repatriations-and-reparations)
+
+[No Fault [59](#no-fault)](#no-fault)
+
+[Immaterial Genius [60](#immaterial-genius)](#immaterial-genius)
+
+[Agency [62](#agency)](#agency)
+
+[Scoot of Agency (SOA) [64](#scoot-of-agency-soa)](#scoot-of-agency-soa)
+
+[Pre-Agency (PrAS) [66](#pre-agency-pras)](#pre-agency-pras)
+
+[Post-Agency (PoAS) [66](#post-agency-poas)](#post-agency-poas)
+
+[Elon Throwdown [68](#elon-throwdown)](#elon-throwdown)
+
+[Scoot of Collective Genius (SCoG)
+[77](#scoot-of-collective-genius-scog)](#scoot-of-collective-genius-scog)
+
+[Collective Vanity [78](#collective-vanity)](#collective-vanity)
+
+[Monuments and Nature’s Bounty
+[79](#monuments-and-natures-bounty)](#monuments-and-natures-bounty)
+
+[Diplomacy [80](#diplomacy)](#diplomacy)
+
+[Die Hard 7 – In a world of the king’s gold
+[81](#die-hard-7-in-a-world-of-the-kings-gold)](#die-hard-7-in-a-world-of-the-kings-gold)
+
+[Die Hard 7 – Leonardo’s Revenge
+[83](#die-hard-7-leonardos-revenge)](#die-hard-7-leonardos-revenge)
+
+[The Stinger [84](#the-stinger)](#the-stinger)
+
+[Corporate Genius [85](#corporate-genius)](#corporate-genius)
+
+[Genius CYA [88](#genius-cya)](#genius-cya)
+
+[Academic Genius [90](#academic-genius)](#academic-genius)
+
+[Stop Reading, Lars [90](#stop-reading-lars)](#stop-reading-lars)
+
+[Drumland [91](#drumland)](#drumland)
+
+[Open Source Everything
+[95](#open-source-everything)](#open-source-everything)
+
+[Collecting Responsibility
+[96](#collecting-responsibility)](#collecting-responsibility)
+
+[Collecting Whatever [106](#collecting-whatever)](#collecting-whatever)
+
+[Instant Karmic Soup Kitchens
+[107](#instant-karmic-soup-kitchens)](#instant-karmic-soup-kitchens)
+
+[Goodbye Season Tickets
+[113](#goodbye-season-tickets)](#goodbye-season-tickets)
+
+[Incongruence of Values
+[124](#incongruence-of-values)](#incongruence-of-values)
+
+[Alignment of Values [127](#alignment-of-values)](#alignment-of-values)
+
+[Artificial Scarcity [129](#artificial-scarcity)](#artificial-scarcity)
+
+[Psychohistory [131](#psychohistory)](#psychohistory)
+
+[Scoot of Bling (SOB) [135](#scoot-of-bling-sob)](#scoot-of-bling-sob)
+
+[Scoot of Transportation (SOT)
+[140](#scoot-of-transportation-sot)](#scoot-of-transportation-sot)
+
+[Governance [144](#governance)](#governance)
+
+[Charter [144](#charter)](#charter)
+
+[Electorates [145](#electorates)](#electorates)
+
+[Responsibility Domain
+[145](#responsibility-domain)](#responsibility-domain)
+
+[Value Domain [145](#value-domain)](#value-domain)
+
+[The Board of Trustees
+[146](#the-board-of-trustees)](#the-board-of-trustees)
+
+[Engineer (1) [146](#engineer-1)](#engineer-1)
+
+[Continentals (7) [150](#continentals-7)](#continentals-7)
+
+[Popular (3) [150](#popular-3)](#popular-3)
+
+[Ethical Standards [151](#ethical-standards)](#ethical-standards)
+
+[The Line [151](#the-line)](#the-line)
+
+[Shunning [152](#shunning)](#shunning)
+
+[Management [152](#management)](#management)
+
+[Creation [152](#creation)](#creation)
+
+[Security [153](#security)](#security)
+
+[Encyclopedist [153](#encyclopedist)](#encyclopedist)
+
+[Origins [154](#origins)](#origins)
+
+[Digital Sainthood [161](#digital-sainthood)](#digital-sainthood)
+
+[Stasis [162](#stasis)](#stasis)
+
+[Genius Antagonism [163](#genius-antagonism)](#genius-antagonism)
+
+[Genius Ancestry [168](#genius-ancestry)](#genius-ancestry)
+
+[Generational Wealth [171](#generational-wealth)](#generational-wealth)
+
+[Truces and Curses [173](#truces-and-curses)](#truces-and-curses)
+
+[Canada [173](#canada)](#canada)
+
+[Yankees [173](#yankees)](#yankees)
+
+[Dodgers [174](#dodgers)](#dodgers)
+
+[The Curse of the Asterisk
+[175](#the-curse-of-the-asterisk)](#the-curse-of-the-asterisk)
+
+[Ethical Revolution [176](#ethical-revolution)](#ethical-revolution)
+
+[No Small Genius [182](#no-small-genius)](#no-small-genius)
+
+[Acknowledgements [184](#acknowledgements)](#acknowledgements)
+
+[F.A.Q. [186](#f.a.q.)](#f.a.q.)
+
+[Appendix A – Asimov Distribution Schedule
+[191](#appendix-a-asimov-distribution-schedule)](#appendix-a-asimov-distribution-schedule)
+
+[Appendix B – Scoot Naming Reservations
+[192](#appendix-b-scoot-naming-reservations)](#appendix-b-scoot-naming-reservations)
+
+[Appendix C – Prime Shards
+[195](#appendix-c-prime-shards)](#appendix-c-prime-shards)
+
+[Appendix D – Scoot of Team
+[197](#appendix-d-scoot-of-team)](#appendix-d-scoot-of-team)
+
+[Kerouac Crews (On the Road Scoot)
+[198](#kerouac-crews-on-the-road-scoot)](#kerouac-crews-on-the-road-scoot)
+
+[Foreign Outposts [200](#foreign-outposts)](#foreign-outposts)
+
+[Scoot of Whatevera [200](#scoot-of-whatevera)](#scoot-of-whatevera)
+
+[Scoot of Special Purpose Entities (SSPE)
+[201](#scoot-of-special-purpose-entities-sspe)](#scoot-of-special-purpose-entities-sspe)
+
+[Appendix E – A Lesson in Texas History
+[206](#appendix-e-a-lesson-in-texas-history)](#appendix-e-a-lesson-in-texas-history)
+
+[Big Mama [206](#big-mama)](#big-mama)
+
+[Little Mama [211](#little-mama)](#little-mama)
+
+[Stinky Fingers [219](#stinky-fingers)](#stinky-fingers)
+
+[The Canadian [226](#the-canadian)](#the-canadian)
+
+[The Defender of Texas History
+[236](#the-defender-of-texas-history)](#the-defender-of-texas-history)
 
 [1] The Gold Standard died for good in 1976 when I was in kindergarten.
 In school, I was taught the gold standard. I guess they thought floating
