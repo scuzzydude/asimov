@@ -2,11 +2,11 @@
 
 **a post-harden rockets cathartic**
 
-**Version 1.03**
+**Version 1.04**
 
 <img src="media/image1.png" style="width:0.33333in;height:0.33333in"
 alt="enter image description here" /> 2022 by Brandon Awbrey. This
-publication maybe reproduced in whole form if fairly attributed for any
+publication may be reproduced in whole form if fairly attributed for any
 non-commercial purpose. If you are using this for commercial purposes,
 you better make sure that Brandon is getting paid, unless you are Trey
 Parker and Matt Stone, then you guys can make bank. If you paid me for a
@@ -1065,11 +1065,11 @@ enforce.
 
 I believe using TPH to invest in some scoot, and PPHs for others may be
 the most practical system. The protocol shall handle both cases. Scoot
-may also implement hybrid models, where perhaps large or majority
-holders need to reveal TPH but small-scale holders may use PPH. This is
-essentially how public stock works in some countries, when holdings by
-large institutions, board members, and company officers are publicly
-reported, but most holders are publicly anonymous.
+may also implement hybrid models, where large or majority holders must
+reveal TPH but small-scale holders may use PPH. This is essentially how
+public stock works in some countries, when holdings by large
+institutions, board members, and company officers are publicly reported,
+but most holders are publicly anonymous.
 
 The responsibility tree - open or pseudonymous - is very valuable. This
 system works because the more people who are responsible for an idea,
@@ -2238,7 +2238,7 @@ both logical and defiant, was a master of men himself. Yet, to his
 brethren in the colonies, his peers, he was admired and respected,
 highly valued. In today’s values, he was a criminal, holding people
 hostage and forcing them into labor against their will. Is that ironic?
-Or is it hypocrisy? Or – was Jefferson’s own internal struggle what gave
+Or is it hypocrisy? Or was Jefferson’s own internal struggle what gave
 him words to perfectly define what freedom means?
 
 Henry Ford mastered a process that was duplicated in millions of
@@ -2823,12 +2823,11 @@ a high income for some period during their lifetimes. And investors in
 genius – people who feel the artist will leave a mark on culture beyond
 their lifetimes.
 
-An artist with a liquid pool of scoot should be able to gauge what the
-public sentiment is by the direction from polling or formal elections.
-Direction to decrease dilution would be an indicator that the world
-thinks his talent is transient. Direction to invest income in future
-projects would be a good indicator that the world thinks he might have
-some lasting genius.
+An artist with a liquid pool of scoot should be able to gauge public
+sentiment by polling or formal elections. Direction to decrease dilution
+would be an indicator that the world thinks his talent is transient.
+Direction to invest income in future projects would be a good indicator
+that the world thinks he might have some lasting genius.
 
 Another consideration is who is in the responsibility tree. Value may be
 derived by who holds the scoot. If it’s just fans or speculators, it’s a
@@ -4117,8 +4116,8 @@ actresses, but it was probably just a rumor.
 Nai, thirty years later, I finally figured it out. Lars, you’ve been
 warned.
 
-The way forward for Drumland is for musicians just to give away their
-music for free to anybody who wants to hear it. Open Source everything.
+The way forward for Drumland is for musicians to give away their music
+for free to anybody who wants to hear it. Open Source everything.
 
 You scoot your work, and you say to world, my craft is not property. You
 can have restrictive licensing, so your work gets turned into a jingle
@@ -7247,7 +7246,7 @@ Foundation is a system designed for that outcome.
 
 France, Bruce Willis, Kevin Costner, Joe Jonas, Apple TV+, Petrochemical
 Industry, Kawhi Leonard, three-quarters of Metallica, Korea, wine
-collectors, museum people, and most everyone else I made fun off, please
+collectors, museum people, and most everyone else I made fun of, please
 take it in the proper spirit: Through humor we can appreciate the actual
 value of something.
 
