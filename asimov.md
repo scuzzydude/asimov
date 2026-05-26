@@ -3353,10 +3353,10 @@ with an eye patch. The news reports that France has offended West
 Lakerland by refusing to buy petrol due to human rights violations.
 
 Bruce Willis is surprised by a Blackhawk appearing over his fishing hole
-and rushed to an AFB base where he’s flown by fighter jet to Washington.
-Cut to the White House, where President McConaughey is busy on a
-five-way video conference between the leaders of France, Britain, Italy
-and Germany.
+and rushed to an Air Force base where he’s flown by fighter jet to
+Washington. Cut to the White House, where President McConaughey is busy
+on a five-way video conference between the leaders of France, Britain,
+Italy and Germany.
 
 “Excuse me, gentlemen, I’ve got to leave you to it, we’ll get back to
 you.”
@@ -3674,9 +3674,8 @@ that can align with both the creation of wealth and the most efficient
 solutions to problems. Without the government, and without
 property-based profit.
 
-Corporations are property and thus can be bought and be gifted to
-mankind. Scoot may not own corporations, but can be responsible for
-them.
+Corporations are property and thus can be bought and gifted to humanity.
+Scoot may not own corporations but can be responsible for them.
 
 After the early staking, seeding, and development phase of The
 Foundation, the only way to receive new mint asimov will be to scoot
@@ -8626,7 +8625,7 @@ SSPE when the original usage of the property has changed.
 
 <img src="media/image9.png" style="width:4.62014in;height:3.27762in" />
 
-Figure - The foundation - responsibility and value domains
+Figure 6 - The foundation - responsibility and value domains
 
 A Scoot is formed as organization of proportional responsibility for a
 legacy of genius. Each Scoot shall have a charter, clearly stating the
@@ -11136,7 +11135,7 @@ James was amazed.
 <img src="media/image11.jpeg" style="width:3.58281in;height:3.84722in"
 alt="A picture containing text Description automatically generated" />
 
-Figure - sketch of cave drawing from James Naismith's notebook
+Figure 7 - sketch of cave drawing from James Naismith's notebook
 
 “Yeah, your dad would come up here every day for a few hours, as long as
 he could take it, smoke builds up pretty quick, and it is hard to see
