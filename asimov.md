@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.97**
+**Version 0.98**
 
 <img src="media/image1.png" style="width:0.33333in;height:0.33333in"
 alt="enter image description here" /> 2022 by Brandon Awbrey. This
@@ -10723,6 +10723,8 @@ to appreciate and preserve the legacy of our history.
 Our heroes are but human.
 
 It is the stories we tell about them that make them genius.
+
+Rocket Man, out
 
 August 2<sup>nd</sup>, 2022
 
