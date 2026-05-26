@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.87**
+**Version 0.88**
 
 ***ADVANCED READING COPY***
 
@@ -744,7 +744,7 @@ Scoot is the vessel for this responsibility.
 
 <img src="media/image2.png" style="width:6.38392in;height:4.52893in" />
 
-Figure - The Foundation - VALUE and RESPONSIBLITY DOMAINS
+Figure 1 - The Foundation - VALUE AND RESPONSIBLITY DOMAINS
 
 A Scoot is formed as organization of proportional responsibility for a
 legacy of genius. Each Scoot shall have a charter, clearly stating the
@@ -10157,7 +10157,7 @@ James was amazed.
 <img src="media/image10.jpeg" style="width:3.58281in;height:3.84722in"
 alt="A picture containing text Description automatically generated" />
 
-Figure - sketch of cave drawing from James Naismith's notebook
+Figure 7 - sketch of cave drawing from James Naismith's notebook
 
 “Yeah, your dad would come up here every day for a few hours, as long as
 he could take it, smoke builds up pretty quick, and it is hard to see
