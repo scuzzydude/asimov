@@ -2,7 +2,7 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.54**
+**Version 0.56**
 
 There are only two true hedges against inflation. History and
 archaeology have proven they’ve both existed for as long as humanity.
@@ -31,9 +31,9 @@ prosperity.
 
 It follows that humanity should use its own creation as the fundamental
 measure of value. Floating fiat currencies like the dollar and
-cryptocurrencies like bitcoin meet that c. Neither dollar nor bitcoin
-represent any intrinsic value, and thus can’t really hold value over
-generations and through calamity without intervention.[1] Fiat and
+cryptocurrencies like bitcoin meet that criterion. Neither dollar nor
+bitcoin represent any intrinsic value, and thus can’t really hold value
+over generations and through calamity without intervention.[1] Fiat and
 cryptocurrencies function as money – a medium of exchange – which is a
 technical function of a currency. Neither represent real value, which is
 the human concept of money. This disparity – between the technical
@@ -520,7 +520,7 @@ create an immutable historical record and the exchange of proportional
 responsibility. Social Media has proven that content is valuable without
 the need to exchange property.
 
-It the old days, the king’s coins were minted from gold plunder taken
+In the old days, the king’s coins were minted from gold plunder taken
 from the king’s treasury. You could use the king’s gold to trade for
 property. The gold itself wasn’t valuable. You couldn’t eat the gold,
 and while you could wear it, if you weren’t nobility, that was like
@@ -672,7 +672,7 @@ Scoot is scoot.
 
 What scoot is probably easier understood by what it’s not. Scoot is not
 stock, it is not an asset or a commodity and it can never be property.
-It’s not an NFT, or an asset of any kind, and though it represents
+It’s not an NFT, or an asset of any kind, and though scoot are tokens of
 responsibility, it has no obligation. It has no obligation, because the
 accountability is direct. Fail at your responsibility, your wealth
 diminishes. Succeed at your responsibility, your wealth increases.
@@ -706,18 +706,18 @@ innovation, and imagination of those who came before us and the dreams
 of those living now. This treasure is more valuable than gold, oil or
 hash rate.
 
-The treasure is not valuable if lost, destroyed, or forgotten. It is up
+Our treasure is not valuable if lost, destroyed, or forgotten. It is up
 to humans to protect, preserve and remember this treasure.
 
 Scoot is the vessel for this responsibility.
 
 <img src="media/image1.png" style="width:6.5in;height:3.65625in" />
 
-A Scoot is formed as organization of proportion responsibility for a
+A Scoot is formed as organization of proportional responsibility for a
 legacy of genius. Each Scoot shall have a charter, clearly stating the
 purpose and method of governance, which shall be enforceable via
-election methods build into the protocol. Holders of scoot have no
-rights other than the elective governance, but a responsibility – a
+electoral methods in the protocol. Holders of scoot have no rights other
+than the elective governance of the Scoot, but a responsibility – a
 pledge – to increase the appreciation of the subject of the Scoot.
 
 The Foundation and its members, who are called pledges, mint a class of
@@ -794,7 +794,7 @@ the Foundation should hold in reserve 100% of the scoot of “genius.”
 
 #### Scoot Conformance
 
-1.  A Scoot is not property. It is shared responsibility.
+1.  A Scoot is not property. It is a shared responsibility.
 
 2.  A Scoot shall have a written charter that must clearly state:
 
@@ -816,7 +816,7 @@ the Foundation should hold in reserve 100% of the scoot of “genius.”
 
 3.  A Scoot may not own property of any kind.
 
-    1.  The Scoot may buy non-real property (anything but land/real
+    1.  A Scoot may buy non-real property (anything but land/real
         estate).
 
     2.  Property bought by a Scoot must be immediately gifted to
@@ -825,8 +825,8 @@ the Foundation should hold in reserve 100% of the scoot of “genius.”
         1.  In jurisdictions where gifting title to humanity at large
             does not have legal significance, retaining formal title is
             acceptable as long a written and ratified statement of the
-            gift is published on both scoot-chain local publication of
-            record.
+            gift is published on both scoot-chain and local publication
+            of record.
 
         2.  Property bought and gifted by the Scoot is considered a
             global public good by The Foundation and its pledges.
@@ -845,9 +845,9 @@ the Foundation should hold in reserve 100% of the scoot of “genius.”
 
     5.  A Scoot may never sell property.
 
-4.  A Scoot may act as a conduit of income for the subject of the scoot
+4.  A Scoot may act as a conduit of income for the subject of the Scoot
 
-    1.  Conduit income must be recorded on the scoot-chain
+    1.  Conduit income must be recorded on the scoot-chain.
 
 5.  A Scoot may earn income.
 
@@ -861,9 +861,9 @@ the Foundation should hold in reserve 100% of the scoot of “genius.”
 
         2.  Derivative efforts.
 
-        3.  Inspirational efforts
+        3.  Inspirational efforts.
 
-        4.  Acquiring related or competitive scoot
+        4.  Acquiring related or competitive scoot.
 
         5.  Buybacks of the subject scoot to decrease liquidity.
 
@@ -887,7 +887,7 @@ Foundation is a holder, it will also duplicate the scoot-chain. In
 addition, Scoot may form staking groups with other Scoot with agreements
 to duplicate each other’s scoot-chains and process transactions. Pledge
 nodes (could be a phone or other small device) can participate in
-transaction processing and scoot-chain partial staking via a torrent
+transaction processing and partial scoot-chain staking via a torrent
 like protocol.
 
 ### Responsibility Tree
@@ -900,23 +900,23 @@ criminal intent from infiltration of the responsibility domain, but we
 can prevent the same individual from doing it again.
 
 The Address scheme shall allow for single pledge wallet to have multiple
-valid addresses. Address that resolve to pledge identity are True Pledge
-Handles (TPH). Addresses that do not resolve to TPH are pseudonymous
-pledge handles (PPH).
+valid addresses. Address that resolve to the pledges identity via API
+are True Pledge Handles (TPH). Addresses that do not resolve to TPH are
+pseudonymous pledge handles (PPH).
 
 How this is managed both globally and on a per-Scoot basis is prime
 topic for debate. This is people’s wealth, and there is an expectation
 of privacy for both security and competitive reasons. There is also the
 traditional personal feeling that one’s money is one’s own damn
-business. Scoot wealth is not assets, but a person’s own commitment of
-responsibility, but I imagine the same privacy requirements will apply.
+business. Scoot wealth are not assets, but a person’s own commitment of
+responsibility, but the same privacy requirements will apply.
 
-On the other hand, this very system derives its value from the
-responsibility of individuals. Some people are more responsible than
-others. Who holds a scoot can confer a higher value. When a genius
-artist commits to another artist’s scoot, it would add value correlated
-to the value of the genius doing the committing. The relationship
-between scoot and pledges is the responsibility tree.
+On the other hand, the system derives its value from the responsibility
+of individuals. Some people are more responsible than others. Who holds
+a scoot can confer a higher value. When a genius artist commits to
+another artist’s Scoot, it would add value correlated to the value of
+the genius doing the committing. The relationship between scoot and
+pledges is the responsibility tree.
 
 PPH would lend itself to always using a new address for each transaction
 in the responsibility domain. This would be the strictest and most
@@ -937,7 +937,7 @@ I believe using TPH to invest in some scoot, and PPHs for others may be
 the most practical system. The protocol shall handle both cases. Scoot
 may also implement hybrid models, where perhaps large or majority
 holders need to reveal TPH but small-scale holders may use PPH. This is
-essentially how public stock works in some countries, with holdings by
+essentially how public stock works in some countries, when holdings by
 large institutions, board members, and company officers are publicly
 reported, but most holders are publicly anonymous.
 
@@ -960,8 +960,8 @@ will devalue the importance of a shun. If you joined a shun against one
 of your competitors and some calamity is forcing you to liquate
 unexpectedly, the only buyer might be somebody you really don’t like. As
 in individual, I don’t think this is a big worry. People’s value
-judgements change over time. However, it should come into consideration
-when electing Foundation leadership and Scoot trustees.
+judgements change over time. It should come into consideration when
+electing Foundation leadership and Scoot trustees.
 
 ### Scoot Naming System (SNS)
 
@@ -969,8 +969,8 @@ The Scoot protocol shall only use Scoot indexes in transactions.
 
 Hopefully, there will be millions or billions of individual Scoot.
 
-The Foundation shall maintain a Scoot Naming System (SNS), similar to
-the Domain Name System of the Internet. Scoot have a field for unit of
+The Foundation shall maintain a Scoot Naming System (SNS), like the
+Domain Name System of the Internet. Scoot have a field for unit of
 scoot, and a sub-unit field. In the protocol the fields are not named,
 and the sub-unit field may either be used as a fractional component, or
 a serialization.
@@ -980,13 +980,13 @@ Scoot. The names for Scoot(0) are the **asimov** for the unit and the
 **issac** for the fractional component.
 
 The SNS is a distributed API provided by The Foundation that provides a
-text based lookup of Scoot. So searching on “Asimov” will always yield
+text-based lookup of Scoot. So searching on “Asimov” will always yield
 scoot(0) as the first entry. However, there could be dozens or thousands
 of other entries, listed by market value in asimov. The naming
 convention for human subject based Scoot shall be
-scoot(FirstName.LastName). So formally, asimov should be
-Scoot(Issac.Asimov) but since it’s a special case, “asimov” alone will
-always refer to scoot(0).
+scoot(FirstName.LastName) or (Unit.SubUnit). So formally, asimov should
+be Scoot(Issac.Asimov) but since it’s a special case, “asimov” alone
+will always refer to scoot(0).
 
 During the initial rollout of the protocol, The Foundation may sell
 short-term leases of SNS entries for terms of a year or perhaps longer
@@ -1230,11 +1230,10 @@ While a visual facsimile of the actual *Titanic*, the *New Titanic* will
 be 100% green and carbon neutral, fully electric with only an emergency
 diesel generator.
 
-After the ship is build, a new *Titanic* series will be shot. The
-narrator reveals Zoey has written a script, and the actor has agreed to
-star. Instead of a star-crossed lover, the actor would play their age,
-the personification of a greedy turn-of-the-century capitalist
-aristocrat.
+After the ship is constructed, a new *Titanic* series will be filmed.
+Zoey has written a script, and the actor has agreed to star. Instead of
+a star-crossed lover, the actor would play their age, the
+personification of a greedy turn-of-the-century capitalist aristocrat.
 
 Since a Scoot may not own property, the ship itself would become a
 monument to both the movie and the engineering. A floating tribute to
@@ -1265,8 +1264,8 @@ impossible and a fraud. One particularly geeky billionaire engineer
 points out that Zoey’s plan is difficult but not impossible. With a
 large enough towed array of floating solar panels, it was possible to
 generate enough power to propel a ship, though the battery size needed
-to “steam” might be impractical especially since the drag force of the
-tow would need to be considered as well.
+to “steam” might be impractical especially since the you need to
+consider the drag of the tow.
 
 The next day Zoey releases the video presentation along with a technical
 addendum, showing exactly how the *New Titanic* will work. Not only does
@@ -1323,18 +1322,18 @@ on a new movie or series. Effectively, scoot(Titanic) becomes a media
 franchise of the public domain. The scootage votes on the merits of
 these screenplays, and award production to the winners. In addition,
 everyday people will get a chance to submit their stories of how
-*Titanic* touched their lives, and winners picked by the scootage would
-be chosen as guest for the cruise. Groups of people who do some Titanic
-themed public good can bid on group cruises. And best of all, everything
-is free for the guests. Workers are chosen based on some creative angle.
-Chefs trying to make a name for themselves, waitstaff and cleaners are
-really actors and writers vying for a chance to create an angle that
-would get them into the production. Artist, musicians, dancers and
-magicians, all driven by the scoot economy, bid to “work” the *New
-Titanic*. Not only does the cruise become an active-production Hollywood
-set, with the guests as extras, but it’s also a reality show, the guest
-and their crew sharing their heartaches and triumphs in the context of a
-magical themed cruise.
+*Titanic* touched their lives. The scootage votes for the best stories
+and the winners are chosen as guest for the cruise. Groups of people who
+do some Titanic themed public good can bid on group cruises. And best of
+all, everything is free for the guests. Workers are chosen based on some
+creative angle. Chefs trying to make a name for themselves, waitstaff
+and cleaners are really actors and writers vying for a chance to create
+an angle that would get them into the production. Artist, musicians,
+dancers and magicians, all driven by the scoot economy, bid to “work”
+the *New Titanic*. Not only does the cruise become an active-production
+Hollywood set, with the guests as extras, but it’s also a reality show,
+the guest and their crew sharing their heartaches and triumphs in the
+context of a magical themed cruise.
 
 The scootage may not join the cruise as guests. That would be equivalent
 of transferring income to the scootage. This is strictly forbidden, nor
@@ -1428,7 +1427,7 @@ plays guitar and can talk smack about basketball and reads, cool,
 thought-provoking science fiction, but one of the more stereotypical
 ones, the kind you see on HBO’s docuseries, *Silicon Valley*. You read a
 lot, but it’s more of the fantasy side of things, that unfortunately
-gets jumbled up in the same virtual bookstore section with the hard
+gets jumbled up in the same bookstore aisle with the hard
 science-fiction. You like to read about magic and spells and dragons and
 orcs, not the future history of mankind. On Tuesday and Thursdays, you
 spend hours practicing sword fighting, and on Wednesday you play
@@ -1488,8 +1487,8 @@ Pre-Agency means the subject is too young to make decisions about their
 intellectual property rights. I’ll get into what Agency means a little
 later.
 
-There’ a few (infinite) ways this could go, but if you’re idea is to an
-honor a dead genius, you’ll likely have a lot of competition. This is
+There are a few (infinite) ways this could go, but if you’re idea is to
+an honor a dead genius, you’ll likely have a lot of competition. This is
 expected, as are mergers and acquisitions and consolidation. You’ll need
 to stand out.
 
@@ -1522,7 +1521,7 @@ commissioned the award-winning movie *Einstein in Love.*[14]
 In 2079, coincidently exactly two hundred years after Einstein’s birth,
 an obscure physicist named Doug who is a member of the Scoot(102343)
 scootage, discovers a new set of equations, that prove everything that
-Einstein came up with was wrong. Einstein’s equation worked, as had
+Einstein came up with was wrong. Einstein’s equation worked, like
 Newton’s, as mere approximations. A new kind of math needed to be used
 to really understand the universe, a kind of mathematics that was beyond
 the human limits of direct comprehension, but Siri was able to figure
@@ -1580,7 +1579,7 @@ distribution value will be calculated. The average daily value of the
 stake currency in USD will be used between the time the stake is
 received until mint day. There will be a multiplier for each stake in
 the order it was received. Details of the private stake process are
-available here: <span class="mark">\<LINK\></span>
+available here: <http://www.geniusandvanity.org/stakes/>
 
 Staking will occur before the protocol is active, so initial asimov will
 be allocated and the splits will be communicated to the stakers before
@@ -1688,7 +1687,7 @@ development of ecosystems and platforms around The Foundation.
 We won’t try to out-engineer the other thousands of cryptocurrencies.
 
 The goal should be asimov as a base currency – for both other
-cypto-currencies and for fiat currencies, and the protocol should have
+crypto-currencies and for fiat currencies, and the protocol should have
 only the features needed to support that goal.
 
 As a base currency, the protocol needs to stand on its own and not be
@@ -1735,14 +1734,13 @@ school educator worldwide who registers as a pledge.
 ### Prizes
 
 Another way to kindle interest in scoot is to award prizes for creative
-expression across all fields. Initially, The Foundation can award
-**asimov** for winners of a given prize. The contest itself will be the
-motivator for the associative genius, so I think we want to get to a
-point where the prizes themselves are Scoot. Prize winners are issued
-genesis scoot, causing a dilution of the awards of prior winners. This
-forces a yearly raising of the bar and maybe prizes aren’t awarded in
-periods when none of the competitors live up to the expectations of the
-prize.
+expression across all fields. Initially, The Foundation can award asimov
+for winners of a given prize. The contest itself will be the motivator
+for the associative genius, so I think we want to get to a point where
+the prizes themselves are Scoot. Prize winners are issued genesis scoot,
+causing a dilution of the awards of prior winners. This forces a yearly
+raising of the bar and maybe prizes aren’t awarded in periods when none
+of the competitors live up to the expectations of the prize.
 
 ## Museums
 
@@ -1764,8 +1762,8 @@ in the billionaire’s section.
 Many hardworking Americans give to museums through donations and
 memberships because they want to preserve a legacy of genius both for
 people of the future and those less fortunate in the present. That’s the
-exact goal of **The Foundation**. We have a compromised attitude about
-it politically, as most museums do receive some public funding, but not
+exact goal of The Foundation. We have a compromised attitude about it
+politically, as most museums do receive some public funding, but not
 enough to keep the doors open. Many Americans believe our hard-earned
 tax dollars are better spent elsewhere. Preserving our legacy of genius
 is important, unless we find a way to value it with metrics, hard to
@@ -1833,7 +1831,7 @@ sell the royal petrol.
 The Foundation should not play a direct role in a crusade. It shouldn’t
 get into the property arguments – scooting should be entirely
 voluntarily. I believe over time owners of art will adjust to thinking
-of art as a responsibility and not an asset. Cases where access to
+of fine art as a responsibility and not an asset. Cases where access to
 masterpieces is denied to both public and academia are opportunities to
 hold the debate on the world stage. Otherwise, let soft pressure work
 its magic. Practical businessmen will see public relations and liquidity
@@ -1856,14 +1854,14 @@ turn that into income. Billionaires might cry about capital gains taxes
 or inheritance taxes, I guess they have that in common with the rest of
 us. We all need something to cry about.
 
-The problem is the millionaires, who in our prosperous world, are
-bountiful. While they can afford to pay taxes and live nice and
-comfortable lives, giving a large portion of your income to a government
-is a major obstacle to becoming a billionaire. We have legions of
-congresspeople who will publicly curse the billionaires and their
-excesses. They got elected with the help of millionaires in their local
-districts. This unholy union between the wealthy and the elected is how
-loopholes are born.[16]
+The problem is the millionaires, who are bountiful in our prosperous
+world. While they can afford to pay taxes and live nice and comfortable
+lives, giving a large portion of your income to a government is a major
+obstacle to becoming a billionaire. We have legions of congresspeople
+who will publicly curse the billionaires and their excesses. They got
+elected with the help of millionaires in their local districts. This
+unholy union between the wealthy and the elected is how loopholes are
+born.[16]
 
 What we value today is the king’s gold – Property and Assets. The goal
 is to convince the billionaires that it’s not the king’s gold that is
@@ -1907,7 +1905,7 @@ scooted, even if the effect is that the art remains in private hands,
 with the scoot primarily being held by a single individual for the
 purposes of liquidity. Rich guy keeps possession of the artwork for
 himself but publicly ISOs 10% of the scoot to get his name in the paper
-as woke rich guy.
+as a woke rich guy.
 
 A favorite sport of billionaires is trying to out do-good other
 billionaires. The masterpiece market will dry up for the billionaires
@@ -1930,8 +1928,8 @@ bestowed nobility upon you through magic powers, and the masses accepted
 this because it was right there in the Bible, which was read to them by
 priests who worked directly or indirectly for the king. Eventually the
 masses learned to read, and after decades of inbreeding, the masses
-figured out those noble idiots were not very special. More likely, “He’s
-special,” in Texas old lady speak, with a wink and a nod.
+figured out those noble idiots were not very special. More likely,
+“Ain’t he special,” in Texas old lady speak, with a wink and a nod.
 
 Why will the rich consent to this exchange? Someone, most likely their
 children, will inform them what happened the last go round where a
@@ -2109,11 +2107,10 @@ The Foundation can act as a trusted third party in recovery of stolen
 artwork, when an agreement is reached with both the original owners and
 the insurers.
 
-For example, a **Scoot in Absentia** (SIA) could be created for a stolen
-work of art. Through anonymous messaging in the protocol and anonymous
-transfers of asimov, a “reward” of asimov could be paid for recovery of
-the artwork. The scootage can also drive crowdsourced based
-investigation.
+For example, a Scoot in Absentia (SIA) could be created for a stolen
+work of art. Through anonymous transfers of asimov, a “reward” of asimov
+could be paid for recovery of the artwork. The scootage can also drive
+crowdsourced based investigation.
 
 On the surface, this seems hypocritical, but The Foundation and its
 pledges should never pay for recovery of stolen scooted works of art (or
@@ -2122,11 +2119,11 @@ humanity at large, so theft is a crime against humanity. Un-scooted art
 is private property – and thus a common crime, no matter the appraised
 value. The security requirements of scooted artwork should be
 appropriate for their valuation or potential. Theft of scooted works
-will occur, but The Foundation’s team will be charged with recovery and
-assisting with prosecution. As the market of scoot grows, this will
-reduce the valuation of artwork on both the legitimate and illegitimate
-private property markets. People convicted of trafficking in stolen
-artwork will be barred from the responsibility domain forever.
+will occur, but The Foundation’s security team will be charged with
+recovery and assisting with prosecution. As the market of scoot grows,
+this will reduce the valuation of artwork on both the legitimate and
+illegitimate private property markets. People convicted of trafficking
+in stolen artwork will be barred from the responsibility domain forever.
 
 ## Immaterial Genius
 
@@ -2171,12 +2168,12 @@ musician who ever lived. Since recorded music is barely a hundred years
 old, it is hard to disprove.
 
 Since I’m already playing hypothetical multi-billionaire, I think I’d
-have a contest called BonzoX, with an award of a billion of dollars.
-Since percussion is the closest form of music to being pure digital, I
-believe if it were possible to determine an algorithm for the divine, it
-could most easily be done by mathematically quantifying the groove of
-John Bonham. Best case, you discover the secret of the universe. Worst
-case, you might decipher a crypto message from the planet Terminus.
+have a contest called BonzoX, with a massive award. Since percussion is
+the closest form of music to being pure digital, I believe if it were
+possible to determine an algorithm for the divine, it could most easily
+be done by mathematically quantifying the groove of John Bonham. Best
+case, you discover the secret of the universe. Worst case, you might
+decipher a crypto message from the planet Terminus.
 
 Sadly, percussion seems to be a dying art. It’s easier to buy your kid a
 Mac. This allows you to sleep in on the weekends and doesn’t piss off
@@ -2208,9 +2205,9 @@ Simple answer. Those who listen.
 
 Who is accountable? Real responsibility comes with accountability.
 
-We should agree while an artist is alive, he’s accountable for his work.
-Copyrights generally extend 70 years after a creator’s death – typically
-several generations of heirs.
+While an artist is alive, he’s accountable for his work. Copyrights
+generally extend 70 years after a creator’s death – typically several
+generations of heirs.
 
 The idea of an agent is simple. As a creative professional, you hire
 somebody to find you paid work in exchange for a percentage of the
@@ -2276,13 +2273,12 @@ the artists and the agent?
 
 ### Scoot of Agency (SOA)
 
-A **Scoot of Agency** (**SOA**) would work like this. A Scoot is minted
-with a creative artist and the **scoot trustee** hires an agent.[28]
-This could be at the sole discretion of the trustee or an elective
-process by the scootage. The SOA receives twice the standard agent’s
-percentage of an artist’s income – so for the example, 20%. The exact
-percentage doesn’t matter, it just needs to be a greater percentage than
-the agent’s slice.
+A Scoot of Agency (SOA) would work like this. A Scoot is minted with a
+creative artist and the scoot trustee hires an agent.[28] This could be
+at the sole discretion of the trustee or an elective process by the
+scootage. The SOA receives twice the standard agent’s percentage of an
+artist’s income – so for the example, 20%. The exact percentage doesn’t
+matter, it just needs to be a greater percentage than the agent’s slice.
 
 Income to the SOA is paid out to an agent at his standard rate, for an
 example 10%. This leaves 10% of the income held by the Scoot. With that
@@ -2296,9 +2292,9 @@ to free himself from dependence on a record label, and artists can buy
 paint and canvas.
 
 When the agent is hired, he is awarded options to buy some amount of
-scoot at the current valuation, and right to sell the scoot back to the
-trustee at market price either at the end of a term, or when the
-relationship is terminated.
+scoot at the current valuation, and right to sell the scoot back at
+market price either at the end of a term, or when the relationship is
+terminated.
 
 There will be two types of players in the trade of SOA. Speculators in
 vanity – who feel the artist may not have long term genius but will have
@@ -2307,24 +2303,24 @@ genius – people who feel the artist will leave a mark on a culture
 beyond their lifetimes.
 
 An artist with a liquid pool of scoot should be able to gauge what the
-public sentiment is by the direction from polling or formal elections by
-the scootage. Direction to decrease dilution would be an indicator that
-the world thinks his talent is transient. Direction to invest income in
-future projects would be a good indicator that the world thinks he might
-have some lasting genius.
+public sentiment is by the direction from polling or formal elections.
+Direction to decrease dilution would be an indicator that the world
+thinks his talent is transient. Direction to invest income in future
+projects would be a good indicator that the world thinks he might have
+some lasting genius.
 
 Another consideration is who is in the responsibility tree. Value may be
 derived by who holds the scoot. If it’s just fans or speculators, it’s a
 pretty good indicator that an artist should focus on the present. If the
-**scootage** consists of other artists – especially people the artist
+scootage consists of other artists – especially people the artist
 admires and respects, that’s a good indicator that the artist should
 make careful career moves and focus on quality over income. If the
-**scootage** is held by peers, it might mean there are collaborative
+scootage is held by peers, it might mean there are collaborative
 opportunities. Another hypothetical - If James Harden had a SOA, and the
-valuation was at an all-time high, he looks at the **responsibility
-tree** and he sees that Keven Durant and Kyrie Irving have driven up his
-value by buying up the majority of liquid scoot, he should force a
-trade. *Adios*, dribble, dribble, dribble.
+valuation was at an all-time high, he looks at the responsibility tree
+and he sees that Keven Durant and Kyrie Irving have driven up his value
+by buying up the majority of liquid scoot, he should force a trade.
+*Adios*, dribble, dribble, dribble.
 
 SOA give the artists tools to better judge his agent’s performance in
 terms of income, career potential and legacy. Ultimately, an artist is
@@ -2378,15 +2374,15 @@ and the trustee may award scoot to coaches, trainers, teachers, and
 family members. Scoot awarded in this manner are a responsibility to
 look out for the best interest of the minor, so they need to be accepted
 by awardee formally through a confirmation transaction on the
-scoot-chain. While the scoot has no trade value, a **responsibility
-tree** is generated, so some evaluation of talent can be extrapolated
-from who holds scoot in a PrAS. The PrAS scootage can be consulted
-formally through elective process on the scoot-chain as to who should be
-hired as agents and professionals. The PrAS itself does the hiring but
-it’s a cash process, with either the parents or the child’s income
-providing the payment. Agents may be hired on commission as in SOA, but
-hired professionals – coaches, teachers, trainers - paid by the PrAS
-should be forbidden from holding SOA scoot.
+scoot-chain. While the scoot has no trade value, a responsibility tree
+is generated, so some evaluation of talent can be extrapolated from who
+holds scoot in a PrAS. The PrAS scootage can be consulted formally
+through elective process on the scoot-chain as to who should be hired as
+agents and professionals. The PrAS itself does the hiring but it’s a
+cash process, with either the parents or the child’s income providing
+the payment. Agents may be hired on commission as in SOA, but hired
+professionals – coaches, teachers, trainers - paid by the PrAS should be
+forbidden from holding SOA scoot.
 
 After reaching majority, a young person (artist) has the option of
 converting their PrAS into a SOA. At that point, the artist can choose
@@ -2413,10 +2409,10 @@ This puts the trustee (likely parents) in a position to strongly
 reconsider, or at least publish their own due-diligence supporting their
 decision on the scoot-chain. In the USA, there would be nothing legally
 binding about the results of the petition, but it does create an
-immutable evidence trail for the minor which they can use once they are
-adults. Formalization of the decision-making process with the immutable
-records should add a level of scrutiny to the development of young
-talent. That alone may reduce misconduct.
+immutable evidence trail for the minor which they can use once they
+reach legal age. Formalization of the decision-making process with the
+immutable records should add a level of scrutiny to the development of
+young talent. That alone may reduce misconduct.
 
 I know that this will be contentious area and one that will require a
 lot of thought and consideration. My purpose is just to spawn the
@@ -2444,7 +2440,7 @@ mandate to balance it to achieve income for their family.
 An artist has no exclusivity to the scooting of their genius, alive or
 dead. However, while alive and after death for some amount of time, the
 artist has some control to the rights to their work. This gives PoAS and
-SOA a legitimacy that third party scoots won’t have.
+SOA a legitimacy that third party Scoots won’t have.
 
 At some point after the artist’s death, no income can be derived
 directly from their work. At that point, Post-Agency has definitely
@@ -2586,7 +2582,7 @@ fundamental concept of how a transistor works to a child. That’s because
 there really is no need – our engineering forefathers did all the hard
 work for us, so that we can work at a higher level of abstraction. Those
 few engineers that work at the physical level of the silicon, the analog
-engineers – man, believe me, you don’t want any of those dudes around
+engineers – believe me, you don’t want any of those dudes around
 children – what they do is professional witchcraft.
 
 If you really want children to be inspired and grow up and design
@@ -2604,10 +2600,10 @@ The picture above shows a plaque at near the site of Tesla’s Colorado
 Springs laboratory. That’s all there is. Tesla was quite the inventor
 and a wild and crazy guy, he was not the businessman that Mr. Musk is.
 Turns out while he made some of his most significant discoveries the
-year he ran his lab in Colorado Springs, ironically, he didn’t pay his
-electricity bill. The citizens of the Springs were quite fed up with
-him, having already blown up a dynamo at the power station with his
-experiments. The lab was torn down and the contents sold at auction.
+year he ran his lab in Colorado Springs, he didn’t pay his electricity
+bill. The citizens of the Springs were quite fed up with him, having
+already blown up a dynamo at the power station with his experiments. The
+lab was torn down, and the contents sold at auction.
 
 The plaque above was erected by the *Al Packer*[31] *Chapter of E
 Clampus Vitus*, an organization dedicated to the preservation of the
@@ -2647,7 +2643,7 @@ inspiration of genius is more important than the facts. However, in the
 case of Nikola Tesla, the facts are the inspiration, and I think it is
 important that the world remembers the true facts of Tesla’s life.
 
-I believe that the challenge of creating scoot for physical artwork is
+I believe that the challenge of creating Scoot for physical artwork is
 primarily social – getting people to accept that that the works of
 genius, especially masterpieces, are not property and belong to humanity
 and not individuals. Sure, there’s a bunch of legal work, but it’s well
@@ -2797,8 +2793,8 @@ leaders who can solve social and civil problems. The scoot is formed
 with a specific problem, and the trustee builds a scootage of people
 willing to be both responsible and accountable. Maybe multiple SCoG are
 formed to try to find a solution to the same problem, and as the
-solutions start to become viable, the scootage flees to the most
-promising or they merge.
+solutions become viable, the scootage flees to the most promising or
+they merge.
 
 I think this could be like on-the-job training for elective office. You
 show us what you can get done with other responsible people’s wealth
@@ -2815,8 +2811,8 @@ Back to my hypothetical billionaire *Dreamland*. If were a hypothetical
 billionaire, I’d have an entire entourage of like-minded but not quite
 as wealthy millionaire “friends.” If I wanted to be known as the man
 behind *Dreamland*, it would be fair of me to share the responsibility
-with my idiot friends, right? A Scoot would be the perfect venue to
-share responsibility for collective vanity.
+with my friends, right? A Scoot would be the perfect venue to share
+responsibility for collective vanity.
 
 And that’s what it would be. Have no fear, that’ll never happen. While
 *The Dream* might support a free vacationland for kids, he’d never let
@@ -2838,7 +2834,7 @@ of man, I’d have woken with *Dream Kolaches and Coffee*, had a *Dream
 Burrito* for lunch, and *The Dream Steakhouse* for dinner. It could have
 been like Elway in Denver, cubed. Poor Spurs fans headed east on I-10,
 it they didn’t want to fill up with *Hakeem’s Gasoline*, they were SOL
-and better hope they had enough in the tank to make it past Beaumont.
+and better hope they had enough in the tank to make it to New Orleans.
 
 No, my dreamland of vanity isn’t possible. The genius I appreciate isn’t
 even a little bit vain.
@@ -2894,7 +2890,7 @@ be long before you run head-first into a wall of mineral rights, water
 rights, air-rights and easements and it would get ugly.
 
 Simply put, I think social pressure can convince the wealthy not to
-maintain the generational wealth as art. I do not think it will be so
+maintain their generational wealth as art. I do not think it will be so
 easy to get them to give up their land.
 
 Once wealth as responsibility is mainstream, then I think this could
@@ -3102,7 +3098,7 @@ Scorsese appears in frame holding a clipboard, and Joe Jonas, who hadn’t
 been in the scene but was waiting off set in case there was some need
 for a tune, walks on holding his guitar.
 
-Leonardo says, “Could you explain that part about private jets again.”
+Leonardo says, “Could you explain that part about private jets again?”
 
 Scorsese, “Yeah, Bobby. Could you go over that again, I’m feeling a
 little anxious about this whole scene.”
@@ -3213,7 +3209,7 @@ the responsibility domain, but do not take the field themselves.
 
 I don’t think corporate American will feel threatened by this idea. If
 they do, they can blame James Harden. If I’d been watching winning
-Rocket’s basketball the past year, I’d spend all my free time between
+Rockets basketball the past year, I’d spend all my free time between
 games thinking about how fun it would be to watch the next game, and I
 would still be a property-happy corporate drone. Sorry, James, if that
 hurts your future endorsement contracts with the corporate overlords.
@@ -3287,9 +3283,9 @@ responsible for them.
 After the early staking, seeding and development phase of The
 Foundation, the only way to receive new mint asimov will be to scoot
 something. Corporations can’t create Scoot. If they have a great product
-or brand their employees, shareholders and even customer may create
-Scoot as an honor, but the corporations can’t profit from this directly.
-The Foundation will trade scoot at registration, but it’ll be a fixed
+or brand their employees, shareholders or customers may create Scoot as
+an honor, but the corporations can’t profit from this directly. The
+Foundation will trade scoot at registration, but it’ll be a fixed
 amount. The only way to get a large volume of asimov will be to convert
 something property-valued into Scoot.
 
@@ -3311,9 +3307,9 @@ hundreds of unrealistic expectations, and thousands of predations. Like
 every gold rush in history, there is a balance sheet of winners and
 losers. Statistically, those with the capital at the beginning did much
 better than those that started with nothing. Then there’s the
-environmental impact, which was really bad, but which was substantially
-better for the environment in terms of efficiency and emission than the
-fuel oil and gas replaced (coal).
+environmental impact, which was bad, but which was substantially better
+for the environment in terms of efficiency and emission than the fuel
+oil and gas replaced (coal).
 
 Okay, on the positive. It created huge industry centered in Texas, which
 created hundreds of thousands of jobs both directly and indirectly
@@ -3330,7 +3326,7 @@ celebrities cheering “We love the petrochemical industry.” Things go
 horribly wrong in episode six when Matthew and Sheryl Crow are standing
 in line at all-natural hand-pressed organic coffee bar, Sheryl goes to
 pay with her Amex and Matthew points out that the Amex card itself is
-made from plastic, a product of the oil fields, Sheryl goes completely
+made from plastic, a product of the oil fields. Sheryl goes completely
 feral, strips down to her hemp undies, and bites poor Matthew on the
 shoulder. Rather than hide from it, Matthew is a good Texan and “takes
 his medicine,” which in this case, means a whole course of Sheryl’s all
@@ -3341,9 +3337,9 @@ Games*.[38]
 I believe there is a place in a sustainable economy for every industry.
 Instead of considering what products industries make, they need only
 think about the kinds of problems they know how to solve. Reframing of
-the purpose may be all it takes. Direct democracy makes for good causes,
-but when big jobs are part of the solution, the corporate organization
-will usually be better at execution.
+the purpose may be all it takes. Direct governance makes for good
+causes, but when big jobs are part of the solution, the corporate
+organization will usually be better at execution.
 
 There are many large international projects that would be of tremendous
 public good, don’t align with corporate or governmental priorities or
@@ -3363,32 +3359,96 @@ genius economy. And we shouldn’t forget how we got here. The alternative
 to big oil was Americans never straying five miles from home and a large
 proportion of the population executing jobs of back-breaking manual
 labor. You want to imagine a science fiction world where we produced
-today’s energy sucking lifestyle using only beasts of burden, as we did
-before the internal combustion engine? I can’t tell you if it would be a
-good story, but I can tell you it would stink.[39]
+today’s energy intensive lifestyle using only beasts of burden, as we
+did before the internal combustion engine? I can’t tell you if it would
+be a good story, but I can tell you it would stink.[39]
 
 Big Oil shouldn’t wait for history to write her story. She should write
 it herself.
 
+## Academic Genius
+
+Okay, all you brainiacs, here’s your chance. You finally have a platform
+to directly measure how much more important writing a paper about the
+subclassification of salamander species in Northern California is than
+Beyonce’s latest song. Go ahead, give it a try.
+
+Oh, you academics don’t care about value, it’s the pursuit itself that
+is valuable. Okay, measure that.
+
+One way would be to for academics to setup Scoot for their work and
+publish it both in formal terms and as collaborative broadcast postings
+across scoot-chains. Exchange scoot with someone else of high
+reputation, a big-shot professor, gives your own work some juice. Or
+trade value investment by PPH gives your Scoot some mystery. There could
+be a custom protocol on what it takes to trade scoot one for one with
+other academics, perhaps a public critique is required, or maybe it’s
+just like scholarly chest bump. There could be an exchange of academic
+scoot in the metaverse, where academic advancement become more of a
+direct strategy game. Levels upon levels of incremental advancement, as
+you move from trading scoot for scoot with other bookworms, to respected
+professors, to members of industry and international scholars staking
+your Scoot.
+
+I think this is undiscovered country for academics and a chance for them
+to measure their real value to society. Or completely ignore it and
+stick to a property-based value system based on a hierarchy established
+over decades by people who give themselves and their friends jobs for
+life. I think academics that really believe in what they are doing will
+want to assert themselves as valuable and measure it appropriately. If
+they find that they are undervalued by society, they have a yardstick to
+measure their efforts to change that valuation.
+
+If academics really believe in what they’re doing, they’d want to put
+their wealth in academics. I’m wondering how many anti-establishment
+professors in Boulder own stock in the Fortune 500? It’s better for your
+academic karma to eat your own dog food.
+
+There’s also the work for hire aspect. Every billionaire who has read an
+Issacson biography is going to want to be a Da Vinci, Einstein or Jobs
+scoot trustee, you can actually go read all the source material and come
+up with some angle of appreciation that’s new.
+
+My approach would be to apply an engineering technique I call recursive
+integration. In digital design, each design cycle, you really need to go
+back and reevaluate all your assumptions and methodology. By improving
+your design, you’ve changed the relationship between your design and all
+the other parts of the system you interact with. When you look at your
+assumptions and methodology, you’ll find easy opportunities for further
+optimizations and integrations.
+
+Applied to academics, that’s the surest path to genius appreciation. You
+go back and really look at what those genius that came before you did
+and try to think the same thoughts they had, but with the knowledge and
+technology you have today. The digital tools we use daily to measure and
+calculate would have been absolute magic to those great geniuses just a
+hundred years before. If Einstein had a computer and learned to code,
+he’d be slinging it and bringing it.
+
+For academics, no matter what the field, looking back is the way of the
+future, it’s where all the value came from. This will be a gold rush,
+and the academics got a monopoly on the shovels. They either add to the
+appreciation or create some inspired new genius.
+
 ## Stop Reading, Lars
 
-In 2000, when Saint Fanning nearly unified the world in peace by
-blessing broke-ass twentysomethings with free music with his invention
-of the file-sharing program, Napster, he ran head-first into a brick
-wall of corporate resistance. Music labels didn’t yet understand a
-broadband digital world and were terrified of losing the $10 getting for
-their shrink-wrapped pieces of plastic property.
+In 2000, when Saint Fanning unified the world in peace by blessing
+broke-ass twentysomethings with free music with his invention of the
+file sharing program, Napster, he ran head-first into a brick wall of
+corporate resistance. Music labels didn’t yet understand a broadband
+digital world and were terrified of losing the $10 getting for their
+shrink-wrapped pieces of plastic property.
 
 It wasn’t NSYNC, Brittney Spears or Celine Dion who was chosen by the
-corporate overlords as a champion, but Lars Ulrich, the drummer of
+corporate overlords as a champion, but Lars Ulrich, the drummer for
 Metallica. Yes, the hard rocking anti-heroes of the working man who gave
 us “*Master of Puppets*” were just corporate shills. Lars was under the
 mistaken impression that the way to measure a musician’s value is by how
 much property they can by accumulate by exchanging music for property.
 
 Twenty years later, I pay Amazon $10 a month to listen to whatever I
-want, and sometimes that includes Metallica, if I’m the mood for some
-corporate rock. Lars Ulrich is still filthy rich. The music didn’t die.
+want, including Metallica, if I’m the mood for some corporate rock. Lars
+Ulrich is still filthy rich. The music didn’t die.
 
 Lars, if you’re reading this, please stop now. This next part is going
 to blow your mind.
@@ -3463,8 +3523,7 @@ today, man. I can’t keep going to all these rich scumbag’s houses, the
 way they look at you, it’s degrading, and disgusting.”
 
 “Yeah, I know,” I say, pulling out a twenty from my pocket, “I just got
-this from that rich scumbag on Carman Crest. Poor me, I feel so
-degraded.”
+this from that scumbag on Carman Crest. Poor me, I feel so degraded.”
 
 “That dude is the worst man,” Nai says, “He asked me to change his kitty
 litter last time I was up there.”
@@ -3568,7 +3627,7 @@ cook us something.”
 
 “How do you pay the girls?”
 
-“Nah, bra - just get some of these girls from the strip. We’ve had a
+“Nah, bra - just get some of these girls from the Strip. We’ve had a
 chick here for like three weeks, she makes noodles and eggs and cookies,
 she’s awesome. She even cleans and does laundry.”
 
@@ -3595,70 +3654,6 @@ Nai smiles. “You’re all right, Texas. Let me find a shirt. Natty!”
 “She left,” Lars says. “I just told you.”
 
 “Did she do the laundry?”
-
-## Academic Genius
-
-Okay, all you brainiacs, here’s your chance. You finally have a platform
-to directly measure how much more important writing a paper about the
-subclassification of salamander species in Northern California is than
-Beyonce’s latest song. Go ahead, give it a try.
-
-Oh, you academics don’t care about value, it’s the pursuit itself that
-is valuable. Okay, measure that.
-
-One way would be to for academics to setup Scoot for their work and
-publish it both in formal terms and as collaborative broadcast postings
-across scoot-chains. Exchange scoot with someone else of high
-reputation, a big-shot professor, gives your own work some juice. Or
-trade value investment by PPH gives your Scoot some mystery. There could
-be a custom protocol on what it takes to trade scoot one for one with
-other academics, perhaps a public critique is required, or maybe it’s
-just like scholarly chest bump. There could be an exchange of academic
-scoot in the metaverse, where academic advancement become more of a
-direct strategy game. Levels upon levels of incremental advancement, as
-you move from trading scoot for scoot with other bookworms, to respected
-professors, to members of industry and international scholars staking
-your Scoot.
-
-I think this is undiscovered country for academics and a chance for them
-to measure their real value to society. Or completely ignore it and
-stick to a property-based value system based on a hierarchy established
-over decades by people who give themselves and their friends jobs for
-life. I think academics that really believe in what they are doing will
-want to assert themselves as valuable and measure it appropriately. If
-they find that they are undervalued by society, they have a yardstick to
-measure their efforts to change that valuation.
-
-If academics really believe in what they’re doing, they’d want to put
-their wealth in academics. I’m wondering how many anti-establishment
-professors in Boulder own stock in the Fortune 500? It’s better for your
-academic karma to eat your own dog food.
-
-There’s also the work for hire aspect. Every billionaire who has read an
-Issacson biography is going to want to be a Da Vinci, Einstein or Jobs
-scoot trustee, you can actually go read all the source material and come
-up with some angle of appreciation that’s new.
-
-My approach would be to apply an engineering technique I call recursive
-integration. In digital design, each design cycle, you really need to go
-back and reevaluate all your assumptions and methodology. By improving
-your design, you’ve changed the relationship between your design and all
-the other parts of the system you interact with. When you look at your
-assumptions and methodology, you’ll find easy opportunities for further
-optimizations and integrations.
-
-Applied to academics, that’s the surest path to genius appreciation. You
-go back and really look at what those genius that came before you did
-and try to think the same thoughts they had, but with the knowledge and
-technology you have today. The digital tools we use daily to measure and
-calculate would have been absolute magic to those great geniuses just a
-hundred years before. If Einstein could code, think about that. He’d be
-slinging it and bringing it.
-
-For academics, no matter what the field, looking back is the way of the
-future, it’s where all the value came from. This will be a gold rush,
-and the academics got a monopoly on the shovels. They either add to the
-appreciation or create some inspired new genius.
 
 ## Open Source Everything
 
@@ -3696,12 +3691,12 @@ and you get a real market value.
 
 For Open Source it may become like a tip. Somebody likes your song, they
 make an offer on your scoot, loose change in the genius wallet, a few
-isaacs or may a Scoot of some other singer the musision should check
-out. It’s sort of like an open guitar case on the sidewalk, throwin
-something – anything – shows your appreaciation, somebody lays down a
+isaacs or may a Scoot of some other singer the musician should check
+out. It’s sort of like an open guitar case on the sidewalk, tossing
+something – anything – shows your appreciation, somebody lays down a
 quarter, somebody throws down a Grant, it’s all good. However, when
-somebody with some actual credibility throws down, things’ll change.
-Beyonce lays down a full asimov on you, it would be direcspectful to the
+somebody with some actual credibility throws down, things change.
+Beyonce lays down a full asimov on you, it would be disrespectful to the
 queen for somebody to offer less. Eventually, you set a low bid and your
 tunes get real play, eventually you stop diluting and see how that
 drives up the valuation.
@@ -3710,9 +3705,9 @@ Once that happens, then we have Drumland. A place for musicians to live
 and jam. You create Drumland as a Scoot, and it commits to drummers that
 have established some value and looks to be able create more in the
 future. You’re smart, you see that live human drummers are a vanishing
-commodity, you become like the genius economy version of a slumlord.
-Drummers won’t mind. You’ll be filthy and groovy, at least until the
-Bonzo droids take over.
+commodity, you become the genius economy version of a slumlord. Drummers
+won’t mind. You’ll be filthy and groovy, at least until the Bonzo droids
+take over.
 
 This is a leap of faith, but social media has already led the way. You
 don’t have to monetize content to create value. The appreciation of your
@@ -3724,14 +3719,14 @@ ask for tip in scoot instead of filthy-property money.
 
 I think we will see a comeback in patronage as the property rich devise
 ways to become genius rich on the cheap. Instead of Tech Incubators like
-on *Silicon Valley*, we’ll have genius incubator where commercial
+on *Silicon Valley*, we’ll have genius incubators where commercial
 potential is only one aspect considered when curating ideas. There’s a
 whole industry of staking and cross development to be developed.
 
 The concept is simple – more public value is created when idea is
 appreciated by more people. The economics must adjust to that. Giving
 away your work creates more value than selling it, and if your work is
-digital, the cost of distributing your product to is negligible.
+digital, the cost of distributing your product is negligible.
 
 # Collecting Responsibility
 
@@ -3774,9 +3769,9 @@ pilot of a Space Shuttle *Challenger* mission the year before and was
 slated to be the commander of another *Challenger* flight in the coming
 winter. At the end of the camp, our class of middle-schoolers got to
 meet Colonel Scobee. It was a big deal for a kid who had grown up in
-Space City, Texas to meet a real-life astronaut who had already been to
-space in the shuttle. I bought a postcard of an earlier *Challenger*
-launch and Colonel Scobee was gracious enough to sign it for me.
+Space City, Texas to meet an astronaut who had already been to space in
+the shuttle. I bought a postcard of an earlier *Challenger* launch and
+Colonel Scobee was gracious enough to sign it for me.
 
 On January 28, 1986 Dick Scobee, along with six fellow astronauts,
 including civilian school teacher Christa McAuliffe, were killed when
@@ -3886,7 +3881,7 @@ Rockets in the NBA bubble had kept me optimistic. What followed was the
 season from hell. They did trade *The Beard*, and in return got a star
 player on the mend they traded only two months later. There was still
 hope, the Rockets had gone on a 6-game winning streak, but then the
-Rocket’s best young player got hurt, and they went on a losing streak of
+Rockets best young player got hurt, and they went on a losing streak of
 20 games. At that point in April, I had watched the Rockets lose 37 of
 the last 43 games. For Rockets fans it was absolute hell. I’m thinking,
 hey little brother, thanks for the gift. He’d tricked me into
@@ -3936,9 +3931,9 @@ but I benefited from Nikola Tesla’s benevolence, specifically AC powered
 AC and ice-cold refrigeration. It takes a real die-hard Texan who can
 handle her heat, humidity, and humiliation raw, somebody like my mother,
 who watched every game in every one of those Astros losing seasons. The
-cover of Sport Illustrated in 2014 was satirical, at best, to the poor
-and downtrodden Astros fans in the summer of 2014. Think how it must
-have felt to the players.
+cover of Sport Illustrated was satirical, at best, to the poor and
+downtrodden Astros fans in the summer of 2014. Think how it must have
+felt to the players.
 
 Well, Dodger fans, I’m sure you know what happened next. Guess who won
 the 2017 World Series? You got that right. The Houston Astros will
@@ -3975,9 +3970,9 @@ political scandals, without ever thinking about how wealthy we really
 are. Wealth is property and it is valued because we have lost the very
 ability to value basic sustenance and security. I call it the king’s
 gold. The kings of old could not fathom the toils of the masses. Kings
-would send the poor men and their sons to die for their gold and land
-and even spices and tea. And to this day nations rich and poor will kill
-for the king’s gold. Be it gold, or oil, or land.
+would send poor men and their sons to die for their gold and land and
+even spices and tea. And to this day nations rich and poor will kill for
+the king’s gold. Be it gold, or oil, or land.
 
 Ten thousand years in the future, what will be the more valuable
 treasure? Da Vinci’s engineering drawings, Drake’s last letters,
@@ -5801,30 +5796,7 @@ that reason, I think Texas gets a reputation is a source of
 unsunstainable lifestyle, and is therefore bad in a social-economic
 sense. I don’t see it that way at all.
 
-Abraham Lincoln, the Union Armies and the abolitionists did not end
-slavery. They made slavery illegal in the United States, but in effect,
-economic hard-manual-labor slavery went on for many years both here and
-abroad.
-
-I contend that there has been no manual labor slavery[65] on an
-industrial scale in places that have either electrification or a
-fuel-supply-chain for the internal combustion engine. The exceptions
-were places where the effective cost of both supply and replacement was
-zero. Genocide, forced servitude and war victims. My point is that this
-fundamental shift in technology made the economics equation of slavery
-invalid, regardless of the ethical considerations.
-
-The reason there economic system worked even in the early steam-age was
-because of the value system we used – the king’s gold. Where all men are
-not created equal because that measure of value – was not distributed
-evenly because it was property that was scarce. First this distribution
-was enforced by fuedelism, and later by capitalism. North America, once
-freed from fuedlism, offered vast resources and oppounity, but this land
-was occupied before European powers arrived on it’s, but it doesn’t mean
-that the system was inherently unfair, just that it was able to scale up
-the resource needs of its grown and immense intake of immigrants, most
-of whom vared better in North American simply because all the good land
-was taken in Europe.
+<span class="mark">\<\<\<….\>\>\></span>
 
 What I’m getting at here is that it’s foolish to point to point fingers
 at how we got here. We have not only the accumulated knowledge of all
@@ -5876,7 +5848,7 @@ this accumulated value is within reach to every child on the planet with
 a device connected to the internet.
 
 The reason Mark Twain’s satire of *The Connecticut Yankee in King
-Arthur’s Cour*[66]*t* is so powerful and funny is because it’s a simple
+Arthur’s Cour*[65]*t* is so powerful and funny is because it’s a simple
 theme, shared by Isacc Asimov’s Foundation. We might have great
 technology and cool toys but basically, we keep repeating the same
 historical mistakes repeatedly because we believe we are somehow more
@@ -6148,7 +6120,7 @@ Canada, I’m not exactly talking forgiveness here, but a permanent cease
 fire. The truth is, I like Canada. It’s a beautiful country, the people
 are nice, and I’ve always enjoyed visitingI’ve been civil, I haven’t
 smacked down any of modern-day Canadian heroes, though it was
-challenging, as there are so many easy targets.[67]
+challenging, as there are so many easy targets.[66]
 
 Canada, I’ll make you a deal. I’ll lay off the Canadian trash-talk, all
 you got to do is send George Springer back home, we really miss him. I
@@ -6229,7 +6201,7 @@ fans of the Yankees and Dodgers.
 
 Instead, I cast the *Curse of the Asterisk*, it’s a simple one. How long
 it lasts, depends how long those fans *keep on living like they ain’t
-got no mamas*.[68]
+got no mamas*.[67]
 
 The *Curse of the Asterisk* is directed at the fans at all who feign to
 value the Dodgers and the Yankees, who booed the greatest baseball
@@ -6319,7 +6291,7 @@ all Texans.
 It is this value that gives me the moral righteous to state, genius
 belongs to humanity.
 
-Let’s say I’m at a dinner party with a bunch of fancy artsy people.[69]
+Let’s say I’m at a dinner party with a bunch of fancy artsy people.[68]
 Some rich dirtbag makes mention he’s got a Picasso hidden away at his
 ski-chalet in Aspen, and only the few other rich dirtbags invited on his
 ski trips ever get to see it. My response would be “Should I bow or
@@ -6354,7 +6326,7 @@ I can’t fathom how my folks survived childhood in Texas without
 air-conditioning, much less what a bunch of farmers and merchants in
 colonial American had to deal with. I do feel an opportunity was missed
 that was right there before their eyes. The very first amendment to our
-Bill of Rights says what we value is the freedom of speech.[70] This has
+Bill of Rights says what we value is the freedom of speech.[69] This has
 been interpreted from the beginning as freedom of expression, which is
 certainly what genius and vanity is all about. We as a people, demand
 this of our government, meaning we value it, and King George did not.
@@ -6425,7 +6397,7 @@ will be like a mashup of those two shows. That’s right, burnt up,
 alcoholic thrice divorced Canadians and American geezers driving big
 rigs in laps on a frozen lake while their sons and grandsons try to drop
 crab pots off the trailer into holes blown into the ice by the brother
-who is literally[71] riding “shotgun.” Take that for
+who is literally[70] riding “shotgun.” Take that for
 social-satirical-tragedy *Squid Games*!
 
 That’s about the risk level for the people in the caves who watch robots
@@ -6526,7 +6498,7 @@ filthy.”
 I’ll laugh and shake my head. What can I say, we were all filthy idiots,
 laughing it up in an unsustainable world.
 
-“Yo, old man, why you care about rebounding so much? My curry[72] never
+“Yo, old man, why you care about rebounding so much? My curry[71] never
 misses?”
 
 “Kid, let me tell you about the Worm. Back in the 1980s when I was a
@@ -6549,7 +6521,7 @@ kid from Texas, like you and me....”
 
 The base implementation of the protocol shall be implemented in C. This
 is to align with The Foundation’s goal of a historically coherent
-boot-strapping tool chain. This also aligns with certain individuals’
+boot-strapping toolchain. This also aligns with certain individuals’
 hesitation to learn new languages when C is all you need. We may review
 of implementations in other languages, but they will need to be ported
 to C.
@@ -6570,7 +6542,7 @@ wallet to their pledge identification (real human identification) with
 The Foundation.
 
 The Foundation should train all pledges in correct handling and
-securitization of their wallets. Since all particpants in the
+securitization of their wallets. Since all participants in the
 responsibility domain and identified to The Foundation, there will be a
 protocol to invalidate addreses if keys are lost or stolen, and
 replaced. This protocol will seek approval of all scoot trustees
@@ -6719,8 +6691,8 @@ transactions using \< 4 in the sub-unit field would be invalidated.
 
 ## Staking
 
-Initiallity, I was thinking of staking a Scoot and staking domains for
-transactions processing as separate entities. One a human process and
+Initially, I was thinking of staking a Scoot and staking domains for
+transactions processing as separate concepts. One a human process and
 the other a part of the protocol. The reality is we want to automate
 governance so I’d like to make these the same thing. Pledges – users –
 need only understand works, though the details of how the protocol
@@ -6728,16 +6700,14 @@ function should be essentially the interface to the user application.
 
 Staking a Scoot will follow a sequence almost exactly like the staking
 of The Foundation. You get people to stake your Scoot and they more
-stakers you gather, the lower your initial investiment needed with The
-Foundation, as well as impacts The Foundation’s initial valuation. How
-The Foundation makes these determinations will be public and open, but
-are subject to change at some preterminded notice which might be as
-short as hours. These are the knobs the engineer has to stabilize the
-metric and equalize the wealth ideas across regions and nationalizes.
-It’s not a veritual petition, where you get people to put their names
-down, but a investiment of value – scoot they own or asimov, into the
-initial scoot offering. How this works will be part of the humain
-training.
+stakers you gather, the lower your initial registertration fees. How The
+Foundation makes these determinations will be public and open, but are
+subject to change at some preterminded notice which might be as short as
+hours. These are the knobs the engineer has to stabilize the metric and
+equalize the wealth ideas across regions and nationalizes. It’s not a
+veritual petition, where you get people to put their names down, but a
+investiment of value – scoot they own or asimov, into the initial scoot
+offering. How this works will be part of the humain training.
 
 Well, in the protocol, we will require staking networks to process scoot
 transactions. How does a Scoot establish these networks before it
@@ -6749,19 +6719,19 @@ idea also means that you’re expected to stake the entity on the protocol
 network as well.
 
 This will mean that single staking – a billionaire implementing a Scoot
-of Property as a benefolanet dictatoriship[73] will cost quite a bit
+of Property as a benefolanet dictatoriship[72] will cost quite a bit
 more both in initial capital, but also in terms of the staking one has
 to put up for an Initial Scoot Offering (ISO). And single staking
 doesn’t earn fees. If you like this because it’s sticking it to the
 rich, right on. My motivation is ideological, the more people that are
 responsible for something, the more real value it has. It might be
-vanity – fleeting value. It might be genius – value to hold on to.
-However, if the property is truly valuable to humanity, and a
-billionaire is taking a leap of faith in this system, he’s liable to
-take a big leap up the genius wealth value. So I think it works out, for
-some billionaires, at least. One might change his title by flipping a B
-to a T like his first name and laughing his Texas ass off by serving
-those rocket-ship flying billionaires from a Food Court in orbit.
+vanity – fleeting value. It might be genius – value to hold on to. If
+the property is truly valuable to humanity, and a billionaire is taking
+a leap of faith in this system, he’s liable to take a big leap up the
+genius wealth value. So I think it works out, for some billionaires, at
+least. One might change his title by flipping a B to a T like his first
+name and laughing his Texas ass off by serving those rocket-ship flying
+billionaires from a Food Court in orbit.
 
 All that is just a distraction from the fact I have no idea how actual
 staking netorks in proof of stake systems work, but the idea is simple
@@ -6835,7 +6805,7 @@ overhead of supporting a team and the fanbase.
 First, the live venue must fill every seat, every night. That’s the best
 way to appreciation.There will be some suites and a few season ticket
 sections, but we’ll do away with corporate sales altogetiher. Scoot(84)
-works as a prime shard, and many shards operate with charecterisitics
+works as a prime shard, and many shards operate with characteristics
 that qualify them
 
 ## Getting there
@@ -6937,8 +6907,7 @@ were 12-10 against the Bulls during that time. The counter argument is
 Jordan’s six gold rings against Olajuwon‘s two, but this here narrative
 is about value of genius, not gold. Alas, they never faced each other in
 the playoffs, so it is purely speculation. I blame the Utah Jazz. There
-shall forever be a **shun** called **stockton** to represent dirty
-geniuses.
+shall forever be a shun called stockton to represent dirty geniuses.
 
 [25] Want to have this debate, let’s bet a case of Gatorade. “*Be Like
 Mike*.” Brandon drops the microphone, debate over. “*Dream, like
@@ -6948,8 +6917,7 @@ Hakeem*.” That’s genius.
 in, but I believe the only way I’d get *The Dream* to associate himself
 with this level of vanity is if we let kids come for free. In the 1990s
 when the trend was basketball sneakers that cost hundreds of dollars
-endorsed by superstars, Olajuwon had his own shoe line that sold for
-[$35 at
+endorsed by superstars, Olajuwon sold his shoes for [$35 at
 Wal-Mart](https://www.theguardian.com/sport/blog/2015/may/27/how-hakeem-olajuwon-tried-and-failed-to-stop-the-90s-sneaker-killings).
 I’m a hypothetical billionaire living the dream, so why not. It’s just
 hypothetical property money.
@@ -6986,7 +6954,7 @@ take my kickback in cash or bitcoin.
 [35] Consecrated as *The Summit* in 1994 where *The Dream* made me a
 believer.
 
-[36] Tread carefully, do not speak the name that must not be spoken.
+[36] Speaketh not, the name that must not be spoken.
 
 [37] From <https://www.tesla.com/about>
 
@@ -7091,35 +7059,32 @@ not limited by, facts.”*
 [64] The original wording wasn’t nearly so poetic, but perhaps more
 accurate.
 
-[65] This is to differentiate from other forms of human trafficking and
-forced servitude which may .
-
-[66] Twain was heavily influenced by Georgism. [Georgism (from
+[65] Twain was heavily influenced by Georgism. [Georgism (from
 Wikipedia)](https://en.wikipedia.org/wiki/Georgism): “is an economic
 ideology holding that, although people should own the value they produce
 themselves, the economic rent derived from land – including from all
 natural resources, the commons, and urban locations – should belong
 equally to all members of society.”
 
-[67] Bieber, Drake, Reynolds, that mayor dude, ….
+[66] Bieber, Drake, Reynolds, that mayor dude, ….
 
-[68] *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin
+[67] *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin
 Timberlake, Printz Board, Michael Fratantuno and George Pajon, Jr.
 
-[69] In one swift stroke, the author deftly ensures he is never invited
+[68] In one swift stroke, the author deftly ensures he is never invited
 to a dinner party with fancy artsy people.
 
-[70] The First Amendment covers freedom of religion and speech.
+[69] The First Amendment covers freedom of religion and speech.
 
-[71] Children, that’s literally the proper usage of “literally.”
+[70] Children, that’s literally the proper usage of “literally.”
 
-[72] A mid-21<sup>st</sup> century trend where basketball fans would get
+[71] A mid-21<sup>st</sup> century trend where basketball fans would get
 together and issue and ICO (Initial Clone Offering) where they would mix
 the DNA from various superstars to create NBA players. Stephan Curry’s
 DNA was present to some extent in almost every clone, so the kids had
 taken to calling them currys.
 
-[73] Or whatever marketing terminology The Foundation’s manamengent team
+[72] Or whatever marketing terminology The Foundation’s manamengent team
 wants to use, as to not to offend and nations where that is a
 legitagment form of human governance. Oe Linus. This won’t ever work if
 we have to pay for code.
