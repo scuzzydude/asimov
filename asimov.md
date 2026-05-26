@@ -2,9 +2,9 @@
 
 **a post-harden rockets cathartic**
 
-**Version 0.83**
+**Version 0.85**
 
-**ADVANCED READING COPY**
+***ADVANCED READING COPY***
 
 <img src="media/image1.png" style="width:0.33333in;height:0.33333in"
 alt="enter image description here" /> 2022 by Brandon Awbrey. This
@@ -16,6 +16,9 @@ printed or eBook form of this book, then thank you. If you paid somebody
 else, I join you in a curse.
 
 Cover Art and Illustrations ©2022 by Jack Awbrey
+
+Lyrics are reprinted by permission, copyrights listed in
+Acknowledgements.
 
 # 
 
@@ -547,9 +550,8 @@ dollar is valuable, so the dollar is valuable.
 The Foundation’s treasury are the ideas of mankind. It’s the only
 valuable treasure we have. That was Asimov’s message in *Foundation*.
 
-This treasure is more valuable than the Earth. Mankind might survive
-without the Earth. Mankind will not survive without our treasury of
-ideas.
+This treasure is more valuable than Earth. Mankind might survive without
+Earth. Mankind will not survive without our treasury of ideas.
 
 That’s the Awbrey hack. Make money out of the only thing that is truly
 valuable.
@@ -1166,7 +1168,7 @@ It would be preferable to require all Scoot be formed as a trust or
 similar legal entity. The cost of establishing a trust in the U.S. is
 about $2000 and that expense could be a way to prevent novelty scooting.
 One of the goals of The Foundation is global wealth equalization, and
-for that to work, we need to people in every country to be able to form
+for that to work, we need for people in every country to be able to form
 Scoot without hardship. We must allow individuals to manage Scoot
 directly, like a sole proprietorship, without the formality of a legal
 entity.
@@ -1249,8 +1251,8 @@ first mint price. The billionaire may then trade up to 498 scoot in the
 responsibility domain and retain possessive control of the painting.[9]
 The other 498 holders don’t benefit in any way directly. The billionaire
 can keep his painting holed away at his ski chalet, losing nothing in
-the process. He controls access the painting but has turned half of its
-value into liquid wealth.[10]
+the process. He controls access to the painting but has turned half of
+its value into liquid wealth.[10]
 
 This is zero sum, not only for the billionaire but for the scoot holders
 (scootage). What makes people appreciate art is seeing art. The
@@ -6436,9 +6438,8 @@ their transactions, and may even transact with other banished scoot, and
 use proxies to interact with the value domain.
 
 It’s important that banished scoot have full access to the protocol and
-tools. There is always the possibility that the banished behavior will
-change, or that Foundation policy would change, and the Scoot would be
-welcomed back.
+tools. There is the possibility that the behavior will change, or that
+Foundation policy would change, and the Scoot would be welcomed back.
 
 ### Continentals (7)
 
@@ -7884,6 +7885,159 @@ kid from Texas, just like us, who didn’t have much, but he had a dream
 
 *Lack of understanding, leading lives away from unity*[106]
 
+# Acknowledgements
+
+**Crazy In Love**
+
+Words and Music by Beyonce Knowles, Rich Harrison, Sean Carter and
+Eugene Record
+
+Copyright © 2003 Beyonce's Publishing, Hitco South, EMI Blackwood Music
+Inc., Carter Boys Publishing and Unichappell Music, Inc.
+
+All Rights for Beyonce's Publishing and Hitco South Administered by BMG
+Rights Management (US) LLC
+
+All Rights for EMI Blackwood Music Inc. Administered by Sony Music
+Publishing (US) LLC, 424 Church
+
+Street, Suite 1200, Nashville, TN 37219
+
+All Rights for Carter Boys Publishing Administered by WC Music Corp.
+
+All Rights Reserved Used by Permission
+
+{This song contains elements of "Are You My Woman" by Eugene Record, (c)
+1970 (Renewed) Unichappell
+
+Music, Inc.}
+
+Reprinted by permission of Hal Leonard LLC
+
+**Where Is The Love**
+
+Words and Music by Will Adams, Allan Pineda, Jaime Gomez, Justin
+Timberlake, Michael Fratantuno,
+
+George Pajon Jr., Printz Board and J. Curtis
+
+Copyright © 2003 by Universal Music - Z Tunes LLC, Tennman Tunes, Songs
+Of Universal, Inc., Printz
+
+Polar Publishing, BMG Sapphire Songs, I.Am.Composing LLC, Apl.De.Ap
+Publishing LLC,
+
+Nawasha Networks Publishing, EMI Blackwood Music Inc., El Cubano Music
+and Tuono Music
+
+All Rights for Tennman Tunes Administered by Universal Music - Z Tunes
+LLC
+
+All Rights for Printz Polar Publishing Controlled and Administered by
+Songs Of Universal, Inc.
+
+All Rights for BMG Sapphire Songs, I.Am.Composing LLC, Apl.De.Ap
+Publishing LLC and Nawasha
+
+Networks Publishing Controlled and Administered by BMG Rights Management
+(US) LLC
+
+All Rights for EMI Blackwood Music Inc., and El Cubano Music
+Administered by Sony Music Publishing
+
+(US) LLC, 424 Church Street, Suite 1200, Nashville, TN 37219
+
+International Copyright Secured All Rights Reserved
+
+Reprinted by permission of Hal Leonard LLC
+
+**American Dreamin'**
+
+Words and Music by Shawn Carter, Sean Combs, Mario Winans, Marvin Gaye,
+Arthur Ross, Leon Ware,
+
+Levar Coppin and Deleno Matthews
+
+Copyright © 2007 EMI April Music Inc., Carter Boys Music, Justin Combs
+Publishing Co., EMI Blackwood
+
+Music Inc., Janice Combs Publishing, Inc., Jobete Music Co., Inc., FCG
+Music, NMG Music, MGIII
+
+Music, Wait That's Mine Music and For My Son Publishing
+
+All Rights on behalf of EMI April Music Inc., Carter Boys Music, Justin
+Combs Publishing Co., EMI
+
+Blackwood Music Inc., Janice Combs Publishing, Inc., Jobete Music Co.,
+Inc., FCG Music, NMG
+
+Music and MGIII Music Administered by Sony Music Publishing (US) LLC,
+424 Church Street,
+
+Suite 1200, Nashville, TN 37219
+
+All Rights on behalf of Wait That's Mine Music Administered by Hipgnosis
+International
+
+All Rights on behalf of For My Son Publishing Administered by Hipgnosis
+Worldwide
+
+International Copyright Secured All Rights Reserved
+
+\- contains elements of "Soon I'll Be Loving You Again"
+
+Reprinted by permission of Hal Leonard LLC
+
+**Public Service Announcement (Interlude)**
+
+Words and Music by Shawn Carter and Raymond Levin
+
+© 2003 EMI APRIL MUSIC INC., CARTER BOYS MUSIC and EDGEWATER MUSIC, INC.
+
+All Rights for CARTER BOYS MUSIC Controlled and Administered by EMI
+APRIL MUSIC INC.
+
+All Rights Reserved International Copyright Secured Used by Permission
+
+\- contains elements of "Seed Of Love"
+
+Reprinted by permission of Hal Leonard LLC
+
+**Paradise City**
+
+Words and Music by W. Axl Rose, Slash, Izzy Stradlin', Duff McKagan and
+Steven Adler
+
+Copyright © 1987 Guns N' Roses Music (ASCAP) and Black Frog Music
+(ASCAP)
+
+All Rights for Black Frog Music in the U.S. and Canada Controlled and
+Administered by Universal –
+
+PolyGram International Publishing, Inc.
+
+International Copyright Secured All Rights Reserved
+
+Reprinted by permission of Hal Leonard LLC
+
+**Rocket Man (I Think It's Gonna Be A Long Long Time)**
+
+Words and Music by Elton John and Bernie Taupin
+
+Copyright © 1972 UNIVERSAL/DICK JAMES MUSIC LTD.
+
+Copyright Renewed
+
+All Rights in the United States and Canada Controlled and Administered
+by UNIVERSAL - SONGS OF
+
+POLYGRAM INTERNATIONAL, INC.
+
+All Rights Reserved Used by Permission
+
+Reprinted by permission of Hal Leonard LLC
+
 # F.A.Q.
 
 **Do you seriously believe that Hakeem Olajuwon is better than Michael
@@ -7912,7 +8066,7 @@ wanted to *Be Like Mike*.
 
 Today, we live in a better world. The internet has made targeted
 marketing possible. Google James Harden’s stats once in your life, and
-you’ll be forever followed across the internet with Taco Bell and Beat
+you’ll be forever followed across the internet with Taco Bell and Beats
 Headphones ads. If you google insurance rates, Chris Paul will haunt you
 like Bruce Willis. In the 21<sup>st</sup> century, children can be
 whomever they want to be, as long as whomever they want to be has a way
@@ -8125,7 +8279,7 @@ Scoot is all about.
 | 4               | Onizuka         | Ellison                                 | SOG                             |
 | 5               | Resnik          | Judith                                  | SOG                             |
 | 6               | Jarvis          | Gregory                                 | SOG                             |
-| 3               | McAuliffe       | Christa                                 | SOG                             |
+| 7               | McAuliffe       | Christa                                 | SOG                             |
 | 8               | Bonham          | John                                    | SOG                             |
 | 9               | Tesla           | Nikola                                  | PoAS - Post Agency Scoot        |
 | 10              | Leicester       | Codex                                   | SOP -Leonardo Da Vinci Notebook |
@@ -9058,11 +9212,13 @@ When Tot woke up, he was on his belly, hands and feet bound together.
 
 “I’m not food,” Tot said.
 
-> “It speaks our words,” said a girls voice, “Big Mama! Big Mama!  
-> Tot tried to turn over, but somebody kicked him in the head.
->
-> “Stop it! Stop it!”  
-> A voice he knew, Little Mama’s voice.
+“It speaks our words,” said a girls voice, “Big Mama! Big Mama!”
+
+Tot tried to turn over, but somebody kicked him in the head.
+
+“Stop it! Stop it!”
+
+A voice he knew, Little Mama’s voice.
 
 “Stay away, we claim the heart and liver,” said a man’s voice. “My third
 daughter threw the stone that downed the monster.”
@@ -9100,7 +9256,7 @@ at the bottom of the Brazos.”
 
 He took pity on her, her cleverness with the ball had allowed Big Mama
 to create the game, which had allowed him to assemble his army of tall
-warriors and rule both shores of the Brazos. Yet, she was useless, to
+warriors and rule both shores of the Brazos. Yet, she was useless, too
 small to produce tall warriors, no one wanted her around except his
 mother. When a heartbroken childless woman starts trying to adopt wild
 creatures and treat them as children, it was time to gently,
@@ -9756,7 +9912,7 @@ bluebonnet in bloom in August?”
 think of it right now, but there’s a word for it. You are into sports,
 and he told you this painting was your great treasure?”
 
-> “Sentimental?”
+“Sentimental?”
 
 “No, not sentimental,” said Joe, pondering how to explain. “Like if you
 had an entire bag of spoons, but you really needed a knife.”
@@ -9825,7 +9981,7 @@ rule book.”
 
 He pulled another tube and un-scrolled the painting. It looked a very
 basic game of football, which James had believed was derived from the
-noble British sport of rugby. He’s always believed baseball, grand
+noble British sport of rugby. He’d always believed baseball, grand
 American past time, had originated with the British as well. He said as
 much to Joe.
 
@@ -9834,7 +9990,7 @@ and made him tell their translator the rules of the three ancient sports
 of the Brazos empire people. The Tonkawa was clever, so he told them the
 rules for the two lesser sports – baseball and football, and instead of
 telling them the rules of the most noble game, he substituted the rules
-of the snake eaters game, and told them that it was the most noble game
+of the snake eater’s game, and told them that it was the most noble game
 of the Brazos people that made them great warriors that conquered the
 entire continent. As a secret part of the *Treaty of Madrid*, the
 British and Spaniards split up the rule book, the Spaniards thinking
@@ -10379,7 +10535,7 @@ he dunked the ball, despite having loved soccer growing up.
 
 “Michael,” Hakeem said. “I think James Naismith stole this from Texas.
 This is a treasure of Texas History. It’s the first duty of a Texan to
-preserve and protect Texas history. I’m going take it back with me.”
+preserve and protect Texas History. I’m going take it back with me.”
 
 Hakeem took the notebook and carefully hid it in his jacket pocket.
 
@@ -10572,8 +10728,7 @@ Congress.
 [6] And what kind of unbiased, unconflicted real expert wants to work
 for a politician?
 
-[7] *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin
-Timberlake, Printz Board, Michael Fratantuno and George Pajon, Jr.
+[7] *Where is the Love?* by Black Eyed Peas
 
 [8] [How Many Words Are in the Tax
 Code](https://taxfoundation.org/how-many-words-are-tax-code/):
@@ -10842,8 +10997,7 @@ Life expectancy is 78 years and there is a doctor for every 370 people.
 [77] This may not be factual. I’m from Texas, my mother taught me right,
 so benefit of the doubt.
 
-[78] From *Paradise City* by Slash, Axl Rose, Izzy Stradlin, Duff
-McKagan and Steven Adler
+[78] From *Paradise City* by Guns N’ Roses
 
 [79] Atomic powered, like all the gadgets in Asimov’s *Foundation*.
 
@@ -10851,8 +11005,7 @@ McKagan and Steven Adler
 
 [81] In addition, Tesla don’t rhyme with epilepsy or apl.de.
 
-[82] From *Crazy In Love*, by Rich Harrison, Beyoncé Knowles, Eugene
-Record, Shawn Carter
+[82] From *Crazy In Love*, by Beyoncé, featuring Jay-Z
 
 [83] When Jay-Z flies this bad boy back to the states, better land in
 Houston, we’ll take care of the paperwork, and I know a guy who can
@@ -10909,8 +11062,7 @@ This was perhaps the biggest challenge of all.
 [98] Mom, if he comes back, it’s on you to show George where to eat.
 Them Connecticut Yankees got sensitive tummies, what I hear.
 
-[99] *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin
-Timberlake, Printz Board, Michael Fratantuno and George Pajon, Jr.
+[99] *Where is the Love?* by Black Eyed Peas
 
 [100] With the swift stroke of a single sentence, the author deftly
 ensures he is never invited to a dinner party with fancy artsy people.
@@ -10919,7 +11071,7 @@ ensures he is never invited to a dinner party with fancy artsy people.
 
 [102] Children, that’s literally the proper usage of “literally.”
 
-[103] *Rocket Man*, 1972, Elton John and Bernie Taupin
+[103] *Rocket Man*, By Elton John
 
 [104] *American Dreamin’* by Jay-Z
 
@@ -10929,8 +11081,7 @@ they would mix the DNA from various superstars to create NBA players.
 Stephan Curry’s DNA was present to some extent in almost every clone, so
 the kids had taken to calling them currys.
 
-[106] *Where is the Love?* by will.i.am, apl.de.ap, Taboo, Justin
-Timberlake, Printz Board, Michael Fratantuno and George Pajon, Jr.
+[106] *Where is the Love?* by Black Eyed Peas.
 
 [107] Jordan had 893 blocks. Olajuwon had 3,830 blocks in his career,
 the NBA record, 541 more than the next guy on the list.
