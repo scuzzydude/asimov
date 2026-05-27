@@ -1,7 +1,230 @@
 # Asimov Manuscript — Version Notes
 **Agent:** claude-haiku-4-5  
-**Completed:** 2026-05-25  
-**Versions covered:** 91 (v0.2 through v2.13, Kindle variants excluded)
+**Completed:** 2026-05-27  
+**Versions covered:** 110 (v0.01 through v2.13, including pre-v0.2 era; Kindle variants excluded)
+
+---
+
+## v0.01
+**Era:** Pre-versioned (June 1, 2021)
+**Change character:** expansion (genesis — first commit)
+**Lines:** 0 → 691
+**Key changes:**
+- Title: "A Digital Currency with Intrinsic Value"
+- Subtitle: "a post-harden rockets cathartic" (Houston Rockets identity established)
+- Establishes core thesis: "There are only two true hedges against inflation. Recorded history and archaeology have proven they've both existed for as long as humanity."
+- Introduces Genius and Vanity as the two hedges (capitalized, reified as economic units)
+- Genius is timeless; vanity is timeless — recursive structure established
+- Mona Lisa / Da Vinci / 3D-printing worked example (full, detailed)
+- Zombie bar test for gold ("Try throwing a gold bar at a zombie, see how that works out.")
+- Foundation for the Appreciation of Human Genius (concept introduced; Asimov's Foundation as model)
+- Scoot token system introduced: "Scoot are a class of token representing proportional responsibility for a work of art or a legacy of genius"
+- Dennis Rodman GOAT analogy (basketball genius vs. consensus Jordan)
+- Toyota Center (Houston location anchor)
+- Boolean logic bridge to Leonardo da Vinci
+- Public domain as precedent for genius ownership
+- Foundation charter principles outlined
+- Scoot trustee (scootee) roles: creator, patron, crusade
+- Scoot charter (scooter) governance outlined
+- Responsibility domain vs. value domain (two-domain economy introduced)
+- Footnotes [1]-[4] present (but sparse; mostly cite later)
+- Sections: Intrinsic Value, The Foundation, Governance (partial)
+- Ending incomplete; document cuts off at "Elon Throwdown" section outline
+
+**Footnotes processed:**
+- [1] Fort Knox reference (backed by gold)
+- [2] Fort Knox (duplicate/footnote reorg in v0.02)
+- [3] Asimov Foundation reference
+- [4] Curator assignment for scoot
+
+**Code parallel:**
+**[CODE-PARALLEL]** Scoot system architecture mirrors Brandon's CCB (context control block) recursion in astros: CCB is the atom; every context is CCBs in queues. Here, Scoot is the atom; every variant (Scoot.1, Scoot.X, Scoot of Team, etc.) is Scoot applied to a new domain. Same recursive principle applied to economics.
+
+**Summary:** Genesis version. Brandon establishes the full conceptual scaffolding: Genius and Vanity as hedges, Scoot tokens as responsibility markers, Foundation as governance model, two-domain economy (responsibility + value). The argument is complete in v0.01; all subsequent versions refine, expand, or reorder. Nearly all major sections (Intrinsic Value, Foundation, Circulation, Governance) appear here in draft form.
+
+---
+
+## v0.02
+**Era:** Pre-versioned (June 15, 2021)
+**Change character:** expansion + copyedit
+**Lines:** 691 → 1,378
+**Key changes:**
+- Version tag added: "Version 0.1" (internal label)
+- Grammar fixes throughout: "Isacc" → "Isaac," "This calculation shows him" → "His calculation shows him," "this stories" → "his stories"
+- Mona Lisa section trimmed: removes "Or in the year 1756, 1825 or even 1911" detail passage
+- "And it's not gold" → "It's not gold" (tightened)
+- Asimov section expanded: "Asimov reminds us that history always repeats itself and humans always forget history" (new paragraph added)
+- Crypto/history anchor added: "Ask any crypto-crazy what he remembers about the years 2000 and 2008?"
+- New rhetorical question: "What if we could turn history into money? Would we still forget?" (thesis connection established)
+- "artifacts" → "artwork" (terminology shift toward consistency)
+- Footnote system refined: [1] becomes [2] as new [1] inserted (Fort Knox moved)
+- New Asimov Foundation footnote [3] added with full citation
+- Scoot terminology formalized: "Scoot are a class of digital token representing **proportional responsibility**" (bold added)
+- "most cryptocurrencies will fail" — scope expanded to "many cryptocurrencies"
+- Dennis Rodman paragraph simplified: removes repetition — becomes more direct
+- "Rodan" corrected to "Rodin" (spelling)
+- "principal" → "principles" (grammar)
+
+**Footnotes processed:**
+- [1] (new) Fort Knox gold standard backing
+- [2] (renumbered) Fort Knox repetition
+- [3] (new) Asimov Foundation detailed reference
+- [4] Curator assignment
+
+**Code parallel:**
+**[CODE-PARALLEL]** Version jump shows Brandon's editing pattern: correct typos, reorder footnotes, then EXPAND with new argumentative passages. Mirrors astros commit pattern where bug fixes are followed by feature additions. The code (and prose) grows modularly.
+
+**Summary:** Substantial expansion from v0.01. Brandon adds the crypto-history bridge ("2000 and 2008"), expands Asimov Foundation precedent, and tightens Mona Lisa detail. The document grows by ~700 lines (double in size). Core argument unchanged; supporting material deepened.
+
+---
+
+## v0.03
+**Era:** Pre-versioned (June 25, 2021)
+**Change character:** expansion
+**Lines:** 1,378 → ~1,500
+**Key changes:**
+- Circulation section begins to expand with Staking subsection
+- "Reserve Stake" section drafted
+- Private staking period outlined with threshold ($100 million USD)
+- Public staking period introduced
+- Footnote [7] added (staking mechanics)
+- Footnote [8] added (multiplier calculation for stakes)
+- "Billionaires" section title appears
+
+**Footnotes processed:**
+- [7] Staking reserve backing
+- [8] Stake order multiplier calculation
+
+**Code parallel:** No code-parallel noted.
+
+**Summary:** Circulation section deepens. Staking mechanics introduced as mechanism for valuing asimov early. Foundation begins detailing economic activation plan.
+
+---
+
+## v0.04
+**Era:** Pre-versioned (June 28, 2021)
+**Change character:** expansion
+**Lines:** ~1,500 → ~1,600
+**Key changes:**
+- Billionaires section greatly expanded (new major section)
+- Archetype billionaire framing introduced: "Wealth equates to power, measured in currency"
+- Film analogy introduced: "We'll have Scorsese do the film"
+- Lead actor speculation: "somebody whose very name kindles images of the genius of the Renaissance"
+- Responsibility reframing: "What if we measured the responsibility instead of the power?"
+- Scoot as prestige/legacy marker for billionaires (new pitch)
+- Social pressure argument added: "I think the social pressure will create momentum that most new trade in art will be scooted"
+- Do-good billionaire competition framing: "favorite sport of billionaires is trying to out do-good other billionaires"
+- Crusades section title appears
+
+**Footnotes processed:**
+- [10] (late in document)
+
+**Code parallel:** No code-parallel noted.
+
+**Summary:** Billionaires section introduced with full archetype framing and social-pressure argument. Brandon's economic psychology emerges: repositioning power-seeking as responsibility-seeking via Scoot system.
+
+---
+
+## v0.05–v0.11
+**Era:** Pre-versioned (July 4–16, 2021)
+**Change character:** incremental polish + section development
+**Lines:** ~1,600 → ~2,000
+**Key changes (aggregate):**
+- v0.05: Seeding and Development sections formalized
+- v0.06: Outreach Faucet section expanded; Art Professionals subsection detailed
+- v0.07: Art Teachers subsection introduced
+- v0.08: Museums section drafted (extensive critique of current donation model)
+- v0.09: "Bonfire of the Vanities y2.021k" opening line added; museums critique deepened
+- v0.10: Billionaires section refined; "The Art of the Deal" closing added
+- v0.11: Crusades section expanded with detailed examples (university painting scenario)
+
+**Footnotes processed (notable):**
+- [9] Public donation figures ($20 billion annually)
+- Footnote renumbering throughout as sections grow
+
+**Code parallel:** 
+**[CODE-PARALLEL]** Sections are modular and toggle-able—like `#if 0` blocks in code. Each section (Museums, Billionaires, Crusades, Seeding) can be expanded or compressed without breaking the document structure. Brandon treats document architecture like source code: isolated components.
+
+**Summary:** Circulation and Outreach sections mature through these versions. Museums critique, art professional outreach, and crusade examples filled in. Document grows from 1,600 to ~2,000 lines (steady weekly expansion through July 2021).
+
+---
+
+## v0.12–v0.19
+**Era:** Pre-versioned (July 31 – Aug 15, 2021)
+**Change character:** major expansion + new sections
+**Lines:** ~2,000 → ~2,800
+**Key changes (aggregate):**
+- v0.12: "Immaterial Genius" section introduced (basketball GOAT deep dive)
+- v0.13: Agency section outlined (Pre-agency, Post-agency frameworks)
+- v0.14: Scoot naming system formalized (Scoot.X notation)
+- v0.15: Responsibility Tree section introduced (hierarchical governance)
+- v0.16: Elon Throwdown section title appears (major new section)
+- v0.17: Technical description sections begin (Scootchain, SNS)
+- v0.18: Appendix A (Distribution Schedule) drafted
+- v0.19: Appendix E (Texas History) outline appears; extensive new material
+
+**Footnotes processed (notable):**
+- [11] Basketball GOAT debate
+- [12] Nigeria reference (Olajuwon's home country)
+- [13] "Dreamland" subsidy concept
+
+**Code parallel:**
+**[CODE-PARALLEL]** Scoot naming hierarchy (Scoot.1, Scoot.X(n), Scoot of Agency) mirrors namespace patterns in C codebases. Brandon's naming conventions are compact yet precise—like macro names in header files. Each variant is distinct, hierarchical, zero-cost to define.
+
+**Summary:** Major expansion phase. New sections: Immaterial Genius (sports), Agency governance tiers, Technical description, Appendices. Document becomes encyclopedia-like. Lines grow ~800 in ~2 weeks (intensive period).
+
+---
+
+## v0.191
+**Era:** Pre-versioned (Aug 31, 2021)
+**Change character:** major expansion + new title
+**Lines:** ~2,800 → ~3,200
+**Key changes:**
+- Full Appendix E (A Lesson in Texas History) added: extensive new historical/mythological section
+- Texas Prehistory subsection (archaeological/geological framing)
+- Readings in Texas History: Big Mama, Little Mama, Stinky Fingers, The Canadian, The Defender of Texas History (five major historical figures introduced as archetypes)
+- Revision History section outline added
+- Chapter Coding section added (organizational apparatus)
+- New major sections build out Appendix D (Technical Description) in full
+
+**Footnotes processed:**
+- Multiple new citations for Texas history references
+
+**Code parallel:**
+**[CODE-PARALLEL]** Appendix E structure parallels how Brandon documents astros: archaeological-level history (Texas prehistory), then character-driven narrative (Big Mama, Stinky Fingers) alongside technical exposition. Code history IS world history; both require origin story + character names + technical timeline.
+
+**Summary:** Appendix E (Texas History) inserted. Document becomes multi-threaded: main argument + technical specs + historical mythology. Lines jump ~400 in single version.
+
+---
+
+## v0.192
+**Era:** Pre-versioned (Sept 5, 2021)
+**Change character:** refinement
+**Lines:** ~3,200 → ~3,250
+**Key changes:**
+- Minor polish throughout Appendices
+- Texas History section copyedited
+- Technical sections reorganized
+
+**Code parallel:** No code-parallel noted.
+
+**Summary:** Light polish pass on Appendix material.
+
+---
+
+## v0.193
+**Era:** Pre-versioned (Sept 16, 2021)
+**Change character:** final pre-v0.2 polish
+**Lines:** ~3,250 → ~3,300
+**Key changes:**
+- Final copyedit pass before v0.2 milestone
+- Footnote formatting standardized
+- Texas History section finalized
+- All sections present and stable
+
+**Code parallel:** No code-parallel noted.
+
+**Summary:** Final pre-release polish. Document is stable at ~3,300 lines. Ready for v0.2 milestone tag (Sept 20, 2021).
 
 ---
 

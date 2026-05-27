@@ -1,7 +1,28 @@
-# Evolution: How *Asimov* Changed Across 91 Versions
+# Evolution: How *Asimov* Changed Across All Versions
 
-**Source:** v0.2 (2021) through v2.13 (2023)
+**Source:** v0.01 (June 2021) through v2.13 (November 2023)
 **Prepared by:** Opus analysis pass
+
+---
+
+## Before the Versioned Series (v0.01 → v0.193)
+
+The pre-v0.2 era is a 21-tag drafting laboratory that runs from June 2021 through September 2021. These versions tell us something the versioned series alone does not: **the thesis was complete on day one**, and **the most emotionally durable passage in the book was written first**.
+
+v0.01 (691 lines, June 1, 2021) opens with the thesis — "There are only two true hedges against inflation... Genius and Vanity" — in essentially the same words that open v2.13. The architecture is rough, but the argument has already arrived. This is unusual for a manuscript of this length; it implies that Brandon did not discover his thesis through writing. He arrived with it and spent two years finding the right structure to support it.
+
+The other revealing fact about v0.01: the *Challenger* / Colonel Dick Scobee postcard story is already there, embedded in the original "Lorenzo de' Medici -- Robert DeNiro" chapter (yes, that was the original chapter title — a comparison of Renaissance patronage with mob-movie capitalism that survives, with weakening, all the way to v2.13). The most personally durable, most quoted, most emotionally weighted passage in the entire book — the one about losing a postcard signed by an astronaut who died in the *Challenger* explosion, the one about failing in his "responsibility to keep a small piece of history alive" — was the first thing Brandon wrote about himself. Everything else is built around that.
+
+The v0.02 (1,378 lines) "maximalist draft" then expands the book to nearly twice its v0.01 size, adding new chapters (Origins, Ethical Revolution, Terminology, Bibliography, F.A.Q., Ethical Examination Questions, Appendices A/B/C). v0.03 (709 lines) cuts almost all of that back. This reverse — write everything, then prune to a working core, then re-introduce piece by piece — sets the pattern for the entire two-year project. It is the same pattern Brandon uses in his C code: implement broadly, fence off what doesn't work with `#if 0`, keep adding selectively.
+
+By v0.193 (the final pre-versioned tag, September 16, 2021), the manuscript is at 1,222 lines and has stabilized around 14 top-level sections. It is not yet the book that v0.2 will be — it is missing "A Measure of Wealth," "Guardians of the Public Domain," and the polished version-numbering scheme. But it has already lived through one full cycle of expansion, contraction, and re-expansion. The pre-v0.2 era is the book's metabolic test.
+
+What the pre-v0.2 era tells us that the versioned series does not:
+
+1. **The argument was never under construction.** Only the delivery vehicle was.
+2. **The personal anchor (Challenger postcard) was first, not last.** The book was always going to be partly a memoir; Brandon just hadn't yet given himself permission to make the rest of the personal narrative explicit.
+3. **The placeholder method is the writing method.** Brandon writes "Blah,blah,blah" as a section title (v0.01–v0.10) the way a coder writes `// TODO: implement`. The structure is committed; the body is deferred. Many of the "missing" sections in pre-v0.2 versions are placeholder TODOs, not abandoned chapters.
+4. **The Pink Floyd quote ("Money, it's a crime, share it fairly, but don't take a slice of my pie") and the original "we don't need the king but we still need his gold" framing both emerge in the v0.02 "Origins" chapter** and trace forward to v2.13 in modified form. The political philosophy of the book is fixed early; the engineering specifications follow.
 
 ---
 

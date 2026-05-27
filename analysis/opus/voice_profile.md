@@ -1,6 +1,6 @@
 # Voice Profile: Brandon Awbrey — "Write Like Brandon"
 
-**Source:** *Asimov* manuscript, v0.2–v2.13 (91 tagged versions)
+**Source:** *Asimov* manuscript, v0.01–v2.13 (~110 tagged versions; v2.13 is primary)
 **Prepared by:** Opus analysis pass
 
 ---
@@ -86,6 +86,22 @@ The architecture mirrors his C coding style: brief function signatures followed 
 26. **"Hallowed Grounds of Lakewood Church in Houston, Texas"** — his signature move: applying the most reverent language to the most irreverent subject. Houston is always treated with the vocabulary of the sacred.
 
 27. **"Scootage"** — his portmanteau for the community of scoot holders. Invented terminology handled with full confidence.
+
+28. **"the King's gold"** — the single most-quoted phrase of the manuscript. Stand-in for property-based wealth in all its inherited, hierarchical, unjust forms. "We said to the king, 'We don't need you,' but 'We still need your gold.'" Used dozens of times across versions; its consistency is a bigger constant than any individual analogy.
+
+29. **"property"** as antonym to "responsibility" — Brandon's specific contrast, not a casual coinage. Property is what someone owns and can sell; responsibility is what someone has accepted and cannot abandon. Scoot is responsibility. Asimov is the value of all responsibilities. Every chapter eventually returns to this binary.
+
+30. **"y'all"** as plural-second-person address — distinct from #7 above, which is the rhetorical form. Brandon uses "y'all" both in dialogue (regional voice) and in directly-addressed manifesto sentences ("Scoot is money, y'all"). The shift from second-person-singular to "y'all" inside a chapter is itself a register signal: the lecture has become a sermon.
+
+31. **"filthy"** — applied to wealth in the rap-and-rock sense. Lars Ulrich is "filthy rich"; Jay-Z is "just filthy wealthy." The word is precise: Brandon does not use "filthy" pejoratively but as a technical term for ostentatious property-wealth that has crossed from comfort into vanity. Used consistently from v0.02 forward.
+
+32. **"karma"** — Brandon treats karma as a measurable, observable physical force. Not metaphorical. Sports karma, karmic justice, karmic three-peat — the karma footnotes are timestamped because karma is empirically verifiable.
+
+33. **"Crap"** (capitalized, mid-sentence) — Brandon's most consistent intensifier. "Crap, what do we do?" The capitalization is intentional; it's a register marker that this is internal dialogue, not narration.
+
+34. **"compaq"** / **"HP"** / **"vendor"** — when Brandon writes about engineering as a career rather than as a metaphor, these specific Houston-area employer names appear. They locate him in time and place.
+
+35. **"the Mule"** — Asimov reference deployed seriously. The Mule is the wildcard in psychohistory; Brandon names contemporary candidates for the role (Musk, Bezos, Satoshi). Not decorative — operationally diagnostic.
 
 ---
 
